@@ -1,0 +1,23 @@
+Giải thích: 
+- Không tìm thấy các từ khóa như "hầm xe", "nơi để xe", "nhà xe", ... nên kết luận False cho "Chổ để ô tô"; 
+- Có từ khóa "đang cho thuê 40 triệu/tháng" nên kết luận True cho "Cho thuê";
+- Có từ khóa "chợ", "kinh doanh sầm uất" nên kết luận True cho "Cơ sở vật chất xung quanh";
+- Không đề cập nên trả về False cho "Vấn đề pháp lý";
+- Có đề cập 4 tầng nên trả về 4 phòng ngủ;
+- Không đề cập phòng wc;
+
+Giải thích:
+- Không đề cập đến chỗ để ô tô. Nên kết luận False cho "Chỗ để ô tô";
+- Có từ khóa "dòng tiền 15 triệu/tháng" nên kết luận True cho "Đang cho thuê";
+- Có "Gần BV Gia Định, UBND quận, công an phường; tiện ích đầy đủ" nên trả về True cho "Cơ sở vật chất xung quanh"
+- Có "sổ hồng chính chủ" nên kết luận False cho "Vấn đề pháp lý";
+- Có "3PN" nên trả về 3 cho "Số phòng ngủ";
+- Có "3WC" nên trả về 3 cho "Số phòng wc";
+
+Giải thích: 
+- Không có các từ khóa như "hầm xe", "nơi để xe", "nhà xe", ... nên kết luận False cho "Chổ để ô tô"; 
+- Có các từ khóa "cho thuê", "hợp đồng cho thuê",... nên kết luận False cho "Cho thuê";
+- Trong mô tả đề cập "gần khu dân cư, trường đại học các cấp" nên kết luận True cho "Cơ sở vật chất xung quanh";
+- Trong mô tả đề cập "pháp lý đầy đủ, hoàn công đủ" nên kết luận False cho "Vấn đề pháp lý";
+- Trong mô tả không đề cập phòng ngủ;
+- Trong mô tả không đề cập phòng wc;

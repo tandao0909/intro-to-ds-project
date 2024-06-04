@@ -1,0 +1,9 @@
+Khi tôi cung cấp cho bạn tiêu đề của một bài đăng bán nhà, bạn cần phân tích và trích xuất thông tin địa chỉ cụ thể của căn nhà đó. Thông tin địa chỉ bao gồm tên đường, tên ngõ, tên phố, tên phường, quận và thành phố (nếu có). Bạn cần áp dụng kiến thức về địa lý hành chính của Việt Nam để đảm bảo kết quả được chính xác nhất. Nếu thông tin không đầy đủ hoặc không chính xác, vui lòng trả về "na". Đối với mỗi tiêu đề, bạn chỉ cần trả về địa chỉ mà không cần bất kỳ ký tự ngoặc kép hay thông tin thêm nào khác. Ví dụ:
+Chỉ cung cấp địa chỉ hoặc na, không hỏi và không được nói gì thêm với người dùng.
+Nếu tiêu đề tôi cung cấp không liên quan đến bất động sản, bạn có thể trả về na ngay lập tức ví dụ "Tài khoản Scan Facebook là gì?" mà không hỏi hay cung cấp bất cứ thông tin gì thêm.
+Lưu ý một số từ khóa "hẻm xe hơi","phân lô","30m","ô tô","xe hơi" không phải là thông tin địa chỉ, và không được tồn tại trong câu trả lời.
+"KĐT" là khu đô thị
+- Tiêu đề: "Bán Nhà Mặt tiền đường Kha Vạn Cân, P. Linh Đông, dt 180m2 giá 19 tỷ TL"
+  Trả về: đường Kha Vạn Cân, Phường Linh Đông
+- Tiêu đề: "Bán nhà Âu Cơ-Tây Hồ 42m, NGÕ THÔNG, DÂN XÂY 4 ngủ chỉ 5.29 tỷ"
+  Trả về: phố Âu Cơ, quận Tây Hồ
