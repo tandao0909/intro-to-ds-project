@@ -14,14 +14,14 @@ token = "esecret_6crjtwnbanh5wzlt1fcehx2cfl"
 
 
 # Đọc prompt từ file prompt.txt
-with open("features_prompt.txt", "r", encoding="utf-8") as f:
+with open("features_prompt_copy.txt", "r", encoding="utf-8") as f:
     features_prompt = f.read()
 
 with open("title_prompt.txt", "r", encoding="utf-8") as f:
     title_prompt = f.read()
 
 # Lấy ra kết quả từ model
-def extract_features(description, token = token):
+def extract_features(description, title, token = token):
     body = {
         "model": feature_model,
         "messages": [
@@ -31,7 +31,7 @@ def extract_features(description, token = token):
             },
             {
             "role": "user",
-            "content": description
+            "content": "Mô tả" + description + "\nTiêu đề: " + title
             }
         ],
         "temperature": 1,
@@ -76,16 +76,17 @@ def extract_title(title, token = token):
         all_content = resp.json()["choices"][0]["message"]["content"]
         # ans = resp.json()
 
-        return ans, all_content
+        return all_content
 
 
 if __name__ == "__main__":
-    print(extract_features("""Mô tả:
-+ Thông số cực đẹp 5 x 30m (150m2)
-+ Nhà cấp 4, 2PN, toilet, phòng khách, bếp, sân sau trồng cây.
-+ Nhà gần sát Mặt tiền, hẻm nhựa xe hơi tránh.
-+ Khu vực tập trung nhiều Khu dân cư, các Dự án lớn, thu hút đông đảo các Nhà Đầu Tư lớn, Huyện Nhà Bè hướng đến mục tiêu trở thành Thành phố trực thuộc TP.Hồ Chí Minh.
-+ Giá chưa tới 30tr/m2 bao đầu tư.
-+ Sổ đang vay bank 2.2 tỷ, pháp lý chuẩn, chủ cần bán gấp.
-Thiện chí alo em Hiền gặp chính chủ thương lượng, miễn trung gian.
-"""))
+    dsr = """
+Bán nhà HXH Âu Cơ Phường 9 Tân Bình, 51m2 3 Tầng, giá 5 tỷ nhỉnh
++ DT 51m2 cực to cứng nhất khu
++ Kết cấu: 3 Tầng đẹp nhứt nách
++ Hẻm xe hơi mát mẻ an ninh
++ Sổ đẹp hoàn công đủ
++ Hẻm Âu Cơ thông Trần Văn Quang tiện di chuyển đường Bàu Cát, đường Ni Sư Huỳnh Liên, đường Hồng Lạc, Đường Lạc Long Quân, 1 phút ra chợ vải Tân Bình, 5 phút đi qua cư xá Lữ Gia, cư xá Bắc Hải, Quận 10, Quận 1.
+    """
+    title = "Tiêu đề: Bán nhà HXH Âu Cơ Phường 9 Tân Bình, 51m2 3 Tầng, giá 5 tỷ nhỉnh"
+    print(extract_features(dsr, title))

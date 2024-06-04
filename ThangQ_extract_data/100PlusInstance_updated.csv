@@ -1,4 +1,4 @@
-Title	Price	Links	Diện tích (m2)	Số phòng ngủ	Số phòng WC	Location	Description	Chỗ để xe hơi	Đang cho thuê	CSVC xung quanh	Vấn đề pháp lý
+Title	Price	Links	Diện tích (m2)	Số phòng ngủ	Số phòng WC	Location	Description	Chỗ để xe hơi	Đang cho thuê	CSVC xung quanh	Vấn đề pháp lý, sổ đỏ	ExtractedTitle
 Chưa tới 30tr/m2 - Hàng ngộp bank BAO ĐẦU TƯ - HẠ CHÀO 1.1 TỶ	"Giá bán
 Dưới 500 triệu
 Từ 500 - 800 triệu
@@ -17,34 +17,34 @@ Trên 30 tỷ"	https://batdongsan.vn/chua-toi-30trm2-hang-ngop-bank-bao-dau-tu-h
 + Khu vực tập trung nhiều Khu dân cư, các Dự án lớn, thu hút đông đảo các Nhà Đầu Tư lớn, Huyện Nhà Bè hướng đến mục tiêu trở thành Thành phố trực thuộc TP.Hồ Chí Minh.
 + Giá chưa tới 30tr/m2 bao đầu tư.
 + Sổ đang vay bank 2.2 tỷ, pháp lý chuẩn, chủ cần bán gấp.
-☎️ Thiện chí alo em Hiền gặp chính chủ thương lượng, miễn trung gian."	False	True	True	True
+☎️ Thiện chí alo em Hiền gặp chính chủ thương lượng, miễn trung gian."	True	True	True	True	na
 Bán nhà HXH Âu Cơ Phường 9 Tân Bình, 51m2 3 Tầng, giá 5 tỷ nhỉnh	3899000000 tỷ	https://batdongsan.vn/ban-nha-hxh-au-co-phuong-9-tan-binh-51m2-3-tang-gia-5-ty-nhinh-r285163	51	3.0	0.0		"Bán nhà HXH Âu Cơ Phường 9 Tân Bình, 51m2 3 Tầng, giá 5 tỷ nhỉnh
 + DT 51m2 cực to cứng nhất khu
 + Kết cấu: 3 Tầng đẹp nhứt nách
 + Hẻm xe hơi mát mẻ an ninh
 + Sổ đẹp hoàn công đủ
-+ Hẻm Âu Cơ thông Trần Văn Quang tiện di chuyển đường Bàu Cát, đường Ni Sư Huỳnh Liên, đường Hồng Lạc, Đường Lạc Long Quân, 1 phút ra chợ vải Tân Bình, 5 phút đi qua cư xá Lữ Gia, cư xá Bắc Hải, Quận 10, Quận 1."	False	False	True	False
++ Hẻm Âu Cơ thông Trần Văn Quang tiện di chuyển đường Bàu Cát, đường Ni Sư Huỳnh Liên, đường Hồng Lạc, Đường Lạc Long Quân, 1 phút ra chợ vải Tân Bình, 5 phút đi qua cư xá Lữ Gia, cư xá Bắc Hải, Quận 10, Quận 1."	False	True	True	False	đường Âu Cơ, Phường 9, Quận Tân Bình
 SÁT MẶT TIỀN PHAN ĐĂNG LƯU, PHƯỜNG 7, PHÚ NHUẬN, 2 TẦNG BTCT, 45M2, 4.x TỶ	5.5 tỷ	https://batdongsan.vn/sat-mat-tien-phan-dang-luu-phuong-7-phu-nhuan-2-tang-btct-45m2-4x-ty-r285162	45	2.0	2.0		"- Kết cấu: 1 trệt 1 lầu BTCT; 2 PN, 2 WC. Phòng khách, bếp, ban công bao rộng
 - Đường đi sạch sẽ, an ninh, yên tĩnh. Khu vực Phan Xích Long, Phan Đăng Lưu
 - Gần CoopMart, BV Hoàn Mỹ, phố ẩm thực, công an phường
-- Sổ hồng chính chủ, hoàn công đủ, pháp lý chuẩn, công chứng mua bán ngay"	False	True	True	False
-CHỦ GẤP BÁN TRƯỚC TẾT LÊ HỒNG PHONG QUẬN 5 RA MẶT TIỀN ĐƯỜNG 15M	4.6 tỷ	https://batdongsan.vn/chu-gap-ban-truoc-tet-le-hong-phong-quan-5-ra-mat-tien-duong-15m-r285161	41	0.0	0.0	('10.7559877', '106.6785237')	"Mô tả:
+- Sổ hồng chính chủ, hoàn công đủ, pháp lý chuẩn, công chứng mua bán ngay"	False	True	True	False	Phan Đăng Lưu, Phường 7, Quận Phú Nhuận
+CHỦ GẤP BÁN TRƯỚC TẾT LÊ HỒNG PHONG QUẬN 5 RA MẶT TIỀN ĐƯỜNG 15M	4.6 tỷ	https://batdongsan.vn/chu-gap-ban-truoc-tet-le-hong-phong-quan-5-ra-mat-tien-duong-15m-r285161	41	2.0	0.0	('10.7559877', '106.6785237')	"Mô tả:
 - Diện tích công nhận 41m, thực tế 66m ngang 3.3m.
 - Kết cấu 2 tầng thông sàn, đang cho thuê 15tr/tháng.
 - Vị trí trung tâm Quận 5, sát Quận 1, Quận 10.
-- Pháp lý sạch sẽ sẽ, sổ vuông vức, hoàn công đủ, công chứng ngay."	False	True	True	False
+- Pháp lý sạch sẽ sẽ, sổ vuông vức, hoàn công đủ, công chứng ngay."	True	True	True	False	đường Lê Hồng Phong, Quận 5
 LŨY BÁN BÍCH,TÂN PHÚ-DIỆN TÍCH KHỦNG 96M2 ( 4.3*22.5M)???? CHỈ 5TỶX	7.35 tỷ	https://batdongsan.vn/luy-ban-bichtan-phu-dien-tich-khung-96m2-43225m-chi-5tyx-r285159	96	2.0	1.0		"- Diện tích 96m2 ngang 4.3m dài 22.5m .
 - sổ vuông vức, thuận tiện xây mới, phù hợp xay dựng căn hộ dịch vụ với doanh thu cao vì gần khu dân cư, trường đại học các cấp...
 - Kết cấu nhà 1 trệt, 1 lửng thông suốt , đang làm kho chứa vải
 - Vị tri cách mặt tiền chỉ 30m, hẻm rộng sạch sẽ, xe tải nhỏ vào được
 - Pháp lý rõ ràng, hoàn công đủ , công chứng ngay .
-☎️ Lh: 0898992121 TRANG để xem nhà trực tiếp"	False	True	False	False
+☎️ Lh: 0898992121 TRANG để xem nhà trực tiếp"	False	False	False	False	Lũy Bãn Bích, Quận Tân Phú
 Bán nhà trong ngõ Lê Trọng Tấn, TK hiện đại, 40mx4t, giá 3.95 tỷ	Thỏa thuận	https://batdongsan.vn/ban-nha-trong-ngo-le-trong-tan-tk-hien-dai-40mx4t-gia-395-ty-r285158	40	4.0	3.0	('20.9638211', '105.7668048')	"- Vị trí khu vực trung tâm phường La Khê- Hà Đông, chỉ hơn 90m là ra phố Lê Trọng Tấn, từ đây có thể kết nối đi lại với tất cả các vùng miền trên cả nước, tiện ích đô thị không thiếu thứ gì.
 - Căn nhà mới đẹp, hiện đại, xây dựng tỉ mỉ, khung cột chắc chắn gồm 4 phòng ngủ đẹp, phòng khách-bếp, wc…
-- Các bạn có nhu cầu sở hữu căn nhà đẹp, liên hệ SĐT 0945936168"	False	False	True	False
+- Các bạn có nhu cầu sở hữu căn nhà đẹp, liên hệ SĐT 0945936168"	False	False	True	False	ngõ Lê Trọng Tấn, phường La Khê, Hà Đông
 Bán nhà trong ngõ Lê Trọng Tấn, TK hiện đại, 40mx4t, giá 3.95 tỷ	3.95 tỷ	https://batdongsan.vn/ban-nha-trong-ngo-le-trong-tan-tk-hien-dai-40mx4t-gia-395-ty-r285157	40	4.0	3.0	('20.9638211', '105.7668048')	"- Vị trí khu vực trung tâm phường La Khê- Hà Đông, chỉ hơn 90m là ra phố Lê Trọng Tấn, từ đây có thể kết nối đi lại với tất cả các vùng miền trên cả nước, tiện ích đô thị không thiếu thứ gì.
 - Căn nhà mới đẹp, hiện đại, xây dựng tỉ mỉ, khung cột chắc chắn gồm 4 phòng ngủ đẹp, phòng khách-bếp, wc…
-- Các bạn có nhu cầu sở hữu căn nhà đẹp, liên hệ SĐT 0945936168"	False	False	True	False
+- Các bạn có nhu cầu sở hữu căn nhà đẹp, liên hệ SĐT 0945936168"	False	False	True	False	ngõ Lê Trọng Tấn, phường La Khê, Hà Đông
 BÁN NHÀ PHỐ HOÀNG VĂN THÁI 59M - MT 3.6M - NGÕ THÔNG Ô TÔ - 30M Ô TÔ TRÁNH - 4 NGỦ Ở NGAY. LH: 0393838449	3.95 tỷ	https://batdongsan.vn/ban-nha-pho-hoang-van-thai-59m-mt-36m-ngo-thong-o-to-30m-o-to-tranh-4-ngu-o-ngay-lh-0393838449-r285155	59	4.0	0.0		"+ Chủ nhà cần bán gấp nhà phố Hoàng Văn Thái -tt quận Thanh Xuân 59m - ô tô ngõ thông - 30 mét ra ô tô tránh - 4 ngủ ở ngay không sửa chữa.
 
 + Trung tâm quận Thanh Xuân gần các tuyến phố lớn: Trường Chinh, Vương Thừa Vũ, Lê Trọng Tấn, Tôn Thất Tùng, Nguyễn Trãi, Tây Sơn vài bước ra Trung Tâm Royal City.
@@ -61,14 +61,14 @@ BÁN NHÀ PHỐ HOÀNG VĂN THÁI 59M - MT 3.6M - NGÕ THÔNG Ô TÔ - 30M Ô T�
 Liên hệ: Mr. Thái Sơn chuyên nhà đẹp Thanh Xuân-Đống Đa
 Để được xem nhà và tư vấn miễn phí 24/7
 
-Gọi ngay: 0393838449 (Zalo)"	False	False	True	False
+Gọi ngay: 0393838449 (Zalo)"	False	True	True	False	Hoàng Văn Thái, Quận Thanh Xuân
 ✅ BÁN NHÀ MỚI ĐẸP 7 X 13, CHỈ 3.5 TỶ, HẺM XE HƠI. CHỐT	7.95 tỷ	https://batdongsan.vn/ban-nha-moi-dep-7-x-13-chi-35-ty-hem-xe-hoi-chot-r285145	na	3.0	3.0		"✅ BÁN NHÀ MỚI ĐẸP 7 X 13, CHỈ 3.5 TỶ, HẺM XE HƠI. CHỐT
 ✅ 7 x 13, 1 trệt 2 lầu, hoàn công đầu đủ, 3 phòng ngủ.
 ????????Hẻm xe hơi, khu dân yên tĩnh, hàng xóm thân thiện.
 ????Vị trí khá Vị trí, đường số 9, nằm giữa Ql1k và đường số 11, đi lại khắp nơi.
 ✅Gần trung tâm thương mại, chợ Linh Xuân.
 Sổ ở nhà, mang khách qua là chốt.
-☎️ 0338947066"	True	False	True	False
+☎️ 0338947066"	False	True	True	False	đường số 9, quý Menschen
 SIÊU PHẨM Chào bán căn Biệt Thự mặt đường Lê Hồng Phong, Hải Phòng. Vị trí đẹp	Thỏa thuận	https://batdongsan.vn/sieu-pham-chao-ban-can-biet-thu-mat-duong-le-hong-phong-hai-phong-vi-tri-dep-r285144	425	6.0	6.0	('20.8447084', '106.7087239')	"SIÊU PHẨM Chào bán căn Biệt Thự mặt đường Lê Hồng Phong, Hải Phòng.
 LH Mrs Tâm: 0796-336-866
 Diện tích: 425m2; MT: 17m
@@ -76,14 +76,14 @@ Siêu biệt thự 6 tầng nằm trên tuyến trung tâm gần Lạc Hồng, k
 ⛳️ Đường trước nhà 60m.
 Sổ đỏ chói lọi
 Giá: 130 tỷ ( Có thỏa thuận )
-Chi tiết LH Mrs Tâm: 0796-336-866 CDT Group Sàn Bán Nhà Hải Phòng."	True	True	True	False
-Bán Nhà Mặt tiền đường Kha Vạn Cân, P. Linh Đông, dt 180m2 giá 19 tỷ TL	17 tỷ	https://batdongsan.vn/ban-nha-mat-tien-duong-kha-van-can-p-linh-dong-dt-180m2-gia-19-ty-tl-r285142	180	0.0	0.0	('10.8418802', '106.7468692')	"Bán Nhà Mặt tiền đường Kha Vạn Cân, P. Linh Đông, dt 180m2 giá 19 tỷ TL
+Chi tiết LH Mrs Tâm: 0796-336-866 CDT Group Sàn Bán Nhà Hải Phòng."	True	True	True	False	đường Lê Hồng Phong, Hải Phòng
+Bán Nhà Mặt tiền đường Kha Vạn Cân, P. Linh Đông, dt 180m2 giá 19 tỷ TL	17 tỷ	https://batdongsan.vn/ban-nha-mat-tien-duong-kha-van-can-p-linh-dong-dt-180m2-gia-19-ty-tl-r285142	180	4.0	0.0	('10.8418802', '106.7468692')	"Bán Nhà Mặt tiền đường Kha Vạn Cân, P. Linh Đông, dt 180m2 giá 19 tỷ TL
 - Vị trí sát đường Phạm Văn Đồng, chợ Thủ Đức, con đường kinh doanh sầm uất, đa ngành nghề.
 - Vị trí Đẹp Thuận Tiện Xây Toà Nhà Vp, Cty, Chdv Cao Cấp, Ngay Trường Cao Đẳng Vinatex, dễ dàng di chuyển các hướng........
 - Diện tích: 180m2 ( 6,3m x 28,5m ) Thổ cư 100%
 - Giá bán : 19 tỷ ( thương lượng )
 - Hiện tại chủ Đang Cho thuê 40triệu/tháng
-Liên Hệ Em Long 0898 408 677 để được xem và mua nhanh nhất!! Mong tiếp khách thiện chí"	False	True	True	False
+Liên Hệ Em Long 0898 408 677 để được xem và mua nhanh nhất!! Mong tiếp khách thiện chí"	False	True	True	False	đường Kha Vạn Cân, Phường Linh Đông
 Bán nhà Âu Cơ-Tây Hồ 42m, NGÕ THÔNG, DÂN XÂY 4 ngủ chỉ 5.29 tỷ	19 tỷ	https://batdongsan.vn/ban-nha-au-co-tay-ho-42m-ngo-thong-dan-xay-4-ngu-chi-529-ty-r285138	42	4.0	3.0		"Bán nhà Âu Cơ-Tây Hồ 42m, NGÕ THÔNG, DÂN XÂY 4 ngủ chỉ 5.29 tỷ
 + Em cần bán căn nhà phố Âu Cơ, phường Tứ Liên, quận Tây Hồ với diện tích 42m.
 + Nhà xây 4 tầng, cầu thang giữa mỗi tầng có 2 phòng, vệ sinh. Tổng có 4 phòng ngủ. Tầng 4 là phòng thời, khu giặt giũ, sân phơi.
@@ -91,8 +91,8 @@ Bán nhà Âu Cơ-Tây Hồ 42m, NGÕ THÔNG, DÂN XÂY 4 ngủ chỉ 5.29 tỷ	
 + Khu vực đầy đủ tiện ích, gần chợ, trường học, phố Tứ Liên to đẹp, phố Âu Cơ đang trong quá trình hoàn thiện. Khu vực không khí lúc nào cũng ôn hòa do nằm giữa sông Hồng và hồ Tây.
 + Giao thông thuận lợi, ngõ thông, 3 gác. Từ nhà di chuyển đi các hướng đều vô cùng thuận lợi.
 + Sổ đỏ chính chủ, sẵn sàng giao dịch.
-+ Liên hệ em Ánh thổ cư 0865775442 để xem nhà và làm việc trực tiếp với chủ."	False	False	True	False
-Bán nhà phố Đào Tấn, Ba Đình, gần phố, ở ngay 6 tầng 39m2 giá 8.6 tỷ	5.29 tỷ	https://batdongsan.vn/ban-nha-pho-dao-tan-ba-dinh-gan-pho-o-ngay-6-tang-39m2-gia-86-ty-r285137	39	5.0	5.0		"CÁCH 1 NHÀ RA MẶT PHỐ ĐÀO TẤN, PHỐ VIP NHẤT BA ĐÌNH.
++ Liên hệ em Ánh thổ cư 0865775442 để xem nhà và làm việc trực tiếp với chủ."	False	False	True	False	đường Âu Cơ, Phường Tứ Liên, Quận Tây Hồ
+Bán nhà phố Đào Tấn, Ba Đình, gần phố, ở ngay 6 tầng 39m2 giá 8.6 tỷ	5.29 tỷ	https://batdongsan.vn/ban-nha-pho-dao-tan-ba-dinh-gan-pho-o-ngay-6-tang-39m2-gia-86-ty-r285137	39	4.0	5.0		"CÁCH 1 NHÀ RA MẶT PHỐ ĐÀO TẤN, PHỐ VIP NHẤT BA ĐÌNH.
 - Vị trí nằm cách mặt phố 1 nhà, lõi Ba Đình, tiện ích ngập tràn, tuyến phố đẹp nhất Quận, vài bước chân ra Lotte, khách sạn Daewoo. Khu vực tập trung rất nhiều người Hàn Quốc, Nhật Bản sinh sống và làm việc.
 - Gần Trường tiểu học Nguyễn Bá Ngọc, THCS Hoàng Diệu, THPT Thực Nghiệm. Giao thông vô cùng thuận tiện, đi vào Trung tâm thành phố hay ra sân bay đều rất dễ dàng.
 - Nhà dân xây khung cột rất chắc chắn, có đầy đủ hồ sơ kỹ thuật điện nước, xây dựng, hoàn công.
@@ -100,32 +100,32 @@ Bán nhà phố Đào Tấn, Ba Đình, gần phố, ở ngay 6 tầng 39m2 giá
 + Tầng 1: Phòng khách, bếp, WC.
 + Tầng 2,3,4,5: Mỗi tầng 1 phòng rộng đẹp, WC khép kín.
 + Tầng 6: Sân phơi, trồng cây cảnh.
-- Sổ đỏ vuông đẹp, giao dịch ngay."	False	False	True	False
+- Sổ đỏ vuông đẹp, giao dịch ngay."	False	False	True	False	đường Đào Tấn, Phường Ba Đình
 Trương Đức Toàn	8.6 tỷ	https://batdongsan.vn/truong-duc-toan-r285135	80	15.0	8.0	('10.7763897', '106.7011391')	"+-QUẬN 11- MẶT TIỀN 3/2, KINH DOANH SẦM UẤT- KHU VỰC VIP, GIÁ RẺ.
 -NHÀ RỘNG 4X20M 1 HẦM 5 TẦNG, TẦNG THƯỢNG. CÓ 15 PHÒNG . PHÙ HỢP LÀM CĂN HỘ DỊCH VỤ HOẶC CÔNG TY KINH DOANH.
 ✅ Chỉ 21 t.y 68 TLcc. Pháp lý chuẩn.
 ☎️Zalo.0938059388.Nha Phố SG.
 #nhaphosaigon,#quan11,#Đường 3-2, #mattien,#kinhdoanh, #tphcm.
 -Vị trí TT Quận 11, Trục Đường 3/2, MTKD đỉnh, Cho thuê thu nhập 100tr.th.
-+ Pháp lý đầy đủ, sổ tại gia, công chứng ngay."	False	True	True	False
++ Pháp lý đầy đủ, sổ tại gia, công chứng ngay."	False	True	True	False	Đường 3-2, Quận 11
 Nhà 6 Tầng, Hộ Khẩu Cầu Giấy, Ô Tô Đỗ Cửa, Ngõ Thông	21.8 tỷ	https://batdongsan.vn/nha-6-tang-ho-khau-cau-giay-o-to-do-cua-ngo-thong-r285134	40	6.0	4.0		"Nhà 6 Tầng, Hộ Khẩu Cầu Giấy, Ô Tô Đỗ Cửa, Ngõ Thông
 Thiết kế đầy đủ công năng, 6 tầng, mỗi tầng 1 phòng khép kín
 DT 40m2, MT 4.2m, ô tô đỗ cửa, ngõ thông
 Sổ đỏ chính chủ, nở hậu – Giá 5.95 tỷ (Có thương lượng)
-Liên hệ: 0825.420.555"	True	False	True	False
+Liên hệ: 0825.420.555"	False	False	True	False	Hộ Khẩu Cầu Giấy
 SÁT MẶT TIỀN BẠCH ĐẰNG, PHƯỜNG 14, BÌNH THẠNH, 3 TẦNG BTCT, 33M2, 4.x TỶ	5.95 tỷ	https://batdongsan.vn/sat-mat-tien-bach-dang-phuong-14-binh-thanh-3-tang-btct-33m2-4x-ty-r285129	33	3.0	3.0		"- Hiện có dòng tiền 15 triệu/tháng
 - Kết cấu: 1 trệt 2 lầu BTCT; 3 PN, 3 WC
 - Đường đi an ninh, sạch sẽ. Khu vực Bạch Đằng, Lê Quang Định, chợ Bà Chiểu
 - Gần BV Gia Định, UBND quận, công an phường; tiện ích đầy đủ
-- Sổ hồng chính chủ, hoàn công đủ, pháp lý chuẩn, công chứng mua bán ngay"	False	True	True	False
-Phân lô ô tô tránh Hà Đông, dân trí cao, an ninh tốt, 54m2, 6.9 tỷ	4 tỷ	https://batdongsan.vn/phan-lo-o-to-tranh-ha-dong-dan-tri-cao-an-ninh-tot-54m2-69-ty-r285128	54	0.0	0.0	('20.9687843', '105.7815336')	"+ Nhà nằm ngay gần mặt phố Bà Triệu, khu phân lô ô tô tránh, dân trí cao, an ninh cực tốt.
+- Sổ hồng chính chủ, hoàn công đủ, pháp lý chuẩn, công chứng mua bán ngay"	True	True	True	False	Bạch Đằng, Phường 14, Quận Bình Thạnh
+Phân lô ô tô tránh Hà Đông, dân trí cao, an ninh tốt, 54m2, 6.9 tỷ	4 tỷ	https://batdongsan.vn/phan-lo-o-to-tranh-ha-dong-dan-tri-cao-an-ninh-tot-54m2-69-ty-r285128	54	3.0	0.0	('20.9687843', '105.7815336')	"+ Nhà nằm ngay gần mặt phố Bà Triệu, khu phân lô ô tô tránh, dân trí cao, an ninh cực tốt.
 + Diện tích 54m2, nhà xây 3 tầng chắc chắn, đường trước nhà rải nhựa thẳng tắp.
 + Khu vực nhiều tiện ích, xung quanh nhiều trường học, gần chợ Hà Đông, sân bóng Hà Đông, các cơ quan chính phủ nhà nước,...
 + Giao thông thuận tiện, dễ dàng di chuyển sang Tô Hiệu, Tản Đà, Lê Hồng Phong, Nhuệ Giang, Phùng Hưng,...
 + Chủ nhà cô Loan nay tuổi già bán đi về quê ở cùng họ hàng.
 + Giá 6.9 tỷ ( có thương lượng với khách thiện chí)
 + Sổ đỏ chính chủ, sẵn sàng giao dịch.
-+ Liên hệ E Quân Nhà Đẹp 0934503893 xem nhà ngay."	True	False	True	False
++ Liên hệ E Quân Nhà Đẹp 0934503893 xem nhà ngay."	False	False	True	False	phố Bà Triệu, Hà Đông
 Bán nhà 2 mặt tiền đường Phạm Văn Đồng, Thủ Đức - 118m2 - full thổ cư - 23,5 tỷ	6.9 tỷ	https://batdongsan.vn/ban-nha-2-mat-tien-duong-pham-van-dong-thu-duc-118m2-full-tho-cu-235-ty-r285127	118	0.0	0.0	('10.8272474', '106.7194238')	"Bán nhà 2 mặt tiền đường Phạm Văn Đồng, Thủ Đức - 118m2 - full thổ cư - 23,5 tỷ
 - Ngân hàng Techcombank. Cho vay đến 17tỷ lãi suất ưu đãi, khách chỉ cần số tiền còn lại.
 - Bán nhà 2 mặt tiền đường Phạm Văn Đồng và Kha Vạn Cân, Phường Hiệp Bình Chánh, Thủ Đức.
@@ -136,7 +136,7 @@ Bán nhà 2 mặt tiền đường Phạm Văn Đồng, Thủ Đức - 118m2 - f
 - Diện tích : 5,9m x 20m, full thổ cư, sổ hồng riêng.
 - Giá bán: 23,5 tỷ ( thương lượng )
 - Hỗ trợ vay Ngân Hàng.
-Liên Hệ Em Long 0898 408 677 để được xem và mua nhanh nhất!! Mong tiếp khách thiện chí"	True	True	True	False
+Liên Hệ Em Long 0898 408 677 để được xem và mua nhanh nhất!! Mong tiếp khách thiện chí"	True	True	True	False	đường Phạm Văn Đồng, Phường Hiệp Bình Chánh, Quận Thủ Đức
 Cửa nhựa giá rẻ lắp đặt phòng ngủ và Toilet | Cửa nhựa Đài Loan	19 tỷ	https://batdongsan.vn/cua-nhua-gia-re-lap-dat-phong-ngu-va-toilet-cua-nhua-dai-loan-r285126	na	0.0	0.0		"Cửa nhựa Đài Loan với cấu trúc được sản xuất từ nhựa PVC nên có khả năng chống cong vênh co ngót, chống được mối mọt và có khả năng chịu được nước tốt...Cửa được đánh giá rất cao khi sử dụng cho nhà vệ sinh nhằm mục đích tiết kiệm chi phí và đóng mở em tay, nhẹ nhàng. Cửa nhựa Đài Loan được thiết kế với nhiều mẫu mã màu sắc khác nhau đi cùng những nét vân gỗ giống hệt như cửa gỗ tự nhiên. Dưới đây, Kingdoor sẽ gửi đến khách hàng những thông tin chi tiết nhất về cửa nhựa Đài Loan, mời bạn tham khảo nhé !!! (Cửa nhựa giá rẻ lắp đặt phòng ngủ và Toilet)
 
 HOTLINE + zalo: 035.312.6411 – 0888.696.029 (NVKD Như Ý)
@@ -261,8 +261,8 @@ SHOWROOM 2: 602 Kinh Dương Vương, P.An Lạc, Q.Tân Bình
 
 SHOWROOM 3: 731 Lê Hồng Phong, P.Phước Long, Tp. Nha Trang
 
-SHOWROOM 4: 671 Nguyễn Duy Trinh, Bình Trưng Đông, Quận 2"	False	False	False	False
-Chỉ 2 tỉ sở hữu shophouse 4 tầng, chân đế chung cư, tiện ích hoàn chỉnh, dân cư hiện hữu	Thỏa thuận	https://batdongsan.vn/chi-2-ti-so-huu-shophouse-4-tang-chan-de-chung-cu-tien-ich-hoan-chinh-dan-cu-hien-huu-r285123	75	0.0	0.0		"???????????? Với 2 tỉ bạn đã sở hữu shophouse 4 tầng, vị trí chân đế chung cư, dân cư hiện hữu, kinh doanh sầm uất.
+SHOWROOM 4: 671 Nguyễn Duy Trinh, Bình Trưng Đông, Quận 2"	False	False	False	False	na
+Chỉ 2 tỉ sở hữu shophouse 4 tầng, chân đế chung cư, tiện ích hoàn chỉnh, dân cư hiện hữu	Thỏa thuận	https://batdongsan.vn/chi-2-ti-so-huu-shophouse-4-tang-chan-de-chung-cu-tien-ich-hoan-chinh-dan-cu-hien-huu-r285123	75	4.0	0.0		"???????????? Với 2 tỉ bạn đã sở hữu shophouse 4 tầng, vị trí chân đế chung cư, dân cư hiện hữu, kinh doanh sầm uất.
 + Diện tích: 75m2, DTXD: 210m2
 + Hoàn thiện thô và mặt ngoài 4 tầng
 + Chân đế của 7 toà chung cư
@@ -272,7 +272,7 @@ Chỉ 2 tỉ sở hữu shophouse 4 tầng, chân đế chung cư, tiện ích h
 + Hạ tậng, tiện ích đầy đủ ( trường học, bệnh viện, chợ, siêu thị...)
 + An ninh 24/7, gần đồn công an, phòng cháy chữa cháy
 + Môi trường sống trong lành
-☎️Liên hệ ngay: Ms Hường 0364 221 333 để xem nhà"	False	False	True	True
+☎️Liên hệ ngay: Ms Hường 0364 221 333 để xem nhà"	False	False	True	False	Chân đế của 7 toà chung cư, khu dân cư đông đúc
 Bán nhà mới leng keng 110m2 đường ô tô (X.Tân Bình) chỉ 1,6 tỉ	"Giá bán
 Dưới 500 triệu
 Từ 500 - 800 triệu
@@ -288,18 +288,18 @@ Trên 30 tỷ"	https://batdongsan.vn/ban-nha-moi-leng-keng-110m2-duong-o-to-xtan
 + Vị trí: Gần ngã tư bến cá,ngay hồ câu Quốc Thịnh. Cách đường hương lộ 7 khoảng 100m
 + Diện tích: 5x22m (110m2)
 + Sổ hồng riêng thổ cư 100%
-+ Nhà gác lửng thiết kế hiện đại gồm: 1 phòng khách,3 phòng ngủ,2 tolet,nhà bếp và sân đậu ô tô đường bê tông 7m"	True	False	True	False
++ Nhà gác lửng thiết kế hiện đại gồm: 1 phòng khách,3 phòng ngủ,2 tolet,nhà bếp và sân đậu ô tô đường bê tông 7m"	False	False	True	False	Ngã tư bến cá, hồ câu Quốc Thịnh, đường hương lộ 7, Quận Tân Bình
 Bán nhà mới leng keng 110m2 đường ô tô (X.Tân Bình) chỉ 1,6 tỉ	1.6 tỷ	https://batdongsan.vn/ban-nha-moi-leng-keng-110m2-duong-o-to-xtan-binh-chi-16-ti-r285121	110	3.0	2.0		"???????? Bán nhà mới leng keng 110m2 SHR thổ cư đường ô tô (X.Tân Bình)
 + Vị trí: Gần ngã tư bến cá,ngay hồ câu Quốc Thịnh. Cách đường hương lộ 7 khoảng 100m
 + Diện tích: 5x22m (110m2)
 + Sổ hồng riêng thổ cư 100%
-+ Nhà gác lửng thiết kế hiện đại gồm: 1 phòng khách,3 phòng ngủ,2 tolet,nhà bếp và sân đậu ô tô đường bê tông 7m"	True	False	True	False
++ Nhà gác lửng thiết kế hiện đại gồm: 1 phòng khách,3 phòng ngủ,2 tolet,nhà bếp và sân đậu ô tô đường bê tông 7m"	False	False	True	False	đường ô tô, Quận Tân Bình
 NHÀ MẶT TIỀN KHU SẦM UẤT QUẬN 4, 4 TẦNG, NGAY NGÃ 3 NGUYỄN TẤT THÀNH, GIÁ ĐẦU TƯ CỰC TỐT 12,8 TỶ	1.6 tỷ	https://batdongsan.vn/nha-mat-tien-khu-sam-uat-quan-4-4-tang-ngay-nga-3-nguyen-tat-thanh-gia-dau-tu-cuc-tot-128-ty-r285118	75	5.0	6.0	('10.7533369', '106.7078565')	"+ Vị trí : Mặt tiền ngay trục đường kinh doanh nhộn nhịp, sát trường Đại Học, Cấp 3, chợ, siêu thị...
 + Kết cấu: Trệt, 3 Lầu có sân thượng, đầy đủ công năng gồm 5 Phòng ngủ, 6 WC, Sân Thượng, Bếp, Mặt bằng buôn bán.
 + Diện tích 75m2: Ngang 3,2m (nở hậu 4m) x 21m
 + Khu Sầm uất kinh doanh đa nghành, Sát Quận 1, Quận 7.
 + Sổ nở hậu đẹp, hoàn công đầy đủ Pháp lý chuẩn, công chứng trong ngày.
-Liên hệ ngay để được xem nhà trực tiếp"	False	False	True	False
+Liên hệ ngay để được xem nhà trực tiếp"	False	False	True	False	Nguyễn Tất Thành, Quận 4
 Bán nhà ngõ Thổ quan, Khâm Thiên, gần ô tô, ở ngay 4 tầng 29m2 giá 2.85 tỷ	12.8 tỷ	https://batdongsan.vn/ban-nha-ngo-tho-quan-kham-thien-gan-o-to-o-ngay-4-tang-29m2-gia-285-ty-r285116	29	4.0	3.0		"TRUNG TÂM ĐỐNG ĐA - NHÀ GẦN NHIỀU TIỆN ÍCH - TẦM TIỀN CỰC HIẾM - GIAO DỊCH NGAY
 - Vị trí trung tâm quận Đống Đa ngõ thông tứ tung, di chuyển đi đâu cũng tiện, an ninh cực tốt.
 Diện tích xây dựng 29m2, diện tích sổ đỏ 25m2
@@ -309,7 +309,7 @@ Diện tích xây dựng 29m2, diện tích sổ đỏ 25m2
 + Tầng 3: 2 pn, wc
 + Tầng 4: Thờ, sân phơi
 Sổ đỏ chính chủ, sẵn sàng giao dịch
-Giá có thương lượng"	True	False	False	False
+Giá có thương lượng"	False	False	True	False	ngõ Thổ quan, Khâm Thiên
 BÁN NHÀ MẶT PHỐ THANH XU N, DT134M2X8T, MT5.4M, THANG MÁY, KD, 32.7TỶ	2.85 tỷ	https://batdongsan.vn/ban-nha-mat-pho-thanh-xu-n-dt134m2x8t-mt54m-thang-may-kd-327ty-r285112	134	8.0	88.0		"- Vị trí : Trung tâm quận, giao thông đi lại thuận tiện các tuyến đường Giải Phóng, Vành Đai 2, Tân Mai, Giáp Bát, Định Công,..... kinh doanh, mua bán sầm uất suốt ngày đêm.
 - Toà nhà được xây dựng vô cùng chắc chắn, phù hợp công năng vừa ở vừa cho thuê. Diện tích cực rộng, phù hợp cho thuê văn phòng, nhà mẫu giáo, phòng khám, spa,.... Thang máy nhập khẩu xịn xò, lên tới tận tầng 8. Nhà có thoáng phía sau, phòng nào cũng có cửa sổ rộng. Thiết kế :
 Tầng 1,2,3,4 : Kinh doanh thiết bị vệ sinh, gạch ốp lát…
@@ -318,7 +318,7 @@ Tầng 1,2,3,4 : Kinh doanh thiết bị vệ sinh, gạch ốp lát…
 - Khu vực xung quanh dân trí cao, hàng xóm thân thiện, an sinh cực đỉnh, an ninh vô cùng, ở cực sướng.
 - Sổ đỏ vuông đẹp, không lỗi phong thủy, không tranh chấp, chính chủ sẵn sàng giao dịch.
 Trong kho hàng của tôi còn có rất nhiều căn khác tương đương, quý khách có thể tham khảo thêm.
-( Ảnh thật 100% không đúng tặng nhà )"	False	False	True	False
+( Ảnh thật 100% không đúng tặng nhà )"	True	False	True	False	phố Thanh Xuân , Quận ???
 BÁN NHÀ PHỐ TRƯỜNG CHINH 68M - TT THANH XU N MẶT TIỀN 6M - NGÕ THÔNG - DÒNG TIỀN 150TR. LH: 0393838449	32.7 tỷ	https://batdongsan.vn/ban-nha-pho-truong-chinh-68m-tt-thanh-xu-n-mat-tien-6m-ngo-thong-dong-tien-150tr-lh-0393838449-r285111	68	4.0	0.0		"+ Chủ nhà cần bán gấp nhà phố Trường Chinh -tt quận Thanh Xuân 68m - mặt tiền 6m -ngõ thông - dòng tiền 150 triệu.
 
 + Trung tâm quận Thanh Xuân gần các tuyến phố lớn: Tây Sơn, Vương Thừa Vũ, Lê Trọng Tấn, Tôn Thất Tùng, Nguyễn Trãi, Láng vài bước ra Trung Tâm Royal City.
@@ -335,7 +335,7 @@ BÁN NHÀ PHỐ TRƯỜNG CHINH 68M - TT THANH XU N MẶT TIỀN 6M - NGÕ THÔN
 Liên hệ: Mr. Thái Sơn chuyên nhà đẹp Thanh Xuân-Đống Đa
 Để được xem nhà và tư vấn miễn phí 24/7
 
-Gọi ngay: 0393838449 (Zalo)"	False	True	True	False
+Gọi ngay: 0393838449 (Zalo)"	False	True	True	False	Trường Chinh, Quận Thanh Xuân
 Nhà Chính chủ hẻm taxi Mễ Cốc, P15, Q8. Giá 3.4tỷ	6.8 tỷ	https://batdongsan.vn/nha-chinh-chu-hem-taxi-me-coc-p15-q8-gia-34ty-r285109	110	4.0	3.0		"+ Nhà chính chủ, đẹp lung linh. Chỉ cần xách vali vào ở.
 + Diện tích sàn sử dụng 105m. Thiết kế: Trệt + 2Lầu + sân thượng
 + Diện tích 37m2. Ngang 4.2m x 9m. Nhà xây dựng kiên cố.
@@ -343,8 +343,8 @@ Nhà Chính chủ hẻm taxi Mễ Cốc, P15, Q8. Giá 3.4tỷ	6.8 tỷ	https://
 + Sổ hồng hoàn công đầy đủ. Cách mặt đường 20m.
 + Giá 3.4tỷ. Bớt lộc, Cần bán gấp. Có bớt cho khách mua nhanh.
 + An tâm tuyệt đối vì được hỗ trợ pháp lý đầy đủ khi mua bán.
-Liên hệ: 0906 072 039. Bé Bảo. Trung Tâm mua bán ký gửi nhà đất các Quận"	False	False	True	False
-Bán nhà Trần Xuân Soạn, phường Tân Hưng, Q.7 – 12m2, hẻm xe máy, giá 1.x tỷ	3.4 tỷ	https://batdongsan.vn/ban-nha-tran-xuan-soan-phuong-tan-hung-q7-12m2-hem-xe-may-gia-1x-ty-r285107	12	0.0	0.0		"+ Nhà: 1 trệt, 1 lầu
+Liên hệ: 0906 072 039. Bé Bảo. Trung Tâm mua bán ký gửi nhà đất các Quận"	False	False	True	False	Mễ Cốc, Phường 15, Quận 8
+Bán nhà Trần Xuân Soạn, phường Tân Hưng, Q.7 – 12m2, hẻm xe máy, giá 1.x tỷ	3.4 tỷ	https://batdongsan.vn/ban-nha-tran-xuan-soan-phuong-tan-hung-q7-12m2-hem-xe-may-gia-1x-ty-r285107	12	2.0	1.0		"+ Nhà: 1 trệt, 1 lầu
 
 + Diện tích ngang: 3m ; dài 4m
 
@@ -352,7 +352,7 @@ Bán nhà Trần Xuân Soạn, phường Tân Hưng, Q.7 – 12m2, hẻm xe máy
 
 + Khu dân cư hiện hữu, không quy hoạch. Ngay trung tâm quận 7 rất thuận tiện di chuyển các quận 1,4,5,8
 
-+ Thích hợp cho vợ chồng trẻ ra ở riêng"	False	False	True	True
++ Thích hợp cho vợ chồng trẻ ra ở riêng"	False	False	True	False	Trần Xuân Soạn, phường Tân Hưng, Quận 7
 Văn Quán Hà Đông, nhà đẹp ở luôn, ô tô đỗ cửa, 30m2, 4.85 tỷ	Thỏa thuận	https://batdongsan.vn/van-quan-ha-dong-nha-dep-o-luon-o-to-do-cua-30m2-485-ty-r285103	30	5.0	3.0	('20.9777315', '105.7847989')	"+ Bán nhà Văn Quán, Hà Đông, ô tô đỗ cửa, ngõ rộng thông tứ phía.
 + Diện tích 30m2, nhà xây 5 tầng chắc chắn, nội thất đẹp lung linh.
 + Trước nhà có khoảng sân rất rộng thoáng vĩnh viễn, để không hết xe.
@@ -360,15 +360,15 @@ Văn Quán Hà Đông, nhà đẹp ở luôn, ô tô đỗ cửa, 30m2, 4.85 t�
 + Chủ nhà chị Phương hiền lành tốt tính, nay bán đi gia đình chuyển sang căn rộng hơn.
 + Giá 4.85 tỷ ( có thương lượng với khách thiện chí)
 + Sổ đỏ chính chủ, sẵn sàng giao dịch.
-+ Liên hệ E Quân Nhà Đẹp 0934503893 xem nhà ngay."	True	True	True	False
++ Liên hệ E Quân Nhà Đẹp 0934503893 xem nhà ngay."	False	False	True	True	đường Văn Quán, Hà Đông
 GIẢM SÂU 1,7 TỶ- NHỈNH 8 TỶ -HXH 12M NGAY HÒA BÌNH, TÂN PHÚ- 85m ngang 8m- sổ vuông A4	4.85 tỷ	https://batdongsan.vn/giam-sau-17-ty-nhinh-8-ty-hxh-12m-ngay-hoa-binh-tan-phu-85m-ngang-8m-so-vuong-a4-r285102	85	7.0	3.0		"- Vị trí : ngay góc 2 mặt tiền đường 12m không lộ giới , ngang khủng 8m ngay đường HÒA BÌNH, TÂN PHÚ.
 - Kết cấu : 1 trệt, 1 lầu , sân thượng với 7 PN, 3WC
 - Diện tích khủng rất phù hợp để ở, kinh doanh hoặc xây dựng căn hộ dịch vụ.
 - Khu vực xay dựng nhà cao tầng , ô tô ngủ trong nhà.
 - sổ vuông A4 , chủ thiện chí bán.
 - giá : 8,99 tỷ ( thương lượng tốt )
-☎️ Liên hệ Trang 089989.2121 xem nhà trực tiếp!"	False	False	True	False
-11.4 Tỷ Diện Tích 90M2 Nhà 6 Tầng Mặt Tiền Mỹ Khê 2 Sơn Trà Đà Nẵng.	8.99 tỷ	https://batdongsan.vn/114-ty-dien-tich-90m2-nha-6-tang-mat-tien-my-khe-2-son-tra-da-nang-r285101	90	20.0	0.0	('16.068', '108.212')	"11.4 Tỷ Diện Tích 90M2 Nhà 6 Tầng Mặt Tiền Mỹ Khê 2 Sơn Trà Đà Nẵng.
+☎️ Liên hệ Trang 089989.2121 xem nhà trực tiếp!"	False	False	True	False	đường Hòa Bình, đường 12m, Quận Tân Phú
+11.4 Tỷ Diện Tích 90M2 Nhà 6 Tầng Mặt Tiền Mỹ Khê 2 Sơn Trà Đà Nẵng.	8.99 tỷ	https://batdongsan.vn/114-ty-dien-tich-90m2-nha-6-tang-mat-tien-my-khe-2-son-tra-da-nang-r285101	90	6.0	0.0	('16.068', '108.212')	"11.4 Tỷ Diện Tích 90M2 Nhà 6 Tầng Mặt Tiền Mỹ Khê 2 Sơn Trà Đà Nẵng.
 Căn hộ 6 tầng chỉ 2 phút ra bãi biển mỹ khê.
 Chỉ 10m ra đường Chính Hữu, Võ Văn Kiệt, Võ Nguyên Giáp.
 Vị trí đẹp rất nhiều nhà hàng khách sạn các tiện ích đầy đủ không thiếu thứ gì.
@@ -378,13 +378,13 @@ Hiện tại đang cho thuê full phòng.
 Chủ đã làm xong thủ tục nhập cư Canada nên cần bán nhanh.
 Giá bán 11.4 tỷ có thương lượng.
 Khách thiện chí gọi ngay 0986598266 ms Minh xem nhà.
-Cam kết thông tin chuẩn 100%."	False	True	True	False
+Cam kết thông tin chuẩn 100%."	True	True	True	False	đường Mỹ Khê, sơn Trà, Đà Nẵng
 HẺM XE HƠI-NHÀ ĐẸP LUNG LINH NGAY EMART GÒ VẤP- 53M2(4 *13M)- 4 TẦNG-SỔ VUÔNG A4	11.4 tỷ	https://batdongsan.vn/hem-xe-hoi-nha-dep-lung-linh-ngay-emart-go-vap-53m24-13m-4-tang-so-vuong-a4-r285100	53	4.0	5.0		"- Vị trí xe hơi đỗ cửa ngay PHAN HUY ÍCH, giáp Tân Bình, dễ dàng di chuyển ra sân bay, nhà mới lung linh đầy đủ tiện nghi.
 - Khu vực an ninh , dân trí cao, gần mặt tiền ,sầm uất nhộn nhịp.
 - Nhà thiết kế 4 tầng với 1 trệt, 1 lửng,2 lầu với với4 PN, 5WC.
 - Sổ vuông, hoàn công đầy đủ, không lộ giới, không qui hoạch .
 - Giá bán: 7.39 tỷ ( chủ thiện chí bán thương lượng tốt)
-☎️☎️☎️ Liên hệ em TRANG 0898.99.2121 để xem nhà trực tiếp."	True	False	True	False
+☎️☎️☎️ Liên hệ em TRANG 0898.99.2121 để xem nhà trực tiếp."	False	False	True	False	PHAN HUY ÍCH, gần Tân Bình
 Bán nhà mặt tiền kinh doanh Bùi Tá Hán, An Phú, 4x20m, an ninh cao, 16 tỷ thương lượng	7.39 tỷ	https://batdongsan.vn/ban-nha-mat-tien-kinh-doanh-bui-ta-han-an-phu-4x20m-an-ninh-cao-16-ty-thuong-luong-r285098	80	6.0	6.0	('10.7615203', '106.6750963')	"- Bán nhà mặt tiền đường lớn 18m, An Phú, Q2
 - DT 4mx20m
 - Giá 16 tỷ bớt lộc
@@ -392,29 +392,29 @@ Bán nhà mặt tiền kinh doanh Bùi Tá Hán, An Phú, 4x20m, an ninh cao, 16
 - Gần công viên đi bộ mỗi sáng rèn luyện sức khoẻ
 - Đường 18m có vỉa hè, có vòng xoay oto đậu ngày đêm và quay đầu thoải mái, tiện làm văn phòng
 - Hiếm nhà có đầy đủ công năng
-- LH Tâm 0815813400 để xem nhà đẹp. UY TÍN"	False	False	False	True
+- LH Tâm 0815813400 để xem nhà đẹp. UY TÍN"	True	False	True	False	đường Bùi Tá Hán, An Phú, Quận 2
 Bán nhà đẹp 50m2 *2 Nguyễn Khuyến, Bình Thạnh nhỉnh 4 tỷ hẻm 1 sẹc, rộng thoáng , có ban công đón gió	16 tỷ	https://batdongsan.vn/ban-nha-dep-50m2-2-nguyen-khuyen-binh-thanh-nhinh-4-ty-hem-1-sec-rong-thoang-co-ban-cong-don-gio-r285097	50	3.0	0.0	('10.8101163', '106.6983198')	"T115 Nhà đẹp thoáng, 50m2, ngang 5m, hẻm 1 sẹc,cách 1 căn ra MT nhỉnh 4 tỷ Nguyễn Khuyến, phường 12, Bình Thạnh.
 + 3 phòng ngủ, ban công nhà thoáng,rộng rãi.Khu vực an ninh,dân trí.
 + Pháp lý sạch công chứng ngay.Chủ nhà còn thương lượng với khách thiện chí .
 + Vị trí giao thông thuận tiện,dịch vụ tiện ích đầy đủ, gần trường học các cấp, gần chợ, đại học....
 + Xem nhà liên hệ em Oanh Lê (alo,zalo).Hỗ trợ tìm nhà miễn phí. Cam kết không phát sinh bất kỳ chi phí nào khác kể cả giao dịch mua nhà thành công.
-+ Hình ảnh mô tả thật,nhà bán thật, giá chủ báo thật,khách hàng nên đến xem nhà,vị trí nhà để thấy được giá trị của ngôi nhà ."	False	False	True	False
-HOÀNG HOA THÁM 30m X5t X MT 5m 4,3 Tỷ - 5 TẦNG MỚI KING KOONG - KHU VIP BA ĐÌNH - Ô TÔ DỪNG ĐỖ 70M	4.75 tỷ	https://batdongsan.vn/hoang-hoa-tham-30m-x5t-x-mt-5m-43-ty-5-tang-moi-king-koong-khu-vip-ba-dinh-o-to-dung-d-70m-r285094	30	3.0	4.0		"???? Bán nhà Ngõ 267 Hoàng Hoa Thám thẳng tắp???? 30m x 5 tầng x mặt tiền 5m.
++ Hình ảnh mô tả thật,nhà bán thật, giá chủ báo thật,khách hàng nên đến xem nhà,vị trí nhà để thấy được giá trị của ngôi nhà ."	False	False	True	False	Nguyễn Khuyến, phường 12, Bình Thạnh
+HOÀNG HOA THÁM 30m X5t X MT 5m 4,3 Tỷ - 5 TẦNG MỚI KING KOONG - KHU VIP BA ĐÌNH - Ô TÔ DỪNG ĐỖ 70M	4.75 tỷ	https://batdongsan.vn/hoang-hoa-tham-30m-x5t-x-mt-5m-43-ty-5-tang-moi-king-koong-khu-vip-ba-dinh-o-to-dung-d-70m-r285094	30	5.0	4.0		"???? Bán nhà Ngõ 267 Hoàng Hoa Thám thẳng tắp???? 30m x 5 tầng x mặt tiền 5m.
 ???? Giá 4,3x Tỷ
 + Vị trí: Khu VIP trung tâm Ba Đình, ngõ to rộng ô tô ra vào thoải mái, nhà cách ô tô dừng đỗ 70m, cách mặt phố 150m, 500m ngay LOTTE Liễu Giai, Hồ Tây hóng gió.
 + Nhà 5 tầng xây mới khách sẵn mang đồ về ở, sân rộng rãi an ninh tuyệt đối.
 ???? Sổ đỏ pháp lí chuẩn
-LH :0968611767 ( call/zl - tư vấn và xem nhà miễn phí)"	True	False	True	False
-Bán Nhà mặt ngõ Bùi Xương Trạch,, Thanh Xuân, kinh doanh sầm uất 43m, ô tô đỗ cửa chỉ 2.18 tỷ	4.3 tỷ	https://batdongsan.vn/ban-nha-mat-ngo-bui-xuong-trach-thanh-xuan-kinh-doanh-sam-uat-43m-o-to-do-cua-chi-218-ty-r285093	43	1.0	1.0		"Bán Nhà mặt ngõ Bùi Xương Trạch,, Thanh Xuân, kinh doanh sầm uất 43m, ô tô đỗ cửa chỉ 2.18 tỷ
+LH :0968611767 ( call/zl - tư vấn và xem nhà miễn phí)"	True	False	True	False	Ngõ 267 Hoàng Hoa Thám, Ba Đình
+Bán Nhà mặt ngõ Bùi Xương Trạch,, Thanh Xuân, kinh doanh sầm uất 43m, ô tô đỗ cửa chỉ 2.18 tỷ	4.3 tỷ	https://batdongsan.vn/ban-nha-mat-ngo-bui-xuong-trach-thanh-xuan-kinh-doanh-sam-uat-43m-o-to-do-cua-chi-218-ty-r285093	43	2.0	1.0		"Bán Nhà mặt ngõ Bùi Xương Trạch,, Thanh Xuân, kinh doanh sầm uất 43m, ô tô đỗ cửa chỉ 2.18 tỷ
 - Khu vực có mật độ dân cư đông có thu nhập rất cao, kinh doanh sẩm uất bất kể ngày đêm,
 - Giao thương vô cùng thuận tiện, một bước đi muôn nơi.
 Tầng 1: phòng khách + bếp + WC,
-Tầng 2: 1 phòng ngủ rộng + sân phơi."	False	False	False	False
-Bán nhà HXH Bùi Thế Mỹ Phường 10 Tân Bình, 40m2, 4 tầng, giá hạt dưa	2.18 tỷ	https://batdongsan.vn/ban-nha-hxh-bui-the-my-phuong-10-tan-binh-40m2-4-tang-gia-hat-dua-r285087	na	0.0	0.0		"+ DT: gần 40m2 vuông đét
+Tầng 2: 1 phòng ngủ rộng + sân phơi."	False	False	True	False	ngõ Bùi Xương Trạch, Phường Thanh Xuân
+Bán nhà HXH Bùi Thế Mỹ Phường 10 Tân Bình, 40m2, 4 tầng, giá hạt dưa	2.18 tỷ	https://batdongsan.vn/ban-nha-hxh-bui-the-my-phuong-10-tan-binh-40m2-4-tang-gia-hat-dua-r285087	na	4.0	0.0		"+ DT: gần 40m2 vuông đét
 + Kết cấu: 4 Tầng đúc cứng đẹp
 + Hẻm xe hơi đậu trước nhà
 + Sổ đẹp vuông cực gấp bán
-+ Giá chỉ 5 tỷ nhú. Khu vực cực kỳ an ninh, cách Mặt tiền 1 căn, hàng xóm khu Bàu Cát dân trí cao, thông các tuyến đường trọng điểm Hồng Lạc, đường Lạc Long Quân, đường Lý Thường Kiệt, di chuyển Quận 10 chỉ 3 phút."	True	False	True	False
++ Giá chỉ 5 tỷ nhú. Khu vực cực kỳ an ninh, cách Mặt tiền 1 căn, hàng xóm khu Bàu Cát dân trí cao, thông các tuyến đường trọng điểm Hồng Lạc, đường Lạc Long Quân, đường Lý Thường Kiệt, di chuyển Quận 10 chỉ 3 phút."	True	False	True	False	đường Bùi Thế Mỹ, Phường 10, Quận Tân Bình
 BÁN NHÀ BÌNH THẠNH 80M2 - 5PN 5WC - DÒNG TIỀN 18TR/THÁNG	5.5 tỷ	https://batdongsan.vn/ban-nha-binh-thanh-80m2-5pn-5wc-dong-tien-18trthang-r285086	80	5.0	5.0	('10.8117887', '106.7039109')	"DT: 4m × 20m × 2m (80m2)
 Giá: 9,39 tỷ (thương lượng)
 + Hẻm nhựa hơn 4m xe hơi tránh, quay đầu thoải mái, thông tứ tung. Khu dân trí cao, an ninh, yên tĩnh, camera 24/24.
@@ -422,7 +422,7 @@ Giá: 9,39 tỷ (thương lượng)
 + Nhà đang cho thuê khoán 18 triệu/ tháng.
 + Pháp lý chuẩn, hoàn công đầy đủ, sổ vuông đẹp, công chứng ngay.
 
-NOO.QN.P-MI"	True	True	True	False
+NOO.QN.P-MI"	False	True	True	False	NOO.QN.P-MI
 The number 1 reputable Google Ads advertising service in the US	9.39 tỷ	https://batdongsan.vn/the-number-1-reputable-google-ads-advertising-service-in-the-us-r285085	150	12.0	12.0		"The number 1 reputable Google Ads advertising service in the US
 Google Ads advertising is a service that allows businesses to advertise products and company brands on the Google platform, connecting with potential customers globally. Below, Max Ads will help you explore details about Google Ads in the US, bringing a positive and effective experience to customers.
 Coverage of Google Ads advertising services in the US
@@ -465,7 +465,7 @@ Cost-effective: Paying only for interactions, our Google Ads help you manage you
 Performance analysis: We provide detailed reports so you can monitor and evaluate campaign performance anytime, anywhere.
 Increase sales: With a strong presence on Google, you will have high credibility and always be at the top of searches. Since then, the business's sales index has increased rapidly.
 Contact us here for more detailed advice!
->>>Learn more at: https://dangtinbatdongsan.net/"	False	False	False	False
+>>>Learn more at: https://dangtinbatdongsan.net/"	False	False	False	False	na
 (PHA12) BÁN NHÀ 2 TẦNG HẺM 3M KHU ĐÔ THỊ VCN PHƯỚC HẢI	12 triệu	https://batdongsan.vn/pha12-ban-nha-2-tang-hem-3m-khu-do-thi-vcn-phuoc-hai-r285084	55	2.0	2.0		"(PHA12) BÁN NHÀ 2 TẦNG HẺM 3M KHU ĐÔ THỊ VCN PHƯỚC HẢI
 - Diện tích 55.3m2
 - Ngang 4.2m
@@ -474,7 +474,7 @@ Contact us here for more detailed advice!
 - Pháp lý sổ hồng đã hoàn công
 - Vị trí gần trường học - mầm non, gần chợ, gần siêu thị,....
 =>> Giá bán 2.18 tỷ
-=>> LH 0705017559 - 0935785259"	False	True	False	False
+=>> LH 0705017559 - 0935785259"	False	False	True	False	hẻm VCN Phước Hải
 (PHA23) BÁN NHÀ MẶT TIỀN ĐƯỜNG ĐỒNG NAI - PHƯỚC HẢI	"Giá bán
 Dưới 500 triệu
 Từ 500 - 800 triệu
@@ -494,14 +494,14 @@ Trên 30 tỷ"	https://batdongsan.vn/pha23-ban-nha-mat-tien-duong-dong-nai-phuoc
 - Gần trường học - mầm non, gần chợ Đồng Nai và chợ Phước Hải, gần siêu thị Coopmart, cách biển 10p di chuyển,....
 - Thích hợp vừa ở vừa kinh doanh, đầu tư cho thuê,...
 =>> Giá bán 6.5 tỷ.
-=>> LH 0705017559 - 0935785259"	False	False	True	False
+=>> LH 0705017559 - 0935785259"	False	False	True	False	đường Đồng Nai, Phước Hải
 Bán nhà đẹp 4 tầng Bùi Tá Hán, An Phú, Q2 4x20m 15.8 tỷ, không lỗi phong thuỷ	6.5 tỷ	https://batdongsan.vn/ban-nha-dep-4-tang-bui-ta-han-an-phu-q2-4x20m-158-ty-khong-loi-phong-thuy-r285079	80	4.0	4.0	('10.7615203', '106.6750963')	"- Bán nhà mặt tiền Bùi Tá Hán, An Phú, Q2
 - DT 4mx20m
 - Giá 15.8 tỷ bớt lộc
 - Vị trí gần công viên Cao Đức Lân, tiện di chuyển, thích hợp làm văn phòng hay ở
 - Kết cấu 1 trệt, 2 lầu, Sân thượng
 - Đường trước nhà 10m có vỉa hè
-- LH Tâm 0815813400 để xem nhà. UY TÍN"	False	False	True	False
+- LH Tâm 0815813400 để xem nhà. UY TÍN"	False	False	True	False	Bùi Tá Hán, An Phú, Quận 2
 (VH25) BÁN NHÀ 3 TẦNG MẶT TIỀN ĐƯỜNG 19/5 KHU ĐÔ THỊ VĨNH ĐIỀM TRUNG	15.8 tỷ	https://batdongsan.vn/vh25-ban-nha-3-tang-mat-tien-duong-195-khu-do-thi-vinh-diem-trung-r285078	138	5.0	6.0		"(VH25) BÁN NHÀ 3 TẦNG MẶT TIỀN ĐƯỜNG 19/5 KHU ĐÔ THỊ VĨNH ĐIỀM TRUNG
 - Diện tích 138m2 full ONT
 - Ngang 6m. Hướng Tây Nam
@@ -511,7 +511,7 @@ Bán nhà đẹp 4 tầng Bùi Tá Hán, An Phú, Q2 4x20m 15.8 tỷ, không l�
 - Trong bán kính 500m có đầy đủ tiện ích như bệnh viện đa khoa - trường Quốc Tế - siêu thị Big C Go - Nhà hàng và quán cà phê,...
 - Thích hợp vừa ở vừa kinh doanh, đầu tư cho thuê, làm trung tâm dạy học - Anh Ngữ, làm phòng khám chuyên khoa, làm spa - beauty cao cấp,....
 =>> Giá bán 9.2 tỷ. Thuế bên nào bên đó chịu
-=>> LH 0935785259 - 0705017559"	False	False	True	False
+=>> LH 0935785259 - 0705017559"	True	True	True	False	Đường 19/5, Khu đô thị Vĩnh Điềm Trung
 (VH25) BÁN NHÀ 3 TẦNG MẶT TIỀN ĐƯỜNG 19/5 KHU ĐÔ THỊ VĨNH ĐIỀM TRUNG	9.2 tỷ	https://batdongsan.vn/vh25-ban-nha-3-tang-mat-tien-duong-195-khu-do-thi-vinh-diem-trung-r285077	138	5.0	6.0		"(VH25) BÁN NHÀ 3 TẦNG MẶT TIỀN ĐƯỜNG 19/5 KHU ĐÔ THỊ VĨNH ĐIỀM TRUNG
 - Diện tích 138m2 full ONT
 - Ngang 6m. Hướng Tây Nam
@@ -521,27 +521,27 @@ Bán nhà đẹp 4 tầng Bùi Tá Hán, An Phú, Q2 4x20m 15.8 tỷ, không l�
 - Trong bán kính 500m có đầy đủ tiện ích như bệnh viện đa khoa - trường Quốc Tế - siêu thị Big C Go - Nhà hàng và quán cà phê,...
 - Thích hợp vừa ở vừa kinh doanh, đầu tư cho thuê, làm trung tâm dạy học - Anh Ngữ, làm phòng khám chuyên khoa, làm spa - beauty cao cấp,....
 =>> Giá bán 9.2 tỷ. Thuế bên nào bên đó chịu
-=>> LH 0935785259 - 0705017559"	False	False	True	False
+=>> LH 0935785259 - 0705017559"	False	True	True	False	đường 19/5, Khu đô thị Vĩnh Điềm Trung
 HXH-NGUYỄN HỮU TIẾN, TÂN PHÚ-57M2 ngang 4.1m- 4 tầng-6.1 tỷ (TL)	9.2 tỷ	https://batdongsan.vn/hxh-nguyen-huu-tien-tan-phu-57m2-ngang-41m-4-tang-61-ty-tl-r285076	57	4.0	3.0		"- Vị trí trung tâm Tân Phú gần trường Đại học Công Nghệ
 - Kết cấu 4 tầng gồm 1 trệt, 2 lầu, sân thượng với 4PN, 3WC, ban công rộng rãi , thiết kế thoáng mát.
 - Diện tích 57m2 ( 4.1 *14m)
 - Đặc biệt: gia chủ tặng một số nội thất cho khách thiện chí.
 - sổ vuông A4 , chủ thiện chí bán.
 - giá : 6.1 tỷ ( thương lượng tốt )
-☎️ Liên hệ Trang 0899.892121xem nhà trực tiếp!"	False	False	True	False
-Bán nhà kế Phạm Văn Hai Phường 6 Tân Bình, 55m2, 3 Tầng, Ô tô gần giá 5 tỷ nhỏ	6.1 tỷ	https://batdongsan.vn/ban-nha-ke-pham-van-hai-phuong-6-tan-binh-55m2-3-tang-o-to-gan-gia-5-ty-nho-r285075	55	0.0	0.0		"KẾ PHẠM VĂN HAI PHƯỜNG 6 TÂN BÌNH - DT TO 55M2 - KẾT CẤU 3 TẦNG ĐÚC - VÀI BƯỚC RA HẺM Ô TÔ - SỔ ĐẸP GẤP BÁN - CÓ 5 TỶ NHỎ
+☎️ Liên hệ Trang 0899.892121xem nhà trực tiếp!"	False	False	True	False	nguyên Hữu Tiến, Thanh Phú
+Bán nhà kế Phạm Văn Hai Phường 6 Tân Bình, 55m2, 3 Tầng, Ô tô gần giá 5 tỷ nhỏ	6.1 tỷ	https://batdongsan.vn/ban-nha-ke-pham-van-hai-phuong-6-tan-binh-55m2-3-tang-o-to-gan-gia-5-ty-nho-r285075	55	3.0	0.0		"KẾ PHẠM VĂN HAI PHƯỜNG 6 TÂN BÌNH - DT TO 55M2 - KẾT CẤU 3 TẦNG ĐÚC - VÀI BƯỚC RA HẺM Ô TÔ - SỔ ĐẸP GẤP BÁN - CÓ 5 TỶ NHỎ
 + Vị trí giao thông thuận tiện tương lai tuyến Mettro đi qua, chợ vải Tân Bình, Quận 10 Quận 3 Quận 1 kế
-bên. Khu vực dân trí cao an ninh, gần công viên Lê Thị Riêng, trường học uỷ ba nhân dân các cấp"	True	False	True	False
-Bán nhà gần Hồng Lạc Phường 8 Tân Bình, 35m2, Ô tô đậu, 4 TẦNG, giá rẻ	5.75 tỷ	https://batdongsan.vn/ban-nha-gan-hong-lac-phuong-8-tan-binh-35m2-o-to-dau-4-tang-gia-re-r285074	35	0.0	0.0		"GẦN HỒNG LẠC TÂN BÌNH - DT VUÔNG VẮN 35M2 - GẦN MẶT TIỀN Ô TÔ ĐẬU - 4 TẦNG ĐẸP NHỨT NÁCH - SỔ ĐẸP VUÔNG 90 ĐỘ - GIÁ RẺ
+bên. Khu vực dân trí cao an ninh, gần công viên Lê Thị Riêng, trường học uỷ ba nhân dân các cấp"	False	False	True	False	Phạm Văn Hai, Phường 6, Quận Tân Bình
+Bán nhà gần Hồng Lạc Phường 8 Tân Bình, 35m2, Ô tô đậu, 4 TẦNG, giá rẻ	5.75 tỷ	https://batdongsan.vn/ban-nha-gan-hong-lac-phuong-8-tan-binh-35m2-o-to-dau-4-tang-gia-re-r285074	35	4.0	0.0		"GẦN HỒNG LẠC TÂN BÌNH - DT VUÔNG VẮN 35M2 - GẦN MẶT TIỀN Ô TÔ ĐẬU - 4 TẦNG ĐẸP NHỨT NÁCH - SỔ ĐẸP VUÔNG 90 ĐỘ - GIÁ RẺ
 RẺ
-+ Nhà mới kết cấu cứng, DT khủng, gần MẶt tiền ô tô đậu, vuông vắn, di chuyển trung tâm Tân Bình, gần chợ vải Tân Bình, 5 phút đi cư xá Bắc Hải, Lữ Gia, Phú Thọ"	True	False	False	False
++ Nhà mới kết cấu cứng, DT khủng, gần MẶt tiền ô tô đậu, vuông vắn, di chuyển trung tâm Tân Bình, gần chợ vải Tân Bình, 5 phút đi cư xá Bắc Hải, Lữ Gia, Phú Thọ"	False	False	True	False	Hồng Lạc, Phường 8, Quận Tân Bình
 TÂN PHÚ-HXH LŨY BÁN BÍCH-NHÀ ĐẸP SMARTHOME-3 TẦNG BTCT- NHỈNH 4 TỶ ☘️	5.5 tỷ	https://batdongsan.vn/tan-phu-hxh-luy-ban-bich-nha-dep-smarthome-3-tang-btct-nhinh-4-ty-r285073	31	4.0	3.0		"- Vị trí trung tâm gần đường Thoại Ngọc Hầu, Hòa Bình, Nguyễn Sơn... thuận tiện di chuyển qua Q11, TÂN BÌNH...
 - Kết cấu 3 tầng gồm 1 trệt, 2 lầu với 4PN, 3WC, ban công rộng rãi , thiết kế thoáng mát, hiện đại , trang thiết bị nội thất đầy đủ
 - Diện tích 31m2 ( 3.1 *10.4m)
 - Nhà hệ thống smarthome+camera+ tự động điều khiển từ xa.Đặc biệt: gia chủ tặng full nội thất.
 - sổ vuông A4 , chủ thiện chí bán.
 - giá : 4.69 tỷ ( thương lượng tốt )
-☎️ Liên hệ Trang 0899.892121xem nhà trực tiếp!"	False	False	True	False
+☎️ Liên hệ Trang 0899.892121xem nhà trực tiếp!"	False	False	True	False	đường Thoại Ngọc Hầu, Quận Hòa Bình, Quận Tân Bình
 Bán nhà Hà Đông, khu vực yên tĩnh, phân lô cán bộ, ô tô tránh đỗ, 36m2, 6,5 tỷ	4.69 tỷ	https://batdongsan.vn/ban-nha-ha-dong-khu-vuc-yen-tinh-phan-lo-can-bo-o-to-tranh-do-36m2-65-ty-r285069	36	4.0	3.0	('20.9739113', '105.7747982')	"+ Nhà bán nằm ở gần Vạn Phúc, ngõ thông, rộng rãi 2 ô tô tránh, dừng đỗ ngày đêm.
 + Khu phân lô cán bộ, hàng xóm toàn dân trí hiền lành, con cháu thành đạt giỏi giang.
 + Diện tích 36m2, nhà 4 tầng tự xây chắc chắn, thiết kế hiện đại.
@@ -549,7 +549,7 @@ Bán nhà Hà Đông, khu vực yên tĩnh, phân lô cán bộ, ô tô tránh �
 + Chủ nhà cô Hương cán bộ giáo viên về hưu, nay bán đi ra biệt thự trông cháu.
 + Giá 6,5 tỷ ( có thương lượng với khách thiện chí)
 + Sổ đỏ phân lô, vuông đẹp.
-+ Liên hệ E Quân Nhà Đẹp 0934503893 xem nhà ngay."	True	False	True	True
++ Liên hệ E Quân Nhà Đẹp 0934503893 xem nhà ngay."	False	False	True	False	Khu vực gần bệnh viện Đa khoa Hà Đông, bưu điện Hà Đông, tiểu học Yết Kiêu, hồ Đầm Khê, Hà Đông
 Cần bán gấp nhà 1 trệt 2 lầu 80m2 5x16, đường 30m, sổ hồng hoàn công, giá chỉ 8 tỷ 3 Thương lượng, Lh: 0388668882 gặp Tâm ( zalo )	6.5 tỷ	https://batdongsan.vn/can-ban-gap-nha-1-tret-2-lau-80m2-5x16-duong-30m-so-hong-hoan-cong-gia-chi-8-ty-3-thuong-luong-lh-0388668882-gap-tam-zalo-r285066	80	4.0	5.0		"Cần bán gấp, giảm giá mạnh 10 tỷ nay giảm còn 8,3 tỷ TL mạnh
 Bán nhà mặt tiền đường 30m
 Nằm trong quần thể khu dân cư Centana Điền Phúc Thành, Long Trường, Quận 9. Đối diện Sông là chung cư MT EasmarkCity đang xây dựng.
@@ -557,7 +557,7 @@ Nằm trong quần thể khu dân cư Centana Điền Phúc Thành, Long Trườ
 - Kiến trúc: 1 trệt 2 lầu, 1 tum.
 - Công năng: 1 phòng khách, 1 phòng bếp, 4PN, 5WC... Thiết kế hiện đại, sạch sẽ thoáng mát.
 Địa chỉ: Đường Trường Lưu, Phường Long TRường, Q9
-LH: 0388668882 gặp Tâm ( zalo ) xem nhà"	True	False	True	False
+LH: 0388668882 gặp Tâm ( zalo ) xem nhà"	False	False	True	False	đường Trường Lưu, Phường Long Trường, Quận 9
 bán nhà ở và kinh doanh thuận tiện	8.3 tỷ	https://batdongsan.vn/ban-nha-o-va-kinh-doanh-thuan-tien-r285064	150	3.0	3.0		"Bán nhà 1 trệt 1 lầu và 3 căn phòng trọ ngay trung tâm Mỹ Phước 3, Bến Cát Bình Dương.
 - Ngay đường NE4 Phường Chánh Phú Hòa, Bến Cát Tp Bình Dương.
 - Vị trí như trên hình, vừa đất, vừa nhà mà giá chỉ từ: 1,9 tỷ/căn, bao gồm:
@@ -567,7 +567,7 @@ bán nhà ở và kinh doanh thuận tiện	8.3 tỷ	https://batdongsan.vn/ban-n
 - Đã có sổ, cọc là công chứng ngay.
 - Đất trung tâm phường, đối diện khu công nghiệp Mỹ Phước 3, cách bến xe miền Đông Bình Thạnh chưa tới 40Km.
 - Vị trí sầm uất, trung tâm, ngay bên cạnh và đối diện là: Khu nhà phố, biệt thự, tiệm vàng, cafe, cửa hàng xe, chợ, nhà hàng, khu công nghiệp.
-- Liên Hệ: 0394054892 ( Đoàn Đầu Đất)"	False	False	True	False
+- Liên Hệ: 0394054892 ( Đoàn Đầu Đất)"	False	True	True	False	đường NE4, Phường Chánh Phú Hòa, Bến Cát, Bình Dương
 Đất đẹp mặt tiền kinh doanh Bùi Tá Hán Q2, 14.5tỷ, ĐB, sổ vuông, tiện ích đầy đủ	1.9 tỷ	https://batdongsan.vn/dat-dep-mat-tien-kinh-doanh-bui-ta-han-q2-145ty-db-so-vuong-tien-ich-day-du-r285063	71	0.0	0.0	('10.7615203', '106.6750963')	"Địa chỉ : mặt tiền Bùi Tá Hán, An Phú, Q2
 Diện tích: 4x17,8m = 71,5m2 (CN)
 Kết cấu: Đất trống tiện xây. Khu vực xây trệt, 2 lầu, Sân thượng
@@ -575,8 +575,8 @@ Hướng: ĐB
 Pháp lý : SHCC
 Giá chào bán: 14,5 tỷ
 Thông qua Cao Đức Lân, Nguyễn Hoàng nên thuận tiện di chuyển tất cả các quận
-LH Tâm 0815813400 để xem vị trí"	False	False	True	False
-BÁN NHÀ PHỐ LÊ TRỌNG TẤN 68M - 04 TẦNG - MT 6.7M - NGÕ THÔNG Ô TÔ - DÒNG TIỀN 360TR. LH: 0393838449	14.5 tỷ	https://batdongsan.vn/ban-nha-pho-le-trong-tan-68m-04-tang-mt-67m-ngo-thong-o-to-dong-tien-360tr-lh-0393838449-r285062	67	3.0	3.0		"+ Chủ nhà cần bán gấp nhà phố Lê Trọng Tấn -tt quận Thanh Xuân 67m - 04 tầng - mặt tiền 6m -ngõ ô tô thông - dòng tiền 360 triệu.
+LH Tâm 0815813400 để xem vị trí"	False	False	True	True	Bùi Tá Hán, An Phú, Quận 2
+BÁN NHÀ PHỐ LÊ TRỌNG TẤN 68M - 04 TẦNG - MT 6.7M - NGÕ THÔNG Ô TÔ - DÒNG TIỀN 360TR. LH: 0393838449	14.5 tỷ	https://batdongsan.vn/ban-nha-pho-le-trong-tan-68m-04-tang-mt-67m-ngo-thong-o-to-dong-tien-360tr-lh-0393838449-r285062	67	4.0	0.0		"+ Chủ nhà cần bán gấp nhà phố Lê Trọng Tấn -tt quận Thanh Xuân 67m - 04 tầng - mặt tiền 6m -ngõ ô tô thông - dòng tiền 360 triệu.
 
 + Trung tâm quận Thanh Xuân gần các tuyến phố lớn: Vương Thừa Vũ,Trường Chinh, Tôn Thất Tùng, Hoàng Văn Thái, Giải Phóng vài bước ra mặt phố 6 làn ô tô vỉa hè 5m.
 
@@ -592,7 +592,7 @@ BÁN NHÀ PHỐ LÊ TRỌNG TẤN 68M - 04 TẦNG - MT 6.7M - NGÕ THÔNG Ô TÔ
 Liên hệ: Mr. Thái Sơn chuyên nhà đẹp Thanh Xuân-Đống Đa
 Để được xem nhà và tư vấn miễn phí 24/7
 
-Gọi ngay: 0393838449 (Zalo)"	True	True	True	True
+Gọi ngay: 0393838449 (Zalo)"	False	True	True	False	Lê Trọng Tấn, Quận Thanh Xuân
 BÁN NHÀ PHỐ CHÙA BỘC 48M - 04 TẦNG - NGÕ Ô TÔ - 04 NGỦ Ở NGAY. LH: 0393838449	10.5 tỷ	https://batdongsan.vn/ban-nha-pho-chua-boc-48m-04-tang-ngo-o-to-04-ngu-o-ngay-lh-0393838449-r285061	48	4.0	0.0		"+ Chủ nhà cần bán gấp nhà phố -tt quận Đống Đa 67m - 04 tầng - mặt tiền 6.7m -ngõ ô tô vài bước ra phố.
 
 + Trung tâm quận Đống Đa gần các tuyến phố lớn: Tây Sơn, Tôn Thất Tùng, Phạm Ngọc Thạch, Thái Hà vài bước ra vành đai 2.
@@ -609,7 +609,7 @@ BÁN NHÀ PHỐ CHÙA BỘC 48M - 04 TẦNG - NGÕ Ô TÔ - 04 NGỦ Ở NGAY. L
 Liên hệ: Mr. Thái Sơn chuyên nhà đẹp Thanh Xuân-Đống Đa
 Để được xem nhà và tư vấn miễn phí 24/7
 
-Gọi ngay: 0393838449 (Zalo)"	True	False	True	False
+Gọi ngay: 0393838449 (Zalo)"	True	False	True	False	đường Chùa Bộc, quận Đống Đa
 Bán nhà đẹp 3 lầu mặt tiền Đường số gần đường Phạm Hùng P.4 Quận 8	6 tỷ	https://batdongsan.vn/ban-nha-dep-3-lau-mat-tien-duong-so-gan-duong-pham-hung-p4-quan-8-r285059	75	5.0	6.0		"Bán nhà đẹp 3 lầu mặt tiền Đường số gần đường Phạm Hùng P.4 Quận 8
 + Diện tích: 5 x 15m
 + Hiện trạng: Nhà còn mới, xây dựng BTCT kiên cố, gồm 3 lầu, sân thượng trước + sau, 5PN, 6WC, bếp, đầy đủ tiện nghi.
@@ -621,9 +621,9 @@ Bán nhà đẹp 3 lầu mặt tiền Đường số gần đường Phạm Hùn
 Liên hệ: 0933 862 860 Ms Sương
 Tư vấn pháp lý & xem nhà miễn phí
 Hỗ trợ vay ngân hàng 80% giá trị nhà
-Nhận ký gửi cho thuê nhà đất các Quận TP.HCM"	False	True	True	False
+Nhận ký gửi cho thuê nhà đất các Quận TP.HCM"	True	True	True	False	đường số, Phường 4, Quận 8
 Bán gấp gấp	15.2 tỷ	https://batdongsan.vn/ban-gap-gap-r285058	na	4.0	4.0		"Do không có nhu cầu ở nữa nên cần bán gấp
-Giá cả còn thương lượng cho anh chị nào có thiện chí mua ở"	False	False	False	False
+Giá cả còn thương lượng cho anh chị nào có thiện chí mua ở"	False	False	False	False	na
 Bán nhà 2 lầu vị trí đẹp mặt tiền Đường số 5 Phường 4 Quận 8	Thỏa thuận	https://batdongsan.vn/ban-nha-2-lau-vi-tri-dep-mat-tien-duong-so-5-phuong-4-quan-8-r285057	75	5.0	3.0		"Bán nhà 2 lầu vị trí đẹp mặt tiền Đường số 5 Phường 4 Quận 8
 + Diện tích: 5 x 15m
 + Hiện trạng: Nhà 1 trệt, 2 lầu, sân thượng, 5PN, 3WC,…
@@ -635,7 +635,7 @@ Bán nhà 2 lầu vị trí đẹp mặt tiền Đường số 5 Phường 4 Qu�
 Liên hệ: 0933 862 860 Ms Sương
 Tư vấn pháp lý & xem nhà miễn phí
 Hỗ trợ vay ngân hàng 80% giá trị nhà
-Nhận ký gửi cho thuê nhà đất các Quận TP.HCM"	False	False	True	False
+Nhận ký gửi cho thuê nhà đất các Quận TP.HCM"	False	True	True	False	Đường số 5, Phường 4, Quận 8
 (VAT13) BÁN NHÀ 3 TẦNG HẺM OTO ĐƯỜNG 2/4 - VẠN THẮNG	13 tỷ	https://batdongsan.vn/vat13-ban-nha-3-tang-hem-oto-duong-24-van-thang-r285053	53	3.0	3.0		"(VAT13) BÁN NHÀ 3 TẦNG HẺM OTO ĐƯỜNG 2/4 - VẠN THẮNG
 - Diện tích 52.9m2 full ODT
 - Ngang 4m. Hướng Tây Bắc
@@ -643,7 +643,7 @@ Nhận ký gửi cho thuê nhà đất các Quận TP.HCM"	False	False	True	Fals
 - Kết cấu 1 trệt 2 lầu với 3pn, 3wc, nhà bếp, p.khách, sân thượng, sân để xe, ban công,....
 - Cách sông Kim Bồng 100m, cách đường 2/4 khoảng 400m, cách tiểu học Vạn Thạnh 500m, cách chợ Đầm 700m, cách phòng khám đa khoa Tín Đức 650m, cách biển 1.5km,....
 =>> Giá bán 3 tỷ
-=>> LH 0935785259"	True	False	True	False
+=>> LH 0935785259"	False	False	True	False	đường 2/4, Vạn Thạnh
 DP21) BÁN NHÀ CẤP 4 HẺM 3M ĐƯỜNG HƯƠNG LỘ 45 - XÃ DIÊN PHÚ	3 tỷ	https://batdongsan.vn/dp21-ban-nha-cap-4-hem-3m-duong-huong-lo-45-xa-dien-phu-r285051	83	2.0	1.0		"(DP21) BÁN NHÀ CẤP 4 HẺM 3M ĐƯỜNG HƯƠNG LỘ 45 - XÃ DIÊN PHÚ GẦN VĨNH PHƯƠNG
 - Diện tích 83.6m2 full ONT
 - Ngang 5m. Hướng Đông Bắc
@@ -651,7 +651,7 @@ DP21) BÁN NHÀ CẤP 4 HẺM 3M ĐƯỜNG HƯƠNG LỘ 45 - XÃ DIÊN PHÚ	3 
 - Thiết kế 2 phòng ngủ , 1wc, bếp, phòng khách, sân để xe,....
 - Vị trí cách Hương Lộ 45 khoảng 300m, cách thôn Trung Vĩnh Phương 500m, cách sông 300m, cách chợ Vĩnh Phương 1.4km, cách trường tiểu học Diên Phú 1.7km,...
 =>> Giá bán 930tr bớt lộc
-=>> Liên Hệ : 0935785259"	False	False	True	False
+=>> Liên Hệ : 0935785259"	False	False	True	False	Đường Hương Lộ 45, Xã Diên Phú
 (VN81) BÁN NHÀ 3 TẦNG MẶT TIỀN ĐƯỜNG 8M SAU LƯNG KĐT VĨNH ĐIỀM TRUNG	930 triệu	https://batdongsan.vn/vn81-ban-nha-3-tang-mat-tien-duong-8m-sau-lung-kdt-vinh-diem-trung-r285050	58	3.0	3.0	('12.2655691', '109.165875')	"(VN81) BÁN NHÀ 3 TẦNG MẶT TIỀN ĐƯỜNG 8M SAU LƯNG KĐT VĨNH ĐIỀM TRUNG
 - Diện tích 58.3m2 full ONT
 - Ngang 5m vuông vức.
@@ -661,7 +661,7 @@ DP21) BÁN NHÀ CẤP 4 HẺM 3M ĐƯỜNG HƯƠNG LỘ 45 - XÃ DIÊN PHÚ	3 
 - Vị trí cách sông 200m, cách bệnh viện đa khoa 750m, cách siêu thị 900m, cách đường Cầu Dứa Phú Nông 200m, cách chợ Vĩnh Ngọc 1.3km, cách trường Quốc Tế 600m,...
 - Thích hợp vừa ở vừa kinh doanh nhỏ, đầu tư cho thuê,...
 =>>Giá bán 3.3 tỷ
-=>> Liên Hệ : 0705017559 - 093785259"	False	False	True	True
+=>> Liên Hệ : 0705017559 - 093785259"	False	True	True	False	đường 8m sau longing KĐT Vĩnh Điềm Trung
 Bán Khách Sạn tại Phường Bình Thọ, Tp. Thủ Đức. dt 215m²	"Giá bán
 Dưới 500 triệu
 Từ 500 - 800 triệu
@@ -673,14 +673,14 @@ Từ 5 - 7 tỷ
 Từ 7 - 10 tỷ
 Từ 10 - 20 tỷ
 Từ 20 - 30 tỷ
-Trên 30 tỷ"	https://batdongsan.vn/ban-khach-san-tai-phuong-binh-tho-tp-thu-duc-dt-215m-r285048	215	0.0	0.0		"Bán Khách Sạn tại Phường Bình Thọ, Tp. Thủ Đức. dt 215m²
+Trên 30 tỷ"	https://batdongsan.vn/ban-khach-san-tai-phuong-binh-tho-tp-thu-duc-dt-215m-r285048	215	18.0	0.0		"Bán Khách Sạn tại Phường Bình Thọ, Tp. Thủ Đức. dt 215m²
 - Quy mô: 1 Hầm + Trệt + Lửng + 2 Lầu + Sân thượng. có 18 phòng đang kinh doanh.
 - Diện tích: 12m x 18m = 215m², diện tích sàn sử dụng 760m².
 - Pháp lý : Sổ hồng riêng + Hoàn công đầy đủ
 - Khách sạn vị trí đẹp thuộc khu vực trung tâm Quận Thủ Đức cũ, đường xe tải vào, khu dân cư đông đúc, sầm uất, nhiều nhà hàng, quán xá sang trọng, có hệ thống đường bàn cờ thông từ Nguyễn Khuyến, Chu Mạnh Trinh, Hữu Nghị... Nên lượng khách đến rất ổn định.
 - Hiện tại đang cho thuê kinh doanh hợp đồng 5 năm.
 - Giá bán : 25 tỷ. ( thương lượng )
-Liên Hệ Em Long 0898 408 677 để được xem và mua nhanh nhất!! Mong tiếp khách thiện chí"	False	True	True	False
+Liên Hệ Em Long 0898 408 677 để được xem và mua nhanh nhất!! Mong tiếp khách thiện chí"	True	True	True	False	Phường Bình Thọ, Thành phố Thủ Đức
 Bán Khách Sạn tại Phường Bình Thọ, Tp. Thủ Đức. dt 215m²	25 tỷ	https://batdongsan.vn/ban-khach-san-tai-phuong-binh-tho-tp-thu-duc-dt-215m-r285047	215	0.0	0.0		"Bán Khách Sạn tại Phường Bình Thọ, Tp. Thủ Đức. dt 215m²
 - Quy mô: 1 Hầm + Trệt + Lửng + 2 Lầu + Sân thượng. có 18 phòng đang kinh doanh.
 - Diện tích: 12m x 18m = 215m², diện tích sàn sử dụng 760m².
@@ -688,8 +688,8 @@ Bán Khách Sạn tại Phường Bình Thọ, Tp. Thủ Đức. dt 215m²	25 t�
 - Khách sạn vị trí đẹp thuộc khu vực trung tâm Quận Thủ Đức cũ, đường xe tải vào, khu dân cư đông đúc, sầm uất, nhiều nhà hàng, quán xá sang trọng, có hệ thống đường bàn cờ thông từ Nguyễn Khuyến, Chu Mạnh Trinh, Hữu Nghị... Nên lượng khách đến rất ổn định.
 - Hiện tại đang cho thuê kinh doanh hợp đồng 5 năm.
 - Giá bán : 25 tỷ. ( thương lượng )
-Liên Hệ Em Long 0898 408 677 để được xem và mua nhanh nhất!! Mong tiếp khách thiện chí"	False	True	True	False
-BÁN NHÀ PHỐ TÂY SƠN 52M - 05 TẦNG - Ô TÔ TRÁNH - VỈA HÈ KINH DOANH - 04 NGỦ Ở NGAY. LH: 0393838449	25 tỷ	https://batdongsan.vn/ban-nha-pho-tay-son-52m-05-tang-o-to-tranh-via-he-kinh-doanh-04-ngu-o-ngay-lh-0393838449-r285045	52	4.0	1.0		"+ Chủ nhà cần bán gấp nhà phố Tây Sơn -tt quận Đống Đa 52m - 05 tầng - ô tô tránh vỉa hè kinh doanh ngày đêm vài bước ra phố.
+Liên Hệ Em Long 0898 408 677 để được xem và mua nhanh nhất!! Mong tiếp khách thiện chí"	False	True	True	False	Phường Bình Thọ, Tp. Thủ Đức
+BÁN NHÀ PHỐ TÂY SƠN 52M - 05 TẦNG - Ô TÔ TRÁNH - VỈA HÈ KINH DOANH - 04 NGỦ Ở NGAY. LH: 0393838449	25 tỷ	https://batdongsan.vn/ban-nha-pho-tay-son-52m-05-tang-o-to-tranh-via-he-kinh-doanh-04-ngu-o-ngay-lh-0393838449-r285045	52	4.0	0.0		"+ Chủ nhà cần bán gấp nhà phố Tây Sơn -tt quận Đống Đa 52m - 05 tầng - ô tô tránh vỉa hè kinh doanh ngày đêm vài bước ra phố.
 
 + Trung tâm quận Đống Đa gần các tuyến phố lớn: Thái Hà, Tôn Thất Tùng, Phạm Ngọc Thạch, Nguyễn Trãi, Hoàng Cầu vài bước ra ngã tư sở.
 
@@ -705,13 +705,13 @@ BÁN NHÀ PHỐ TÂY SƠN 52M - 05 TẦNG - Ô TÔ TRÁNH - VỈA HÈ KINH DOANH
 Liên hệ: Mr. Thái Sơn chuyên nhà đẹp Thanh Xuân-Đống Đa
 Để được xem nhà và tư vấn miễn phí 24/7
 
-Gọi ngay: 0393838449 (Zalo)"	True	False	True	False
+Gọi ngay: 0393838449 (Zalo)"	False	False	True	False	Tây Sơn, Quận Đống Đa
 BÁN NHÀ 2 TẦNG RẺ NHẤT TÂN PHÚ,5.2Mx9.6M, KẾ CỘNG HOÀ, HXH, SHR, CHỈ 3.35TỶ	8.6 tỷ	https://batdongsan.vn/ban-nha-2-tang-re-nhat-tan-phu52mx96m-ke-cong-hoa-hxh-shr-chi-335ty-r285044	50	2.0	2.0		"* Mô tả:
 ** Vị trí: Trung tâm quận Tân Phú, trên mặt đường Trường Chinh, gần Chế Lan Viên, Cộng Hoà, Tân Kỳ Tân Quý, Tân Sơn Nhì.
 ** Kết cấu: Nhà 2 tầng, 2PN, 2WC, thiết bị điện nước mới tinh, máy năng lượng mặt trời mới lắp, máy lạnh xịn, chủ tặng hết nội thất, nhà mới đẹp xách vali vào ở thôi .
 ** Tiện ich: Vài bước ra đường Trường
 Chinh, cách sân bay Tân Sơn Nhất 10 phút, trung tâm Quận 1 chỉ 15 phút.
-Pháp lý chuẩn, SHR."	False	False	True	False
+Pháp lý chuẩn, SHR."	False	False	True	False	Trường Chinh, Quận Tân Phú
 Nhà đẹp Yên Nghia - Hà Đông 30m2 - Ô TÔ tránh chỉ 10m, giá 2,2 tỷ	3.35 tỷ	https://batdongsan.vn/nha-dep-yen-nghia-ha-dong-30m2-o-to-tranh-chi-10m-gia-22-ty-r285043	30	0.0	0.0	('20.9551855', '105.758011')	"CẦN BÁN GẤP - NHÀ GIÁ RẺ YÊN NGHĨA HÀ ĐÔNG - VỊ TRÍ ĐẸP
 Nhà đẹp Yên Nghia - Hà Đông 30m2 - Ô TÔ tránh chỉ 10m, giá 2,2 tỷ
 
@@ -719,8 +719,8 @@ Nhà đẹp Yên Nghia - Hà Đông 30m2 - Ô TÔ tránh chỉ 10m, giá 2,2 t�
 - Nhà xây mới đẹp lung linh. Chủ nhà lựa chọn mẫu thiết kế mới nhất năm 2023, nội thất hoàn thiện chất lượng tốt.
 - Vị trí trung tâm của khu vực, đường thông ngõ thoáng, cách ô tô tránh 10m rất thuận tiện
 - Sổ đỏ trao tay, pháp lý chuẩn
-☎️Liên hệ em Dương: 0914450004 (miễn trung gian, môi giới)"	True	False	True	False
-KĐT Văn Khê - Hà Đông: Nhà 6 tầng PHÂN LÔ VỈA HÈ 50m2, OTO tránh đỗ chỉ 8,8 tỷ	2.2 tỷ	https://batdongsan.vn/kdt-van-khe-ha-dong-nha-6-tang-phan-lo-via-he-50m2-oto-tranh-do-chi-88-ty-r285042	50	4.0	1.0	('20.9551855', '105.758011')	"CHỦ NHÀ CẦN BÁN GẤP, GIÁ RẺ NHẤT KHU VỰC, CHỦ NHÀ LÀM XÂY DỰNG THIẾT KẾ CỰC ĐẸP KẾT CẤU KIÊN CỐ - NỘI THẤT CAO CẤP
+☎️Liên hệ em Dương: 0914450004 (miễn trung gian, môi giới)"	False	False	True	False	Yên nghĩa, Hà Đông
+KĐT Văn Khê - Hà Đông: Nhà 6 tầng PHÂN LÔ VỈA HÈ 50m2, OTO tránh đỗ chỉ 8,8 tỷ	2.2 tỷ	https://batdongsan.vn/kdt-van-khe-ha-dong-nha-6-tang-phan-lo-via-he-50m2-oto-tranh-do-chi-88-ty-r285042	50	4.0	0.0	('20.9551855', '105.758011')	"CHỦ NHÀ CẦN BÁN GẤP, GIÁ RẺ NHẤT KHU VỰC, CHỦ NHÀ LÀM XÂY DỰNG THIẾT KẾ CỰC ĐẸP KẾT CẤU KIÊN CỐ - NỘI THẤT CAO CẤP
 KĐT Văn Khê - Hà Đông: Nhà 6 tầng PHÂN LÔ VỈA HÈ 50m2, OTO tránh đỗ chỉ 8,8 tỷ
 
 + Diện tích 50m2, phân lô vỉa hè
@@ -728,7 +728,7 @@ KĐT Văn Khê - Hà Đông: Nhà 6 tầng PHÂN LÔ VỈA HÈ 50m2, OTO tránh 
 + Vị trí trung tâm kinh doanh, văn phòng ở cực sướng. Tiện ích xung quanh nhà chỉ vài bước chân.
 + Cơ sở hạ tầng đồng bộ, công viên, trung tâm thương mại, chợ, trường học các cấp.
 + Sổ đỏ chính chủ, công chứng ngay
-☎️Liên hệ em Dương: 0914450004 (miễn trung gian, môi giới)"	True	True	True	False
+☎️Liên hệ em Dương: 0914450004 (miễn trung gian, môi giới)"	False	True	True	False	KĐT Văn Khê, Quận Hà Đông
 Bán 87m2 căn góc, sẻ khe nhỏ tại dự án Shophouse Thuận An, Trâu Quỳ	8.8 tỷ	https://batdongsan.vn/ban-87m2-can-goc-se-khe-nho-tai-du-an-shophouse-thuan-an-trau-quy-r285041	87	0.0	0.0	('21.011736149999997', '105.94085687809905')	"Bán 87m2 căn góc, sẻ khe nhỏ tại dự án Shophouse Thuận An, Trâu Quỳ. Vị Trí Trung Tâm Huyện Gia Lâm.
 
 + Diện tích: 87m2, mặt tiền 6m, hậu 6m, dài 15m, hướng Đông Nam.
@@ -740,8 +740,8 @@ Bán 87m2 căn góc, sẻ khe nhỏ tại dự án Shophouse Thuận An, Trâu Q
 + Pháp lý: Sổ đỏ chính chủ, không cầm cố, sẵn sàng công chứng, hỗ trợ vay bank.
 
 Liên hệ trước 30 phút để xem đất: 0925333999
-ThuyAn.Net – Cam Kết Bán Đúng Giá - Không Thu Phí Người Mua - Hỗ Trợ Thủ Tục Sang Tên!"	False	False	True	False
-Bán nhà Mỗ Lao, Hà Đông ngõ rộng ô tô tránh, 48m2, 8.1 tỷ	13 tỷ	https://batdongsan.vn/ban-nha-mo-lao-ha-dong-ngo-rong-o-to-tranh-48m2-81-ty-r285039	48	0.0	4.0	('20.9821715', '105.7842539')	"+ Nhà nằm gần khu dịch vụ Mỗ Lao, thông hai đầu ngõ ô tránh.
+ThuyAn.Net – Cam Kết Bán Đúng Giá - Không Thu Phí Người Mua - Hỗ Trợ Thủ Tục Sang Tên!"	False	False	True	False	Vị trí Trung Tâm Huyện Gia Lâm, dự án Shophouse Thuận An, Trâu Quỳ
+Bán nhà Mỗ Lao, Hà Đông ngõ rộng ô tô tránh, 48m2, 8.1 tỷ	13 tỷ	https://batdongsan.vn/ban-nha-mo-lao-ha-dong-ngo-rong-o-to-tranh-48m2-81-ty-r285039	48	5.0	4.0	('20.9821715', '105.7842539')	"+ Nhà nằm gần khu dịch vụ Mỗ Lao, thông hai đầu ngõ ô tránh.
 + Diện tích 48m2, nhà 5 tầng chịu lực chắc chắn, thiết kế mỗi tầng 2 ngủ.
 + Cạnh nhà có sân chơi nhà văn hóa, chiều chiều đông vui người ra tập thể dục.
 + Khu phân lô cán bộ, hàng xóm toàn giáo viên, bác sĩ, cán bộ về hưu, dân trí cao ở rất thích.
@@ -750,7 +750,7 @@ Bán nhà Mỗ Lao, Hà Đông ngõ rộng ô tô tránh, 48m2, 8.1 tỷ	13 tỷ
 + Chủ nhà cô Tâm giáo viên cấp 3 về hưu, nay bán đi hồi hương.
 + Giá 8.1 tỷ ( có thương lượng với khách thiện chí)
 + Sổ đỏ chính chủ, vuông đẹp.
-+ Liên hệ E Quân Nhà Đẹp 0934503893 xem nhà ngay."	True	False	True	False
++ Liên hệ E Quân Nhà Đẹp 0934503893 xem nhà ngay."	False	False	True	False	ngõ rộng ô.toBeo, Mỗ Lao, Hà Đông
 Nhà Phường 12 Gò Vấp sát mặt tiền, hẻm 6m, sổ A4 , 94m2 3 tầng, 9.9 tỷ	8.1 tỷ	https://batdongsan.vn/nha-phuong-12-go-vap-sat-mat-tien-hem-6m-so-a4-94m2-3-tang-99-ty-r285038	94	3.0	4.0	('10.8351122', '106.6396031')	"MS 32923
 * Vị trí: nhà hẻm 1 sẹc đường Bùi Quang Là, phường 12, Gò Vấp, sát mặt tiền.
 * Diện tích 94m2, hình sổ vuông thành sắc cạnh, đầy đủ công năng sử dụng.
@@ -758,19 +758,19 @@ Nhà Phường 12 Gò Vấp sát mặt tiền, hẻm 6m, sổ A4 , 94m2 3 tầng
 * Nhà có diện tích lớn nên các phòng được thiết kế rộng rãi.
 * Đường trước nhà 6m.
 * Hàng xóm thân thiện, dân trí.
-* Sổ hồng riêng, không quy hoạch."	False	False	True	False
+* Sổ hồng riêng, không quy hoạch."	False	False	True	False	đường Bùi Quang Là, phường 12, Quận Gò Vấp
 Bán nhà Thanh Bình - Mộ Lao - 50m ra phố	9.9 tỷ	https://batdongsan.vn/ban-nha-thanh-binh-mo-lao-50m-ra-pho-r285035	30	3.0	0.0		"Vì 1 số lý do, khách không về công chứng được, chủ tiếp tục gửi bán
 Căn hộ THANH BÌNH - MỘ LAO - khu vực trung tâm, 50M ra phố, 100m ra Cầu Trắng, phố Trần Phú.
 Dt: 30m2, 5 tầng, 3 ngủ, mặt tiền 7,1m
 Nhà đẹp ở ngay, lợi thế mặt tiền lớn, khu vực tiện ích, văn minh, an ninh tốt
 Sổ đỏ đẹp, giao dịch ngay
 Chào bán 3 tỷ 85 ( Giá chốt thương lượng )
-Liên hệ 0372550562"	False	False	False	True
+Liên hệ 0372550562"	False	False	True	False	khu vực trung tâm, 50M ra phố, phố Trần Phú, Thanh Bình, Mộ Lao
 Nhà mặt phố Tô Hiệu, 2 thoáng-vỉa hè-KD, 35m2 giá chỉ 9 tỷ	3.85 tỷ	https://batdongsan.vn/nha-mat-pho-to-hieu-2-thoang-via-he-kd-35m2-gia-chi-9-ty-r285034	35	4.0	3.0	('20.9709214', '105.7823164')	"+ Nhà mặt phố Tô Hiệu, bên cạnh là lối đi của Trung tâm y tế Phường nên nhà 2 thoáng vĩnh viễn, vỉa hè rộng thênh thang, kinh doanh rất đỉnh, đường trước nhà ô tô tránh, dừng đỗ bất kỳ giờ nào. Phố Tô Hiệu thông sang Lê Lai, Lê Lợi, Lê Hồng Phong .....Khu vực trung tâm Hà Đông, tiện ích không thiếu thứ gì, an sinh đỉnh. Vị trí trung tâm phố cổ Hà Đông cực hiếm nhà bán.
 + Nhà đang kinh doanh bán ăn sáng và ăn trưa doanh thu trung bình 50 đến 60 triệu mỗi tháng.
 + Nhà hiện 4 tầng đã cũ khách mua về xây toà nhà 5, 6 tầng tháng máy vừa ở vừa kinh doanh hay cho thuê giá trị rất cao. Hoặc khách chưa có điều kiện xây mới thì nhà hiện có vẫn ở và kinh doanh rất ổn.
 + Sổ vuông đét không lỗi phong thủy, sẵn sàng giao dịch.
-+ Liên hệ ngay anh Bình SĐT 0945936168 để được tư vấn và xem nhà trực tiếp."	True	False	True	False
++ Liên hệ ngay anh Bình SĐT 0945936168 để được tư vấn và xem nhà trực tiếp."	False	True	True	False	Phố Tô Hiệu, Quận Hà Đông
 PHƯỚC BỬU XUYÊN MỘC BÀ RỊA VŨNG TÀU	9 tỷ	https://batdongsan.vn/phuoc-buu-xuyen-moc-ba-ria-vung-tau-r285033	370	3.0	2.0	('14.509164', '108.2477728')	"Chính chủ
 Cần Bán Mảnh đất có nhà đẹp.
 Dt 7x53 100TC Tổng 370m
@@ -779,16 +779,16 @@ Gần trung tâm hành chính TT phước bửu, cách biển hồ Tràm 10phut
 Gần công viên Bờ hồ ,bệnh Viện .Trường học.
 Giá 4Tỷ TL
 AC có Nhu cầu Liên hệ e chính chủ
-0365271331 đức trí."	False	False	True	False
-Nhà mới đẹp, đối diện Aeon Mall và gần chợ Sơn Kỳ, 2.95 tỷ	4 tỷ	https://batdongsan.vn/nha-moi-dep-doi-dien-aeon-mall-va-gan-cho-son-ky-295-ty-r285032	36	2.0	2.0	('10.8060741', '106.6225842')	Nhà mới đẹp nằm đối diện Aeon Tân Phú, đi bộ ra công viên và Chợ Sơn Kỳ chỉ 2 phút, tiện ích dịch vụ xung quanh đầy đủ. Nhà kết cấu 1 trệt 1 lầu, gồm 2 phòng ngủ, 2 toilet. Nhà có chỗ để thờ cúng, ban công thoáng mát. Gia đình để lại nội thất trong nhà. Sổ chuẩn vuông đẹp, pháp lý rõ ràng. Liên hệ anh Võ: 0909 100 817. Không tiếp trung gian.	False	False	True	False
-Bán nhà ngõ 3 phố Nhân Hòa, phường Nhân Chính, 39m2 nhà đẹp 4 tầng giá 6.5 tỷ	2.95 tỷ	https://batdongsan.vn/ban-nha-ngo-3-pho-nhan-hoa-phuong-nhan-chinh-39m2-nha-dep-4-tang-gia-65-ty-r285031	39	4.0	2.0		"* Nhà cần bán thuộc ngõ 3 phố Nhân Hòa, phường Nhân Chính, quận Thanh Xuân, Hà Nội. Ngôi nhà này được đánh giá là thuộc phân khúc hiếm khi có mức giá và vị trí đắc địa tại trung tâm Phường Nhân Chính, một nơi đáng sống và tiện ích ngập tràn.
+0365271331 đức trí."	True	False	True	False	TT Phước Bửu, gần Bãi hồ Tràm, gần Công viên Bờ hồ, gần Bệnh viện
+Nhà mới đẹp, đối diện Aeon Mall và gần chợ Sơn Kỳ, 2.95 tỷ	4 tỷ	https://batdongsan.vn/nha-moi-dep-doi-dien-aeon-mall-va-gan-cho-son-ky-295-ty-r285032	36	2.0	2.0	('10.8060741', '106.6225842')	Nhà mới đẹp nằm đối diện Aeon Tân Phú, đi bộ ra công viên và Chợ Sơn Kỳ chỉ 2 phút, tiện ích dịch vụ xung quanh đầy đủ. Nhà kết cấu 1 trệt 1 lầu, gồm 2 phòng ngủ, 2 toilet. Nhà có chỗ để thờ cúng, ban công thoáng mát. Gia đình để lại nội thất trong nhà. Sổ chuẩn vuông đẹp, pháp lý rõ ràng. Liên hệ anh Võ: 0909 100 817. Không tiếp trung gian.	False	False	True	False	đối diện Aeon Tân Phú, gần chợ Sơn Kỳ
+Bán nhà ngõ 3 phố Nhân Hòa, phường Nhân Chính, 39m2 nhà đẹp 4 tầng giá 6.5 tỷ	2.95 tỷ	https://batdongsan.vn/ban-nha-ngo-3-pho-nhan-hoa-phuong-nhan-chinh-39m2-nha-dep-4-tang-gia-65-ty-r285031	39	4.0	1.0		"* Nhà cần bán thuộc ngõ 3 phố Nhân Hòa, phường Nhân Chính, quận Thanh Xuân, Hà Nội. Ngôi nhà này được đánh giá là thuộc phân khúc hiếm khi có mức giá và vị trí đắc địa tại trung tâm Phường Nhân Chính, một nơi đáng sống và tiện ích ngập tràn.
 * Nhà nằm ngay gần UBND phương Nhân Chính, an ninh an toàn đảm bảo. Phố Nhân Hòa nối thông từ phố Quan Nhân ra đường Vũ Trọng Phụng, Ngụy Như Kon Tum, Hoàng Đạo Thúy, Lê Văn Lương đi lại thuận tiện mọi bề.
 * Nhà có diện tích 39m2 mặt tiền 3.6m được xây dựng 4 tầng với kết cấu khung cột chắc chắn. Nhà có diện tích sử dụng từ tầng 1 lên đến 50m2, trang bị nội thất trong nhà đầy đủ và hiện đại. Công năng sử dụng đáp ứng hầu hết các nhu cầu của gia chủ, khách mua nhà chỉ việc xách đồ về ở. Thiết kế cụ thể như sau:
 + Tầng 1: Phòng khách, bếp, khu để xe, vệ sinh.
 + Tầng 2,3: Tổng 4 phòng ngủ và vệ sinh.
 + Tầng 4: Phòng thờ, sân phơi đồ rộng rãi thoáng mát.
 * Nhà có pháp lý rõ ràng, sổ đỏ chính chủ sẵn sàng giao dịch. Giá bán hiện tại là 6.5 tỷ.
-* Quan tâm liên hệ điện thoại/zalo: 0963146879 gặp anh Dũng."	False	False	False	False
+* Quan tâm liên hệ điện thoại/zalo: 0963146879 gặp anh Dũng."	False	False	True	False	Phố Nhân Hòa, phường Nhân Chính, quận Thanh Xuân, Hà Nội
 Rẻ, Nhà Trương Định Lô góc,ngõ thông,Kinh doanh DT 32m2, 6 Tầng, MT3.7m, giá nhỉnh 4 tỷ	6.5 tỷ	https://batdongsan.vn/re-nha-truong-dinh-lo-gocngo-thongkinh-doanh-dt-32m2-6-tang-mt37m-gia-nhinh-4-ty-r285029	32	6.0	5.0		"Rẻ, Nhà Trương Định Lô góc,ngõ thông,Kinh doanh DT 32m2, 6 Tầng, MT3.7m, giá nhỉnh 4 tỷ
 + Nhà kinh doanh tốt. chủ xây chất lượng, kỹ thuật , thiết kế đẹp
 
@@ -806,7 +806,7 @@ Ngõ trc nhà trải nhựa sạch đẹp thoáng rộng 5m.
 
 ????Sổ đỏ chính chủ sẵn sàng giao dịch.
 ???? Giá: 4.x Tỷ
-???? Liên hệ: Nguyễn Hiền (Nhà Phố Hà Nội)"	False	True	True	False
+???? Liên hệ: Nguyễn Hiền (Nhà Phố Hà Nội)"	False	True	True	False	Trương Định
 Bán nhà đường âu cơ khu vực phú tài. thành phố quy nhơn	4680000000 tỷ	https://batdongsan.vn/ban-nha-duong-au-co-khu-vuc-phu-tai-thanh-pho-quy-nhon-r285028	52	3.0	2.0		"????PHONG PHÁT LAND ????. MSP : #N202
 (✿◠‿◠) Giá chỉ - - 1Tỷ 5xxx. ✿◕ ‿ ◕✿
 
@@ -823,7 +823,7 @@ Bán nhà đường âu cơ khu vực phú tài. thành phố quy nhơn	46800000
 ????Văn phòng: ₫ường hồ văn dũng. Cầu 2. Phường đống đa. TP quy nhơn. Bình định
 ???? YouTube : phong phát land
 - VUI LÒNG LIÊN HỆ HOẶC TRUY CẬP WEBSITE: https://www.facebook.com/phongphatland85?mibextid=9R9pXO
-ĐỂ BIẾT THÊM THÔNG TIN NHÀ,ĐẤT KHÁC VÀ CHÍNH SÁCH VAY TRẢ GÓP"	True	False	False	False
+ĐỂ BIẾT THÊM THÔNG TIN NHÀ,ĐẤT KHÁC VÀ CHÍNH SÁCH VAY TRẢ GÓP"	False	False	True	False	đường Âu Cơ, Phú Tài, thành phố Quy Nhơn
 Bán nhà khu cao cấp Trần Phú, Ngô Quyền, Hải Phòng Sản phẩm cực hiếm. 74,4m2 Giá: 13 tỷ	1.6 tỷ	https://batdongsan.vn/ban-nha-khu-cao-cap-tran-phu-ngo-quyen-hai-phong-san-pham-cuc-hiem-744m2-gia-13-ty-r285027	74	5.0	5.0	('20.8610352', '106.6888295')	"Bán nhà khu cao cấp Trần Phú, Ngô Quyền, Hải Phòng???? Sản phẩm cực hiếm
 LH Mrs Tâm: 0796-336-866
 Diện tích: 74,4m2, Ngang: 4,96m
@@ -831,14 +831,14 @@ Hướng: Đông tứ trạch
 Nhà thuộc khu cao cấp dân cư văn minh đồng bộ, bảo vệ 24/7, tích hợp mọi tiện ích bán kính 1km khu vực phố trung tâm. Nhà thiết kế công năng sử dụng cao, sàn gỗ nhập khẩu.....
 Sổ đỏ chói lọi
 Giá: 13 tỷ (Có thoả thuận)
-Chi tiết LH Mrs Tâm: 0796-336-866 CDT Group Sàn Bán Nhà Hải Phòng."	False	False	True	False
-Bán nhà MT kinh doanh DT 768 thổ cư 138m2 (X. Thạnh Phú) 3,6 tỉ	13 tỷ	https://batdongsan.vn/ban-nha-mt-kinh-doanh-dt-768-tho-cu-138m2-x-thanh-phu-36-ti-r285026	138	2.0	1.0		"Kèo thơm chủ kẹt bank rất thiện chí bán hạ giá từ 4,150 tỉ xuống còn 3,6 tỉ
+Chi tiết LH Mrs Tâm: 0796-336-866 CDT Group Sàn Bán Nhà Hải Phòng."	False	False	True	False	Trần Phú, Ngô Quyền, Hải Phòng
+Bán nhà MT kinh doanh DT 768 thổ cư 138m2 (X. Thạnh Phú) 3,6 tỉ	13 tỷ	https://batdongsan.vn/ban-nha-mt-kinh-doanh-dt-768-tho-cu-138m2-x-thanh-phu-36-ti-r285026	138	2.0	0.0		"Kèo thơm chủ kẹt bank rất thiện chí bán hạ giá từ 4,150 tỉ xuống còn 3,6 tỉ
 ???????? Bán nhà mặt tiền kinh doanh DT 768 SHR thổ cư 138m2 (X. Thạnh Phú)
 + Toạ lạc tại vị trí đắc địa,Gần chợ,cây xăng thạnh phú
 + Diện tích: 4,2x30m (nở hậu 4,9m)
 + Sổ hồng riêng thổ cư 100%
 + Nhà cấp bốn xây dựng kiên cố gồm: 1 phòng khách,2 phòng ngủ,tolet,nhà bếp .
-+ Vị trí đắc địa thích hợp vừa ở và phù hợp cho việc kinh doanh mọi nghành nghề nails,spa,mở văn phòng công ty..."	False	False	True	True
++ Vị trí đắc địa thích hợp vừa ở và phù hợp cho việc kinh doanh mọi nghành nghề nails,spa,mở văn phòng công ty..."	False	False	True	False	đường X. Thạnh Phú, Phường Thạnh Phú
 Bán nhà ngõ Văn Chương, Đống Đa, gần ô tô, ở ngay 6 tầng 52m2 giá 8 tỷ	3.6 tỷ	https://batdongsan.vn/ban-nha-ngo-van-chuong-dong-da-gan-o-to-o-ngay-6-tang-52m2-gia-8-ty-r285025	52	6.0	4.0		"NGÕ NÔNG THÔNG - GẦN CHỢ - GẦN Ô TÔ- THOÁNG TRƯỚC SAU - Ở KẾT HỢP CHO THUÊ QUÁ ĐẸP.
 - Nhà vị trí cách ô tô 15m, trung tâm quận Đống Đa, gần hồ Linh Quang, Văn Miếu. Ngõ thông Khâm Thiên, Thông Phong, Tôn Đức Thắng… giao thông thuận lợi, đi học, đi làm, đưa đón con cái đều thuận lợi.
 Xung quanh khu vực sầm uất, bạt ngàn tiện ích, chợ dân sinh, trường học… ở quá sướng ( kết hợp cho thuê quá đẹp, mỗi phòng cũng 3-4 triệu, có bãi gửi xe gần)
@@ -847,12 +847,12 @@ Nhà xây tâm huyết chắc chắn khung cột bê tông.
 + Tầng 2,3,4: 2 phòng ngủ, vệ sinh ngoài.
 + Tầng 5: phòng thờ, sân phơi.
 + Tầng tum: téc nước.
-- Sổ đỏ chính chủ, sẵn sàng giao dịch."	True	False	True	False
+- Sổ đỏ chính chủ, sẵn sàng giao dịch."	False	True	True	False	ngõ Văn Chương, Đống Đa
 SÁT ĐƯỜNG NHỰA 6M TRƯỜNG SA, PHƯỜNG 13, PHÚ NHUẬN, 4 TẦNG BTCT, 55M2, 7.x TỶ	8 tỷ	https://batdongsan.vn/sat-duong-nhua-6m-truong-sa-phuong-13-phu-nhuan-4-tang-btct-55m2-7x-ty-r285024	55	5.0	5.0		"- Diện tích: 4 x 14m
 - Kết cấu: 1 trệt 3 lầu BTCT; 5 PN, 5 WC. Phòng khách, bếp, ban công bao rộng
 - Đường đi sạch đẹp, an ninh. Khu vực Lê Văn Sỹ, Trường Sa, Đặng Văn Ngữ
 - Gần chợ Phạm Văn Hai, CoopMart, BV ITO, công an phường
-- Sổ hồng chính chủ, hoàn công đủ, pháp lý chuẩn, công chứng mua bán ngay"	False	False	True	False
+- Sổ hồng chính chủ, hoàn công đủ, pháp lý chuẩn, công chứng mua bán ngay"	False	True	True	False	đường Lê Văn Sỹ, phường 13, quận Phú Nhuận
 Bán dãy trọ 20 phòng, dt 227m² Cn 160.5 m², P. Linh Trung Thủ Đức, giá 14 tỷ	"Giá bán
 Dưới 500 triệu
 Từ 500 - 800 triệu
@@ -872,19 +872,19 @@ Trên 30 tỷ"	https://batdongsan.vn/ban-day-tro-20-phong-dt-227m-cn-1605-m-p-li
 - Vị trí ngay gần ngay Đại học Ngân Hàng, ĐH Sư Phạm Kỹ Thuật, luôn kín phòng
 - Pháp lý : Sổ hồng riêng, hoàn công đủ, khu dân cư hiện hữu, không quy hoạch, công chứng ngay.
 - Giá bán : 14 tỷ. ( TL chính chủ )
-Liên Hệ Em Long 0898 408 677 để được xem và mua nhanh nhất!! Mong tiếp khách thiện chí"	False	True	True	False
+Liên Hệ Em Long 0898 408 677 để được xem và mua nhanh nhất!! Mong tiếp khách thiện chí"	True	True	True	False	đường P. Linh Trung, Quận Thủ Đức
 BÁN NHÀ NGUYỄN TRÃI- NGÃ TƯ SỞ-33M X 5 TẦNG-MỚI KOONG- HÀNG XÓM ROYAL-BAGAC ĐỖ CỬA	14 tỷ	https://batdongsan.vn/ban-nha-nguyen-trai-nga-tu-so-33m-x-5-tang-moi-koong-hang-xom-royal-bagac-d-cua-r285017	33	3.0	4.0	('21.0009593', '105.8139153')	"BÁN NHÀ NGUYỄN TRÃI- NGÃ TƯ SỞ-33M X 5 TẦNG-MỚI KOONG- HÀNG XÓM ROYAL-BAGAC ĐỖ CỬA
 - Ngõ thông ra Chính Kinh, Quan Nhân rất gần, gần chợ,trường học, bãi xe
 - Nhà đẹp long lanh với 3 ngủ 4 wc, phòng nào cũng sáng thoáng
 - Sổ chính chủ
-Liên hệ: 0375851091(zalo)/0934220220"	False	False	True	False
+Liên hệ: 0375851091(zalo)/0934220220"	False	True	True	False	 Nguyễn Trại, Ngã Tư Sở
 Chính chủ bán nhà p.Tân Phong sổ riêng sau lưng GX Phú Hải	4.15 tỷ	https://batdongsan.vn/chinh-chu-ban-nha-ptan-phong-so-rieng-sau-lung-gx-phu-hai-r285016	40	2.0	2.0		"Chính chủ bán nhà p.Tân Phong sổ riêng sau lưng GX Phú Hải
 ❗️Cách đường Nguyễn Ái Quốc 200m, phường Trúng Dũng Biên Hoà Đồng Nai
 ⚠️ Diện tích: 40m2 (nở hậu), sổ hồng riêng
 ⚠️ Hiện trạng: 1 trệt 1 lầu 2phòng ngủ, 2 toilet, phòng thờ, sân để xe, hẻm xe hơi.
 ⚠️ Đang có hợp đồng thuê 4 triệu/ tháng
 ???? Giá bán: 2 tỷ3 ( bớt lộc cho khách thiện chí)
-☎️ Liên hệ: 0934088007"	True	True	True	False
+☎️ Liên hệ: 0934088007"	False	True	True	False	đường Nguyễn Ái Quốc, Phường Trúng Dũng, Biên Hòa, Đồng Nai
 Báo giá cửa Vòm nhựa Composite mới nhất năm 2023	2.3 tỷ	https://batdongsan.vn/bao-gia-cua-vom-nhua-composite-moi-nhat-nam-2023-r285015	na	0.0	0.0		"Báo giá cửa Vòm nhựa Composite mới nhất năm 2023. Cửa nhựa Composite đang được chiếm ưu thế trong kiến trúc thiết kế nội thất hiện nay. Với các tính năng vượt trội như chịu nước tốt, chống mối mọt, chống cong vênh co ngót...Hiện nay có rất nhiều khách hàng vẫn thích cửa Vòm bề mặt giống như cửa gỗ tự nhiên, nên hôm nay Cửa nhựa cửa gỗ sẽ gửi đến quý khách những thông tin bổ ích của cửa Vòm nhựa Composite, mời quý khách hàng tham khảo bài viết dưới đây nhé.
 
 HOTLINE + zalo: 035.312.6411 – 0888.696.029 (NVKD Như Ý)
@@ -1098,23 +1098,23 @@ SHOWROOM 2: 602 Kinh Dương Vương, P.An Lạc, Q.Tân Bình
 
 SHOWROOM 3: 731 Lê Hồng Phong, P.Phước Long, Tp. Nha Trang
 
-SHOWROOM 4: 671 Nguyễn Duy Trinh, Bình Trưng Đông, Quận 2"	False	False	False	False
-Bán nhà Mặt tiền gần CMT8 Phường 7 Tân Bình, gần 60m2 3 Tầng, giá 5 tỷ nhỉnh	Thỏa thuận	https://batdongsan.vn/ban-nha-mat-tien-gan-cmt8-phuong-7-tan-binh-gan-60m2-3-tang-gia-5-ty-nhinh-r285010	na	0.0	1.0		"+ Vài căn ra Mặt tiền Cách mạng tháng 8
+SHOWROOM 4: 671 Nguyễn Duy Trinh, Bình Trưng Đông, Quận 2"	False	False	False	False	False
+Bán nhà Mặt tiền gần CMT8 Phường 7 Tân Bình, gần 60m2 3 Tầng, giá 5 tỷ nhỉnh	Thỏa thuận	https://batdongsan.vn/ban-nha-mat-tien-gan-cmt8-phuong-7-tan-binh-gan-60m2-3-tang-gia-5-ty-nhinh-r285010	na	3.0	0.0		"+ Vài căn ra Mặt tiền Cách mạng tháng 8
 + DT: 60m2, kết cấu 3 tầng vững chắc
 + Hẻm xe hơi gần nhà, an ninh
 + Sổ đẹp, giá chỉ 5 tỷ nhỉnh chút
-+ Khu vực cực nhiều tiện ích trung tâm, gần hồ bơi Cộng Hoà, bệnh viện Thống Nhất, thông đường Bành Văn Trân, 3 phút đi Quận 1, Quận 10, sát công viên Lê Thị Riêng"	True	False	True	False
++ Khu vực cực nhiều tiện ích trung tâm, gần hồ bơi Cộng Hoà, bệnh viện Thống Nhất, thông đường Bành Văn Trân, 3 phút đi Quận 1, Quận 10, sát công viên Lê Thị Riêng"	False	False	True	False	Mặt tiền Cách mạng tháng 8, Phường 7, Quận Tân Bình
 Bán nhà Thạch Bàn, Long Biên, 80m, MT 4.9m, đường ô tô tránh, 6 tỷ 9	5.75 tỷ	https://batdongsan.vn/ban-nha-thach-ban-long-bien-80m-mt-49m-duong-o-to-tranh-6-ty-9-r285005	80	3.0	2.0	('21.0359662', '105.9021921')	"- Bán căn nhà 3 tầng tại tổ 16 phường Thạch Bàn, Long Biên. Diện tích 80m, mặt tiền rộng gần 5m, đường ô tô tránh thông thoáng, kinh doanh hoặc làm văn phòng thuận tiện.
 - Nhà nằm kế khu TĐC Thạch Bàn, đất phân lô vuông đẹp, đường rộng ô tô tránh nhau, dừng đỗ thoải mái. Khu vực phát triển hạ tầng, giao thông thuận tiện thông các ngả, có thể đi Nguyễn Thời Trung hoặc đường Nguyễn Văn Linh cách vài bước chân, thông thoáng ra phố Thạch Bàn hoặc Cổ Linh đi đâu cũng tiện.
 - Hiện trạng nhà 3 tầng cũ, chủ nhà xác định bán đất. Giá thiện chí bán cho người nhiệt tình mua giá trị thửa đất vuông đẹp, mặt tiền rộng, đường thông thoáng kinh doanh tốt.
 - Sổ đỏ sẵn sàng giao dịch.
-- LH: 0904.882258"	True	False	True	True
+- LH: 0904.882258"	False	False	True	False	Tổ 16, Phường Thạch Bàn, Long Biên
 NHÀ GIẢM SÂU VƯỜN LÀI,TÂN PHÚ-HẺM XE TẢI 1 SẸC THÔNG-48m2- 4.6 TỶ(TL)	6.9 tỷ	https://batdongsan.vn/nha-giam-sau-vuon-laitan-phu-hem-xe-tai-1-sec-thong-48m2-46-tytl-r285003	48	2.0	2.0	('20.9560494', '106.8063569')	"- Nhà ngay vị trí cực kì đắc địa con ngay VƯỜN LÀI , TÂN PHÚ với
 - Hẻm xe hơi 1 trục thông tứ tung
 - Kết cấu 1 trệt, 1 lửng với 2 PN, 2 WC
 - Diện tích 48m2 (3 *16m) , nở hậu
 - Chính chủ 1 đời , sổ đẹp , pháp lý chuẩn .
-☎️ Lh: 0899892121 TRANG để xem nhà trực tiếp."	True	False	True	False
+☎️ Lh: 0899892121 TRANG để xem nhà trực tiếp."	False	False	True	False	Vườn Lài, Tân Phú
 Chỉ 2,55 tỷ nhà 5 tầng x 30m2 Yên Nghĩa Hà Đông - cách bến xe Hà Đông 300m, lô góc	Thỏa thuận	https://batdongsan.vn/chi-255-ty-nha-5-tang-x-30m2-yen-nghia-ha-dong-cach-ben-xe-ha-dong-300m-lo-goc-r285000	31	5.0	0.0	('20.9551855', '105.758011')	"NHÀ ĐẸP Ở NGAY, BÁM TRỤC ĐƯỜNG QUANG TRUNG HÀ ĐÔNG, NGÕ THOÁNG RỘNG, GIÁ RẺ
 Chỉ 2,55 tỷ nhà 5 tầng x 30m2 Yên Nghĩa Hà Đông - cách bến xe Hà Đông 300m, lô góc thoáng sáng, nhà đẹp ở ngay.
 
@@ -1122,14 +1122,14 @@ Chỉ 2,55 tỷ nhà 5 tầng x 30m2 Yên Nghĩa Hà Đông - cách bến xe Hà
 + Nhà đẹp ở ngay, thiết kế 5 tầng hiện đại, đầy đủ công năng cho gia đình nhiều thế hệ. Xây dựng kiên cố chắc chắn, bê tông cốt thép.
 + Vị trí thuận tiện, gần đường sắt trên cao, cách 300m ra tới bến xe Yên Nghĩa, trường cấp 1-2-3
 + Pháp lý chuẩn, công chứng ngay
-☎️Liên hệ em Dương: 0914450004 (miễn trung gian, môi giới)"	False	False	True	False
+☎️Liên hệ em Dương: 0914450004 (miễn trung gian, môi giới)"	False	False	True	False	đường Quang Trung, Hà Đông
 Gấp bán GIẢM 1,3 TỶ - Nhà QUẬN 3 – 60m2 - NGANG 5M – Chỉ 5.x tỷ	2.55 tỷ	https://batdongsan.vn/gap-ban-giam-13-ty-nha-quan-3-60m2-ngang-5m-chi-5x-ty-r284992	60	3.0	2.0	('10.7763897', '106.7011391')	"Mô tả:
 - Diện tích 60 m2, ngang 4.8m dài 10m, nở hậu 9m.
 - Nhà 1 trệt 1 lầu, có 3 phòng ngủ.
 - Hẻm rộng thoáng, sạch sẽ, an ninh.
 - 50m ra mặt tiền Cách mạng tháng 8, kế bên Công An phường, gần trường Mầm non, trường cấp 1-2-3, tiện ích xung quanh không thiếu thứ gì…
 - Pháp lý sạch, công chứng ngay.
-☎️ Thiện chí alo em Hiền gặp chính chủ thương lượng, miễn trung gian."	False	False	True	False
+☎️ Thiện chí alo em Hiền gặp chính chủ thương lượng, miễn trung gian."	False	False	True	False	mặt tiền Cách mạng tháng 8, Phường, Quận 3
 Tài khoản Scan Facebook là gì?	5100000000 tỷ	https://batdongsan.vn/tai-khoan-scan-facebook-la-gi-r284990	na	0.0	0.0		"Trong cộng đồng Facebook Ads, “tài khoản quảng cáo scan” trở thành một khái niệm hấp dẫn với doanh nghiệp, đặc biệt là cách doanh nghiệp vừa và nhỏ. Nhưng không phải ai cũng hiểu tài khoản quảng cáo scan là gì? Loại tài khoản này có sức mạnh gì đã hấp dẫn như vậy? Max Ads sẵn sàng chia sẻ toàn bộ thông tin trong bài viết dưới đây!
 1.Tài khoản Scan Facebook là gì?
 
@@ -1170,7 +1170,7 @@ Nội dung tối ưu SEO, lộ trình rõ ràng.
 Content múa bút đỉnh cao, hiểu Ý TƯỞNG, bắt trúng VẤN ĐỀ
 Designer sáng tạo, chuyên nghiệp với các ấn phẩm độc đáo
 Tối ưu chi phí với phòng marketing thuê ngoài chất lượng
-Xem thêm thông tin về chúng tôi tại đây."	False	False	False	False
+Xem thêm thông tin về chúng tôi tại đây."	False	False	False	False	na
 6.9 Tỷ Diện Tích 140M2 Nhà 3 Tầng Mặt Tiền Đường K20 Ngũ Hành Sơn Đà Nẵng.	Thỏa thuận	https://batdongsan.vn/69-ty-dien-tich-140m2-nha-3-tang-mat-tien-duong-k20-ngu-hanh-son-da-nang-r284989	140	7.0	1.0	('16.068', '108.212')	"6.9 Tỷ Diện Tích 140M2 Nhà 3 Tầng Mặt Tiền Đường K20 Ngũ Hành Sơn Đà Nẵng.
 Chào bán nhà 3 tầng mặt tiền k20 đường 5m5 lề 3m vừa ở vừa kinh doanh cho thuê dòng tiền ổn định.
 Vị trí đẹp hiếm nhà bán kinh doanh gì cũng có thu nhập.
@@ -1182,7 +1182,7 @@ Sổ hồng chính chủ sang tên nhanh.
 Chủ thiện chí bán để giải quyết công việc.
 Giá bán thương lượng chính chủ.
 Khách thiện chí gọi ngay 0986598266 ms Minh xem nhà lvcc.
-Cam kết thông tin chuẩn 100%."	True	True	False	False
+Cam kết thông tin chuẩn 100%."	True	True	True	False	đường K20, Ngũ Hành Sơn, Đà Nẵng
 Cổ nhuế 33m 6t nhỉnh 4tỷ - nhà đẹp 6 tầng thang máy 10m ra ô tô thoáng đẹp ở ngay - hiếm có căn thứ 2 tầm tiền	6.9 tỷ	https://batdongsan.vn/co-nhue-33m-6t-nhinh-4ty-nha-dep-6-tang-thang-may-10m-ra-o-to-thoang-dep-o-ngay-hiem-co-can-thu-2-tam-tien-r284987	33	6.0	5.0	('21.0196301', '105.9119475')	"NHỈNH 4TỶ - KHÔNG CÓ CĂN THỨ 2 - NHÀ ĐẸP 6 TẦNG THANG MÁY 10M RA Ô TÔ
 
 33m x 6 tầng x mặt tiền 4,5m. Giá 4,5x tỷ
@@ -1196,8 +1196,8 @@ Thiết kế công năng hiện đại.
 
 Chủ nhà tâm huyết dùng toàn đồ xịn : Panasonic , Toto…
 
-Sổ đỏ cc . Chờ giao dịch"	True	False	False	False
-BÁN NHÀ PHỐ TRỊNH ĐÌNH CỬU 44M - 4 TẦNG - Ô TÔ - 7M RA MẶT PHỐ - 4 NGỦ Ở NGAY. LH: 0393838449	4.5 tỷ	https://batdongsan.vn/ban-nha-pho-trinh-dinh-cuu-44m-4-tang-o-to-7m-ra-mat-pho-4-ngu-o-ngay-lh-0393838449-r284984	44	4.0	4.0		"+ Chủ nhà cần bán gấp nhà phố Trịnh Đình Cửu -tt quận Thanh Xuân 44m - 4 tầng – ô tô - 7 mét ra mặt phố - 4 ngủ ở ngay không sửa chữa.
+Sổ đỏ cc . Chờ giao dịch"	False	False	True	False	na
+BÁN NHÀ PHỐ TRỊNH ĐÌNH CỬU 44M - 4 TẦNG - Ô TÔ - 7M RA MẶT PHỐ - 4 NGỦ Ở NGAY. LH: 0393838449	4.5 tỷ	https://batdongsan.vn/ban-nha-pho-trinh-dinh-cuu-44m-4-tang-o-to-7m-ra-mat-pho-4-ngu-o-ngay-lh-0393838449-r284984	44	4.0	0.0		"+ Chủ nhà cần bán gấp nhà phố Trịnh Đình Cửu -tt quận Thanh Xuân 44m - 4 tầng – ô tô - 7 mét ra mặt phố - 4 ngủ ở ngay không sửa chữa.
 
 + Trung tâm quận Thanh Xuân gần các tuyến phố lớn: Trường Chinh, Hoàng Văn Thái, Lê Trọng Tấn, Tôn Thất Tùng, Nguyễn Trãi, Tây Sơn vài bước công viên Định Công, bến xe Giáp Bát.
 
@@ -1213,20 +1213,20 @@ BÁN NHÀ PHỐ TRỊNH ĐÌNH CỬU 44M - 4 TẦNG - Ô TÔ - 7M RA MẶT PHỐ
 Liên hệ: Mr. Thái Sơn chuyên nhà đẹp Thanh Xuân-Đống Đa
 Để được xem nhà và tư vấn miễn phí 24/7
 
-Gọi ngay: 0393838449 (Zalo)"	True	False	True	False
+Gọi ngay: 0393838449 (Zalo)"	False	False	True	False	Trịnh Đình Cửu, Quận Thanh Xuân
 Bán nhà phố Khâm Thiên, Đống Đa, gần phố, ở ngay 3 tầng 17m2 giá 1.68 tỷ	5.35 tỷ	https://batdongsan.vn/ban-nha-pho-kham-thien-dong-da-gan-pho-o-ngay-3-tang-17m2-gia-168-ty-r284983	17	2.0	2.0		"NHỎ CÓ VÕ - 2 TẦNG 1 LỬNG - CÔNG NĂNG ĐẦY ĐỦ - SỔ ĐẸP NHƯ TỜ A4
 *Mô tả:
 - Nhà nằm vị trí cực đẹp Ngõ Tiến Bộ, Khâm Thiên Phố thông tứ tung ra Tôn Đức Thắng, Khâm Thiên…tiện ích ngập tràn, an ninh cực tốt, hàng xóm thân thiện, vui tính.
 *Thiết kế:
 - Nhà được thiết kế 2 tầng, 1 lửng đầy đủ công năng sử dụng, pk, khu bếp, 2 ngủ, 2 wc, khu giặt phơi phóng đầy đủ.
 Sổ đỏ pháp lý chuẩn, sẵn sàng giao dịch
-Giá bán: 1.68 tỷ có gia lộc"	False	False	True	False
-Bán nhà Gò Vấp, HXT tránh Nguyễn Văn Khối P11 58m2, 5 tầng chỉ 9.7 tỷ	1.68 tỷ	https://batdongsan.vn/ban-nha-go-vap-hxt-tranh-nguyen-van-khoi-p11-58m2-5-tang-chi-97-ty-r284982	58	4.0	1.0	('10.8425505', '106.6559041')	"MS 32623
+Giá bán: 1.68 tỷ có gia lộc"	False	False	True	False	Ngõ Tiến Bộ, Khâm Thiên Phố, Đống Đa
+Bán nhà Gò Vấp, HXT tránh Nguyễn Văn Khối P11 58m2, 5 tầng chỉ 9.7 tỷ	1.68 tỷ	https://batdongsan.vn/ban-nha-go-vap-hxt-tranh-nguyen-van-khoi-p11-58m2-5-tang-chi-97-ty-r284982	58	4.0	0.0	('10.8425505', '106.6559041')	"MS 32623
 * Diện tích 58m2, 5 tầng, 4 phòng ngủ, sân thượng trước, sau, xe hơi ngủ nhà. Nhà còn mới vào ở ngay.
 * Dãy nhà cao tầng, an ninh, dân trí
 * Hẻm xe tải tránh, quay đầu thoải mái, tráng nhựa sạch sẽ.
 * Bán kính 500m, đầy đủ dịch vụ tiện ích: trường Mầm non, trường học các cấp, chợ, siêu thị, công viên, bệnh viện, v.v.
-* Sổ hồng hoàn công đủ."	False	False	True	False
+* Sổ hồng hoàn công đủ."	False	False	True	False	Hùng Tầu, Phường 11, Quận Gò Vấp
 BÁN CĂN LÔ GÓC 2 THOÁNG ĐẸP NHẤT LÁNG HẠ ĐỐNG ĐA 40m2 NGÕ THÔNG KD CHỈ 6.3 TỶ	9.7 tỷ	https://batdongsan.vn/ban-can-lo-goc-2-thoang-dep-nhat-lang-ha-dong-da-40m2-ngo-thong-kd-chi-63-ty-r284980	40	4.0	5.0		"Vị trí:
 + Nằm trên con phố Láng Hạ thông ra cầu vượt Láng Hạ - Lê Văn Lương cắt đường Láng Hạ và Đê La Thành, cầu vượt Ngã Tư Sở cách 10 phút di chuyển, đối diện là tòa Sky City Tower.
 + Xung quanh bán kính 2km có nhiều tiện ích: Bệnh Viện Thú Y GOPET,..
@@ -1247,12 +1247,12 @@ Trong kho hàng của còn có rất nhiều căn tương tự, quý khách có 
 + Dân trí cao hàng xóm thân thiện
 
 Liên hệ ngay : 0948320002 hỗ trợ nhiệt tình 24/7
-Trong kho hàng của còn có rất nhiều căn tương tự, quý khách có thể tham khảo thêm"	False	False	False	False
+Trong kho hàng của còn có rất nhiều căn tương tự, quý khách có thể tham khảo thêm"	False	False	True	False	Láng Hạ, nội ô
 BÁN NHÀ MỚI 4 TẦNG HXH 1/ ĐƯỜNG TỈNH LỘ 10-BÌNH TRỊ ĐÔNG-BÌNH TÂN -48M2 - NHỈNH 4Tỷ.	6.3 tỷ	https://batdongsan.vn/ban-nha-moi-4-tang-hxh-1-duong-tinh-lo-10-binh-tri-dong-binh-tan-48m2-nhinh-4ty-r284979	48	4.0	5.0		"- Kết cấu : Nhà 1 trệt, 2 lầu, sân thượng, BTCT mới, 4 phòng ngủ, 4WC, PK rộng full, xe hơi ngủ trong nhà.
 - Diện tích: 4mx12m
 - Nhà hẻm xe hơi ngay gần chợ Da xà, khu dân cư tên lửa, Aeon Bình tân, cư xá phú lâm, tiện di chuyển vào trung tâm TP, khu an ninh dân trí cao.
 - Giá 4.55 tỷ có bớt lộc.
-- SHR pháp lý chuẩn, vuông A4 công chứng ngay."	True	False	True	False
+- SHR pháp lý chuẩn, vuông A4 công chứng ngay."	False	False	True	False	đường Tỉnh lộ 10, Phường Bình Trị Đông, Quận Bình Tân
 Bán nhà mặt tiền đường nhựa 18m, An Phú, Q2, 16 tỷ, 4x20m, 4 tầng, thích hợp làm văn phòng	4.55 tỷ	https://batdongsan.vn/ban-nha-mat-tien-duong-nhua-18m-an-phu-q2-16-ty-4x20m-4-tang-thich-hop-lam-van-phong-r284978	80	4.0	4.0	('10.7615203', '106.6750963')	"- Bán nhà mặt tiền đường lớn 18m, An Phú, Q2
 - DT 4mx20m
 - Giá 16 tỷ bớt lộc
@@ -1260,8 +1260,8 @@ Bán nhà mặt tiền đường nhựa 18m, An Phú, Q2, 16 tỷ, 4x20m, 4 tầ
 - Gần công viên đi bộ mỗi sáng rèn luyện sức khoẻ
 - Đường 18m có vỉa hè, có vòng xoay oto đậu ngày đêm và quay đầu thoải mái, tiện làm văn phòng
 - Hiếm nhà có đầy đủ công năng
-- LH Tâm 0815813400 để xem nhà đẹp. UY TÍN"	True	False	True	False
-Mặt phố kinh doanh KĐT Đô Nghĩa Hà Đông, nhà 5 tầng x 50m2, Ô CHỜ THANG MÁY, CHỈ 7,4 TỶ	16 tỷ	https://batdongsan.vn/mat-pho-kinh-doanh-kdt-do-nghia-ha-dong-nha-5-tang-x-50m2-o-cho-thang-may-chi-74-ty-r284977	50	0.0	0.0	('20.9551855', '105.758011')	"NHÀ MẶT PHỐ YÊN LỘ, KINH DOANH SẦM UẤT, KHU VỰC PHÁT TRIỂN TỪNG NGÀY, HẠ TẦNG ĐỒNG BỘ
+- LH Tâm 0815813400 để xem nhà đẹp. UY TÍN"	False	False	True	False	đường lớn, An Phú, Quận 2
+Mặt phố kinh doanh KĐT Đô Nghĩa Hà Đông, nhà 5 tầng x 50m2, Ô CHỜ THANG MÁY, CHỈ 7,4 TỶ	16 tỷ	https://batdongsan.vn/mat-pho-kinh-doanh-kdt-do-nghia-ha-dong-nha-5-tang-x-50m2-o-cho-thang-may-chi-74-ty-r284977	50	5.0	1.0	('20.9551855', '105.758011')	"NHÀ MẶT PHỐ YÊN LỘ, KINH DOANH SẦM UẤT, KHU VỰC PHÁT TRIỂN TỪNG NGÀY, HẠ TẦNG ĐỒNG BỘ
 Mặt phố kinh doanh KĐT Đô Nghĩa Hà Đông, nhà 5 tầng x 50m2, Ô CHỜ THANG MÁY, CHỈ 7,4 TỶ
 
 + Diện tích 50m2, phân lô vỉa hè
@@ -1269,7 +1269,7 @@ Mặt phố kinh doanh KĐT Đô Nghĩa Hà Đông, nhà 5 tầng x 50m2, Ô CH�
 + Khu vực đang phát triển từng ngày, rất nhiều dự án đang triển khai thi công. Đường vành đai 4 chạy qua, bệnh viện nhi Hà Nội
 + Cơ sở hạ tầng đồng bộ. Tiềm năng tăng giá mạnh.
 + Sổ đỏ chính chủ, công chứng ngay
-☎️Liên hệ em Dương: 0914450004 (miễn trung gian, môi giới)"	False	False	True	False
+☎️Liên hệ em Dương: 0914450004 (miễn trung gian, môi giới)"	True	False	True	False	KĐT Đô Nghĩa Hà Đông
 NHÀ BÁN 2 TẦNG - HIỆP BÌNH CHÁNH - NGAY GẦN SÔNG SG + VÒNG XOAY BÌNH TRIỆU	7.4 tỷ	https://batdongsan.vn/nha-ban-2-tang-hiep-binh-chanh-ngay-gan-song-sg-vong-xoay-binh-trieu-r284975	35	2.0	2.0	('10.8250911', '106.7151201')	"CẦN BÁN GẤP
 NHÀ 2 TẦNG - SHR - HOÀN CÔNG, giá nhỉnh 3tỷ
 Vị trí ngay gần sông SG + Cầu Bình Triệu + Vòng xoay Bình Triệu
@@ -1282,7 +1282,7 @@ Sổ hồng riêng - hoàn công
 Nhà thông thoáng - 25m ra đường số 16 HBC
 Diện tích 4.8m X 7m.
 Giá chỉ 3ty350 TL -
-Lhe em Hiếu 24/7 để có thông tin chi tiết và xem nhà thực tế"	False	False	True	False
+Lhe em Hiếu 24/7 để có thông tin chi tiết và xem nhà thực tế"	False	False	True	False	HBC, số 16, Hiệp Bình Chánh
 Siêu Hot Lý Thánh Tông Tân Phú-Ngang 4m-75m2 chỉ 8 tỷ hơn	"Giá bán
 Dưới 500 triệu
 Từ 500 - 800 triệu
@@ -1298,25 +1298,25 @@ Trên 30 tỷ"	https://batdongsan.vn/sieu-hot-ly-thanh-tong-tan-phu-ngang-4m-75m
 + Kết cấu: cấp 4 mới xây với PK, 2 PN, phòng bếp nhà mới tinh dọn vào đón tết ngay.
 + Vị trí: mặt tiền kinh doanh cạnh Lũy Bán Bích, gần Đầm Sen, Q6, Q11,..
 + Sổ đẹp, pháp lý chuẩn, mua bán nhanh.
-+ DT: 75 m2. Giá tốt: 8.6 tỷ(thương lượng)."	False	False	True	False
++ DT: 75 m2. Giá tốt: 8.6 tỷ(thương lượng)."	False	False	True	False	Lý Thánh Tông, Quận Tân Phú
 Siêu Hot Lý Thánh Tông Tân Phú-Ngang 4m-75m2 chỉ 8 tỷ hơn	8.6 tỷ	https://batdongsan.vn/sieu-hot-ly-thanh-tong-tan-phu-ngang-4m-75m2-chi-8-ty-hon-r284972	75	2.0	0.0	('10.7670738', '106.6309519')	"Siêu Hot Lý Thánh Tông Tân Phú-Ngang 4m-75m2 chỉ 8 tỷ hơn
 + Kết cấu: cấp 4 mới xây với PK, 2 PN, phòng bếp nhà mới tinh dọn vào đón tết ngay.
 + Vị trí: mặt tiền kinh doanh cạnh Lũy Bán Bích, gần Đầm Sen, Q6, Q11,..
 + Sổ đẹp, pháp lý chuẩn, mua bán nhanh.
-+ DT: 75 m2. Giá tốt: 8.6 tỷ(thương lượng)."	False	False	True	False
++ DT: 75 m2. Giá tốt: 8.6 tỷ(thương lượng)."	False	False	True	False	Lý Thánh Tông, Quận Tân Phú
 Quận 7 Thông số cực đẹp 4x13m - cách 1 căn ra Ô TÔ	8.6 tỷ	https://batdongsan.vn/quan-7-thong-so-cuc-dep-4x13m-cach-1-can-ra-o-to-r284971	50	4.0	3.0	('10.7763897', '106.7011391')	"Mô tả:
 + Nhà đẹp lung linh, thiết kế hiện đại khách dọn vào ở ngay.
 + Xây 3 tầng BTCT kiên cố, tổng 4 phòng ngủ.
 + Nhà cách hẻm Ô TÔ đỗ chỉ vài bước chân, khu vực dân cư sầm uất đầy đủ tiện ích.
 + Vị trí sát bên KDC Nam Long, gần Nhà thi đấu đa năng Quận 7, trường cấp 1-2-3, Trung cấp nghề Nguyễn Hữu Cảnh..., Bệnh viện Quận 7…
-☎️ Thiện chí alo em Hiền gặp chính chủ thương lượng, miễn trung gian."	True	False	True	False
-Bán nhà Gò Vấp HXT tránh Quang Trung Phường 8, 57m2 5 tầng chỉ 10.9 tỷ	4300000000 tỷ	https://batdongsan.vn/ban-nha-go-vap-hxt-tranh-quang-trung-phuong-8-57m2-5-tang-chi-109-ty-r284968	57	3.0	4.0	('21.5922531', '105.8223032')	"MS 32723
+☎️ Thiện chí alo em Hiền gặp chính chủ thương lượng, miễn trung gian."	False	False	True	False	Quận 7
+Bán nhà Gò Vấp HXT tránh Quang Trung Phường 8, 57m2 5 tầng chỉ 10.9 tỷ	4300000000 tỷ	https://batdongsan.vn/ban-nha-go-vap-hxt-tranh-quang-trung-phuong-8-57m2-5-tang-chi-109-ty-r284968	57	5.0	4.0	('21.5922531', '105.8223032')	"MS 32723
 * Vị trí: gần công viên Làng Hoa, UB phường 8, trường THPT Nguyễn Công Trứ, thông Nguyễn Văn Khối.
 * Nhà mới vào ở ngay. Thiết kế hiện đại, sáng, thoáng, đầy đủ công năng sử dụng.
 * Diện tích 53m2, 5 tầng gồm thang máy 450kg, garage xe hơi, 3 phòng ngủ, phòng xông hơi+đá nóng, sân thượng.
 * Hẻm tráng nhựa sạch sẽ, 8m thông.
-* Sổ hồng hoàn công đủ."	True	False	True	False
-Bán nhà Võng Thị, Tây Hồ 45m2, mt 4.5m giá hơn 10 tỷ	10.9 tỷ	https://batdongsan.vn/ban-nha-vong-thi-tay-ho-45m2-mt-45m-gia-hon-10-ty-r284966	45	4.0	5.0	('21.0506848', '105.8132906')	"Bán nhà Võng Thị, Tây Hồ 45m2, mt 4.5m giá hơn 10 tỷ
+* Sổ hồng hoàn công đủ."	False	False	True	False	HXT tránh Quang Trung, Phường 8, Quận Gò Vấp
+Bán nhà Võng Thị, Tây Hồ 45m2, mt 4.5m giá hơn 10 tỷ	10.9 tỷ	https://batdongsan.vn/ban-nha-vong-thi-tay-ho-45m2-mt-45m-gia-hon-10-ty-r284966	45	5.0	5.0	('21.0506848', '105.8132906')	"Bán nhà Võng Thị, Tây Hồ 45m2, mt 4.5m giá hơn 10 tỷ
 
 + Nhà vị trí đẹp lô góc 3 mặt thoáng, gia đình tự xây.
 Diện tích sử dụng là 70m2 trong đó 45m2 là đất thổ cư, 25m2 là đất chưa được cấp GCN.
@@ -1332,17 +1332,17 @@ T5: Phòng thờ + Sân Phơi.
 * Giá cả có thể thương lượng trực tiếp
 Em Huy 0819860128
 
-Xin cảm ơn"	False	False	False	False
+Xin cảm ơn"	False	False	False	True	Võng Thị, Tây Hồ
 Nhà Hiệp Thành cần bán	10.5 tỷ	https://batdongsan.vn/nha-hiep-thanh-can-ban-r284965	92	2.0	1.0	('49.98969765', '20.93031239148287')	"Do có nhu cầu chuyển đổi nên em chính chủ cần bán lại nhà cấp 4, diện tích 91,9 m2. Hẻm 199 Nguyễn Đức Thuận, Hiệp Thành, Thủ Dầu Một.
 Nhà cấp 4 xây kiên cố chắc chắn. Nhà có 2 phòng ngủ, 1 phòng khách và bếp, có giếng trời thoáng mát. Đường hẻm 2m vừa 4 chỗ, khu dân cư yên tĩnh.
 Giá bán 2,7 tỷ thương lượng.
-ACE có nhu cầu xem nhà liên hệ em Tuấn 0794572272 xem nhà trực tiếp."	False	False	True	False
+ACE có nhu cầu xem nhà liên hệ em Tuấn 0794572272 xem nhà trực tiếp."	False	False	True	False	hẻm 199 Nguyễn Đức Thuận, Hiệp Thành, Thủ Dầu Một
 HXH Hương Lộ 2, BTĐ, Bình Tân, 300m2, 4 tầng, Kinh Doanh CHDV, Xưởng giá nhỉnh 13.5 tỷ	2.7 tỷ	https://batdongsan.vn/hxh-huong-lo-2-btd-binh-tan-300m2-4-tang-kinh-doanh-chdv-xuong-gia-nhinh-135-ty-r284964	300	0.0	1.0		"???? NGỘP BANK BÁN KHÔNG ĐỦ KHẢ NĂNG TRẢ NỢ BÁN GẤP- BAO ĐẦU TƯ CHDV, NHÀ XƯỞNG.
 Bán nhà Hương Lộ 2 Bình Trị Đông, Bình Tân khu tập trung nhà xưởng sản xuất phù hợp cho làm nhà xưởng, căn hộ dịch vụ, xung quanh dân trí ổn định nhiều nhà cao tầng.
 + Diện tích và kết cấu căn nhà: 300m2 (14 x 21m) bao gồm trệt, 2 lầu sàn btct, sân thượng, sân đậu xe hơi. Hiện trạng có trên 10 phòng và 2 sàn trống. Bên ngoài căn nhà được bao phủ lớp tôn che nắng mưa bên trong nhà còn kiên cố chắc chắn, gia chủ mới chỉ cần sơn phết tân trang lại đẹp mê li luôn.
 + Ngân hàng định giá 16 đến 17 tỷ VCB cho vay 13 tỷ. + Sổ vuông A4 đang vay bank 13 tỷ cần thanh khoản gấp.
 + Giá nhỉnh 13.5 tỷ
-+ Anh chị đang có nhu cầu mua bds giữ tiền, làm căn hộ dịch vụ, kho & nhà xưởng nhận được thông tin liên hệ em Hương 0938509958 hỗ trợ xem nhà mua bán trực tiếp chủ."	True	True	True	False
++ Anh chị đang có nhu cầu mua bds giữ tiền, làm căn hộ dịch vụ, kho & nhà xưởng nhận được thông tin liên hệ em Hương 0938509958 hỗ trợ xem nhà mua bán trực tiếp chủ."	True	False	False	True	Hương Lộ 2, Bình Trị Đông, Quận Bình Tân
 bán nhà mặt phố đường đặng thành chơn. phường quang trung tp quy nhơn	13.5 tỷ	https://batdongsan.vn/ban-nha-mat-pho-duong-dang-thanh-chon-phuong-quang-trung-tp-quy-nhon-r284963	42	2.0	1.0		"????PHONG PHÁT LAND ????. MSP : #N219
 (✿◠‿◠) Giá chỉ - - 2Tỷ00. ✿◕ ‿ ◕✿
 
@@ -1361,16 +1361,16 @@ Diện tích : 42m2.
 ????Văn phòng: ₫ường hồ văn dũng. Cầu 2. Phường đống đa. TP quy nhơn. Bình định
 ???? YouTube : phong phát land
 - VUI LÒNG LIÊN HỆ HOẶC TRUY CẬP WEBSITE: https://www.facebook.com/phongphatland85?mibextid=9R9pXO
-ĐỂ BIẾT THÊM THÔNG TIN NHÀ,ĐẤT KHÁC VÀ CHÍNH SÁCH VAY TRẢ GÓP"	False	False	True	False
+ĐỂ BIẾT THÊM THÔNG TIN NHÀ,ĐẤT KHÁC VÀ CHÍNH SÁCH VAY TRẢ GÓP"	False	False	True	False	đường Đặng Thành Chơn, Phường Quang Trung, TP Quy Nhơn
 Bán nhà 53m Kiến Hưng, Hà Đông chỉ 2.9 tỷ	2 tỷ	https://batdongsan.vn/ban-nha-53m-kien-hung-ha-dong-chi-29-ty-r284962	53	2.0	1.0	('20.9609991', '105.7863663')	"*Vị trí :
 + Gần chợ Đa sỹ, trường học các cấp, thông thương đi lại thuận tiện.
 + Gần bệnh viện .
 * Mô tả
 + Nhà hiện còn ở tốt, 2 phòng ngủ , 1 phòng khách , bếp chỗ để xe rộng rãi thoáng mát.
-+ Sổ đỏ chính chủ. Sãn sàng giao dịch"	False	False	True	False
++ Sổ đỏ chính chủ. Sãn sàng giao dịch"	False	False	True	False	Kiến Hưng, Hà Đông
 Em trai nhờ bán nhà Vạn Phúc 38m2, 4 tầng, giá 3.8 tỷ	2.9 tỷ	https://batdongsan.vn/em-trai-nho-ban-nha-van-phuc-38m2-4-tang-gia-38-ty-r284961	38	4.0	3.0	('20.9803136', '105.7719148')	"- Vị trí trung tâm quận Hà Đông, chỉ 80m ra phố Vạn Phúc, rất thuận tiện cho việc di chuyển ra các phố lớn Tố Hữu, Lê Trọng Tấn, Quang Trung, Trần Phú vv. Tiện ích quanh nhà rất nhiều, chợ dân sinh ngay đầu ngõ, trường học, bệnh viện đủ cả không thiếu thứ gì.
 - Nhà thiết kế 4 tầng, xây dựng kiến cố, chắc chắn, tổng có 4 phòng ngủ, phòng khách, bếp…
-- Quý Anh/Chị có nhu cầu liên hệ SĐT 0945936168."	False	False	True	True
+- Quý Anh/Chị có nhu cầu liên hệ SĐT 0945936168."	False	False	True	False	Vạn Phúc
 Shophouse Phú Mỹ An Huế - 1 căn duy nhất đường 19m5, đã có sổ	3.8 tỷ	https://batdongsan.vn/shophouse-phu-my-an-hue-1-can-duy-nhat-duong-19m5-da-co-so-r284960	126	5.0	5.0		"Shophouse Phú Mỹ An Huế - 1 căn duy nhất đường 19m5, đã có sổ
 - Diện tích: 126 m2 (6*21m).
 - Diện tích xây dựng: 87 m2.
@@ -1381,18 +1381,18 @@ Giá: 6,x tỷ thương lượng chính chủ.
 Pháp lý: Đã có sổ hồng.
 ----
 Vui lòng liên hệ xem nhà và được tư vấn cụ thể!
-Liên hệ: 096_262_8872 gặp Hoà để xem nhà"	False	False	True	False
+Liên hệ: 096_262_8872 gặp Hoà để xem nhà"	False	False	True	True	đường 19,5, Phường Phú Mỹ An, Huế
 nhà mặt phố Hoàng Như Tiếp-Long Biên, 108m x 6tầng, nở hậu, kinh doanh ngày đêm	6.7 tỷ	https://batdongsan.vn/nha-mat-pho-hoang-nhu-tiep-long-bien-108m-x-6tang-no-hau-kinh-doanh-ngay-dem-r284959	108	6.0	4.0		"nhà mặt phố Hoàng Như Tiếp-Long Biên, 108m x 6tầng, nở hậu, kinh doanh ngày đêm
 +Vị trí đẹp nhất Hoàng Như Tiếp, gần bệnh viện Tâm Anh, khu vực cực sầm uất, kinh doanh đắc địa
 +Sổ đỏ nở hậu, pháp lý rõ ràng
 Giá: 21.5 tỷ ( có thương lượng, làm việc trực tiếp với chủ nhà )
-Miễn phí xem nhà và tư vấn : Trần Hải"	False	False	True	False
-bán nhà Việt Hưng, 80m x5tầng, mặt tiền 7.6m, vỉa hè, kinh doanh, ôtô dừng đỗ	21.5 tỷ	https://batdongsan.vn/ban-nha-viet-hung-80m-x5tang-mat-tien-76m-via-he-kinh-doanh-oto-dung-do-r284958	80	4.0	4.0		"bán nhà Việt Hưng, 80m x5tầng, mặt tiền 7.6m, vỉa hè, kinh doanh, ôtô dừng đỗ
+Miễn phí xem nhà và tư vấn : Trần Hải"	False	False	True	False	đường Hoàng Như Tiếp, Long Biên
+bán nhà Việt Hưng, 80m x5tầng, mặt tiền 7.6m, vỉa hè, kinh doanh, ôtô dừng đỗ	21.5 tỷ	https://batdongsan.vn/ban-nha-viet-hung-80m-x5tang-mat-tien-76m-via-he-kinh-doanh-oto-dung-do-r284958	80	5.0	4.0		"bán nhà Việt Hưng, 80m x5tầng, mặt tiền 7.6m, vỉa hè, kinh doanh, ôtô dừng đỗ
 -Vị trí hàng xóm Vinhomes Riverside, khu đô thị mới Việt Hưng rất sầm uất, thông các tuyến phố Chu Huy Mân-Việt Hưng-Sài Đồng, gần trụ sở công an quận Long Biên-UBND quận Long Biên-Bệnh viện đa khoa Đức Giang
 -Nhà phân lô 1 mặt phố 1 mặt ngõ, 5 tầng chắc chắn, thông sàn kinh doanh tầng 1+2+3, ô chờ thang máy, nội thất nhập khẩu
 Sổ đỏ chính chủ, pháp lý rõ ràng
 Giá: 15.5 tỷ ( có thương lượng )
-Liên hệ xem nhà miễn phí và tư vấn : Trần Hải 0906098086"	True	False	True	False
+Liên hệ xem nhà miễn phí và tư vấn : Trần Hải 0906098086"	False	False	True	False	Việt Hưng, Quận Long Biên
 nhà đẹp Long Biên, 55m x 5tầng, mặt tiền 6.5m, nở hậu, gara 7 chỗ, thang máy, full nội thất	15.5 tỷ	https://batdongsan.vn/nha-dep-long-bien-55m-x-5tang-mat-tien-65m-no-hau-gara-7-cho-thang-may-full-noi-that-r284957	55	4.0	4.0		"nhà đẹp Long Biên, 55m x 5tầng, mặt tiền 6.5m, nở hậu, gara 7 chỗ, thang máy, full nội thất
 -Vị trí : khu vực Nguyễn Lam-Chu Huy Mân-Mai Phúc, hàng xóm Vinhomes Riverside, cách cầu Vĩnh Tuy 1km
 -Thiết kế hiện đại, thang máy, tặng full nội thất cao cấp, vệ sinh INAX :
@@ -1402,7 +1402,7 @@ nhà đẹp Long Biên, 55m x 5tầng, mặt tiền 6.5m, nở hậu, gara 7 ch�
 + Tầng 5 : phòng thờ rộng rãi, sân phơi có mái che
 Pháp lý: Sổ đỏ nở hậu
 Giá: 8 tỷ ( có thương lượng )
-Liên hệ xem nhà miễn phí và tư vấn : Trần Hải 0906098086"	True	False	True	False
+Liên hệ xem nhà miễn phí và tư vấn : Trần Hải 0906098086"	False	False	True	False	Nguyễn Lam, Chu Huy Mân, Mai Phúc, Quận Long Biên
 Connect to success: Facebook Ads - Bringing Brands to the Right Audience	8 tỷ	https://batdongsan.vn/connect-to-success-facebook-ads-bringing-brands-to-the-right-audience-r284956	na	0.0	0.0		"Facebook Ads (or Facebook Advertising) is the advertising platform of the social network Facebook with the purpose of promoting services and products through the publications below. image, text, video format. The Facebook social network with a large number of users has created great opportunities for businesses. Facebook Ads is a ""fertile"" door for reaching customers. Thanks to the powerful nature of targeting, businesses can show ads to the right group of people, thereby increasing engagement and conversions.
 
 ???? Are you looking for an accurate way to reach potential customers? Let us MAX ADS help you bring your products/services to the right audience!
@@ -1414,30 +1414,30 @@ Connect to success: Facebook Ads - Bringing Brands to the Right Audience	8 tỷ	
 ✅ Create engaging content: Leverage engaging images, videos, and text to generate attention and positive engagement. The difference lies here! We MAX ADS are not just an ordinary advertising partner
 
 #maxads #ads #digital #marketing #digitalmarketing #googleads #youtubeads #facebookads #tiktokads #emailsmsmarketing #seo #marketingagency #digitalmarketingservice #businessgrowthstrategies #onlinebusinesses #DigitalServiceProvider #digitalownership #digitalmarketingstrategy #MarketingSupport #CustomerRelations #benefit #efficiency #profit #strong #superstrong #scan #scanfacebook #googleinvoice #blackhat
-https://maxads.me"	False	False	False	False
-Bán nhà 4 tầng lô góc đường Đồng Thiện, quận Lê Chân, Hải Phòng, 43m2	Thỏa thuận	https://batdongsan.vn/ban-nha-4-tang-lo-goc-duong-dong-thien-quan-le-chan-hai-phong-43m2-r284954	43	3.0	3.0	('20.832584', '106.6805654')	"* Nhà 4 tầng lô góc mặt ngõ. Xây năm 2020. Do ít ở nên còn mới 90%
+https://maxads.me"	False	False	False	False	na
+Bán nhà 4 tầng lô góc đường Đồng Thiện, quận Lê Chân, Hải Phòng, 43m2	Thỏa thuận	https://batdongsan.vn/ban-nha-4-tang-lo-goc-duong-dong-thien-quan-le-chan-hai-phong-43m2-r284954	43	4.0	3.0	('20.832584', '106.6805654')	"* Nhà 4 tầng lô góc mặt ngõ. Xây năm 2020. Do ít ở nên còn mới 90%
 Nhà sạch đẹp, thiết kế hiện đại, công năng sử dụng cao, bố trí các phòng thông thoáng, hợp lý
 * Diện tích : 43m2 x 4 tầng, Ngang: 4m
 * Ngõ rộng 3 m, thẳng tắp
 * Kết cấu: phòng khách, phòng thờ, 3 phòng ngủ, phòng ăn, sân phơi, 3 toilet.
 * Dân cư văn minh không ồn ào. Giao thông sinh hoạt thuận tiện. Gần Aeon Mall, trường học, chợ …
 * Sổ đỏ chính chủ
-* Giá: 2.7 tỷ (Có thỏa thuận)"	False	False	True	False
-Nhà rộng ô tô đỗ cửa và vào trong. Cạnh C/c Bàu Cát, 4.9 tỷ	2.7 tỷ	https://batdongsan.vn/nha-rong-o-to-do-cua-va-vao-trong-canh-cc-bau-cat-49-ty-r284952	56	2.0	2.0	('10.7871235', '106.6443171')	Nhà 1 trệt 1 lững. Giấy phép xây dựng 5 tầng. Hẻm ô tô đỗ cửa và vào trong nhà, cách 3 căn ra mặt tiền. Vị trí thông Lạc Long Quân, Ni Sư Huỳnh Liên, gần khu Bàu Cát. Giao thông thuận tiện đi lại các hướng. Nhà gần chợ, trường học các cấp, gần siêu thị chung cư Bàu Cát. Khu vực an ninh, tiện ích xung quanh đầy đủ. Sổ hồng riêng, nở hậu. Liên hệ anh Võ: 0909 100 817. Không tiếp trung gian.	True	False	True	False
+* Giá: 2.7 tỷ (Có thỏa thuận)"	False	False	True	False	đường Đồng Thiện, quận Lê Chân, Hải Phòng
+Nhà rộng ô tô đỗ cửa và vào trong. Cạnh C/c Bàu Cát, 4.9 tỷ	2.7 tỷ	https://batdongsan.vn/nha-rong-o-to-do-cua-va-vao-trong-canh-cc-bau-cat-49-ty-r284952	56	2.0	2.0	('10.7871235', '106.6443171')	Nhà 1 trệt 1 lững. Giấy phép xây dựng 5 tầng. Hẻm ô tô đỗ cửa và vào trong nhà, cách 3 căn ra mặt tiền. Vị trí thông Lạc Long Quân, Ni Sư Huỳnh Liên, gần khu Bàu Cát. Giao thông thuận tiện đi lại các hướng. Nhà gần chợ, trường học các cấp, gần siêu thị chung cư Bàu Cát. Khu vực an ninh, tiện ích xung quanh đầy đủ. Sổ hồng riêng, nở hậu. Liên hệ anh Võ: 0909 100 817. Không tiếp trung gian.	False	True	True	False	Lạc Long Quân, Ni Sư Huỳnh Liên, Phường Bàu Cát
 Bán nhà hẻm 4m Phạm Văn Chiêu Phường 14 Gò Vấp, 50m2 2 tầng chỉ 4.7 tỷ	4.9 tỷ	https://batdongsan.vn/ban-nha-hem-4m-pham-van-chieu-phuong-14-go-vap-50m2-2-tang-chi-47-ty-r284950	50	3.0	2.0	('11.3112964', '106.0869332')	"MS 31723
 * Vị trí: gần Nguyễn Văn Khối, trường Tiểu học An Hội, THCS Phạm Văn Chiêu. Thuận tiện đi vào các quận Tân Bình, Tân Phú, 11, 12, v.v.
 * Diện tích 50m2 công nhận đủ, xây dụng full diện tích, hình sổ vuông vức.
 * Nhà gồm 1 trệt, 1 lầu, 3 phòng ngủ (có phòng ngủ tầng trệt), 2WC.
 * Đường trước nhà 4m, thông.
-* Pháp lý sạch sẽ, công chứng ngay."	False	True	True	False
+* Pháp lý sạch sẽ, công chứng ngay."	False	True	True	False	hẻm 4m Phạm Văn Chiêu, Phường 14, Quận Gò Vấp
 Bán nhà mặt tiền Đường số 4 phường 11 Gò Vấp, 42m2, 4 tầng chỉ 6.25 tỷ	4.7 tỷ	https://batdongsan.vn/ban-nha-mat-tien-duong-so-4-phuong-11-go-vap-42m2-4-tang-chi-625-ty-r284947	42	3.0	3.0	('11.1390638', '106.2627222')	"MS 31823
 * Vị trí: mặt tiền đường Số 4 phường 11 Gò Vấp. Thuận tiện giao thông, vừa ở vừa kinh doanh.
 * Thiết kế với phong cách hiện đại sử dụng thiết bị thông minh cao cấp smarthome (Cửa cuốn, hệ thống chiếu sáng, rèm cửa...).
 * Diện tích 42m2, 4 tầng với 3 phòng ngủ, 3WC.
-* Hình sổ vuông đẹp. Sổ hồng riêng, hoàn công đầy đủ."	False	False	True	False
+* Hình sổ vuông đẹp. Sổ hồng riêng, hoàn công đầy đủ."	False	False	True	False	đường Số 4, phường 11, Quận Gò Vấp
 Phạm Văn Hai – HXH 1 xẹc gần Trường Sa, DTSD 88M2, 5 tỷ	6.25 tỷ	https://batdongsan.vn/pham-van-hai-hxh-1-xec-gan-truong-sa-dtsd-88m2-5-ty-r284945	44	2.0	2.0	('10.7763897', '106.7011391')	"Phạm Văn Hai – HXH 1 xẹc gần Trường Sa, DTSD 88M2, 5 tỷ
 . Vị trí: ngay chợ Phạm Văn Hai nhộn nhịp, gần Q.10, Phú Nhuận.
 . 44m2, 1 trệt 1 lầu, 2 WC, sổ vuông vức.
 . Hẻm xe hơi một trục Phạm Văn Hai, thuận tiện đi các hướng.
 . Sổ riêng pháp lý chuẩn, hoàn công đủ, mua bán trong ngày.
-LH 0902177052 xem nhà thương lượng chính chủ."	True	False	True	False
+LH 0902177052 xem nhà thương lượng chính chủ."	False	False	True	False	đường Phạm Văn Hai
