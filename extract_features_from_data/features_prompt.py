@@ -5,7 +5,6 @@ import re
 s = requests.Session()
 
 # Sử dụng model
-title_model = "meta-llama/Meta-Llama-3-70B-Instruct"
 feature_model = "meta-llama/Meta-Llama-3-8B-Instruct"
 api_base = "https://api.endpoints.anyscale.com/v1"
 url = f"{api_base}/chat/completions"
