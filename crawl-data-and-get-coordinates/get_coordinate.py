@@ -6,7 +6,7 @@ import requests
 app = Nominatim(user_agent="yusnivtr")
 def get_location_by_address(address):
     time.sleep(1)
-    if address == "na":
+    if address == np.nan:
         return None
     try:
         location =  app.geocode(address).raw
