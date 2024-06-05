@@ -26,15 +26,15 @@ Giải thích:
 - Đề cập "2PN" nên số phòng ngủ là 2 và 1 từ toilet nên số phòng ngủ là 1.
 ```
 
-Tính năng còn hạn chế sẽ cập nhật thêm.
+- 5-6-2024: Thêm tính năng tìm địa chỉ trong cột "Title".
 
 ## 2. Các tập tin chính
 
 ### 2.1. extract_data.py
 
-Tập tin chính để chạy extract data. Sau khi chạy sẽ trả về tập tin csv `100PlusInstance_updated.csv`
+Tập tin chính để chạy extract data. Trả về data với nhiều features hơn.
 
-### 2.2. prompt.py
+### 2.2. features_prompt.py
 
 Là tập tin python script lưu quá trình sử dụng LLM API từ [anyscale](https://www.anyscale.com/). 
 
