@@ -6,14 +6,14 @@ Tôi sẽ cung cấp cho bạn một đoạn mô tả về căn nhà được b�
 4. Vấn đề pháp lý, sổ đỏ (True/ False): Căn nhà có đầy đủ giấy tờ pháp lý, không tranh chấp không. Nếu mô tả đề cập: "sổ đỏ chính chủ", "hoàn công đầy đủ", ... nghĩa là nhà không gặp vấn đề pháp lý Trả về False. Nếu mô tả đề cập "vay ngân hàng", "sổ đỏ nợ" trả về True;
 5. Số phòng ngủ (int): Trả về số phòng ngủ của căn nhà. Mô tả có thể viết tắt như "PN", không đề cập trả về 0.
 6. Số WC (int): Trả về số phòng wc của căn nhà. Mô tả có thể đề cập "toilet", "nhà vệ sinh", "nhà tắm", ... Nếu không đề cập trả về False;
-7. Địa chỉ của căn nhà (string): Trả về địa chỉ của căn nhà. Bạn cần phân tích và trích xuất thông tin địa chỉ cụ thể của căn nhà đó. Thông tin địa chỉ bao gồm tên đường, tên ngõ, tên phố, tên phường, quận và thành phố (nếu có). Bạn cần áp dụng kiến thức về địa lý hành chính của Việt Nam để đảm bảo kết quả được chính xác nhất. Nếu thông tin không đầy đủ hoặc không chính xác, vui lòng trả về "na". Đối với mỗi tiêu đề, bạn chỉ cần trả về địa chỉ mà không cần bất kỳ ký tự ngoặc kép hay thông tin thêm nào khác. Ví dụ:
+7. Địa chỉ của căn nhà (string): Trả về địa chỉ của căn nhà. Bạn cần phân tích và trích xuất thông tin địa chỉ cụ thể của căn nhà đó. Thông tin địa chỉ bao gồm tên đường, tên ngõ, tên phố, tên phường, quận và thành phố (nếu có). Bạn cần áp dụng kiến thức về địa lý hành chính của Việt Nam để đảm bảo kết quả được chính xác nhất. Nếu thông tin không đầy đủ hoặc không chính xác, vui lòng trả về np.NAN. Đối với mỗi tiêu đề, bạn chỉ cần trả về địa chỉ mà không cần bất kỳ ký tự ngoặc kép hay thông tin thêm nào khác. Ví dụ:
 Chỉ cung cấp địa chỉ hoặc na, không hỏi và không được nói gì thêm với người dùng. Nếu tiêu đề tôi cung cấp không liên quan đến bất động sản, bạn có thể trả về na ngay lập tức ví dụ "Tài khoản Scan Facebook là gì?" mà không hỏi hay cung cấp bất cứ thông tin gì thêm.
 Lưu ý một số từ khóa "hẻm xe hơi","phân lô","30m","ô tô","xe hơi" không phải là thông tin địa chỉ, và không được tồn tại trong câu trả lời.
 "KĐT" là khu đô thị. Thường nằm sau từ "Tiêu đề:"
 
 
 Lưu ý:
-- Nếu không có bất kỳ thông tin nào Trả về [False, False, False, False, 0, 0, False]
+- Nếu không có bất kỳ thông tin nào Trả về [False, False, False, False, 0, 0, False, np.NAN]
 - Bạn không cần giải thích bất cứ điều gì chỉ cần trả về Python list
 
 Ví dụ 1:
