@@ -115,7 +115,7 @@ if __name__ == "__main__":
     df = df.set_index("index")
 
     # Chia nhỏ data thành các mini-batch với size = 100
-    size = 2 # kích thước của mỗi mini_batch
+    size = 100 # kích thước của mỗi mini_batch
     range_ = np.arange(0, len(df), size)
 
     for idx in range_:
