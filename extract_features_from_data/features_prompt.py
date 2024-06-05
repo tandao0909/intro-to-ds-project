@@ -3,6 +3,7 @@ import requests
 import re
 
 s = requests.Session()
+current_file_path = os.path.abspath(__file__)
 
 # Sử dụng model
 feature_model = "meta-llama/Meta-Llama-3-8B-Instruct"
@@ -10,11 +11,14 @@ api_base = "https://api.endpoints.anyscale.com/v1"
 url = f"{api_base}/chat/completions"
 
 
-with open("extract_features_from_data\\private_docu.txt") as f:
+
+
+
+with open(os.path.join(os.path.dirname(current_file_path), "private_docu.txt"), encoding="utf-8", mode = "r") as f:
     token = f.read()
 
 # Đọc prompt từ file prompt.txt
-with open("extract_features_from_data\\features_prompt.txt", "r", encoding="utf-8") as f:
+with open(os.path.join(os.path.dirname(current_file_path), "features_prompt.txt"), "r", encoding="utf-8") as f:
     features_prompt = f.read()
 
 
