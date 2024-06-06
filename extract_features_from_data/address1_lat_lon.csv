@@ -1,0 +1,3359 @@
+	Address1	Latitude	Longitude
+0	Quận 2, Hồ Chí Minh	107935216.0	1067308195.0
+1	ĐƯỜNG 19 THÁNG 5, KHU ĐÔ THỊ VĨNH ĐIỀM TRUNG, NHA TRANG	122576892.0	1091689382.0
+2	ĐƯỜNG 19 THÁNG 5, KHU ĐÔ THỊ VĨNH ĐIỀM TRUNG, NHA TRANG	122576892.0	1091689382.0
+3	Nguyễn Hữu Tiến, Quận Tân Phú	108100714.0	1066256809.0
+4	Phạm Văn Hai, Phường 6, Quận Tân Bình	107945549.0	1066632715.0
+5	Hồng Lạc, Phường 8, Quận Tân Bình	10785173.0	1066500895.0
+6	Vị trí trung tâm, gần đường Thoại Ngọc Hầu, Hòa Bình, Nguyễn Sơn	206861265.0	1053131185.0
+7	Cao Thắng Yết Kiêu Hà Đông	2097458.0	1057769317.0
+8	Đường Trường Lưu, Phường Long Trường, Q9	108014423.0	1068218814.0
+9	đường chánh phú hòa tx bến cát bình dương	111731896.0	1066645007.0
+10	Quận 2, Hồ Chí Minh	107935216.0	1067308195.0
+11	Lê Trọng Tấn, Quận Thanh Xuân	20993927.0	1058314531.0
+12	ô tô, Quận Đống Đa	210100908.0	1058264782.0
+13	Đường số, Phường 4, Quận 8	107410286.0	1066689351.0
+14	na		
+15	ĐƯỜNG 2/4 - PHƯỜNG VẠN THẮNG - NHA TRANG	122563046.0	1091886842.0
+16	ĐƯỜNG HƯƠNG LỘ 45 - XÃ DIÊN PHÚ - DIÊN KHÁNH	12266857.0	1091231046.0
+17	Đường Hàn Thuyên, Phường Bình Thọ, Quận Thủ Đức, TP HCM	108464343.0	1067696616.0
+18	đường Tây Sơn, quận Đống Đa	210082189.0	1058237382.0
+19	Trường Chinh, Tây Thạnh, Tân Phú, Hồ Chí Minh, -Dự án-	108147398.0	1066322462.0
+20	Quận Hà Đông, Hà Nội	20955835.0	1057563658.0
+21	Quận Hà Đông, Hà Nội	20955835.0	1057563658.0
+22	Thuận An, Trâu Quỳ, Gia Lâm, Hà Nội	210166024.0	1059448734.0
+23	Mỗ Lao Hà Đông	209833749.0	1057835348.0
+24	Bùi Quang Là	108351606.0	1066394244.0
+25	Đường Thanh Bình, Phường Mỗ Lao, Quận Hà Đông, Hà Nội, -Dự án-	209823818.0	1057780339.0
+26	Tô Hiệu, Hà Đông	209675124.0	1057784606.0
+27	Đường Hùng Vương A16		
+28	Bờ Bao Tân Thắng, Sơn Kỳ, Tân Phú	108011535.0	1066183755.0
+29	ngõ 3 phố Nhân Hòa, phường Nhân Chính, quận Thanh Xuân, Hà Nội	210017375.0	1058078058.0
+30	Ngõ Trương Định, Quận ???	209937815.0	1058466875.0
+31	Trần Phú, Ngô Quyền, Hải Phòng	208589455.0	1066871535.0
+32	X. Thạnh Phú	99481665.0	10650538.0
+33	ngõ Văn Chương, Quận Đống Đa	210206275.0	1058364076.0
+34	Đường Nhựa 6m, Trường Sa, Phường 13, Quận Phú Nhuận	10788921.0	106669058.0
+35	Cự Lộc,Thanh Xuân	210012554.0	1058137407.0
+36	phường Trúng Dũng, Biên Hòa, Đồng Nai	109540772.0	1068207875.0
+37	False		
+38	Long Biên	210186765.0	105884813.0
+39	VƯỜN LÀI	107881471.0	1066297747.0
+40	Thành phố Hồ Chí Minh	108230989.0	1066296638.0
+41	Ngõ 103	210003216.0	1058585064.0
+42	Trịnh Đình Cửu, Quận Thanh Xuân	209959819.0	1058097244.0
+43	Ngõ Tiến Bộ, Khâm Thiên Phố, Đống Đa	210193257.0	1058331018.0
+44	Nguyễn Văn Khối	108429616.0	1066529357.0
+45	con phố Láng Hạ	210168879.0	1058152669.0
+46	đường Tỉnh Lộ 10, Phường Bình Trị Đông, Quận Bình Tân	107578769.0	1066144841.0
+47	Quận 2, Hồ Chí Minh	107935216.0	1067308195.0
+48	Quận Hà Đông, Hà Nội	20955835.0	1057563658.0
+49	Đường số 16 Phường Hiệp Bình Chánh - TP.Thủ Đức	1083059.0	106730518.0
+50	Lý Thánh Tông Hiệp Tân Tân Phú	107668763.0	1066274134.0
+51	Thành phố Hồ Chí Minh	108230989.0	1066296638.0
+52	Quang Trung		
+53	Võng Thị, Bưởi, Tây Hồ, Hà Nội	210516835.0	1058112908.0
+54	199		
+55	Hương Lộ 2, Bình Trị Đông, Bình Tân	107695049.0	10661276.0
+56	Đa Sỹ, Kiến Hưng, Hà Đông	209592584.0	1057857359.0
+57	Vạn Phúc, Hà Đông	209786876.0	105771796.0
+58	đường 19,5m, Phú Mỹ An, Huế	164626113.0	1076153514.0
+59	đường Hoàng Như Tiếp, Long Biên	210405377.0	1058776934.0
+60	Việt Hưng, Long Biên	210575538.0	1059024322.0
+61	Nguyễn Lam, Chu Huy Mân, Mai Phúc, Long Biên	210400626.0	1058986779.0
+62	Hồng Lạc, P.10, Tân Bình	107874845.0	1066470684.0
+63	Phạm Văn Chiêu	108501221.0	1066524088.0
+64	Đường Số 4		
+65	Thành phố Hồ Chí Minh	108230989.0	1066296638.0
+66	Lũy Bán Bích, Quận Tân Phú	107766943.0	1066341303.0
+67	Thái Thịnh - Đống Đa	210104261.0	1058184682.0
+68	Nhuệ Giang	209853911.0	1057784907.0
+69	Mậu Lương	209584268.0	1057945406.0
+70	phường Mễ Trì, Quận Nam Từ Liêm,TP HÀ NỘI	210055267.0	1057791327.0
+71	Trung tâm Vạn Phúc, Hà Đông	209786876.0	105771796.0
+72	Huyện Hoàng Mai	192683318.0	1057161966.0
+73	đường Lê Trọng Tấn	209818482.0	105742568.0
+74	Biên Hòa	109574128.0	1068426871.0
+75	Tô Hiệu, Lê Chân, Hải Phòng	208508055.0	1066789703.0
+76	đường Vườn Lài, Quận Tân Phú	107881471.0	1066297747.0
+77	Đường Tôn Đản	107580086.0	1067065435.0
+78	thạnh phú	99481665.0	10650538.0
+79	thạnh phú	99481665.0	10650538.0
+80	Quang Châu, Hòa Châu, quận Hòa Vang, thành phố Đà Nẵng	15977101.0	1081977188.0
+81	Nguyễn Thượng Hiền, Phường 1, Gò Vấp	10812763.0	1066852877.0
+82	đường Ô Tô, Phường Tân Vạn	109117711.0	1068272458.0
+83	Phố Thành Trung, Trâu Quỳ, Gia Lâm, Hà Nội	210082777.0	1059426744.0
+84	Phố Thành Trung, Trâu Quỳ, Gia Lâm, Hà Nội	210082777.0	1059426744.0
+85	đường Đỗ Văn Thi, Phường Hiệp Hòa	109378305.0	1068383495.0
+86	mặt phố an mỹ 4		
+87	Đường Số 28, Phường Hiệp Bình Chánh, Quận Thủ Đức, TP HCM	108383233.0	1067325977.0
+88	trần văn dư	108077565.0	1066446375.0
+89	Đường Mậu Lương, Phường Kiến Hưng, Quận Hà Đông, Hà Nội	209567104.0	1057936155.0
+90	Lũy Bán Bích, Huỳnh Thiện Lộc, Quận Tân Phú	107806065.0	1066358081.0
+91	Khu đô thị Vsip Từ Sơn, Bắc Ninh	210785932.0	1059684556.0
+92	Lũy Bán Bích, Quận Tân Phú	107766943.0	1066341303.0
+93	Âu Cơ Phú Trung Tân Phú	107796721.0	1066445135.0
+94	Phùng Hưng Hà Đông	209691613.0	1057853182.0
+95	27 Yên Bái, Hải Châu 1, Hải Châu, Đà Nẵng.	160692815.0	1082228666.0
+96	Tân Cảng , Phường 25, Bình Thạnh	108019447.0	1067220247.0
+97	Từ Liêm	210034608.0	1057703287.0
+98	Thanh Bình, Mỗ Lao, Hà Đông, Hà Nội, -Dự án-	209823818.0	1057780339.0
+99	Chiến Thắng Văn Quán Hà Đông	209791537.0	1057962032.0
+100	Đường Số 8	10855732.0	1067718319.0
+101	Đường Số 8	10855732.0	1067718319.0
+102	Việt Hưng	21140921.0	1058789403.0
+103	Thành phố Hồ Chí Minh	108230989.0	1066296638.0
+104	tăng nhơn phú , tp. thủ đức	108409534.0	10679719.0
+105	Ngõ Nguyễn Chí Thanh, Quận...	210225595.0	1058096452.0
+106	Lê Duẩn, Đà Nẵng	160705644.0	1082150839.0
+107	Ngõ Nguyễn Chí Thanh	210225595.0	1058096452.0
+108	Tân Mai	20983687.0	105848156.0
+109	Đường Ngô Thì Hương, Sơn Trà, Đà Nẵng	160967584.0	1082328533.0
+110	Thành phố Hồ Chí Minh	108230989.0	1066296638.0
+111	Thành phố Hồ Chí Minh	108230989.0	1066296638.0
+112	HT 26 - phường Hiệp Thành - quận 12	108759787.0	1066280646.0
+113	Đường Số 8	10855732.0	1067718319.0
+114	935/20/....		
+115	Đường Hoàng SÂM, Cầu Giấy, HÀ NỘI	210432351.0	105799352.0
+116	Đường Hoàng SÂM, Cầu Giấy, HÀ NỘI	210432351.0	105799352.0
+117	Gò Dầu Tân Quý Tân Phú	107957389.0	1066212329.0
+118	Chu Văn An		
+119	đường Nguyễn Hữu Cảnh, Tân Uyên, Bình Dương	110696512.0	1067792497.0
+120	Dường Dương Quảng Hàm, Phường 5, Quận Gò Vấp	108283702.0	1066897365.0
+121	phố Huỳnh Thúc Kháng, Quận Đống Đa	210199666.0	1058081833.0
+122	Lê Quang Định, Bạch Đằng, Chu Văn An	108026896.0	1066985516.0
+123	Biên Hòa	109574128.0	1068426871.0
+124	Nguyễn Hữu Cảnh		
+125	Đường Nguyễn Hữu Cảnh Phường Uyên Hưng TP Tân Uyên Bình Dương	110696512.0	1067792497.0
+126	Đường Số 24, Phường Linh Đông, Quận Thủ Đức, TP HCM	10850931.0	1067427323.0
+127	đường Lê Văn Sỹ, Phường 13, Quận Phú Nhuận	107908574.0	1066728765.0
+128	Trần Văn Quang P10 Tân Bình	10779581.0	1066471074.0
+129	Trần Duy Hưng, Cầu Giấy	210106758.0	1057995616.0
+130	đường Hoàng Hoa Thám, Phường 6, Quận Bình Thạnh	10807912.0	1066888124.0
+131	Bàu Cát, Quận Tân Bình	107918013.0	1066439464.0
+132	Đường Số 8	10855732.0	1067718319.0
+133	Nguyễn Đức Cảnh, Lê Chân, Hải Phòng	208503454.0	1066659534.0
+134	Nguyễn Đức Cảnh, Lê Chân, Hải Phòng	208503454.0	1066659534.0
+135	đường Bạch Đằng, Hai Bà Trưng	21015357.0	1058652385.0
+136	Hồ Sen, Lê Chân, Hải Phòng	208432426.0	1066821165.0
+137	Vũng Tàu	104113797.0	107136224.0
+138	Trung Tả, Đống Đa	210201416.0	1058344244.0
+139	Phan Văn Trị, Phường 10, Quận Gò Vấp	108327364.0	1066724769.0
+140	Phan Văn Trị, Phường 11, Quận Bình Thạnh	108159197.0	1066952001.0
+141	đường Giáng Hương, dãy nhà phố Dah2, phân khu Dahlia, khu đô thị Ecogarden		
+142	Phường Văn Quán, Quận Hà Đông, Hà Nội	209796446.0	1057923394.0
+143	Đường bình chiểu.phường bình chiểu.TP thủ đức	108745911.0	1067340561.0
+144	Tân Hòa 2, Hiệp Phú , Tp. Thủ Đức	10851896.0	106784689.0
+145	Nguyễn Văn Cừ		
+146	quận 3	107843695.0	1066844089.0
+147	Ngõ vào Định Công Thượng	209826822.0	1058209967.0
+148	Bưng Ông Thoàn , tăng nhơn phú , tp. thủ đức	108124272.0	1067974687.0
+149	Bùi Hữu Nghĩa, Bình Thạnh, Tp Hồ Chí Minh	107975726.0	1066988153.0
+150	Tam Trinh	20980702.0	1058644411.0
+151	Ngân - thổ cư Đống Đa hà nội	210180725.0	1058299495.0
+152	đàm quang trung long biên	210239608.0	1058947852.0
+153	Đàm Quang, Trung Long Biên	210239608.0	1058947852.0
+154	đội Cấn, quận Ba Đình	210353362.0	1058238927.0
+155	trung tâm Hà Nội	210277644.0	1058341598.0
+156	ECOGARDEN		
+157	Khuôn Việt, Phú Trung, Tân Phú	107760186.0	1066393366.0
+158	98/18		
+159	Phùng Chí Kiên		
+160	Biên Hòa	109574128.0	1068426871.0
+161	Ngân - thổ cư Đống Đa hà nội	210180725.0	1058299495.0
+162	Thành phố Hồ Chí Minh	108230989.0	1066296638.0
+163	đường Phan Chu Trinh, Phường Quang Vinh	10949032.0	1068157544.0
+164	đường P. Tân Phong, Quận ??	107221275.0	1067145038.0
+165	Phạm Văn Đồng, Phường 11, Quận Bình Thạnh	108204226.0	1066942397.0
+166	đường Nguyễn Sơn, đường Nguyễn Văn Cừ, phường Gia Thuỵ, quận Long Biên	210467846.0	1058782157.0
+167	Khu vực Nguyễn Sơn-Gia Thuỵ	210455138.0	1058808854.0
+168	Hào Nam, Đống Đa	210252222.0	1058272153.0
+169	Chiến Thắng Văn Quán Hà Đông	209791537.0	1057962032.0
+170	Cầu Am, Vạn Phúc, Hà Đông	209773501.0	1057774475.0
+171	khu dân cư Hai Thành, Tên Lửa	107477814.0	1065830486.0
+172	đường số 18		
+173	Chu Huy Mân, Long Biên	210444978.0	1059074374.0
+174			
+175	đường số 12, khu Tên Lửa	107478829.0	1066118492.0
+176	đường An Dương Vương, Phường An Lạc, Quận Bình Tân	107278848.0	1066203589.0
+177	Hương Lộ 2, Bình Trị Đông, Bình Tân, Ho Chi Minh City	107695049.0	10661276.0
+178	đường Phan Anh, Phường Bình Trị Đông, Quận Bình Tân, Thành phố Hồ Chí Minh	107673378.0	1066230141.0
+179	hẻm xe hơi, đường Phan Anh, Bình Trị Đông, Bình Tân, TP. HCM	107673378.0	1066230141.0
+180	Đội Cấn, ...		
+181	 		
+182	Mễ Trì Nam Từ Liêm, Ngõ Thông, Đại Lộ Thăng Long, Mỹ Đình	210030134.0	1057780595.0
+183	Đường Hoàng Quốc Việt, Cầu Giấy, HÀ NỘI	210460525.0	105793266.0
+184	TP Tân Uyên	11049492.0	1067576751.0
+185	41/14 Ngõ 219 Phố Định Công Thượng, Hoàng Mai, Hà Nội	209859171.0	105822933.0
+186	Lã Xuân Oai, Tăng Nhơn Phú A	108398715.0	1067953202.0
+187	Ngọc Thụy	210588582.0	1058583873.0
+188	Đội Cấn, Quận Ba Đình	210353362.0	1058238927.0
+189	Bờ Bao Tân Thắng, Sơn Kỳ, Tân Phú	108011535.0	1066183755.0
+190	Lã Xuân Oai, Tăng Nhơn Phú A, Tp. Thủ Đức	108398715.0	1067953202.0
+191	bửu long	109586438.0	1068053993.0
+192	Ngõ 151 Láng Hạ	210111973.0	1058118243.0
+193	Âu Cơ Phú Trung Tân Phú	107796721.0	1066445135.0
+194	Lạc Long Quân, Xuân La, Tây Hồ, Hà Nội	210603981.0	1058090381.0
+195	đường(percent, Quận Nam Từ Liêm, Tổng công ty Mỹ Đình, Hà Nội	210256221.0	1057677817.0
+196	Ngô Quyền, khu đô thị Văn Khê	209708916.0	1057643286.0
+197	Nguyễn Văn Khối	108429616.0	1066529357.0
+198	đường Bùi Hữu Nghĩa, Phước Hòa, Quận Hóa An	109335954.0	10679719.0
+199	23 Nơ Trang Long	108068249.0	1066950418.0
+200	mặt phố lớn, khu vực dân trí, gần trường học, chợ, siêu thị...		
+201	Cống Lỡ P15 Tân Bình	108265968.0	1066358376.0
+202	Cống Lỡ P15 Tân Bình	108265968.0	1066358376.0
+203	Cống Lỡ P.15 Tân Bình	108265968.0	1066358376.0
+204	Nguyễn Trung Trực, Phường 5, Bình Thạnh	108122478.0	1066863715.0
+205	Trần Phú Hà Đông	209799246.0	1057873752.0
+206	Ấp Láng - Tân Thành - Gò Công Đông - Tiền Giang	102972649.0	1067588494.0
+207	đường Lê Quang Đạo, Nam Từ Liêm, Hà Nội	210124718.0	105770698.0
+208	Thụy Khuê, Thụy Khuê, Tây Hồ, Hà Nội	21046133.0	1058246266.0
+209	Thành phố Đà Nẵng	160544068.0	1082021667.0
+210	Hẻm 87 đường Lê Thị Hoa.Phường Bình Chiểu - TP.Thủ Đức	108743126.0	1067366019.0
+211	ngoại bộ khu Tân Tạo, đối diện Bonchen	243317733.0	1206533224.0
+212	mặt phố Cổ Linh	210260537.0	1058985417.0
+213	ngõ Matiz, Trung tâm Đa sỹ, cạnh khu Kiến Hưng	209592584.0	1057857359.0
+214	Biên Hòa	109574128.0	1068426871.0
+215	Biên Hòa	109574128.0	1068426871.0
+216	Thụy Khuê - Tây Hồ	21046133.0	1058246266.0
+217	Đường Thanh Xuân 43, Quận 12	108900839.0	1066820517.0
+218	đông Đa, phườngninger	210180725.0	1058299495.0
+219	Tân Bình, TP.HCM	108014659.0	1066525974.0
+220	HƯƠNG LỘ 2	107670756.0	1066075906.0
+221	mặt tiền mân quang 4	161026602.0	1082462637.0
+222	Nguyễn Trãi, Quận Thanh Xuân	209935474.0	1058062968.0
+223	Xuân Phương	210314868.0	1057497878.0
+224	đường Bạch Mai, Phường Hai Bà Trưng	209964802.0	1058622838.0
+225	đường Phan Đình Phùng, Phường 1, Quận Phú Nhuận	107974655.0	1066819707.0
+226	Vương Thừa Vũ, quận Thanh Xuân	209989203.0	105821837.0
+227	Trần Kế Xương, Phường 7, Quận Phú Nhuận	108023412.0	1066903706.0
+228	Quang Trung		
+229	Thạch Lam Phú trung Tân Phú	107780407.0	1066274906.0
+230	Thạch Lam Phú Thạnh Tân Phú	107780407.0	1066274906.0
+231	Trần Phú Hà Đông	209799246.0	1057873752.0
+232	Mậu Lương, Kiên Hưng, Hà Đông	209567104.0	1057936155.0
+233	Mậu Lương, Kiến Hưng, Hà Đông	209567104.0	1057936155.0
+234	Lũy Bán Bích, Hòa Thạnh Tân Phú	107785858.0	1066351344.0
+235	Lũy Bán Bích Hòa Thạnh Tân Phú	107785858.0	1066351344.0
+236	Phố Thuận An, Trâu Quỳ, Gia Lâm, Hà Nội	210118801.0	1059414119.0
+237	La Khê, Hà Đông	209724114.0	1057615252.0
+238	Phố Thanh Nhàn, Quận Hai Bà Trưng	210027414.0	1058563274.0
+239	Ngõ Ba Gác Đua, Đống Đa	21016646.0	1058395069.0
+240	Phan Đăng Lưu, Nguyễn Văn Đậu, Quận Bình Thạnh	108038834.0	1066869521.0
+241	Đường Quốc Lộ 13, Phường Hiệp Bình Phước, Quận Thủ Đức, TP HCM	108505432.0	1067193752.0
+242	Vạn Phúc, Hà Đông	209786876.0	105771796.0
+243	đường ô tô, Phường Hiệp Hoà	10932876.0	1068379803.0
+244	đường ô tô, Phường Bửu Long	109586438.0	1068053993.0
+245	đường ô tô, Phường Bửu Long	109586438.0	1068053993.0
+246	na		
+247	phố Nhân Hòa, phường Thanh Xuân Trung, quận Thanh Xuân, Hà Nội	21002125.0	1058089493.0
+248	Hòa Hưng, Phường 12, Quận 10	107789834.0	1066738954.0
+249	Nguyễn Chí Thanh, Dương Đông, Phú Quốc, Kiên Giang	10220027.0	1039794999.0
+250	Thái Thịnh - Đống Đa	210104261.0	1058184682.0
+251	Thái Thịnh - Đống Đa	210104261.0	1058184682.0
+252	Tân Quý, Tân Phú	10794826.0	1066217623.0
+253	đường Bùi Minh Trực, Phường 5, Quận 8	107383744.0	1066586009.0
+254	Đường số 5, Phường 5, Quận 8	107362168.0	1066744709.0
+255	Phố Vọng, Hai Bà Trưng, Hà Nội	210090571.0	1058607507.0
+256	đường Khương Hạ, phố Bùi Xương Trạch, phường Thanh Xuân	108834303.0	1066703963.0
+257	Thành phố Hồ Chí Minh	108230989.0	1066296638.0
+258	Ngõ oto thông sang, gần bệnh viện Thanh Nhàn	210035559.0	105859375.0
+259	Trương Đinh, ngõ nông		
+260	Nguyễn Văn Khối	108429616.0	1066529357.0
+261	Trần Kế Xương, Phường 7, Quận Phú Nhuận	108023412.0	1066903706.0
+262	Vạn Kiếp, Phường 3, Quận Bình Thạnh	107994304.0	1066935618.0
+263	Thành phố Đà Nẵng	160544068.0	1082021667.0
+264	phố Vương Thừa Vũ, quận Thanh Xuân	209989203.0	105821837.0
+265	DƯƠNG QUẢNG HÀM, PHƯỜNG 5, GÒ VẤP , HCM	108236032.0	1066957585.0
+266	DƯƠNG QUẢNG HÀM, PHƯỜNG 5, GÒ VẤP , HCM	108236032.0	1066957585.0
+267	Tô Vĩnh Diện, Quận Thanh Xuân	209996942.0	1058209239.0
+268	đường Phạm Văn Trị, Phường 11, Quận Bình Thạnh	108159197.0	1066952001.0
+269	Ngõ 381 Nguyễn Khang, Yên Hoà, Cầu Giấy, Hà Nội	210273954.0	1057967919.0
+270	Trần Phú, Ngô Quyền, Hải Phòng	208589455.0	1066871535.0
+271	Phú Thượng, Quận Tây Hồ	210838905.0	1058084823.0
+272	Kiến Hưng, Hà Đông	209528073.0	1057850022.0
+273	đường Nguyễn Bặc, Phường 3, Quận Tân Bình	107944664.0	106662427.0
+274	Hồng Mai, Hai Bà Trưng	209989094.0	1058532637.0
+275	đường tỉnh 266, xã Điềm Thuỵ, huyện Phú Bình, tỉnh Thái Nguyên	214588593.0	1059171161.0
+276	TP.HCM	108230989.0	1066296638.0
+277	đường Thiên Phước, Phường 9, Quận Tân Bình	1077704.0	1066545298.0
+278	Hẻm 3, Quận Tân Phú	107826958.0	1066203951.0
+279	đường Nguyễn Trãi, Quận Thanh Xuân	209935474.0	1058062968.0
+280	phố Nguyễn Trãi, quận Thanh Xuân	209935474.0	1058062968.0
+281	Lê Văn Thọ	108455819.0	1066570168.0
+282	Thành phố Đà Nẵng	160544068.0	1082021667.0
+283	Lý Thường Kiệt, Phường 8, Quận Tân Bình	107844579.0	1066541494.0
+284	Lý Thường Kiệt, Phường 8, Quận Tân Bình	107844579.0	1066541494.0
+285	Nguyễn Ái Quốc, Phường Trung Dũng, Thành phố Biên Hòa, Đồng Nai	109562652.0	1068224965.0
+286	Tây Thạnh, P.Tây Thạnh, Tân Phú	108122907.0	1066261831.0
+287	Thành phố Hồ Chí Minh	108230989.0	1066296638.0
+288	đường Trần Quốc Hoàn, Cầu Giấy, Hà Nội	210416528.0	1057859318.0
+289	Trần Quốc Hoàn, Cầu Giấy	210416528.0	1057859318.0
+290	đường Điện Biên Phủ, phưởng Phan Si Păng, thị xã Sa Pa	222497168.0	1039608091.0
+291	Nguyễn Văn Cừ, Long Biên	210464835.0	1058773208.0
+292	Quận Gò Vấp HCM	108386779.0	1066652904.0
+293	Ngã Tư Lũy Bán Bích, Hiệp Tân, Quận Tân Phú	107714135.0	1066319887.0
+294	Cam Lộ, Hùng Vương, Hồng Bàng, Hải Phòng	208717109.0	1066364987.0
+295	đường Nguyễn Ái Quốc, P. Hố Nai	109239845.0	1068049789.0
+296	Thành phố Hồ Chí Minh	108230989.0	1066296638.0
+297	Đường số 4 Phường Bình Chiểu TP.Thủ Đức	1087579.0	1067229308.0
+298	đường Nguyễn Văn Cục, Long Biên, Hà Nội	210186765.0	105884813.0
+299	Lê Đức Thọ, Phường 16, Quận Gò Vấp	108489499.0	1066663471.0
+300	đường Thịnh Quang, phường Thịnh Quang, Quận Đống Đa, Hà Nội	210101897.0	1058186922.0
+301	Đường lê thị hoa Phường Bình Chiểu TP.Thủ đức	108773296.0	10674114.0
+302	Phường Hiệp Bình Chánh, Quận Thủ Đức, TP.Thủ Đức	108339953.0	1067264125.0
+303	Hẻm 42 Đường Bình Chiểu	108821019.0	106762894.0
+304	Hẻm 42 Đường Bình Chiểu	108821019.0	106762894.0
+305	Ngân - thổ cư Đống Đa hà nội	210180725.0	1058299495.0
+306	Đường Ngô Quyền, Phường La Khê, Quận Hà Đông, Hà Nội	209704818.0	1057624811.0
+307	đường Lê Văn Khương, Quận 12	108631838.0	1066497393.0
+308	Đội Cấn		
+309	Thành phố Hồ Chí Minh	108230989.0	1066296638.0
+310	Nguyễn Hữu Cảnh, Phường 22, Quận Bình Thạnh	107933763.0	1067182627.0
+311	Lê Văn Thọ, Phường 9, Quận Gò Vấp	108472879.0	1066569162.0
+312	Gò Vấp	108386779.0	1066652904.0
+313	Thành phố Hồ Chí Minh	108230989.0	1066296638.0
+314	Chợ Long Cang	105855704.0	106517829.0
+315	Sở Dầu, Hồng Bàng, Hải Phòng	208683599.0	1066556575.0
+316	 Near the street		
+317	Hồ Sen, Lê Chân, Hải Phòng	208432426.0	1066821165.0
+318	Phố Đội Cấn, Quận Ba Đình	210353698.0	1058192143.0
+319	đường Hoàng Hoa Thám, Phường 6, Quận Bình Thạnh	10807912.0	1066888124.0
+320	đường Hoàng Hoa Thám, Phường 6, Quận Bình Thạnh	10807912.0	1066888124.0
+321	đường Trần Kế Xương, Phường 3, Quận Bình Thạnh	108022952.0	1066917901.0
+322	phố cổ Hòa Kiếm, sổ Via Hè, quận	210352664.0	1058500124.0
+323	Đóng đa-lô Góc 36m, Quận Thổ Quan	210169746.0	105834167.0
+324	Mặt đường VIP, Quận Long Biên	210548635.0	1058884966.0
+325	Xã Tân Xuân, Huyện Hóc Môn, TP. HCM	108684249.0	1065967126.0
+326	Nguyễn Văn Khối	108429616.0	1066529357.0
+327	Lã Xuân Oai, Tăng Nhơn Phú A, Tp. Thủ Đức	108398715.0	1067953202.0
+328	TÂN THỚI NHẤT - q12	108292885.0	1066143944.0
+329	TÂN THỚI NHẤT - q12	108292885.0	1066143944.0
+330	TÂN THỚI NHẤT - q12	108292885.0	1066143944.0
+331	TÂN THỚI NHẤT - q12	108292885.0	1066143944.0
+332	Long Biên hà nôi	210186765.0	105884813.0
+333	khu tái định cư Ngọc Thuỵ, đường 17.5m, huyện Long Biên	210570172.0	1058733547.0
+334	Dương Quảng Hàm, Phường 5, Gò Vấp	108236032.0	1066957585.0
+335	Đường Số 10, Phường Trường Thọ, Quận Thủ Đức, TP HCM	108480496.0	106756555.0
+336	Sở Dầu, Hồng Bàng, Hải Phòng	208683599.0	1066556575.0
+337	Nguyễn Văn Khối	108429616.0	1066529357.0
+338	Đội Cấn		
+339	được Đội Cấn	210353698.0	1058192143.0
+340	Xuân La, Tây Hồ	210596756.0	1058040796.0
+341	Đường ấp 1A xã vĩnh lộc A huyện bình chánh tp. Hồ Chí Minh	108057094.0	1065564609.0
+342	đường Lê Văn Sỹ, Phường 10	107933988.0	1066695074.0
+343	Đường bình chiểu. Phường Bình Chiểu. TP.Thủ Đức	108745911.0	1067340561.0
+344	Nguyễn Viết Xuân, -Dự án-	19776472.0	1055650239.0
+345	Nguyễn Viết Xuân, -Dự án-	19776472.0	1055650239.0
+346	Giáp Bát	209836114.0	1058422401.0
+347	Giáp Bát	209836114.0	1058422401.0
+348	Hồ Đền Lừ	209849274.0	1058550843.0
+349	Hà Nội	210277644.0	1058341598.0
+350	hẻm Thảo Điền, Quận 2	107935216.0	1067308195.0
+351	Nguyễn Súy, Tân Quý, Tân Phú	107922004.0	1066224456.0
+352	Thành phố Hồ Chí Minh	108230989.0	1066296638.0
+353	Hương Lộ 3, Bình Hưng Hòa, Bình Tân	107987166.0	1066125495.0
+354	Ngân - thổ cư Đống Đa hà nội	210180725.0	1058299495.0
+355	Đường Ngô Quyền, Sơn Trà, Đà Nẵng	160812594.0	1082355606.0
+356	đường Trần Quốc Toản, Phường Bình Đa	109382321.0	1068591645.0
+357	đường Phạm văn thuận, Biên Hoà	109526723.0	1068534873.0
+358	Ung Văn Khiêm, Phường 25, Quận Bình Thạnh	108067689.0	1067193518.0
+359	Đường Thống Nhất, Phường 11, Quận Gò Vấp	108394408.0	1066653068.0
+360	Lê Văn Quới, Bình Hưng Hòa A, Bình Tân	107762062.0	1066108004.0
+361	Lê Văn Quới, Bình Hưng Hòa A, Bình Tân	107762062.0	1066108004.0
+362	đường Bùi Văn Thêm, Phường 9, Quận Phú Nhuận	108089312.0	1066768713.0
+363	Lê Văn Duyệt phườn 3, Bình Thanh	107985239.0	1066952555.0
+364	Đường Bình Chiểu - Phường Bình Chiểu - TP.Thủ Đức	108745911.0	1067340561.0
+365	ngõ 72 đường Nguyễn Trãi, phường Thượng Đình, Quận Thanh Xuân, Hà Nội	210036899.0	1058165503.0
+366	ngõ 72 đường Nguyễn Trãi, phường Thượng Đình, Quận Thanh Xuân, Hà Nội	210036899.0	1058165503.0
+367	Đê La Thành, Xã Đàn	210129017.0	1058355017.0
+368	phố Ngọc Khánh, Ba Đình	210271538.0	1058177791.0
+369	HIỆP THÀNH - q12	108825023.0	1066379724.0
+370	Phùng Khoang Trung Văn Hà Nội	20988178.0	1057931515.0
+371	TÂN THỚI NHẤT - q12	108292885.0	1066143944.0
+372	TÂN THỚI HIỆP - q12	108603672.0	1066438673.0
+373	đường Nguyễn Văn Trỗi, quận Phú Nhuận	107958681.0	1066750014.0
+374	Biên Hòa	109574128.0	1068426871.0
+375	Ngân - thổ cư Đống Đa hà nội	210180725.0	1058299495.0
+376	Đặng Văn Ngữ, Đống Đa	210099889.0	1058311823.0
+377	TĐC Thượng Thanh, Long Biên, Hà Nội	2107003.0	105896926.0
+378	Tầng 5, Tòa nhà Silver Sea Tower - 47 Ba Cu, Phường 1, Thành phố Vũng Tàu	10350301.0	1070771056.0
+379	thạnh phú	99481665.0	10650538.0
+380	đường 12m	148172963.0	1089547223.0
+381	Ngõ phân lô, Phường HUYỔNG THÚC KHÁNG	22083613.0	112014685.0
+382	phố Hoàng Cầu, khu Vip, quận Đống Đa	210164782.0	1058227056.0
+383	Đê La Thành, Phường Đống Đa	210237416.0	1058174236.0
+384	 Hoàng Hoa Thám, Quận Ba Đình	210419911.0	1058205621.0
+385	Nguyễn Hữu Cảnh, KQH Đại học Huế	164469895.0	1076080548.0
+386	đường Phạm Văn Hai, Phường 4, Quận Tân Bình	107945549.0	1066632715.0
+387	Bình Long Phú Thạnh Tân Phú	107797955.0	1066203829.0
+388	Bình Long Phú Thạnh Tân Phú	107797955.0	1066203829.0
+389	Phố Lụa Hà Đông	209804689.0	1057751333.0
+390	Tứ Liên	210695076.0	1058378366.0
+391	Tứ Liên	210695076.0	1058378366.0
+392	Văn Phú, Hà Đông	209619409.0	1057685991.0
+393	Vạn Phúc, Hà Đông	209786876.0	105771796.0
+394	Lý Thánh Tông Hiệp Tân Tân Phú	107668763.0	1066274134.0
+395	Bạch Mai, Hai Bà Trưng, Hà Nội	210008143.0	1058517814.0
+396	phường Mễ Trì, Quận Nam Từ Liêm,TP HÀ NỘI	210055267.0	1057791327.0
+397	phường Mễ Trì, Quận Nam Từ Liêm,TP HÀ NỘI	210055267.0	1057791327.0
+398	Khương Trung, Quận Thanh Xuân	209971504.0	1058216911.0
+399	Phan Đình Giót, Quận Thanh Xuân	209911117.0	1058393981.0
+400	Lạc Long Quân - Tây Hồ	210641803.0	105809786.0
+401	đường ô tô, Phường Tân Phong	107217656.0	1067161328.0
+402	Thành phố Hồ Chí Minh	108230989.0	1066296638.0
+403	phường Mễ Trì, Quận Nam Từ Liêm,TP HÀ NỘI	210055267.0	1057791327.0
+404	Tây Sơn, Đống Đa	210082189.0	1058237382.0
+405	Lai Xá, Kim Chung, Hoài Đức, Hà Nội	210651094.0	1057160469.0
+406	Thành phố Hồ Chí Minh	108230989.0	1066296638.0
+407	đường phố cổ Hoàn Kiếm	21034059.0	1058506368.0
+408	18 An Tôn Phường 5 Thành Phố Đà Lạt Lâm Đồng	119399807.0	1084179034.0
+409	Quang Trung, Phường 8, Quận Gò Vấp	108388835.0	1066488544.0
+410	Quang Trung, Phường 8, Quận Gò Vấp	108388835.0	1066488544.0
+411	đường Nguyễn Văn Lượng, Phường 16, Quận Gò Vấp	108386609.0	1066690736.0
+412	Thành phố Hồ Chí Minh	108230989.0	1066296638.0
+413	Hẻm 20 đường số 4 phường linh tây tp.thủ đức	10854248.0	1067529054.0
+414	Đồng Đa, Hà Nội	210180725.0	1058299495.0
+415	TRUNG CHÁNH	108683571.0	1066059239.0
+416	HIỆP THÀNH	108825023.0	1066379724.0
+417	Thành phố Hồ Chí Minh	108230989.0	1066296638.0
+418	Đỗ Xuân Hợp , Phước Long B, Tp. Thủ Đức	108150123.0	1067748598.0
+419	Thành phố Hồ Chí Minh	108230989.0	1066296638.0
+420	đường nội bộ, đối diện công ty bonchen	20979868.0	1057439194.0
+421	Phan Đăng Lưu, Phường 7, Quận Phú Nhuận	108035449.0	106688791.0
+422	La Phù - Hoài Đức - Hà Nội	209809737.0	1057321831.0
+423	Đường Số 10, Phường Linh Xuân, Quận Thủ Đức, TP HCM	108764193.0	1067733063.0
+424	đường Nguyên Hồng, quận Ba Đình	210252909.0	1058115425.0
+425	na		
+426	Mỹ Gia Vĩnh Thái, Nha Trang, Khánh Hoà	122353019.0	1091693187.0
+427	Đường Cầu Kinh	107540092.0	1065827321.0
+428	đường số 4, khu công nghiệp Tân Tạo	107411353.0	1065965813.0
+429	Đội Cấn, Đội Cấn, Ba Đình, Hà Nội	210378985.0	1058080111.0
+430	Hẻm xe hơi, đường Xô Viết Nghệ Tĩnh, Phường 26, Quận Bình Thạnh	108110484.0	1067137928.0
+431	đường số 6B, khu Tên Lửa	107478829.0	1066118492.0
+432	đường số 16, khu Tên Lửa	107478829.0	1066118492.0
+433	Lê Đình Cẩn, Tân Tạo, Bình Tân	107595829.0	106599273.0
+434	Lạc Long, Quận Tân Bình	107794947.0	1066498878.0
+435	Ngõ phố Hoàng Hoa Thám, Phường Bà Đình	200926177.0	1058789403.0
+436	Thành phố Hồ Chí Minh	108230989.0	1066296638.0
+437	Ni Sư Huỳnh Liên, P.10, Tân Bình	107836014.0	1066474124.0
+438	hẻm xe hơi thông đường Đất Mới, Phường Bình Trị Đông, Quận Bình Tân, Thành phố Hồ Chí Minh	107668701.0	1066096908.0
+439	Quan Nhân		
+440	Hẻm xe hơi thông đường Mã Lò, Quận Bình Tân	107728591.0	1066018083.0
+441	Ngõ 35, số nhà 51C, đường Lê Đức Thọ	210320937.0	1057698201.0
+442	Nguyễn chí thanh, kp12, dương đông, phú quốc, kiên giang	10220027.0	1039794999.0
+443	đường Phạm Nhữ Tăng, Phường 4, Quận 8	10737658.0	1066769621.0
+444	đường Phạm Nhữ Tăng, Phường 4, Quận 8	10737658.0	1066769621.0
+445	đường 3/2, phường 14, quận 10	107656334.0	1066631892.0
+446	Hẻm xe hơi, đường Đất Mới, Phường Bình Trị Đông, Quận Bình Tân, TP. Hồ Chí Minh	107668701.0	1066096908.0
+447	Đường tam châu phường tam bình tp.thủ đức	108678038.0	1067445156.0
+448	Đặng Văn Bin , Trường Thọ	108439717.0	106762358.0
+449	đường Trương Phước Phan, Phường Bình Trị Đông, Quận Bình Tân, Thành phố Hồ Chí Minh	107667203.0	1066133357.0
+450	Thành phố Hồ Chí Minh	108230989.0	1066296638.0
+451	Thành phố Hồ Chí Minh	108230989.0	1066296638.0
+452	Ngõ rộng, mặt phố Kim Hoa, mặt phố Xã Đàn	210129017.0	1058355017.0
+453	Thành phố Hồ Chí Minh	108230989.0	1066296638.0
+454	Đỗ Xuân Hợp, Phước Long B	108150123.0	1067748598.0
+455	sedan		
+456	đường 38, khu Tên lửa	107478829.0	1066118492.0
+457	đường số 3, khu Tên Lửa, Quận Bình Tân	107557614.0	1066126331.0
+458	Ngọc Thuỵ, Long Biên	210588582.0	1058583873.0
+459	Dã Tượng, Nha Trang, Khánh Hoà	122172344.0	1092001536.0
+460	đường số 12, khu Tên Lửa	107478829.0	1066118492.0
+461	mặt phố Lê Đức Thọ	210297668.0	1057690511.0
+462	Mặt Tiền Khủng, Vị Trí Đẹp		
+463	Bắc Hải	214811199.0	10912008.0
+464	KQH Hương Sơ	164338667.0	1075912115.0
+465	Nguyễn Xí, Phường 13, Quận Bình Thạnh	108200411.0	1067039308.0
+466	Đoàn Quang Dung, Trâu Quỳ, Gia Lâm, Hà Nội	210120044.0	1059447359.0
+467	False		
+468	Thành phố Hồ Chí Minh	108230989.0	1066296638.0
+469	Q12		
+470	HXH Trường Chinh, Phường 12, Quận Tân Bình	107953648.0	1066487196.0
+471	Đặng Văn Bi, Thủ Đức	108439717.0	106762358.0
+472	Đặng Văn Bi, Trường Thọ, Thủ Đức	108439717.0	106762358.0
+473	đường Ba Tháng Hai, Phường 11, Quận 10	107738655.0	1066777412.0
+474	Lê Văn Thọ, Phường 8, Quận Gò Vấp	108412988.0	1066572124.0
+475	Phan Văn Trị, Phường 5, Quận Gò Vấp	108256696.0	1066900101.0
+476	Q12		
+477	Phú Mỹ An, Huế	164626113.0	1076153514.0
+478	Nguyễn Hồng Đào, Quận Tân Bình	107937408.0	1066423863.0
+479	Đường Số 44	107360333.0	1066251465.0
+480	Liên Khu 4-5, Bình Hưng Hòa B, Bình Tân	107990466.0	1065896462.0
+481	Tân Sơn Nhì, Tân Phú	107997882.0	106630604.0
+482	Long Biên	210186765.0	105884813.0
+483	Nguyễn Văn Khối	108429616.0	1066529357.0
+484	Đường tỉnh lộ 43 Phường bình chiểu TP thủ đức	108667917.0	1067339255.0
+485	174 Tam Trinh, Quận Hoàng Mai	209675095.0	1058676776.0
+486	Nguyễn Hùng Đạo, Quận Tân Bình	108014659.0	1066525974.0
+487	Huỳnh Thị Hai, Quận 12	108674107.0	1066276534.0
+488	Tống phước phổ		
+489	Lý Thường Kiệt, Quận 11	107674134.0	1066589754.0
+490	đường Nguyễn Sơn, Gia Thuỵ, Quận Long Biên	210455138.0	1058808854.0
+491	Khu Đô Thị OASIS 2, Quận Thuận An, Bình Dương	109399412.0	106728199.0
+492	(Unknown), Âu Phú		
+493	Tân Kỳ Tân Quý, Bình Hưng Hòa, Bình Tân	107923076.0	1066063938.0
+494	Đường 21 Phường Bình Chiểu TP.Thủ Đức	108797416.0	1067310013.0
+495	Hồng Tiến - Bồ Đề, Long Biên	21039005.0	1058756334.0
+496	Nguyễn Văn Trỗi, phường 15, Bình Thạnh	107958681.0	1066750014.0
+497	Nguyễn Văn Trỗi, phường 15, Bình Thạnh	107958681.0	1066750014.0
+498	Đường Tỉnh Lộ 43 Phường Bình Chiểu TP.Thủ Đức	108667917.0	1067339255.0
+499	Đường số 21 Phường Bình Chiểu TP.Thủ Đức	108797739.0	1067318063.0
+500	Đội Cấn, Đội Cấn, Ba Đình, Hà Nội, -Dự án-	210378985.0	1058080111.0
+501	Đường số 4 Phường Bình Chiểu TP.Thủ Đức	1087579.0	1067229308.0
+502	21 Lò Đúc, Lò Đúc	210180643.0	1058555775.0
+503	Đường Láng, Quận Đống Đa	21014156.0	1058065054.0
+504	Thành phố Hồ Chí Minh	108230989.0	1066296638.0
+505	Lửa, Tên Lửa		
+506	Võng Thị, Bưởi, Tây Hồ, Hà Nội	210516835.0	1058112908.0
+507	Võng Thị, Bưởi, Tây Hồ, Hà Nội	210516835.0	1058112908.0
+508	Đường số 6 Phường Linh Tây TP-Thủ Đức	10859594.0	1067544265.0
+509	Phú Diễn, Bắc Từ Liêm< , Nội	21047768.0	1057615252.0
+510	Nguyễn Thị Tồn, Phường Bủu Hoà, Quận Rafael	109318693.0	1068095841.0
+511	Lê Văn Thọ	108455819.0	1066570168.0
+512	đường số 44, Tân Tạo, Bình Tân	107527275.0	106600254.0
+513	đường số 44, Tân Tạo, Bình Tân, Quận 12	107527275.0	106600254.0
+514	Mặt phố TT Trâu Quỳ, Quận Gia Lâm	210078386.0	1059376756.0
+515	Ngân - thổ cư Đống Đa hà nội	210180725.0	1058299495.0
+516	Đường Số 10, Phường Hiệp Bình Chánh, Quận Thủ Đức, TP HCM	108405308.0	1067248418.0
+517	Lê Cơ, An Dương Vương, Võ Văn Kiệt, Kinh Dương Vương	107266014.0	1066202294.0
+518	TÂN CHÁNH HIỆP- q12	10866797.0	1066261831.0
+519	TÂN THỚI HIỆP - q12	108603672.0	1066438673.0
+520	TÂN CHÁNH HIỆP- q12	10866797.0	1066261831.0
+521	Đường Số 18		
+522	Bàu Cát, Phường 12, Quận Tân Bình	107910616.0	1066454997.0
+523	đường Bàu Cát, Phường 12, Quận Tân Bình	107910616.0	1066454997.0
+524	Ngân - thổ cư Đống Đa hà nội	210180725.0	1058299495.0
+525	Bàu Cát, PhƯỜng 12, Quận Tân Bình	107910616.0	1066454997.0
+526	Bàu Cát, Phường 12, Quận Tân Bình	107910616.0	1066454997.0
+527	Lạc Long Quân, Xuân La, Tây Hồ	210603981.0	1058090381.0
+528	False		
+529	đường Thoại Ngọc Hầu, Phường Phú Thạnh, Quận Tân Phú	107777803.0	1066289321.0
+530	đường Nguyễn Văn Cừ	107593479.0	1066840928.0
+531	đường Lê Văn Sỹ, Nguyễn Văn Trỗi, Trần Huy Liệu	107942789.0	1066778682.0
+532	ngõ văn hương	210240516.0	1058343155.0
+533	Mai Thị Lựu, Phường Đa Kao, Quận 1	107911633.0	1066991494.0
+534	hẻm Đường Bùi Đình Túy, Phường 24, Quận Bình Thạnh	108061552.0	1067072486.0
+535	đường Hoàng Hoa Thám, Phường 6, Quận Bình Thạnh	10807912.0	1066888124.0
+536	đường Hoàng Hoa Thám, Phường 6, Quận Bình Thạnh	10807912.0	1066888124.0
+537	Đường tỉnh lộ 43.Phường Bình Chiểu. TP Thủ Đức	108667917.0	1067339255.0
+538	Hẻm xe tải, trung tâm Gò Vấp	108386779.0	1066652904.0
+539	đường số 29, khu Tên Lửa	107557614.0	1066126331.0
+540	 Quốc Lộ 20	115311212.0	1078685714.0
+541	Từ Liêm	210034608.0	1057703287.0
+542	phố Ngô Gia Tự	210656791.0	1058980147.0
+543	Hà Nội	210277644.0	1058341598.0
+544	Hà Nội	210277644.0	1058341598.0
+545	24/ Đường Ngô Chí Quốc.Phường Bình Chiểu TP-Thủ Đức	108770931.0	1067263379.0
+546	phố Lê Văn Thiêm, phường Nhân Chính, quận Thanh Xuân, Hà Nội	2100088.0	1058037575.0
+547	Hòa Bình, Quận Tân Phú	107701883.0	1066319717.0
+548	Phường Cửa Đông, Quận Hoàn Kiếm, Hà Nội, -- Dự án --	210329168.0	1058455428.0
+549	ngõ Quan Nhân	210034012.0	1058110263.0
+550	ngõ Quan Nhân	210034012.0	1058110263.0
+551	Nguyễn Văn Khối, Phường 9, Quận Gò Vấp	108434536.0	1066511637.0
+552	đường Minh Mạng, Khuê Mỹ, Ngũ Hành Sơn, Đà Nẵng	160154484.0	1082531842.0
+553	Đình Phong Phú, Tăng Nhơn Phú B, Tp. Thủ Đức	108369642.0	1067814925.0
+554	Trần Phú, Văn Quán, Hà Đông	209799246.0	1057873752.0
+555	đường số 7, Khu Tên Lề		
+556	đường Lý Thường Kiệt, Quận 11	107739582.0	1066570975.0
+557	Kinh Doanh Lý Thường Kiệt, Quận 11, Phường 2	107674134.0	1066589754.0
+558	Chợ Vồ, Hà Đông	20972242.0	1057760128.0
+559	Xuân Đỉnh, Xuân Đỉnh, Bắc Từ Liêm, Hà Nội, -Dự án-	210739704.0	105790872.0
+560	Lê Văn Thọ	108455819.0	1066570168.0
+561	đường số 4, khu Tên Lửa	107478829.0	1066118492.0
+562	đường số 4, khu Tên Lửa	107478829.0	1066118492.0
+563	TP. Vũng Tàu	104113797.0	107136224.0
+564	Biên hòa	109574128.0	1068426871.0
+565	đường Thái Hà, phường Đống Đa	210129882.0	105820014.0
+566	26/1/3		
+567	Hẻm 80 đường Ngô Chí Quốc Phường Bình Chiểu TP-Thủ Đức	108780404.0	1067249692.0
+568	thạnh phú	99481665.0	10650538.0
+569	Hoa Sữa, Phường 17, Quận Phú Nhuận	107981287.0	1066913581.0
+570	Hoa Đào, Phường 2, Quận Tân Phú	107982517.0	1066861648.0
+571	HIỆP THÀNH - q12	108825023.0	1066379724.0
+572	Phố Kim Mã, Quận Ba Đình	21030533.0	1058172308.0
+573	Hoa Cúc, Phường 7, Quận Phú Nhuận	107986191.0	106688851.0
+574	Phạm Văn Đồng, Phường 1, Quận Gò Vấp	10818439.0	1066877809.0
+575	Nguyễn Đình Chiểu, Phường 2, Quận 3	107684189.0	1066805551.0
+576	Huỳnh Văn Bánh, Phường 11, Quận Phú Nhuận	107917429.0	1066748587.0
+577	Mã Lò, Bình Trị Đông A, Bình Tân	107683072.0	1066031065.0
+578	Tân Phú, Tân Sơn Nhì	107997882.0	106630604.0
+579	Khu đô thị Vsip Từ Sơn, Bắc Ninh	210785932.0	1059684556.0
+580	Nguyễn Đình Chính, Phường 11, Phú Nhuận	107929975.0	1066733494.0
+581	Khu đô thị Vsip Từ Sơn, Bắc Ninh	210785932.0	1059684556.0
+582	Hẻm 49. Đường số 47 Phường Hiệp Bình Chánh TP.Thủ Đức	108250728.0	1067209057.0
+583	Đường Tân Quý	10798451.0	1066196579.0
+584	Hương Lộ 3, Bình Hưng Hòa, Bình Tân	107987166.0	1066125495.0
+585	CMT8, Phường 5, Quận Tân Bình	107882254.0	1066621693.0
+586	Nguyễn Văn Lượng	107434224.0	1066346829.0
+587	Hồ Đầm Tròn, Ngõ 135 Đội Cấn, Giang Văn Minh, Trung tâm Q. Ba Đình	210361483.0	1058282177.0
+588	Hồ Đầm Tròn, Ngõ 135 Đội Cấn, Giang Văn Minh, Trung tâm Q. Ba Đình	210361483.0	1058282177.0
+589	Lê Đức Thọ		
+590	58 Tạ Quang Bửu	107432117.0	1066833978.0
+591	Ngõ Quỳnh	210017544.0	1058552438.0
+592	Ngô Thì Nhậm		
+593	đường Khu VÍP Bàu Cát, Phường 11, Quận Tân Bình	107914594.0	1066447157.0
+594	Bùi văn hòa	109193736.0	1068832112.0
+595	Bạch Mai, Hai Bà Trưng	210008143.0	1058517814.0
+596	Ngõ Tựu Liệt	209551938.0	1058363687.0
+597	Vô Nghi		
+598	Tô Hiệu, Lê Chân, Hải Phòng	208508055.0	1066789703.0
+599	Đường số 588 Phường Phước Long A TP.Thủ Đức	108276038.0	1067610687.0
+600	Thành phố Hồ Chí Minh	108230989.0	1066296638.0
+601	đường Thống Nhất, Phường 16, Quận Gò Vấp	108456188.0	1066647941.0
+602	nguyen van khoi. go vap	108429616.0	1066529357.0
+603	Ni Sư Huỳnh Liên, P.10, Tân Bình	107836014.0	1066474124.0
+604	đường Khương Trung, Quận Thanh Xuân	209968809.0	1058179701.0
+605	Đống Đa, Hà Nội	210180725.0	1058299495.0
+606	Kim Giang	209828413.0	1058121513.0
+607	Long Thành	107782801.0	1069447146.0
+608	phố Kim Ngưu, quận Hai Bà Trưng	210026587.0	1058617634.0
+609	Hương Lộ 2, Bình Trị Đông, Bình Tân	107695049.0	10661276.0
+610	Thống Nhất, Phường 11, Quận Gò Vấp	108394408.0	1066653068.0
+611	Hẻm 7m, Lý Thường Kiệt, Quận 10, Phường 8, Tân Bình	107805759.0	1066540273.0
+612	Võ Văn Ngân, Linh Chiểu, Thủ Đức	108507175.0	1067644224.0
+613	Lê Văn Việt, Tăng Nhơn Phú A, Quận 9, Thủ Đức	108495783.0	106810518.0
+614	Q12		
+615	Q12		
+616	TÂN CHÁNH HIỆP	10866797.0	1066261831.0
+617	đường Y tế kỹ thuật cao, P. Bình Trị Đông B, Bình Tân, HCM	107731906.0	1066784833.0
+618	đường Y tế kỹ thuật cao, P. Bình Trị Đông B, Bình Tân, HCM	107731906.0	1066784833.0
+619	ĐƯỜNG LÊ VĂN THỌ, P.11, GÒ VẤP	108420297.0	1066571573.0
+620	Đường Bùi Thị Xuân, An Hải Tây, Sơn Trà, Đà Nẵng	160539111.0	1082354662.0
+621	Thị trấn Nhơn Hòa - huyện Chư Pưh - Tỉnh Gia Lai	135517242.0	1080835783.0
+622	Khu vực An Ninh, Hàng Xóm Thân Thiện, quốc lộ 22 và Quốc Lộ 1A 1km, trung tâm Thành Phố	16394065.0	107570791.0
+623	Khu đô thị Five Star Mỹ Đình, Phố người Hàn Quốc	210256221.0	1057677817.0
+624	Đường Nam Hòa, Phường Phước Long A, Q9	108265841.0	1067619652.0
+625	đường Nguyễn Xiển, Phường Trường Thạnh, Quận 9	108364557.0	1068415369.0
+626	Đường Nguyễn Văn Cừ, Phường Gia Thụy, Quận Long Biên, Hà Nội, Dự án	210495394.0	1058834124.0
+627	Trương Định, Bạch Mai	210008143.0	1058517814.0
+628	Thạch Bàn- Long Biên	210216695.0	1059141793.0
+629	Thành phố Hồ Chí Minh	108230989.0	1066296638.0
+630	Thành phố Hồ Chí Minh	108230989.0	1066296638.0
+631	21.32		
+632	Bờ Bao Tân Thắng, Sơn Kỳ, Tân Phú	108011535.0	1066183755.0
+633	Nguyễn Trãi, Hà Đông, HN	209699557.0	1057798664.0
+634	Hoàng Hoa Thám, Ba Đình, Hà Nội,	210419911.0	1058205621.0
+635	Khương Đình, Thanh Xuân	209887356.0	1058187558.0
+636	Quận Hoàng Mai, Hà Nội	209836984.0	1058636257.0
+637	Quận Hoàng Mai, Hà Nội	209836984.0	1058636257.0
+638	đường Ba Đình, Phường Giang Văn Minh, Quận Ba Đình	210337815.0	1058140539.0
+639	Cổ Linh, Tư Đình, Long Biên	210292418.0	1058855831.0
+640	Hương Lộ 2, Bình Trị Đông A, Bình Tân	107664092.0	1066003259.0
+641	thong nhat.go vap	10843074.0	1066646448.0
+642	thong nhat.go vap	10843074.0	1066646448.0
+643	Đường Số 3	108095396.0	1066039432.0
+644	Xuân Đỉnh. Bắc Từ Liêm. Hà Nội	210739704.0	105790872.0
+645	Thụy Khuê, Ba Đình, Hà Nội	21046133.0	1058246266.0
+646	Thành phố Hồ Chí Minh	108230989.0	1066296638.0
+647	PHỐ VĂN CAO	208360456.0	1067011665.0
+648	ĐÀO TẤN		
+649	ĐÀO TẤN		
+650	Phường Đội Cấn, Quận Ba Đình, Hà Nội	210353362.0	1058238927.0
+651	Phường Đội Cấn, Quận Ba Đình, Hà Nội	210353362.0	1058238927.0
+652	Phường Đội Cấn, Quận Ba Đình, Hà Nội	210353362.0	1058238927.0
+653	Phạm Văn Chiêu	108501221.0	1066524088.0
+654	Phường Đội Cấn, Quận Ba Đình, Hà Nội	210353362.0	1058238927.0
+655	NGỌC HÀ - HÀNG XÓM LĂNG BÁC	210368973.0	1058346667.0
+656	Hàng Xanh, Bình Thạnh	108009239.0	1067099166.0
+657	đường lớn, Ngô Chí Quốc, Bình Chiểu	108825488.0	1067211209.0
+658	đường 1C, khu Tên Lửa	107478829.0	1066118492.0
+659	Hà Nội	210277644.0	1058341598.0
+660	Hà Nội	210277644.0	1058341598.0
+661	đường Dương Văn Bé, ngõ, Phường Hai Bà Trưng	209965754.0	1058739138.0
+662	Ngõ 71, Hoàng Văn Thái, Khương Trung, Thanh Xuân	209953723.0	1058271016.0
+663	Đường Số 8, Phường Trường Thọ, Quận Thủ Đức, TP HCM	108454196.0	1067584063.0
+664	Phố Bạch Mai, Quận Hai Bà Trưng	210021807.0	1058508154.0
+665	Thành phố Hồ Chí Minh	108230989.0	1066296638.0
+666	False		
+667	đường Thống Nhất, Phường 11, Quận Gò Vấp	108394408.0	1066653068.0
+668	Đường Huỳnh Văn Bánh, Phường 11, Quận Phú Nhuận, TP. HCM	107917429.0	1066748587.0
+669	đường Hoàng Hoa Thám, Phường 6, Quận Bình Thạnh	10807912.0	1066888124.0
+670	Thành phố Hồ Chí Minh	108230989.0	1066296638.0
+671	Thành phố Hồ Chí Minh	108230989.0	1066296638.0
+672	Đường Số 35, Phường Hiệp Bình Chánh, Quận Thủ Đức, TP HCM	108572071.0	1067478331.0
+673	Nguyễn Hữu Thọ, Phước Kiển, Nhà Bè, Tp.HCM	107040075.0	1067126506.0
+674	Âu Cơ - Tây Hồ - Hà Nội	210702149.0	1058262501.0
+675	Thái Văn Lung, Phường Bến Nghé, Quận 1	107792705.0	1067046115.0
+676	Lương Định Của, Phường An Khánh, Quận 2	107877775.0	106734481.0
+677			
+678	Lộc Hà, xã Mai Lâm , Đông Anh	210926941.0	1058833448.0
+679	Khu tên lửa		
+680	Biên Hòa	109574128.0	1068426871.0
+681	đường số 3, Khu Ao Sen tên lửa, gần siêu thị AEON	107478829.0	1066118492.0
+682	THẠNH PHÚ	99481665.0	10650538.0
+683	Trần Nguyên Hãn, Lê Chân, Hải Phòng	208487667.0	1066711332.0
+684	Lê Lợi, Phường 4, Quận Gò Vấp	108195857.0	1066858909.0
+685	Bùi Đình Túy, Phường 24, Quận Bình Thạnh	108061552.0	1067072486.0
+686	Phố Lý Nam Đế, Hoàn Kiếm	210348918.0	105844954.0
+687	Phố Thái Hà, Đống Đa	210129882.0	105820014.0
+688	Nam Từ Liêm	210034608.0	1057703287.0
+689	Phùng Khoang, Nam Từ Liêm, Hà Nội	20988178.0	1057931515.0
+690	Phố Triều Khúc, Quận Thanh Xuân, Hà Nội	209840997.0	1057999219.0
+691	Phố X, Phường Y, Quận Nam Từ Liêm	210302206.0	105764195.0
+692	Trung Văn, Nam Từ Liêm	20989171.0	1057835348.0
+693	đường phố cổ Hoàn Kiếm	21034059.0	1058506368.0
+694	Đại Mỗ-Nam Từ Liêm-Hà Nội	209898009.0	1057615252.0
+695	đường Hoa Đào, Phường 2, Quận Phú Nhuận	107982517.0	1066861648.0
+696	đường Hoa Đào, Phường 2, Quận Phú Nhuận	107982517.0	1066861648.0
+697	đường Hoa Đào, Phường 2, Quận Phú Nhuận	107982517.0	1066861648.0
+698	đường Hoa Đào, Phường 2, Quận Phú Nhuận	107982517.0	1066861648.0
+699	Đường Tỉnh Lộ 43 Phường Bình Chiểu - Thủ Đức	108667917.0	1067339255.0
+700	đường Hoa Đào, Phường 2, Quận Phú Nhuận	107982517.0	1066861648.0
+701	đường Hoa Đào, Phường 2, Quận Phú Nhuận	107982517.0	1066861648.0
+702	đường Đỗ Văn Thi, Phường Hiệp Hòa	109378305.0	1068383495.0
+703	đường Lê Văn Quới, Phường Bình Trị Đông A, Quận Bình Tân	107763605.0	1066055175.0
+704	đường Số 33, phường An Phú, Quận 2, TP. Thủ Đức	107927644.0	1067412443.0
+705	Phạm Văn Đồng		
+706	Đường tỉnh lộ 43.Phường Bình Chiểu.TP-Thủ Đức	108667917.0	1067339255.0
+707	Đường Số 41, Phường Linh Đông, Quận Thủ Đức, TP HCM	108477642.0	1067489953.0
+708	Vũ Trọng Phụng		
+709	đường Lê Quang Định, Phường 5	108062889.0	1066970611.0
+710	phan văn hớn - q12	108306005.0	1066135139.0
+711	Lê Định, quận Bình Tân	107652581.0	1066038535.0
+712	đường số 13 Phường Bình Trưng Tây Quận 2	107568285.0	1067454745.0
+713	KDC Đông Thủ Thiêm phường Bình Trưng Đông Quận 2	107732956.0	1067160926.0
+714	đường số 42 phường Bình Trưng Đông Quận 2	1078451.0	106772792.0
+715	tân thới hiệp- q12	108603672.0	1066438673.0
+716	Shophouse Hải Phát		
+717	Nguyễn Văn Cừ		
+718	đường Phan Văn Trị, Phường 5, Quận Gò Vấp	108256696.0	1066900101.0
+719	đường Phan Văn Trị, Phường 5, Quận Gò Vấp	108256696.0	1066900101.0
+720	đường Phan Văn Trị, Phường 5, Quận Gò Vấp	108256696.0	1066900101.0
+721	đường Phan Văn Trị, Phường 5, Quận Gò Vấp	108256696.0	1066900101.0
+722	na		
+723	Thành phố Hồ Chí Minh	108230989.0	1066296638.0
+724	đường Lê Văn Sỹ, Phường 12, Quận 3	10789607.0	1066747189.0
+725	đường Lê Văn Sỹ, Phường 12, Quận 3	10789607.0	1066747189.0
+726	đường Phan Văn Trị, Phường 5, Quận Gò Vấp	108256696.0	1066900101.0
+727	Phan Đình Phùng, Phường 2, Quận Phú Nhuận	10794454.0	106683644.0
+728	đường Điện Biên Phủ, Phường 17, Quận Bình Thạnh	107978161.0	1067049832.0
+729	phố Trung Phụng, Quận Đống Đa	210163449.0	1058357421.0
+730	đường Điện Biên Phủ, Phường 17, Quận Bình Thạnh	107978161.0	1067049832.0
+731	Thành phố Hồ Chí Minh	108230989.0	1066296638.0
+732	đường Phan Văn Trị, Phường 5, Quận Gò Vấp	108256696.0	1066900101.0
+733	Đường số 21	108410084.0	1066507007.0
+734	đường Hoàng Hoa Thám, Phường 7, Quận Bình Thạnh	108063178.0	1066903039.0
+735	Phạm Văn Đồng		
+736	đường Hoàng Hoa Thám, Phường 7, Quận Bình Thạnh	108063178.0	1066903039.0
+737	Số 16 Gò Xoài, Phường Bình Trị Đông, Quận Bình Tân, Thành phố Hồ Chí Minh	10777449.0	106602713.0
+738	na		
+739	Từ Liêm	210034608.0	1057703287.0
+740	đường Miếu Gò Xoài, Phường Bình Trị Đông, Quận Bình Tân, Thành phố Hồ Chí Minh	10779745.0	1066073872.0
+741	Phan Văn Trị, Phường 5, Quận Gò Vấp	108256696.0	1066900101.0
+742	Mặt tiền 176A Trường Sa, Phường 1, Quận Bình Thạnh	107941051.0	1066966536.0
+743	mặt tiền 176A Trường Sa, Phường 1, Quận Bình Thạnh	107941051.0	1066966536.0
+744	Đường Thống Nhất, Phường 11, Quận Gò Vấp	108394408.0	1066653068.0
+745	NGUYỄN VĂN LƯỢNG, GÒ VẤP	108386215.0	106673832.0
+746	đường Lê Văn Quới, Phường Bình Trị Đông, Quận Bình Tân, Thành phố Hồ Chí Minh	107759904.0	1066134613.0
+747	đường LÊ VĂN QUỚI, Phường Bình Trị Đông, Quận Bình Tân, Thành phố Hồ Chí Minh	107759904.0	1066134613.0
+748	q12		
+749	Mặt tiền 176A Trường Sa, Phường 1, Quận Bình Thạnh	107941051.0	1066966536.0
+750	Lê Văn Thọ, Phường 11, Quận Gò Vấp	108420297.0	1066571573.0
+751	Mỹ Đình, Mỹ Đình 1, Nam Từ Liêm, Hà Nội, -Dự án-	210221606.0	105771796.0
+752	Trịnh Công Sơn, Nhật Tân, Tây Hồ, Hà Nội	210775967.0	1058174665.0
+753	Xô Viết Nghệ Tĩnh, Phường 26, Quận Bình Thạnh	108110484.0	1067137928.0
+754	ngọc Lâm Long Biên	210448412.0	1058686635.0
+755	Hùng Vương, Hồng Bàng, Hải Phòng	208758973.0	1066379724.0
+756	đường Liên Khu 8-9, Phường Bình Trị Đông, Quận Bình Tân, Thành phố Hồ Chí Minh	107835323.0	1066069047.0
+757	Đường Hoàng Quốc Việt, Quận Đội Hoàng Quốc Việt, Quận Cầu Giấy	210460525.0	105793266.0
+758	Đường Dương Quang Đông, Phường 5, Quận 8	107386836.0	1066667136.0
+759	Phùng Chí Kiên, Cầu Giấy	210431373.0	1058025354.0
+760	Nguyễn Văn Lượng, Gò Vấp	108386215.0	106673832.0
+761	Phố Lụa, Vạn Phúc, Hà Đông, Hà Nội	209804689.0	1057751333.0
+762	ngõ 213 phố Giáp Nhất, phường Nhân Chính, Quận Thanh Xuân, Hà Nội	210063339.0	1058141542.0
+763	Tân Phú	107900517.0	1066281901.0
+764	Biên Hòa	109574128.0	1068426871.0
+765	Hà Nội	210277644.0	1058341598.0
+766	Hà Nội	210277644.0	1058341598.0
+767	Hoàng Sa, Phường Tân Định, Quận 1	107953364.0	1066900013.0
+768	đường Liên Khu 8-9, Phường Bình Trị Đông, Quận Bình Tân, Thành phố Hồ Chí Minh	107835323.0	1066069047.0
+769	đường Bùi Minh Trực, Phường 5, Quận 8	107383744.0	1066586009.0
+770	Nguyễn Văn Khối	108429616.0	1066529357.0
+771	Gò Vấp	108386779.0	1066652904.0
+772	P.Tam Hiệp, gần đường Phạm Văn Thuận	109477668.0	106855756.0
+773	Hà Nội	210277644.0	1058341598.0
+774	phố Thanh Xuân, phân lô		
+775	Đường Số 44	107360333.0	1066251465.0
+776	Lê Văn Quới, Bình Hưng Hòa A, Bình Tân	107762062.0	1066108004.0
+777	120/73 Nguyễn Thiện Thuật	107678708.0	1066803527.0
+778	nguyễn văn bảo gò vấp	108221315.0	1066867717.0
+779	nguyễn văn bảo gò vấp	108221315.0	1066867717.0
+780	Phố Thanh Lân, Thanh Đàm	209906397.0	1058885995.0
+781	Đường Cây Trâm, Phường 8, Quận Gò Vấp, TP. HCM	108435549.0	1066500905.0
+782	Nguyễn Văn Cừ, Long Biên	210464835.0	1058773208.0
+783	Đường Quang Trung, Phường 8, Quận Gò Vấp, TP. HCM	108388835.0	1066488544.0
+784	Kinh Dương Vương, An Lạc, Bình Tân	10735655.0	1066134272.0
+785	ngõ Tây Sơn, Đống Đa	210092684.0	1058258111.0
+786	đường Nguyễn Văn Khối, Phường 8, Quận Gò Vấp	108434536.0	1066511637.0
+787	HOCMON	108863934.0	1065922924.0
+788	Đường 10, Phường Thới An, Quận 12, TP. HCM	108426106.0	1066493865.0
+789	Thành phố Hồ Chí Minh	108230989.0	1066296638.0
+790	Đường CN11 phường Sơn Kỳ Tân Phú	108106248.0	1066113533.0
+791	Nguyễn Tất Tố, Lê Chân, Hải Phòng	208319364.0	1066890772.0
+792	Nguyễn Văn Khối	108429616.0	1066529357.0
+793	Nguyễn Hồng Đào, Phường ?, Quận Tân Bình	107937408.0	1066423863.0
+794	Quận 2, Hồ Chí Minh	107935216.0	1067308195.0
+795	Chợ Khâm Thiên, Đống Đa	210159144.0	1058378302.0
+796	Chợ Khâm Thiên, Đống Đa	210159144.0	1058378302.0
+797	Khu Đô Thị Vạn phúc city - Hiệp Bình Phước, Quận Thủ Đức, Hồ Chí Minh	108415169.0	1067098374.0
+798	Đường Số 10, Linh Trung, Thủ Đức	108586724.0	1067722225.0
+799	đường Nguyễn Văn Trỗi, Phường 13, Quận Phú Nhuận	107958681.0	1066750014.0
+800	Thành phố Hồ Chí Minh	108230989.0	1066296638.0
+801	Thành phố Hồ Chí Minh	108230989.0	1066296638.0
+802	đường NB Cao Lỗ, Phường 4, Quận 8	107397268.0	1066781846.0
+803	đường Nguyễn Trãi, Phường 8, Quận 5	10754847.0	1066708325.0
+804	Phố Huỳnh Thúc Kháng, phường Thành Công, quận Đống Đa, Hà Nội	210176779.0	1058125871.0
+805	Trường Chinh, Đống Đa	210002252.0	1058309453.0
+806	Mặt tiền tuyến tránh Quốc Lộ 14 xã Tiến Hưng , thành phố Đồng Xoài, Bình Phước	115234507.0	1068446069.0
+807	đường ô tô, Phường Quyết Thắng	109444518.0	1068222625.0
+808	Quận 2, Hồ Chí Minh	107935216.0	1067308195.0
+809	Âu Cơ, Phú Trung, Tân Phú	107796721.0	1066445135.0
+810	NE3 Phường chánh phú hòa, thị xã Bến Cát, Bình dương	111397959.0	1066532054.0
+811	Hóc Môn	108839675.0	1065870611.0
+812	đường Quốc Lộ 13, Bình Thạnh	108202531.0	1067130862.0
+813	Đường số 6 Phường Bình Thọ TP.Thủ Đức	10848081.0	1067646457.0
+814	Chúa Liên Phái, Hai Bà Trưng	210053124.0	1058488212.0
+815	Đinh Tiên Hoàng, Phường 3, Quận Bình Thạnh	107947047.0	1066960934.0
+816	Khu đô thị Vsip Từ Sơn, Bắc Ninh	210785932.0	1059684556.0
+817	371 phú thọ hoà	107863307.0	1066276567.0
+818	Nguyễn Thượng Hiền - Thích Quảng Đức, Phường Phú Nhuận	16459649.0	1075963782.0
+819	Trường Chinh, P.14, Tân Bình	107992523.0	1066414665.0
+820	đường số 3, khu Tên lửa	107478829.0	1066118492.0
+821	dường Hồ Văn Long, Tân Tạo	107622382.0	1065843755.0
+822	Nguyễn Thế Truyện, Tân Phú	107959013.0	1066319936.0
+823	Xuân La, Tây Hồ, Hà Nội	210596756.0	1058040796.0
+824	đường Giải Phóng, Phường Thanh Xuân	209940112.0	1058411097.0
+825	Đường Dương Đình Nghệ, Cầu Giấy, HÀ NỘI	210215526.0	1057878867.0
+826	Nguyễn Xiển, Đại Kim	209792447.0	1058120542.0
+827	Đường Số 10, Linh Trung, Thủ Đức	108586724.0	1067722225.0
+828	Tân Sơn Nhì, Quận Tân Phú	107997882.0	106630604.0
+829	Đường Số 13, Phường Hiệp Bình Chánh, Quận Thủ Đức, TP HCM	108284007.0	106731251.0
+830	193 Văn Cao, phường Đằng Lâm, quận Hải An, Hải Phòng	20836571.0	1067026107.0
+831	Tân Thới Nhất , Quận 12, Hồ Chí Minh	108292885.0	1066143944.0
+832	Hà Nội	210277644.0	1058341598.0
+833	đường Miếu Bình Đông, Quận Bình Tân	107797977.0	1066174302.0
+834	đường Miếu Bình Đông, Phường Bình Trị Đông, Quận Bình Tân, TP. Hồ Chí Minh	107762432.0	1066172732.0
+835	 Số 14 Lê Văn Quới, Phường Bình Trị Đông, Quận Bình Tân, Thành phố Hồ Chí Minh	107746009.0	1066192286.0
+836	Đường Nam Hòa, Phường Phước Long A, Q9	108265841.0	1067619652.0
+837	Hồ Đá, Sở Dầu, Hồng Bàng, Hải Phòng	208721373.0	1066523783.0
+838	Quận Hà Đông, Hà Nội	20955835.0	1057563658.0
+839	Phường Mai, Đống Đa	210012748.0	1058393044.0
+840	đường Nguyễn Kiệm, Phan Đăng Lưu, Phú Nhuận	107992391.0	1066802549.0
+841	Thành phố Hồ Chí Minh	108230989.0	1066296638.0
+842	Tỉnh Lộ 10, Bình Trị Đông, Bình Tân	107578769.0	1066144841.0
+843	Đường Trương Văn Thành, Phường Hiệp Phú, Q9	108482548.0	1067819426.0
+844	Nguyễn Văn Khối	108429616.0	1066529357.0
+845	Đường số 4 Phường Bình Thọ - TP.Thủ Đức	108465185.0	1067652458.0
+846	Phạm Hùng, Quận 8	107367562.0	1066713646.0
+847	Phạm Văn Chiêu	108501221.0	1066524088.0
+848	Biên Hòa	109574128.0	1068426871.0
+849	Nguyễn Văn Khối	108429616.0	1066529357.0
+850	Thành phố Hồ Chí Minh	108230989.0	1066296638.0
+851	đường Phạm Văn Đồng, Lê Quang Định	108195233.0	1066899164.0
+852	Tân Sơn Nhì	107997882.0	106630604.0
+853	Vũ Đức Thận-Nguyễn Lam, Long Biên	210472893.0	1058971974.0
+854	Đường Tân Hòa Đông, Phường Bình Trị Đông, Quận Bình Tân, TP. HCM	107672441.0	1066174847.0
+855	Tân Sơn Nhì, Tân Phú	107997882.0	106630604.0
+856	phố Thanh Nhàn và Kim Ngưu, đường Trần Khát Chân, Hai Bà Trưng	210090989.0	1058564286.0
+857	đường số 1A, khu Tên Lửa	107479292.0	1066169023.0
+858	Nguyễn Thể TruyệN, Quận TÂN PHÚ	107959013.0	1066319936.0
+859	Quận 2, Hồ Chí Minh	107935216.0	1067308195.0
+860	Tân Sơn Nhì, Tân Phú	107997882.0	106630604.0
+861	nguyễn văn Luong. quận GV	108386215.0	106673832.0
+862	nguyễn văn Luong. quận GV	108386215.0	106673832.0
+863	Hà Nội	210277644.0	1058341598.0
+864	Đường Lê Đức Thọ, Phường 16, Quận Gò Vấp, TP. HCM	108489499.0	1066663471.0
+865	Trần Quý Cáp, gần Ga Hà Nội	210250833.0	1058398589.0
+866	đường Trần Quý Cáp	119476731.0	1084638986.0
+867	đường Hàng Bài, Phường Hoàn Kiếm	210209907.0	1058522201.0
+868	Mặt tiền 176A Trường Sa, Phường 1, Quận Bình Thạnh	107941051.0	1066966536.0
+869	Hà Nội	210277644.0	1058341598.0
+870	Hà Nội	210277644.0	1058341598.0
+871	đường Đất Mới, Phường Bình Trị Đông, Quận Bình Tân	107668701.0	1066096908.0
+872	đường Số 2 Gò Xoài, Phường Bình Trị Đông, Quận Bình Tân, Thành phố Hồ Chí Minh	10783504.0	1066036111.0
+873	đường Số 4 Lê Văn Quới, Phường Bình Trị Đông, Quận Bình Tân, Thành phố Hồ Chí Minh	107742792.0	1066193948.0
+874	đường 6M, Hòa Bình, Quận Tân Phú	10770275.0	1066353759.0
+875	đường Lê Văn Sỹ, Phường 12, Quận 3	10789607.0	1066747189.0
+876	đường Lê Văn Sỹ, Phường 12, Quận 3	10789607.0	1066747189.0
+877	đường Xô Viết Nghệ Tĩnh, Phường 25, Quận Bình Thạnh	108053797.0	1067115089.0
+878	đường Xô Viết Nghệ Tĩnh, Phường 25, Quận Bình Thạnh	108053797.0	1067115089.0
+879	Tô Hiến Thành, Cao Thắng, quận 3	107732898.0	1066783556.0
+880	Mỹ Khê, Đà Nẵng	160544068.0	1082021667.0
+881	Khu đô thị HUD Sơn Tây	211306498.0	1055052484.0
+882	Đường Số 21	108410084.0	1066507007.0
+883	Xô Viết Nghệ Tĩnh	192342489.0	1049200365.0
+884	đường Số 25 Lê Văn Quới, Phường Bình Trị Đông, Quận Bình Tân	10774108.0	1066099113.0
+885	đường Điện Biên Phủ, Phường 17, Quận Bình Thạnh	107978161.0	1067049832.0
+886	đường Điện Biên Phủ, Phường 17, Quận Bình Thạnh	107978161.0	1067049832.0
+887	đường Miếu Gò Xoài, Phường Bình Trị Đông, Quận Bình Tân	10779745.0	1066073872.0
+888	na		
+889	Phố Lý Nam Đế, Phường Hoàn Kiếm, Hà Nội	210348918.0	105844954.0
+890	Từ Liêm	210034608.0	1057703287.0
+891	đường Phạm Văn Trị, Phường 11, Quận Bình Thạnh	108159197.0	1066952001.0
+892	Đường Man Thiện. Phường Tăng Nhơn Phú A.TP Thủ Đức ( Quận 9 cũ )	108511904.0	106795021.0
+893	tân thông hội, củ chi	109471303.0	10650538.0
+894	Phan Anh, Bình Trị Đông, Bình Tân	107673378.0	1066230141.0
+895	Cô Bắc, Phường Cô Giang, Quận 1	107640782.0	1066938507.0
+896	Phạm Viết Chánh, Phường Nguyễn Cư Trinh, Quận 1	107667458.0	1066836714.0
+897	Phạm Ngũ Lão, Phường Phạm Ngũ Lão, Quận 1	107688718.0	1066937594.0
+898	Trần Đình Xu, Phường Cầu Kho, Quận 1	10760602.0	1066913802.0
+899	Quang Trung		
+900	Hà Đông	20955835.0	1057563658.0
+901	Gần công viên, Metro Bình Phú		
+902	đường sổ 7 linh xuân thủ đức	108849176.0	1067696037.0
+903	đường số 1 linh xuân thủ đức	108759903.0	1067684808.0
+904	Nguyễn Văn Cừ, Long Biên	210464835.0	1058773208.0
+905	Trần Phú Văn Quán Hà Đông	209799246.0	1057873752.0
+906	Trần Phú Văn Quán Hà Đông	209799246.0	1057873752.0
+907	Yết Kiêu, Hà Đông	2097458.0	1057769317.0
+908	đường Thanh Hải	164404905.0	1075799017.0
+909	Biên Hòa	109574128.0	1068426871.0
+910	Biên Hòa	109574128.0	1068426871.0
+911	Xuân PHương, Nam Từ Liêm, Hà Nội	210378383.0	1057439194.0
+912	Đê La Thành, Đống Đa	210237416.0	1058174236.0
+913	Lạc Long Quân, Tân Bình	107794947.0	1066498878.0
+914	Phường Láng Hạ, Quận Đống Đa, Hà Nội, -- Dự án --	210153717.0	1058128851.0
+915	đường 8, Phường 11, Quận Gò Vấp	108368678.0	1066582811.0
+916	5.2X16 Lê Đức Thọ, Phường 17, Quận Gò Vấp	10848289.0	1066675573.0
+917	Hẻm lớn, Chợ Thạch Đà Phạm Văn Chiếu, Gò Vấp	108503923.0	1066529399.0
+918	Quan Nhân		
+919	Thôn 1 lộc thành	115485887.0	1078983754.0
+920	Thành Thái P14 Quận 10	107743181.0	106664413.0
+921	Thành Thái P14 Quận 10	107743181.0	106664413.0
+922	Уận Nhân Dân, Khu Tên Lùa		
+923	Không có thông tin địa chỉ		
+924	An Dương Vương, Bình Tân	107358416.0	1066214714.0
+925	Hạ Đỉnh, Thanh Xuân	209866719.0	1058099499.0
+926	Vũ Trọng Phụng, Thanh Xuân	20999591.0	1058081092.0
+927	Hồng Lạc, P.10, Tân Bình	107874845.0	1066470684.0
+928	hẻm xe hơi, đường Đất Mới, Phường Bình Trị Đông, Quận Bình Tân, Thành phố Hồ Chí Minh	107668701.0	1066096908.0
+929	Hương Lộ 2, Bình Trị Đông, Quận Bình Tân, Thành phố Hồ Chí Minh	107695049.0	10661276.0
+930	đó phố Tạ Quang Bửu, Bách Khoa	210033973.0	1058478526.0
+931	đường số 64, Khu Dân Cư Văn Minh, Quận 2, An Phú	10850085.0	1067587215.0
+932	Đường 27, Phường Hiệp Bình Chánh, Quận Thủ Đức, TP HCM	108332403.0	1067318574.0
+933	Nguyễn Văn Công, Phường 3, Quận Gò Vấp	108200329.0	1066745623.0
+934	phố Kim Ngưu, quận Hai Bà Trưng	210026587.0	1058617634.0
+935	Tô Ngọc Vân, Linh Đông, Thủ Đức	10856064.0	1067504091.0
+936	Ngõ 3, Góc ngõ 3, Thanh Xuân, Quận Đống Đa	210208482.0	105830001.0
+937	1111 phạm thế hiển	10742166.0	1066642082.0
+938	1111 Phạm Thế Hiển	10742166.0	1066642082.0
+939	đường Nguyễn Thượng Hiền, Phường 6, Quận Bình Thạnh	108083167.0	1066841841.0
+940	đường Nguyễn Thượng Hiền, Phường 6, Quận Bình Thạnh	108083167.0	1066841841.0
+941	đường Cộng Hòa, Phường 13, Quận Tân Bình	108023555.0	1066414577.0
+942	nhánh đồng Khởi	107761225.0	1067030267.0
+943	đường số 57, An Phú, Quận 2	107840443.0	1067487971.0
+944	Long Biên	210186765.0	105884813.0
+945	đường Trường Sa, Phường 1, Quận Bình Thạnh	107939433.0	1066978628.0
+946	đường Lê Văn Sỹ, Phường 12, Quận 3	10789607.0	1066747189.0
+947	Đội Cấn- Ba Đình- Hà Nội	210353698.0	1058192143.0
+948	đường Số 9, Bình Hưng Hòa	108000621.0	1066009947.0
+949	Ngã 4 hầm Kim Liên, Đống Đa, Kim Hoa & Lê Duẩn	210079749.0	1058402606.0
+950	ngõ Thịnh Quang, Đống Đa	21006475.0	1058192136.0
+951	đường Láng	210139679.0	1058067187.0
+952	Ngân - thổ cư Đống Đa hà nội	210180725.0	1058299495.0
+953	ngõ Trần Duy Hưng, Cầu Giấy	210106758.0	1057995616.0
+954	thạnh phú	99481665.0	10650538.0
+955	Khương Đình, Thanh Xuân	209887356.0	1058187558.0
+956	Khương Đình, Thanh Xuân	209887356.0	1058187558.0
+957	đường Thái Hà, phường Đống Đa	210129882.0	105820014.0
+958	Ngõ Thông, Xã Đàn, Quận Đống Đa	210129017.0	1058355017.0
+959	Ngõ Xã Đàn, Đống Đa	210142451.0	1058316192.0
+960	đường số 8, Phường 11, Quận Gò Vấp	108414544.0	1066624967.0
+961	 Ngõ Thịnh Quang, Đống Đa	21006475.0	1058192136.0
+962	Nguyễn Trọng Tuyển, Phường 2, Quận Tân Bình	107984353.0	1066662555.0
+963	Lê Lợi, Phường 4, Quận Gò Vấp	108195857.0	1066858909.0
+964	 Lê Lợi, Phường 4, Quận Gò Vấp	108195857.0	1066858909.0
+965	đường Nguyễn Xuân Ôn, Phường 2, Bình Thạnh	10798622.0	106700069.0
+966	Hẻm Thach Lam, Quận Tân Phú	107780407.0	1066274906.0
+967	Thành phố Hồ Chí Minh	108230989.0	1066296638.0
+968	Khu Tên Lửa, Tân Tạo	107557614.0	1066126331.0
+969	602 Kinh Dương Vương	107462719.0	1066248304.0
+970	đường Đào Duy Anh, Phường 9, Quận Phú Nhuận	108068686.0	1066758672.0
+971	Nguyễn Văn Khối	108429616.0	1066529357.0
+972	Ngô Gia Tự, Đức Giang, Long Biên	210656791.0	1058980147.0
+973	Đại La - Minh Khai, Quận Hải An	208300935.0	1067219631.0
+974	đoạn đầu Đại La - Minh Khai	209966665.0	10584641.0
+975	Khương Trung, Quận Thanh Xuân	209971504.0	1058216911.0
+976	đường Văn Khê	209534707.0	1057756791.0
+977	Lê Văn Việt, Quận 9, Thủ Đức	108454575.0	106794186.0
+978	71/43		
+979	An Chân, Sở Dầu, Hồng Bàng, Hải Phòng	208699652.0	1066513487.0
+980	đường Nguyễn Thế Truyện, Quận Tân Phú	107959013.0	1066319936.0
+981	Đường Số 10, Phường Linh Trung, Quận Thủ Đức, TP HCM	108586724.0	1067722225.0
+982	đường nào?		
+983	Xa Lộ Hà Nội, Quận 9, Thủ Đức	108293067.0	1067622483.0
+984	Tân Sơn Nhì, Tân Phú	107997882.0	106630604.0
+985	Đại Mỗ - Nam Từ Liêm - Hà Nội	209898009.0	1057615252.0
+986	ngõ An Sơn, đường Đại La	209960362.0	10584801.0
+987	Phố Thịnh Quang, Phường Đống Đa	210083647.0	1058180219.0
+988	Tân Sơn Nhì, Tân Phú	107997882.0	106630604.0
+989	Tân Sơn Nhì, Tân Phú	107997882.0	106630604.0
+990	bửu long	109586438.0	1068053993.0
+991	cách dduong Duong số 8, 10m.phuong11. quận Gò Vấp	108455331.0	1066570197.0
+992	Hẻm 67 đường số 38 Phường Hiệp Bình Chánh TP.Thủ Đức	108426939.0	106734747.0
+993	Hà Nội	210277644.0	1058341598.0
+994	Hà Nội	210277644.0	1058341598.0
+995	False		
+996	Tôn Thất Thuyết		
+997	Đông Lợi, TX Sapa	223334447.0	103841518.0
+998	Võ Chí Công		
+999	TPHCM	108230989.0	1066296638.0
+1000	An Lạc Phùng Khoang	209867151.0	1057883846.0
+1001	Trần Phú Hà Đông	209799246.0	1057873752.0
+1002	Nguyễn Khuyến, Khu đô thị Văn Quán, Hà Đông, Hà Nội	20974526.0	1057896436.0
+1003	Tây Hoà, Quận 9, Thủ Đức	108250905.0	1067673355.0
+1004	Tây Hoà, Quận 9, Thủ Đức	108250905.0	1067673355.0
+1005	Phường Đại Kim, Quận Hoàng Mai, Hà Nội	209739692.0	1058216911.0
+1006	KĐT 31ha Trâu Quỳ, Gia Lâm, Hà Nội	210329772.0	1058538442.0
+1007	đường Lạc Long, Phường Tân Bình	115190638.0	1068856933.0
+1008	Văn Quán, Hà Đông	209796446.0	1057923394.0
+1009	Phố Xům, Lô Góc, Quận Đa Nam		
+1010	Đỗ Xuân Hợp, Quận 9, Thủ Đức	108141275.0	1067751935.0
+1011	Quận Hà Đông, Hà Nội	20955835.0	1057563658.0
+1012	đường Bùi Hữu Nghĩa, Phường Tân Vạn	109137732.0	106827238.0
+1013	đường Nguyễn Ái Quốc, Phường Hóa An, Quận Biên Hòa	109344857.0	1068047583.0
+1014	ngõ Thịnh Quang, Phường Đống Đa	21006475.0	1058192136.0
+1015	đường Thịnh Quang, phường Đống Đa	210067052.0	1058205335.0
+1016	49 Xô viết nghệ tĩnh	103424565.0	1070846076.0
+1017	Võ Thị Sáu, Ngõ thông, Mặt tiền 9,6m, Quận...		
+1018	Tô Hiệu, Lê Chân, Hải Phòng	208508055.0	1066789703.0
+1019	602 Kinh Dương Vương	107462719.0	1066248304.0
+1020	Đường Số 4		
+1021	Quốc lộ 13, Hiệp Bình Phước	108505432.0	1067193752.0
+1022	phố Đại La, mặt ngõ An Sơn, gần chợ Mơ	209954109.0	1058479723.0
+1023	Ngõ 49 Trần Cung	210570435.0	1057852738.0
+1024	ngõ Nông Thông Tứ Tung, Hoa Bằng		
+1025	Ngõ 35 Trần Thái Tông	210354434.0	1057896029.0
+1026	Lê Trọng Tấn, Thanh Xuân	20993927.0	1058314531.0
+1027	phố Hoàng Văn Thái, Quận Thanh Xuân	209969246.0	1058246143.0
+1028	Đỗ Xuân Hợp, Quận 9, Thủ Đức	108141275.0	1067751935.0
+1029	Hẻm 46 Đường Số 49 phường Hiệp Bình Chánh TP.Thủ Đức	108389998.0	1067298915.0
+1030	Long Biên	210186765.0	105884813.0
+1031	Phố Nguyễn Mậu Tài, Gia Lâm, Hà Nội	210144598.0	1059437136.0
+1032	Đại Lộ 3, Đỗ Xuân Hợp, Quận 9, Thủ Đức	108135278.0	1067753935.0
+1033	Lê Văn Thọ	108455819.0	1066570168.0
+1034	Hai Bà Trưng		
+1035	Hai Bà Trưng, lô góc 2 mặt thoáng đẹp		
+1036	Vương Thừa Vũ, Quận Thanh Xuân	209989203.0	105821837.0
+1037	Đường Nguyên van lương, phuong 17,q gò vấp	108384998.0	1066755728.0
+1038	Đường Số 8, Phường Trường Thọ, Quận Thủ Đức, TP HCM	108454196.0	1067584063.0
+1039	Lê Trọng Tấn, Tây Thạnh, Tân Phú	108079431.0	1066201184.0
+1040	chợ Trường Yên, gần TT Chúc sơn, Quận Chương Mỹ, Hà Nội	20913812.0	1056465679.0
+1041	Hai Bà Trưng, not specified		
+1042	Nguyễn Trãi, Hà Đông, HN	209699557.0	1057798664.0
+1043	Nguyễn Trãi, Hà Đông, HN	209699557.0	1057798664.0
+1044	Đường Kênh Tân Hóa	107697214.0	1066356313.0
+1045	Biên Hòa	109574128.0	1068426871.0
+1046	tân phong	107318388.0	106702825.0
+1047	Ngọc Lâm, Long Biên	210448412.0	1058686635.0
+1048	Vũ Xuân Thiều, Long Biên, Long Biên, Hà Nội, -Dự án-	21035881.0	1059201201.0
+1049	Đường Số 27, Phường Long Thạnh Mỹ, Quận 9, TP HCM	108450876.0	1068323717.0
+1050	Nguyễn Hữu Thọ, Xô Viết Nghệ Tĩnh	192342489.0	1049200365.0
+1051	Tân Bình, Đồng Xoài	115245481.0	1068856933.0
+1052	Lê Văn Việt, Quận 9, Thủ Đức	108454575.0	106794186.0
+1053	Đường Dương Đình Nghệ, Cầu Giấy, HÀ NỘI	210215526.0	1057878867.0
+1054	Đường Đinh Bộ Lĩnh, Phường 26, Quận Bình Thạnh, TP HCM	108118412.0	1067091321.0
+1055	False		
+1056	Số 24N2 Hồ Đình B, Thanh Lương, Hai Bà Trưng, HN	209907859.0	1058888629.0
+1057	Số 24N2 Hồ Đình B, Thanh Lương, Hai Bà Trưng, HN	209907859.0	1058888629.0
+1058	bửu long	109586438.0	1068053993.0
+1059	đường Bùi Đình Túy, Bình Thạnh	108078203.0	1067034476.0
+1060	Thuận An, Trâu Quỳ, Gia Lâm, Hà Nội	210166024.0	1059448734.0
+1061	Quận 2, Hồ Chí Minh	107935216.0	1067308195.0
+1062	Nguyễn Trãi, Phường Nguyễn Cư Trinh, Quận 1	107629426.0	1066867982.0
+1063	Phan Văn Trị, P.10, Quận Gò Vấp	108327364.0	1066724769.0
+1064	Cao Bá Nhạ, Phường Nguyễn Cư Trinh, Quận 1	107625745.0	1066899303.0
+1065	Hòa Bình, Quận Tân Phú	107701883.0	1066319717.0
+1066	Nam Hòa, Phước Long A, Tp. Thủ Đức	108265841.0	1067619652.0
+1067	Nguyễn Trãi, Hà Đông, HN	209699557.0	1057798664.0
+1068	đường Phan Đình Phùng, Hà Đông	209729407.0	1057768743.0
+1069	Phố Xã Đàn, Quận Đống Đa	210129017.0	1058355017.0
+1070	Lê Lợi, Phường 4, Gò Vấp	108195857.0	1066858909.0
+1071	Phường Bình Hưng Hòa , Quận Bình Tân, TP. HCM	108026884.0	1066026064.0
+1072	Bình Dương	113254024.0	106477017.0
+1073	đường Tô Ngọc Vân, Quận Thủ Đức	108614033.0	1067450855.0
+1074	Lạc Long Quân, Phường 10, Quận Tân Bình	107808805.0	1066500274.0
+1075	Thành phố Hồ Chí Minh	108230989.0	1066296638.0
+1076	Tô Hiến Thành P15 Q10	107793626.0	1066674641.0
+1077	đường Hoa Đào, Phường 2, Quận Phú Nhuận	107982517.0	1066861648.0
+1078	Xô Viết Nghệ Tĩnh, Phường 25, Quận Bình Thạnh	108053797.0	1067115089.0
+1079	Hà Nội	210277644.0	1058341598.0
+1080	Phú Nhuận, khu phố ẩm thực	107991944.0	1066802639.0
+1081	đường Nguyễn Văn Đậu, Phường 7, Quận Bình Thạnh	108097371.0	1066895281.0
+1082	đường Lý Tự Trọng, Phường Bến Thành, Quận 1	107744663.0	106697789.0
+1083	Hà Nội	210277644.0	1058341598.0
+1084	Mai Thị Lựu, Phường Đa Kao, Quận 1	107911633.0	1066991494.0
+1085	phố Chính Kinh, phường Nhân Chính, Quận Thanh Xuân, Hà Nội	209995544.0	1058113326.0
+1086	Mỹ Đình, Mỹ Đình 1, Nam Từ Liêm, Hà Nội, -Dự án-	210221606.0	105771796.0
+1087	Phường3, Phan đăng lưu	108017818.0	1066830914.0
+1088	Phường3, Phan đăng lưu	108017818.0	1066830914.0
+1089	Thạnh Mỹ Lợi , p. Thạnh Mỹ Lợi , Tp. Thủ Đức	107583621.0	1067647475.0
+1090	đường Phạm Văn Chiêu	108501221.0	1066524088.0
+1091	Phùng Khoang, Trung Văn, Nam Từ Liêm, Hà Nội, -Dự án-	20988178.0	1057931515.0
+1092	Nguyễn Văn Cừ, Ngọc Lâm	210438304.0	1058723803.0
+1093	Thành phố Hồ Chí Minh	108230989.0	1066296638.0
+1094	q12		
+1095	Thạnh Mỹ Lợi	107583621.0	1067647475.0
+1096	Đường số 9	167880854.0	1071253986.0
+1097	Lạc Long Quân, Phường 9, Quận Tân Bình	107768613.0	1066495893.0
+1098	Lã Xuân Oai, Quận 9	108276733.0	106805864.0
+1099	tô hiệu nguyễn trãi	209675124.0	1057784606.0
+1100	Trường Chinh, Thanh Xuân	210002252.0	1058309453.0
+1101	Đường Khổng Tử	108443607.0	1067677652.0
+1102	Thanh Bình, Mỗ Lao, Hà Đông, Hà Nội, -Dự án-	209823818.0	1057780339.0
+1103	44 Đường Bùi Xương Trạch, Phường Khương Đình, Thanh Xuân, Hà Nội	209839233.0	1058178082.0
+1104	Tân Tạo, Phường Bình Tân	107597516.0	106590819.0
+1105	HLX Tân Tạo, Phường Tân Tạo, Quận Bình Tân	108174266.0	106634933.0
+1106	Cổ Linh, Đàm Quang Trung	2102694.0	1058964945.0
+1107	Lê Văn Thọ	108455819.0	1066570168.0
+1108	Xã Tân Xuân, Huyện Hóc Môn, TP. HCM	108684249.0	1065967126.0
+1109	đường Nguyễn Văn Lượng, Phường 16, Quận Gò Vấp	108386609.0	1066690736.0
+1110	Dương Quảng Hàm, Phường 5, Quận Gò Vấp	108236032.0	1066957585.0
+1111	Nguyễn Văn Cừ		
+1112	Dương Đình Hội Phước Long B Quận 9 Cũ	108228086.0	1067802545.0
+1113	phasis Gò Dầu, Phường Tân Phú	110887527.0	1062669247.0
+1114	Thành phố Hồ Chí Minh	108230989.0	1066296638.0
+1115	đại lộ Võ Văn Kiệt, Quận 6	10737173.0	1066388161.0
+1116	Tân Hoà Đông, Quận Tân Phú	107900517.0	1066281901.0
+1117	đường Bình Hưng Hòa A, phạt  	107850966.0	1066069312.0
+1118	VẠN PHÚC		
+1119	Hùng vương		
+1120	 Nguyễn Văn Cừ, Gia Thuỵ	210495394.0	1058834124.0
+1121	Thành phố Hồ Chí Minh	108230989.0	1066296638.0
+1122	Chu Văn An, Phường 12, Quận Bình Thạnh, Thành phố Hồ Chí Minh	108109464.0	1067019597.0
+1123	Cầu Giấy, Quận Tây Hồ	210811211.0	1058180306.0
+1124	Dự Án TQ5, Trâu Quỳ, Gia Lâm, Hà Nội	210109968.0	1059515533.0
+1125	đường Nguyễn Sơn	210425147.0	1058872588.0
+1126	Nguyễn Sơn, Kinh doanh VIP		
+1127	Đường số 8 trường thọ thủ đức,	108454196.0	1067584063.0
+1128	Lã Xuân Oai , P. Tăng Nhơn Phú A, Tp. Thủ Đức	108398715.0	1067953202.0
+1129	Hẻm xe hơi, phường, quận Bình Tân	107652581.0	1066038535.0
+1130	Thành phố Hồ Chí Minh	108230989.0	1066296638.0
+1131	Tên Lửa, Quận 6	10739343.0	106625143.0
+1132	tân thới nhất- q12	108292885.0	1066143944.0
+1133	Phạm Văn Chiêu	108501221.0	1066524088.0
+1134	Nguyễn Thế Truyện Tân Sơn Nhì Tân Phú	107959013.0	1066319936.0
+1135	Đường Số 7, Phường Hiệp Bình Chánh, Quận Thủ Đức, TP HCM	108273729.0	1067290825.0
+1136	False		
+1137	Phố Lý Nam Đế, Hoàn Kiếm	210348918.0	105844954.0
+1138	đường Điện Biên Phủ, phườn Phan Si Păng, thị xã Sa Pa	222497168.0	1039608091.0
+1139	đường Điện Biên Phủ, phường Phan Si Păng, thị xã Sapa	222497168.0	1039608091.0
+1140	Nguyễn Vân Lượng, Quận Gò Vấp	108386215.0	106673832.0
+1141	Sapa	223363608.0	1038437852.0
+1142	Đường Số 7, Phường Tam Bình, Quận Thủ Đức, TP HCM	108628229.0	1067320692.0
+1143	Xô Viết Nghệ Tĩnh, Phường 21, Quận Bình Thạnh	107981379.0	106710916.0
+1144	Nguyễn Văn Cừ		
+1145	Thanh Xuân		
+1146	Thanh Xuân		
+1147	Thanh Xuân		
+1148	Thành phố Hồ Chí Minh	108230989.0	1066296638.0
+1149	Gò Dầu, Tân Quý, Tân Phú	107957389.0	1066212329.0
+1150	Duy Tân, Huế	164500008.0	107595372.0
+1151	Thành phố Hồ Chí Minh	108230989.0	1066296638.0
+1152	Thanh Bình, Mỗ Lao, Hà Đông, Hà Nội, -Dự án-	209823818.0	1057780339.0
+1153	Thành phố Hồ Chí Minh	108230989.0	1066296638.0
+1154	Đường hoàng diệu 2 linh trung thủ đức	108564547.0	1067660949.0
+1155	Đinh Tiên Hoàng, Phường 3, Quận Bình Thạnh	107947047.0	1066960934.0
+1156	Lê Văn Thọ, Phường 9, Quận Gò Vấp	108472879.0	1066569162.0
+1157	Nguyễn Quyền		
+1158	đường Điện Biên Phủ, phưởng Phan Si Păng, thị xã Sa Pa	222497168.0	1039608091.0
+1159	Lê Văn Thọ	108455819.0	1066570168.0
+1160	Xô Viết Nghệ Tĩnh, Điện Biên Phủ, Trường Sa, Phường 17, Quận Bình Thạnh	107978161.0	1067049832.0
+1161	Quận 2, Hồ Chí Minh	107935216.0	1067308195.0
+1162	Đản Mỗ, Uy Nỗ, Đông Anh, Hà Nội	211495924.0	1058530692.0
+1163	Hẻm 230, Lò Lu, Phường Trường Thạnh, Q9	108246392.0	1068232402.0
+1164	218 lạc long Quân.Tây hồ Hà Nội	210537895.0	105810683.0
+1165	Nguyễn Lương Bằng, Đống Đa, Hà Nội	210161795.0	1058286026.0
+1166	Thành phố Hồ Chí Minh	108230989.0	1066296638.0
+1167	Thành phố Hồ Chí Minh	108230989.0	1066296638.0
+1168	Lê Quang Đạo, Nam Từ Liêm	210124718.0	105770698.0
+1169	An Trai, Hoài Đức	210315613.0	1057336501.0
+1170	52 trương định quận 3 hcm	107812802.0	1066857051.0
+1171	52 trương định quận 3 hcm	107812802.0	1066857051.0
+1172	Lê Văn Việt, Quang Trung, Quận 9, Thủ Đức	108483759.0	1067747929.0
+1173	Phúc Đồng, Long Biên, Hà Nội	210407327.0	105896559.0
+1174	La Khê, Hà Đông	209724114.0	1057615252.0
+1175	đường Số 7, Tĩnh lộ 10, Trần Văn Giàu	107949029.0	1065034568.0
+1176	Hào Nam, Đống Đa	210252222.0	1058272153.0
+1177	Thành phố Hồ Chí Minh	108230989.0	1066296638.0
+1178	na		
+1179	phố Nguyễn Văn Cừ, khu vực	210464835.0	1058773208.0
+1180	phố Nguyễn Văn Cừ, Nguyễn Văn Cừ	210464835.0	1058773208.0
+1181	đường 7B, khu Tên Lửa	107478829.0	1066118492.0
+1182	hẻm 52 Tên Lửa	107401427.0	1066151088.0
+1183	Đường Tân Kỳ Tân Quý, Phường Bình Hưng Hòa, Quận Bình Tân, TP. HCM	107923076.0	1066063938.0
+1184	Võ Văn Ngân, Thủ Đức	108506932.0	1067646075.0
+1185	Thành phố Hồ Chí Minh	108230989.0	1066296638.0
+1186	gân mật tiên quang trung gv	108274752.0	1066766517.0
+1187	Biên Hòa	109574128.0	1068426871.0
+1188	đường Lê Thị Trung, Phường Bình Chuẩn, Thành phố Thuận An	109734555.0	1067237301.0
+1189	Thành phố Hồ Chí Minh	108230989.0	1066296638.0
+1190	đường Tỉnh lộ 10	107787764.0	1065356713.0
+1191	ngã tư Lê Duẩn - Nguyễn Thượng Hiền, Đống Đa	210187993.0	1058413845.0
+1192	đường số 18		
+1193	Hà Nội	210277644.0	1058341598.0
+1194	Quận 2, Hồ Chí Minh	107935216.0	1067308195.0
+1195	Quận 2, Hồ Chí Minh	107935216.0	1067308195.0
+1196	Hà Nội	210277644.0	1058341598.0
+1197	đường số 55		
+1198	Cư Xá Vĩnh Hội, Phường 9, Quận 4	107611614.0	1066998016.0
+1199	Quận 2, Hồ Chí Minh	107935216.0	1067308195.0
+1200	đương Phạm van chiêu p8 quận gò vấp	108501221.0	1066524088.0
+1201	Đo Nha, Nam Từ Liêm	210034608.0	1057703287.0
+1202	866 Ngô Quyền		
+1203	Vạn Phúc, Hà Đông	209786876.0	105771796.0
+1204	Vạn Phúc, Hà Đông	209786876.0	105771796.0
+1205	Nguyễn Trãi, Hà Đông, HN	209699557.0	1057798664.0
+1206	Nguyễn Trãi, Hà Đông, HN	209699557.0	1057798664.0
+1207	Thụy Khuê, Tây Hồ	21046133.0	1058246266.0
+1208	La Khê, Hà Đông	209724114.0	1057615252.0
+1209	Thạch Lam Phú Thạnh Tân Phú, Chọn dự án	107780407.0	1066274906.0
+1210	328/52 Nguyễn Thị Minh Khai, Tân Đông Hiệp, Dĩ An, Bình Dương	109217649.0	1067546231.0
+1211	Đường Số 4		
+1212	ngõ Thịnh Hào, Tôn Đức Thắng, Đống Đa	210234395.0	1058321304.0
+1213	Quận 2, Hồ Chí Minh	107935216.0	1067308195.0
+1214	đường Phan Văn Trị, Nơ Trang Long, Phạm Văn Đồng	108111789.0	1066954879.0
+1215	Hà Đông Hà Nội	20955835.0	1057563658.0
+1216	Hẻm 80 Ngô Chí Quốc, Phường Bình Chiểu TP.Thủ Đức	108792052.0	1067262541.0
+1217	Quận 1	107756587.0	1067004238.0
+1218	đường số 39, Phường Tân Quy, Quận 7	10743915.0	1067136826.0
+1219	Đường Tôn Thất Thuyết, Phường 3, Quận 4, TP. HCM	107530404.0	1066995887.0
+1220	Hà Nội	210277644.0	1058341598.0
+1221	Biên Hòa	109574128.0	1068426871.0
+1222	Hà Nội	210277644.0	1058341598.0
+1223	thạnh phú	99481665.0	10650538.0
+1224	71/43		
+1225	đường Võ Liêm Sơn, Phường 4, Quận 8	107370879.0	1066755807.0
+1226	đường Phạm Hùng, Phường 4, Quận 8	107410286.0	1066689351.0
+1227	Liên Kề 885 Tam Trinh	209761685.0	1058686692.0
+1228	Thành phố Hồ Chí Minh	108230989.0	1066296638.0
+1229	Đồng Khởi, Phường ?, Quận ?	107761225.0	1067030267.0
+1230	Thành phố Hồ Chí Minh	108230989.0	1066296638.0
+1231	Sát mặt tiền, Quận Bình Tân	107652581.0	1066038535.0
+1232	Tứ Liên, Tứ Liên, Tây Hồ, Hà Nội,	210642931.0	1058340365.0
+1233	Văn Quán, Hà Đông	209796446.0	1057923394.0
+1234	Phú La, Hà Đông	209560561.0	1057659269.0
+1235	Phố Ba Đình	210337815.0	1058140539.0
+1236	Quận 2, Hồ Chí Minh	107935216.0	1067308195.0
+1237	Quận 2, Hồ Chí Minh	107935216.0	1067308195.0
+1238	Tây Sơn, Đống Đa	210082189.0	1058237382.0
+1239	phố Tây Sơn, đường Đống Đa, Quận Đống Đa	210180725.0	1058299495.0
+1240	Đường Hiệp Bình, Phường Hiệp Bình Chánh, Quận Thủ Đức, TP HCM	108454029.0	1067261562.0
+1241	Nguyễn Hiền		
+1242	Đường Số 19		
+1243	Thành phố Hồ Chí Minh	108230989.0	1066296638.0
+1244	đường Điện Biên Phủ, phưởng Phan Si Păng, thị xã Sa Pa	222497168.0	1039608091.0
+1245	đường Điện Biên Phủ, phưởng Phan Si Păng, thị xã Sa Pa	222497168.0	1039608091.0
+1246	Nguyễn Tư Giản, Phường 12, Quận Gò Vấp	108326748.0	1066385553.0
+1247	Võ thị sáu, phú đông, nhơn trạch, đồng nai	107157588.0	1068107613.0
+1248			
+1249	đường số, Quận 4	107578263.0	1067012968.0
+1250	quận 12 - tphcm	108671531.0	1066413322.0
+1251	Gia Lâm	210105208.0	105952941.0
+1252	Nguyễn Quý Yêm, An Lạc, Bình Tân	107299144.0	1066183388.0
+1253	Thành phố Hồ Chí Minh	108230989.0	1066296638.0
+1254	Thành phố Hồ Chí Minh	108230989.0	1066296638.0
+1255	Cổ Bi- Gia Lâm	210303618.0	1059433771.0
+1256	Yên Hoa, Yên Phụ, Tây Hồ, Hà Nội	210530282.0	1058365792.0
+1257	Võng Thị, Bưởi, Tây Hồ, Hà Nội	210516835.0	1058112908.0
+1258	388 Đường Lê Duẩn, tt Tân Sơn, Ninh Sơn, Ninh Thuận	117776239.0	108783137.0
+1259	La Khê, Hà Đông	209724114.0	1057615252.0
+1260	Khu đô thị HUD Sơn Tây - Phường Quang Trung - Sơn Tây - Hà Nội	211306498.0	1055052484.0
+1261	Hồ Đầm Tranh, Cự Khối, Long Biên, Hà Nội	210081317.0	1059099576.0
+1262	Đường Lê Văn Chí, Phường Linh Trung, Quận Thủ Đức, TP HCM	108587761.0	1067777126.0
+1263	hẻm thông 12m, gần bệnh viện, trường học	108512667.0	1066692118.0
+1264	Đồng Văn Cống, Quận Thủ Đức	107758992.0	1067599925.0
+1265	Thanh Bình, Mỗ Lao, Hà Đông, Hà Nội, -Dự án-	209823818.0	1057780339.0
+1266	Đường Phạm Cự Lượng, An Hải Đông, Sơn Trà, Đà Nẵng	160632113.0	1082353631.0
+1267	Đường số 7	107518612.0	1066087884.0
+1268	đường Nguyễn Hữu Thọ, Quận Hải Châu, Đà Nẵng	160393506.0	1082103739.0
+1269	Thành phố Hồ Chí Minh	108230989.0	1066296638.0
+1270	Đường Phạm Văn Trị, Phường 11, Quận Bình Thạnh	108159197.0	1066952001.0
+1271	đường Nguyễn Thượng Hiền, Phường 5, Quận Bình Thạnh	108122833.0	1066852567.0
+1272	Phố Hoàng Hoa Thám, Vĩnh Phúc, Quận Ba Đình	210457791.0	1058115146.0
+1273	phường 11, quận Bình Thạnh	108180045.0	1066954544.0
+1274	Sở Dầu, Hồng Bàng, Hải Phòng	208683599.0	1066556575.0
+1275	Khu TĐC Trâu Quỳ	210078386.0	1059376756.0
+1276	duong thị mười	1086726.0	1066353244.0
+1277	Nguyễn Hữu Cảnh, Phường 22, Quận Bình Thạnh	107933763.0	1067182627.0
+1278	Phạm Văn Chiêu	108501221.0	1066524088.0
+1279	Phúc Lợi, Long Biên, Hà Nội	210437208.0	1059259271.0
+1280	Phúc Lợi, Long Biên, Hà Nội	210437208.0	1059259271.0
+1281	đường Trần Anh Tông, phường 8, TP. Đà Lạt	119665885.0	1084568813.0
+1282	Thành phố Hồ Chí Minh	108230989.0	1066296638.0
+1283	Lê Đình Cẩn, Tân Tạo, Bình Tân	107595829.0	106599273.0
+1284	HIỆP THÀNH	108825023.0	1066379724.0
+1285	Đường 19/5, Văn Quán Hà Đông	209757396.0	10578937.0
+1286	Khu đô thị HUD Sơn Tây - Phường Quang Trung - Sơn Tây - Hà Nội	211306498.0	1055052484.0
+1287	đường Điện Biên Phủ, phưởng Phan Si Păng, thị xã Sa Pa	222497168.0	1039608091.0
+1288	Long Biên	210186765.0	105884813.0
+1289	đường NB Cao Lỗ, Phường 4, Quận 8	107397268.0	1066781846.0
+1290	Sapa, Lào Cai	223363608.0	1038437852.0
+1291	Quốc Lộ 1 A, Bình Hưng Hòa B, Bình Tân	16394065.0	107570791.0
+1292	Lạc Long Quân, P.8, Tân Bình	107843279.0	1066509334.0
+1293	Mặt Tiền Nguyễn Văn Lạc	107940445.0	1067095736.0
+1294	Mặt Tiền Nguyễn Văn Lạc	107940445.0	1067095736.0
+1295	đường Đoàn Thị Điểm, TP. Đà Lạt	119384313.0	1084321072.0
+1296	Thanh Xuân		
+1297	Từ Liêm	210034608.0	1057703287.0
+1298	Thanh Xuân		
+1299	Thanh Xuân		
+1300	đường Lê Quang Định, Phường 11, Quận Bình Thạnh	108141242.0	106689718.0
+1301	Hẻm 6m, Lê Văn Thọ, Phường 9, Quận Gò Vấp	108471475.0	106656462.0
+1302	Hòa Hảo, Quận 10	107614791.0	1066667421.0
+1303	Đường Lý Thái Tổ, Phường 9, Quận 10, TP. HCM	107678082.0	1066710507.0
+1304	Đường Số 14, Phường Linh Chiểu, Quận Thủ Đức, TP HCM	108543969.0	1067567892.0
+1305	Nguyễn Văn Khối	108429616.0	1066529357.0
+1306	397 Quang Trung, Phường 12, Quận Gò Vấp	108363491.0	1066421413.0
+1307	Tỉnh Lộ 10, Lê Đình Cận, Quận Bình Tân	107579895.0	1066065738.0
+1308	Tỉnh Lộ 10, Quận 6	107480929.0	1066352362.0
+1309	Đường số 38 hiệp bình chánh thủ đức,	108424872.0	1067344933.0
+1310	Kha Vạn Cân, Hiệp Bình Chánh, Tp. Thủ Đức	108315251.0	1067250541.0
+1311	Hẻm đường Hoàng Hoa Thám, Phường 5, Quận Phú Nhuận	108106884.0	1066863984.0
+1312	đường bùi đình túy, phường 24, bình thạnh, tphcm	108078584.0	1067040297.0
+1313	Xô Viết Nghệ Tĩnh, Phường 21, Quận Bình Thạnh	107981379.0	106710916.0
+1314	Lạc Long Quân, Phường 10, Quận Tân Bình	107808805.0	1066500274.0
+1315	246/22		
+1316	441		
+1317	Quang Trung, Quận Gò Vấp	108372182.0	1066554915.0
+1318	Đường Liên Phường, Phường Phú Hữu, Q9	108048107.0	106792446.0
+1319	Phạm Văn Đồng		
+1320	HXH giáp Hòa Bình, Quận Tân Phú	107701883.0	1066319717.0
+1321	Hà Nội	210277644.0	1058341598.0
+1322	Hà Nội	210277644.0	1058341598.0
+1323	Thành phố Hồ Chí Minh	108230989.0	1066296638.0
+1324	Thành phố Hồ Chí Minh	108230989.0	1066296638.0
+1325	Tứ Hải, Tân Bình	107841515.0	1066574376.0
+1326	Lạc Long Quân, P.11, Tân Bình	107868375.0	1066500622.0
+1327	Nguyễn Hữu Thọ, Long Kiển, Nhà Bè, Tp.HCM	106952642.0	106704874.0
+1328	Bàu Cát Phường 12 tân Bình	107910616.0	1066454997.0
+1329	đường Dạ Nam, Phường 2, Quận 8	107500271.0	1066840405.0
+1330	Sài Đồng, Long Biên	210348453.0	1059127108.0
+1331	võ văn ngân linh chiểu thủ đức	108507175.0	1067644224.0
+1332	võ văn ngân linh chiểu thủ đức	108507175.0	1067644224.0
+1333	Thành phố Hồ Chí Minh	108230989.0	1066296638.0
+1334	Cầu Giấy, Yên Hòa	210218044.0	105790872.0
+1335	ql9 giao nhau với nguyễn du		
+1336	Hào Nam, Đống Đa	210252222.0	1058272153.0
+1337	Thành phố Hồ Chí Minh	108230989.0	1066296638.0
+1338	Hùng Vương, District unknown, Huế	164613182.0	1075971459.0
+1339	đường Chánh Hưng, Phường 9, Quận 8	107445155.0	1066688354.0
+1340	đường Tám Danh, Phường 4, Quận 8	107396113.0	1066713371.0
+1341	Lê Quang Định, Bình Thạnh	108107331.0	1066921173.0
+1342	Thành phố Hồ Chí Minh	108230989.0	1066296638.0
+1343	đường Âu Cơ	210702149.0	1058262501.0
+1344	đường Quang Trung, Phường P10, Quận Gò Vấp	108297201.0	1066712159.0
+1345	Xô Viết Nghệ Tĩnh, Điện Biên Phủ, Trường Sa, Nguyễn Hữu Cảnh	214063898.0	1030321549.0
+1346	Đường Số 25, Phường Hiệp Bình Chánh Quận Thủ Đức, TP HCM	108314814.0	1067277906.0
+1347	Thành phố Hồ Chí Minh	108230989.0	1066296638.0
+1348	Hẻm xe hơi Thoại Ngọc Hầu, CV Đầm Sen	107660903.0	1066418941.0
+1349	Thoại Ngọc Hầu, CV Đầm Sen	107660903.0	1066418941.0
+1350	Phường Trung Hưng - Tx Sơn Tây - Hà Nội	211313193.0	1055049436.0
+1351	Ni Sư Huỳnh Liên, Phường 10, Quận Tân Bình	107836014.0	1066474124.0
+1352	Thoại Ngọc Hầu Phú Thạnh Tân Phú	107776033.0	1066286225.0
+1353	Thành phố Hồ Chí Minh	108230989.0	1066296638.0
+1354	Phố Vọng	209965964.0	1058427935.0
+1355	tân phước khánh 32	110028099.0	1067385562.0
+1356	tân phước khánh 32	110028099.0	1067385562.0
+1357	An Đông, TP Huế	164591117.0	107607571.0
+1358	KDC Phú Chili, P.Hiệp Hòa		
+1359	đường Quang Trung, Phường 8, Quận Gò Vấp	108388835.0	1066488544.0
+1360	Lê Thúc Hoạch Phú Thọ Hòa Tân Phú	107875324.0	106622411.0
+1361	Phan Đăng Lưu, Phường 1, Phú Nhuận	108008563.0	1066821518.0
+1362	Sau chợ		
+1363	Đường Nguyễn Thị Nhung, Phường Hiệp Bình Phước, Quận Thủ Đức, TP HCM	108444043.0	1067089537.0
+1364	đường Nguyễn Chí Thanh, KP12, Dương Đông, Phú Quốc, Kiên Giang	10220027.0	1039794999.0
+1365	Thanh Xuân, Hà Nội,	209959819.0	1058097244.0
+1366	Văn Cao, Ngô Quyền, Hải Phòng	208361011.0	1067011455.0
+1367	Văn Cao, Ngô Quyền, Hải Phòng	208361011.0	1067011455.0
+1368	na		
+1369	Tô Hiệu, Hà Đông	209675124.0	1057784606.0
+1370	Đường Tô Hiệu, Hà Đông	209675124.0	1057784606.0
+1371	hẻm 1 sẹt, Phường 2, Quận 8	107457311.0	1066879557.0
+1372	Thích Quảng Đức, Phường 4, Quận Phú Nhuận	108060643.0	1066813234.0
+1373	đường Hoàng Sa, Phường Tân Định, Quận 1	107953364.0	1066900013.0
+1374	Cam Lộ, Hùng Vương, Hồng Bàng, Hải Phòng	208717109.0	1066364987.0
+1375	đường Nguyễn Xí, Phường 26, Quận Bình Thạnh	10815315.0	106707746.0
+1376	đường Nguyễn Xí, Phường 26, Quận Bình Thạnh	10815315.0	106707746.0
+1377	Võ Chí Công, Cầu Giấy	210501204.0	1058046798.0
+1378	Vũ Trọng Khánh Hà Đông	209833012.0	1057824732.0
+1379	Kiên Thành	10512995.0	1054126652.0
+1380	Phường Tân Thới Nhất, Quận 12, TP. HCM	108292885.0	1066143944.0
+1381	Âu Cơ, Nhật Tân, Tây Hồ, Hà Nội	21074165.0	1058239732.0
+1382	Âu Cơ, Nhật Tân, Tây Hồ, Hà Nội	21074165.0	1058239732.0
+1383	Văn Quán, Hà Đông	209796446.0	1057923394.0
+1384	Vạn Phúc, Hà Đông	209786876.0	105771796.0
+1385	Nơ Trang Long, Phạm Văn Đồng, Phường 13, Quận Bình Thạnh	108212256.0	1067056004.0
+1386	Hẻm 238 đường Lê Thị Hoa - Phường Bình Chiểu - TP.Thủ Đức	108758714.0	1067475988.0
+1387	khu phân lô An Lạc, Sở Dầu, Hồng Bàng, Hải Phòng	208660716.0	10665439.0
+1388	 cesty Lê Thanh Nghị		
+1389	Phường Mễ Trì, Quận Nam Từ Liêm, TP HN	210055267.0	1057791327.0
+1390	đường Nguyễn Văn Lượng, Phường Gò Vấp	108386215.0	106673832.0
+1391	Quận 2, Hồ Chí Minh	107935216.0	1067308195.0
+1392	Đường Quốc Lộ 13, Phường Hiệp Bình Phước, Quận Thủ Đức, TP HCM	108505432.0	1067193752.0
+1393	đường Lê Đức Thọ, Phường 6, Quận Gò Vấp	108374106.0	1066806374.0
+1394	Lê Đức Thọ, Phường 6, Quận Gò Vấp	108374106.0	1066806374.0
+1395	Hẻm Ô Tô Tránh, Gò Vấp	108386779.0	1066652904.0
+1396	Nguyễn Văn Khối	108429616.0	1066529357.0
+1397	phường Mễ Trì, Quận Nam Từ Liêm,TP HÀ NỘI	210055267.0	1057791327.0
+1398	Thanh Bình Mỗ Lao Hà Đông	209823818.0	1057780339.0
+1399	Thanh Bình Mỗ Lao Hà Đông	209823818.0	1057780339.0
+1400	Phố Xã Đàn, Quận Đống Đa	210129017.0	1058355017.0
+1401	Đường Lê Tấn Bê, Phường An Lạc, Quận Bình Tân, TP. HCM	107190774.0	106605581.0
+1402	Mỗ Lao, Hà Đông	209833749.0	1057835348.0
+1403	Yên Hoà, Trung Kính	210181378.0	1057932507.0
+1404	Phú La, Hà Đông	209560561.0	1057659269.0
+1405	đường Lê Văn Duyệt, Bùi Hữu Nghĩa, Phường 1, Quận Bình Thạnh	107977614.0	1066961977.0
+1406	Lê Đức Thọ, Pham Văn Chiếu	108524729.0	1066605769.0
+1407	Bán căn hộ Apartment An Dương Vương 100m2, 19 phòng giá 15 tỷ 500 triệu	107573605.0	1066705652.0
+1408	Đặng Thai Mai, Quảng An, Tây Hồ, Hà Nội	210611812.0	1058239311.0
+1409	Đặng Thai Mai, Quảng An, Tây Hồ, Hà Nội	210611812.0	1058239311.0
+1410	đường Nguyễn Văn Cừ	107593479.0	1066840928.0
+1411	đường số 55, đối diện công ty Bonchen		
+1412	Vạn Phúc, Hà Đông	209786876.0	105771796.0
+1413	đường số 53c, đối diện công viên	107515197.0	1065949463.0
+1414	Xuân Đỉnh - Xuân Tảo - Bắc Từ Liêm	210713815.0	1057953956.0
+1415	Phú La, Hà Đông	209560561.0	1057659269.0
+1416	Tôn Đức Thắng, Đống Đa	210248712.0	1058328825.0
+1417	Đường Liên Khu 4-5, Phường Bình Hưng Hòa B, Quận Bình Tân, TP. HCM	107994989.0	1065867513.0
+1418	Ngõ Trước Nhà Rộng Rãi, Gần Hồ Tây – Thuỵ Khuê, Tây Hồ	21046133.0	1058246266.0
+1419	Lê Văn Quới, Sát Bốn Xã	10776189.0	1066113201.0
+1420	na		
+1421	đường ô tô, Phường Tân Vạn	109117711.0	1068272458.0
+1422	Nguyễn Trãi, phường Thượng Đình, quận Thanh Xuân, Hà Nội	209982168.0	1058132805.0
+1423	thạnh phú	99481665.0	10650538.0
+1424	Phan Văn Trị, Phường 12, Quận Bình Thạnh	108124969.0	1066952613.0
+1425	Phan Văn Trị, Nơ Trang Long, Lê Quang Định	108083202.0	1066951089.0
+1426	đường Di Ái, Di Trạch, Hoài Đức, Hà Nội	210514761.0	1057252325.0
+1427	Nguyễn Tất Tố, Lê Chân, Hải Phòng	208319364.0	1066890772.0
+1428	Quan Nhân		
+1429	Thành phố Hồ Chí Minh	108230989.0	1066296638.0
+1430	Thành phố Hồ Chí Minh	108230989.0	1066296638.0
+1431	Đường Láng, Quận Đống Đa	21014156.0	1058065054.0
+1432	đường Phạm Thế Hiển, Phường 1, Quận 8	10750607.0	1066882286.0
+1433	Đường Số 2	10809573.0	1067340794.0
+1434	Nghi Tàm, Tây Hồ	210549729.0	1058367309.0
+1435	đường Nguyễn Thị Tần, Phường 2, Quận 8	107478862.0	1066853086.0
+1436	Phan Đình Giót - La Khê - Hà Đông	209686922.0	1057611004.0
+1437	Cách Mạng Tháng 8, Phường 10, Quận 3	107808514.0	10667599.0
+1438	Thành phố Hồ Chí Minh	108230989.0	1066296638.0
+1439	đường Lê Văn Quới, Quận Tân Phú	107900517.0	1066281901.0
+1440	Quang Trung, P.10, Gò Vấp	108297201.0	1066712159.0
+1441	Phan Đình Giót - La Khê - Hà Đông	209686922.0	1057611004.0
+1442	Quang Trung		
+1443	Phan Đình Giót - La Khê - Hà Đông	209686922.0	1057611004.0
+1444	Đại An Hà Đông	20955835.0	1057563658.0
+1445	Đường Pasteur, Quận 1	107796288.0	106696843.0
+1446	Đường Pasteur, Quận 1	107796288.0	106696843.0
+1447	Hà Đông	20955835.0	1057563658.0
+1448	Nhật Tân, Tây Hồ, Hà Nội	210764202.0	1058260943.0
+1449	Đường Số 10, Phường Hiệp Bình Chánh, Quận Thủ Đức, TP HCM	108405308.0	1067248418.0
+1450	Phùng Hưng Hà Đông	209691613.0	1057853182.0
+1451	Đặng Tiến Đông, Phố	210145368.0	1058212808.0
+1452	đường Hai Bà Trưng, TP Huế	164607721.0	1075892472.0
+1453	Đường Đỗ Văn Thi,Phường Hiệp Hòa	109378305.0	1068383495.0
+1454	Thanh Xuân, Luôn, Lô Góc	108834303.0	1066703963.0
+1455	Lưu Nguyên, Quận Thanh Xuân	209959819.0	1058097244.0
+1456	Khu vực Trung tâm Quận Hoàng Mai, gần Linh Đàm, Khu đô thị Linh Đàm, kđt Định công	209649464.0	1058248383.0
+1457	 KP3, Thị Trấn Trảng Bom, Huyện Trảng Bom, Tỉnh Đồng Nai	10956586.0	1070055424.0
+1458	đường Minh Khai, Phường Hai Bà Trưng	209943823.0	1058627172.0
+1459	đường Nguyễn Xí	108171055.0	1067060228.0
+1460	nhánh 66 Đồng Khởi	107750861.0	1067043723.0
+1461	đường Cự Lộc, phường Thượng Đình, Quận Thanh Xuân, Hà Nội	210012554.0	1058137407.0
+1462	Đường 14 , Phước Bình , Tp. Thủ Đức	108392119.0	1067815099.0
+1463	Đường Hòa Hưng, Phường 12, Quận 10, TP. HCM	107789834.0	1066738954.0
+1464	Đặng Thuỳ Trâm		
+1465	Đặng Thuỳ Trâm		
+1466	Đường 14 , Phước Bình , Tp. Thủ Đức	108392119.0	1067815099.0
+1467	Số 7 Cư Xá Đô Thành phường 4 Quận 3	107722727.0	1066821955.0
+1468	Nguyễn Quý Yêm	107299144.0	1066183388.0
+1469	Lê Định, Bình Tân	12208616.0	1091908359.0
+1470	không có địa chỉ		
+1471	Đại Sứ Quận Hàn Quốc	210668748.0	1057967778.0
+1472	Phường Yên Hòa, Quận Cầu Giấy, Hà Nội	210218044.0	105790872.0
+1473	Mặt phố Trần Đại Nghĩa	209998093.0	105845367.0
+1474	Đường Cầu Giấy, Phường Yên Hòa, Quận Cầu Giấy, Hà Nội	210303513.0	1058010154.0
+1475	đường Trần Đại Nghĩa	107399008.0	1065481438.0
+1476	Hương Lộ 2, Bình Trị Đông, Quận Bình Tân, Thành phố Hồ Chí Minh	107695049.0	10661276.0
+1477	Số 1 Mã Lò, Phường Bình Trị Đông, Quận Bình Tân, Thành phố Hồ Chí Minh	10758468.0	1066066393.0
+1478	đường Lê Văn Quới, Phường Bình Trị Đông, Quận Bình Tân, Thành phố Hồ Chí Minh	107759904.0	1066134613.0
+1479	Thành phố Hồ Chí Minh	108230989.0	1066296638.0
+1480	Kiệt 39 Trần Phú	209369877.0	1063298081.0
+1481	Thành phố Hồ Chí Minh	108230989.0	1066296638.0
+1482	Hoàng Hoa Thám, P.6, Bình Thạnh	108083335.0	1066880874.0
+1483	Thành phố Hồ Chí Minh	108230989.0	1066296638.0
+1484	Bờ Bao Tân Thắng, Sơn Kỳ, Tân Phú	108011535.0	1066183755.0
+1485	Hà Nội	210277644.0	1058341598.0
+1486	Nơ Trang Long, Phường 14	108074298.0	1066950557.0
+1487	Thành phố Hồ Chí Minh	108230989.0	1066296638.0
+1488	đường Lê Quang Định, Phường 7, Quận Bình Thạnh	108095223.0	1066929528.0
+1489	đường TCH 26, Quận 12	108683572.0	1066201999.0
+1490	Thạnh Mỹ Lợi	107583621.0	1067647475.0
+1491	Phan Văn Trị, Phường 10, Quận Gò Vấp	108327364.0	1066724769.0
+1492	Thành phố Hồ Chí Minh	108230989.0	1066296638.0
+1493	Đường Tô Hiến Thành, Phường 14, Quận 10, TP. HCM	107755117.0	1066628473.0
+1494	Thành phố Hồ Chí Minh	108230989.0	1066296638.0
+1495	Chu Văn An , Phường 12, Bình Thạnh	108109464.0	1067019597.0
+1496	số 4 Bốn Xã, Phường Bình Tân	106667874.0	1077799066.0
+1497	H.233 Nguyễn Văn Cừ, Phường An Hoà, Quận Ninh Kiều	100455043.0	105771494.0
+1498	Đường số 10 linh trung thủ đức	108586724.0	1067722225.0
+1499	Đường số 10 linh trung thủ đức	108586724.0	1067722225.0
+1500	tân bình	108014659.0	1066525974.0
+1501	Khu phân lô HL2, Quận Bình Tân	107670756.0	1066075906.0
+1502	Phan Văn Trị, Quận Bình Thạnh	1081931.0	1066945295.0
+1503	Thạnh Mỹ Lợi	107583621.0	1067647475.0
+1504	Thành phố Hồ Chí Minh	108230989.0	1066296638.0
+1505	P. An Hải Đông - Q.Sơn Trà	160641384.0	1082362691.0
+1506	Thành phố Hồ Chí Minh	108230989.0	1066296638.0
+1507	Thành phố Hồ Chí Minh	108230989.0	1066296638.0
+1508	đường Phùng Văn Cung, Phường 7, Quận Phú Nhuận	108011196.0	1066851508.0
+1509	Trần Văn Ơn, Tân Sơn Nhì, Tân Phú	108000759.0	1066302092.0
+1510	đường Khương Đình, Quận Thanh Xuân	209923852.0	1058136426.0
+1511	Nguyễn Văn Cừ, Long Biên	210464835.0	1058773208.0
+1512	HL2, Bình Tân	107670756.0	1066075906.0
+1513	Nguyễn Duy Trinh, Bình Trưng Đông , Tp. Thủ Đức	107904717.0	1067827975.0
+1514	đường Bình Tiên, Quận 6	107437112.0	106643168.0
+1515	Phú Lâm, gần khu vực Coopmart, công viên Bình Phú	107417608.0	1066327796.0
+1516	Kinh Dương Vương, Tên Lửa, Bến Xe Miền Tây, Võ Văn Kiệt	107401132.0	1066191384.0
+1517	Vạn Kiếp	107994304.0	1066935618.0
+1518	Nguyễn Văn Cừ, Phường Gia Thuỵ	210495394.0	1058834124.0
+1519	Đường số 5 linh trung thủ đức,	108532813.0	106767873.0
+1520	Đường Số 27, Phường Hiệp Bình Chánh, Quận Thủ Đức, TP HCM	108332403.0	1067318574.0
+1521	Đường Số 27, Phường Hiệp Bình Chánh, Quận Thủ Đức, TP HCM	108332403.0	1067318574.0
+1522	Lạc Long Quân, Phường Long Lanh, Quận Tân Bình	108014659.0	1066525974.0
+1523	Đà Nẵng	160544068.0	1082021667.0
+1524	 Niên Sư Huỳnh, L/phường Tân Bình	115190638.0	1068856933.0
+1525	Nguyễn Súy, Tân Quý, Tân Phú	107922004.0	1066224456.0
+1526	Đường số 5 trường thọ thủ đức	108394357.0	106753029.0
+1527	đường Hoàng Văn Thụ, Phường 8, Quận Phú Nhuận	107996351.0	1066737125.0
+1528	Thành phố Hồ Chí Minh	108230989.0	1066296638.0
+1529	đường Hoàng Cầu	210164782.0	1058227056.0
+1530	Đường lớn, Quận 2		
+1531	Nguyễn Thị Định		
+1532	đường D5, Phường 25, Quận Bình Thạnh	108060852.0	1067149816.0
+1533	đường D5, Phường 25, Quận Bình Thạnh	108060852.0	1067149816.0
+1534	Phan Văn Trị, Nguyễn Oanh, Nguyễn Văn Lượng	108384998.0	1066755728.0
+1535	Điện Biên Phủ, Phường 17, Quận Bình Thạnh	107978161.0	1067049832.0
+1536	Nơ Trang Long	108146132.0	1066978649.0
+1537	đường 12M, Quận oluştur lên, cạnh trường, giáp Q6	107480929.0	1066352362.0
+1538	Khuông Việt Phú Trung Tân Phú	107760186.0	1066393366.0
+1539	Ngõ 837 Trường Chinh, Kiến An, Hải Phòng	208234397.0	1066527071.0
+1540	đường Chiến Lược, Phường Lê Định, Quận Bình Tân	107628484.0	1066178313.0
+1541	Nguyễn Văn Lạc, Phan Văn Hân, Huỳnh Tịnh Của, Phường 19, Quận Bình Thạnh	107919823.0	1067088786.0
+1542	đường số 20, Phường 5, Quận Gò Vấp	108348727.0	1066873658.0
+1543	Đà Nẵng	160544068.0	1082021667.0
+1544	Lương Ngọc Quyến Văn Quán Hà Đông	209843294.0	1057947773.0
+1545	106a lưu chí hiếu	108123005.0	1066262677.0
+1546	Long Biên	210186765.0	105884813.0
+1547	Tam Bạc, Hồng Bàng, Hải Phòng	20857431.0	1066750682.0
+1548	Phạm Văn Chiêu, Phường 14, Quận Gò Vấp, Thành phố Hồ Chí Minh	108484293.0	106648556.0
+1549	Xuân Thủy, Cầu Giấy, Hà Nội	21036503.0	1057854012.0
+1550	Phan Xích Long, Phường 7, Quận Phú Nhuận	107983097.0	1066884708.0
+1551	Hai Bà Trưng, Lê Chân, Hải Phòng	208526987.0	1066779598.0
+1552	Đường Số 48, Phường Hiệp Bình Chánh, Quận Thủ Đức, TP HCM	108349815.0	1067257698.0
+1553	Điện Biên Phủ, Sapa	223407143.0	1038407273.0
+1554	Hai Bà Trưng phường 6 quận 3	107855577.0	1066948593.0
+1555	đường Nguyễn Thành Phương, phường Thống Nhất, quận Biên Hòa	109375355.0	1068287555.0
+1556	đường Tôn Thất Thuyết, Quận 4	1075325.0	1067052862.0
+1557	Lạc Long Quân, Phường 3, Quận 11	107660492.0	106642303.0
+1558	Khu8, P. Thị Cầu - TP. Bắc Ninh - T. Bắc Ninh	211945159.0	1060890023.0
+1559	Đường Đặng Văn Bi, Phường Trường Thọ, Quận Thủ Đức, TP HCM	108439717.0	106762358.0
+1560	Đường Đặng Văn Bi, Phường Trường Thọ, Quận Thủ Đức, TP HCM	108439717.0	106762358.0
+1561	Đường Nguyên Hồng, Phường Láng Hạ, Quận Đống Đa, Hà Nội	210168288.0	1058112865.0
+1562	Ngõ thông cả ngả Nhân Chính, Nguỵ Như Komtum, Nguyễn Trãi, Đường Láng, Phường Quan Nhân, Quận Thanh Xuân	210005603.0	1058029176.0
+1563	Hoàng Văn Thụ, Hồng Bàng, Hải Phòng	208589971.0	106684399.0
+1564	đường rộng 19.5m, Gần Chợ, Phường Bùi Thị Xuân, Quận...	137447566.0	1091519305.0
+1565	phố Phạm Văn Hai, Tân Bình	107945549.0	1066632715.0
+1566	đường Thuận Giao 08, Phường Thuận Giao, Thành phố Thuận An	109621318.0	1066992715.0
+1567	Hoàng Mai	209836984.0	1058636257.0
+1568	Vạn Phúc, Hà Đông	209786876.0	105771796.0
+1569	Phổ Quang, Phường 2, Quận Tân Bình	108059195.0	1066682118.0
+1570	Ngô Quyền, Khu đô thị Văn Khê	209708916.0	1057643286.0
+1571	Ngô Quyền, Quận ...	208566653.0	1066994903.0
+1572	Nguyễn Văn Đậu, Phường 11, Quận Bình Thạnh	108118426.0	1066922921.0
+1573	Thành phố Hồ Chí Minh	108230989.0	1066296638.0
+1574	đường Hưng Phú, Quận 8	10747128.0	1066733135.0
+1575	Kiến Hưng, hà Đông	209528073.0	1057850022.0
+1576	Bùi Thanh Khiết, ngay cầu vượt Nguyễn Văn Linh	106878301.0	1066827456.0
+1577	Xuân La, Quận Tây Hồ	210596756.0	1058040796.0
+1578	Vĩnh Viễn quận 10 -TP.HCM	107635376.0	1066669007.0
+1579	Khương Hạ, Quận Thanh Xuân	209922632.0	1058157908.0
+1580	Đường Số 23, Phường Hiệp Bình Chánh, Quận Thủ Đức, TP HCM	108282919.0	106726749.0
+1581	Quận Hà Đông, Hà Nội	20955835.0	1057563658.0
+1582	đường ô tô, Phường Tam Hiệp, Quận Biên Hòa, Đồng Nai	109477668.0	106855756.0
+1583	hẻm đường nhựa 10m, khu Tân Sơn Nhì, Quận Tân Phú	108319383.0	1066435268.0
+1584	Hẻm đường nhựa 10m, khu đông dân cư, Quận Tân Sơn Nhì, Quận Tân Phú	108319383.0	1066435268.0
+1585	Wę Ninh		
+1586	Hoàng Hoa Thám		
+1587	Thành phố Hồ Chí Minh	108230989.0	1066296638.0
+1588	Đa Sĩ, Kiến Hưng, Hà Đông, Hà Nội, -Dự án-	209528073.0	1057850022.0
+1589	Hoàng Mai	209836984.0	1058636257.0
+1590	Quận 2, Hồ Chí Minh	107935216.0	1067308195.0
+1591	Ngõ ô tô tránh nhau, đường Cầu Giấy	210329533.0	1057982426.0
+1592	phố Hào Nam, quận Đống Đa	210252222.0	1058272153.0
+1593	Hồng Bảng, Phường 1, Quận 11	107545885.0	1066388727.0
+1594	Hòa Hảo, Phường 5, Quận 10	10761538.0	1066670398.0
+1595	Đinh Tiên Hoàng, Phường ..., Quận ...	109480196.0	1082976447.0
+1596	thạnh phú	99481665.0	10650538.0
+1597	HH02-2B kđt Thanh Hà- Kiến Hưng- Hà Đông- Hà Nội	209378573.0	1057860509.0
+1598	Đồng Đen, P.14, Tân Bình	10791432.0	1066437939.0
+1599	Bình Trị Đông, Bình Trị Đông A, Bình Tân	107639086.0	1066143944.0
+1600	Lộ Nhựa, Cặp Sông Cái Răng Bé, TPCT.	99991074.0	1057576708.0
+1601	Thành phố Hồ Chí Minh	108230989.0	1066296638.0
+1602	Thành phố Hồ Chí Minh	108230989.0	1066296638.0
+1603	HH02-2B kđt Thanh Hà- Kiến Hưng- Hà Đông- Hà Nội	209378573.0	1057860509.0
+1604	Tam Châu,Tam Bình, Thủ Đức, tp HCM.	108678038.0	1067445156.0
+1605	Đường Số 51	10845846.0	106643129.0
+1606	Vườn Lài Phú Thọ Hòa Tân Phú	107881361.0	1066291308.0
+1607	Khương Trung, Quận Thanh Xuân	209971504.0	1058216911.0
+1608	19/5 Văn Quán Hà Đông	20955835.0	1057563658.0
+1609	19/5 Văn Quán Hà Đông	20955835.0	1057563658.0
+1610	Phạm Ngọc Thạch, Quận Đống Đa	210085871.0	1058341166.0
+1611	Đường Láng	210139679.0	1058067187.0
+1612	Phú La, Hà Đông	209560561.0	1057659269.0
+1613	đường Văn Quán, Phường/C Beverrage, Quận Hà Đông	209786778.0	1057960298.0
+1614	phường Mễ Trì, Quận Nam Từ Liêm,TP HÀ NỘI	210055267.0	1057791327.0
+1615	đường Trần Văn Quang, Phường 10, Quận Tân Bình	10779581.0	1066471074.0
+1616	đường Bùi Thế Mỹ, Quận Tân Bình	107850864.0	1066483414.0
+1617	Quận Hà Đông, Hà Nội	20955835.0	1057563658.0
+1618	Đường Man Thiện, Phường Tăng Nhơn Phú A, Quận 9, TP HCM	108511904.0	106795021.0
+1619	Quận 2, Hồ Chí Minh	107935216.0	1067308195.0
+1620	đường ô tô, Phường Tân Hiệp	109656045.0	106866728.0
+1621	Quận Hà Đông, Hà Nội	20955835.0	1057563658.0
+1622	Tôn Đức Thắng, Đống Đa	210248712.0	1058328825.0
+1623	Đỗ Thúc Tịnh, Phường 12, Quận Gò Vấp	108408627.0	1066430643.0
+1624	Phú Quốc	10289879.0	10398402.0
+1625	An Thượng 17	160497353.0	1082412084.0
+1626	Ngõ Văn Hương, Tôn Đức Thắng, Đống Đa	210248712.0	1058328825.0
+1627	Xuân La - Tây Hồ	210596756.0	1058040796.0
+1628	Phố Đại La, Quận Hai Bà Trưng	209967983.0	1058459272.0
+1629	Đội Cấn, Đội Cấn, Ba Đình, Hà Nội	210378985.0	1058080111.0
+1630	Thành phố Hồ Chí Minh	108230989.0	1066296638.0
+1631	Thành phố Hồ Chí Minh	108230989.0	1066296638.0
+1632	Phan Chu Trinh, TTTP, Huế	164559634.0	1075895414.0
+1633	Phan Chu Trinh, TTTP, Huế	164559634.0	1075895414.0
+1634	KDC Phú Gia 2, Phường Trảng Dài, Biên Hòa, Đồng Nai	109859925.0	1068691758.0
+1635	Thái Thịnh - Đống Đa	210104261.0	1058184682.0
+1636	 ĐỊNH CÔNG, QUẬN HOÀNG MAI	209831371.0	1058319653.0
+1637	Kênh Tân Hóa, giáp Quận 6, Quận 11	10766481.0	1066359011.0
+1638	Kênh Tân Hóa, cạnh cv xanh	107697214.0	1066356313.0
+1639	Thuỵ Khuê	21046133.0	1058246266.0
+1640	Lê Trọng Tấn, hàng xóm Park Cty	209818482.0	105742568.0
+1641	La Khê, Hà Đông	209724114.0	1057615252.0
+1642	La Khê, Hà Đông	209724114.0	1057615252.0
+1643	Dương Nội, Hà Đông	20979868.0	1057439194.0
+1644	Vân Canh - Hoài Đức - Hà Nội	210279052.0	1057263152.0
+1645	Đường Huỳnh Văn Lũy, Xã Phú Chánh, Thị xã Tân Uyên, Bình Dương	110770888.0	1066986584.0
+1646	ngõ phố Tôn Đức Thắng, Đống Đa	210248712.0	1058328825.0
+1647	số 15 bình hưng hòa	108026884.0	1066026064.0
+1648	Lan Viên 2, Đặng Xá, Gia Lâm, Hà Nội	21018295.0	1059533281.0
+1649	KĐT Đặng Xá	210134684.0	1059492764.0
+1650	Trần Bình Trọng, Phường 1, Quận Gò Vấp	108131643.0	1066875503.0
+1651	đường D4 Võ Thị Sáu, Phường Thống Nhất	109469111.0	1068272499.0
+1652	võ văn ngân linh chiểu thủ đức	108507175.0	1067644224.0
+1653	Đường số 10 Linh trung thủ đức	108586724.0	1067722225.0
+1654	đường 18 linh chiểu thủ đức	108249741.0	1067192352.0
+1655	số 2 ngõ Yên Hòa, Cầu Giấy	210226691.0	1057935241.0
+1656	Phố Nhân Hòa, Phường Nhân Chính, Quận Thanh Xuân, Hà Nội	21002125.0	1058089493.0
+1657	hẻm Phan Đình Phùng, Phường 2, Quận Phú Nhuận	10794454.0	106683644.0
+1658	Xô Viết Nghệ Tỉnh	192342489.0	1049200365.0
+1659	đường Trương Quốc Dung, Phường 10, Quận Phú Nhuận	10796578.0	1066725669.0
+1660	Sơn Kỳ, Tân Phú	108060467.0	106615868.0
+1661	Nguyễn Thiện Thuật, P.24, Bình Thạnh	108054965.0	1066991847.0
+1662	đường Nguyễn Thị Tươi, Phường Tân Bình, Dĩ An	109506997.0	1067535228.0
+1663	Thành phố Hồ Chí Minh	108230989.0	1066296638.0
+1664	Thành phố Hồ Chí Minh	108230989.0	1066296638.0
+1665	2 mặt phố Hoàn Kiếm	210322132.0	1058531777.0
+1666	313 quốc lộ 13 phường hiệp bình phước thủ đức	108383486.0	1067137316.0
+1667	đƯỜNG Trần Văn Kiểu, Phường Bình Phú, Quận 6	107394133.0	1066275584.0
+1668	 Đường 18m, Quận 6	107480929.0	1066352362.0
+1669	Thành phố Hồ Chí Minh	108230989.0	1066296638.0
+1670	Phước Thiện, gần Vinhome	10760068.0	1069299579.0
+1671	Phước Thiện, gần Vinhome	10760068.0	1069299579.0
+1672	An Dương Vương, Kinh Dương Vương, Võ Văn Kiệt, Aeon Bình Tân	107358416.0	1066214714.0
+1673	Kha Vạn Cân, Hiệp Bình Chánh, Thủ Đức	108315251.0	1067250541.0
+1674	Xuân La, Tây Hồ	210596756.0	1058040796.0
+1675	Thanh Bình Mỗ Lao	209823818.0	1057780339.0
+1676	Võ Nguyên Giáp, ???		
+1677	Văn La, Hà Đông, Hà Nội	209579999.0	1057631668.0
+1678	Nguyễn Khuyến Văn Quán Hà Đông	209753273.0	1057893861.0
+1679	Đường An Hải 14, An Hải Bắc, Sơn Trà, Đà Nẵng	160857919.0	1082350551.0
+1680	Đường Hoàng Diệu, Hải Châu, Đà Nẵng	160578068.0	1082170919.0
+1681	hẻm 445 đường Tân Hòa Đông, Phường Bình Trị Đông, Quận Bình Tân	107658195.0	1066158934.0
+1682	phố Hoàng Cầu	210164782.0	1058227056.0
+1683	đường ô tô, Phường Tân Vạn	109117711.0	1068272458.0
+1684	Lê Đức Thọ, Phường 6, Gò Vấp	108374106.0	1066806374.0
+1685	Lê Đức Thọ, Phường 17, Quận Gò Vấp	108415165.0	1066772486.0
+1686	Long Biên	210186765.0	105884813.0
+1687	Biên Hòa	109574128.0	1068426871.0
+1688	Lê Đình Thám Tây Thạnh Tân Phú	107971196.0	1066230961.0
+1689	Xã Cửa Dương, Phú Quốc, Kiên Giang	10289879.0	10398402.0
+1690	số Thái Thịnh, Quận Đống Đa	210180725.0	1058299495.0
+1691	Phan Xích Long, Phan Đăng Lưu, Lê Văn Duyệt, Trường Sa, Phú Nhuận	107971068.0	1066904728.0
+1692	Nguyễn Xiển , Long Thạnh Mỹ, Tp. Thủ Đức	108356279.0	1068300166.0
+1693	Nguyễn Lương Bằng, Đống Đa	210161795.0	1058286026.0
+1694	88, Phan Huy Ích, Phường 15, Quận Tân Bình.	10828287.0	1066319274.0
+1695	Đường Số 18, Phường Linh Đông, Quận Thủ Đức, TP HCM	108515428.0	1067490546.0
+1696	Tên Lửa, An Lạc A, Bình Tân	107431486.0	1066135554.0
+1697	Thành phố Hồ Chí Minh	108230989.0	1066296638.0
+1698	Thanh Bình, Mỗ Lao, Hà Đông, Hà Nội	209823818.0	1057780339.0
+1699	Kinh Dương Vương, An Lạc, Bình Tân	10735655.0	1066134272.0
+1700	đường Thích Quảng Đức, Phường 4, Quận Phú Nhuận	108060643.0	1066813234.0
+1701	đường Thích Quảng Đức, Phường 4, Quận Phú Nhuận	108060643.0	1066813234.0
+1702	Biên Hòa	109574128.0	1068426871.0
+1703	Thành phố Hồ Chí Minh	108230989.0	1066296638.0
+1704	Cát Cụt, Lê Chân, Hải Phòng	208528751.0	1066765963.0
+1705	Số 16, Gò Xoài, Bình Trị Đông, Quận Bình Tân, Thành phố Hồ Chí Minh	10777449.0	106602713.0
+1706	đường Trương Phước Phan, Phường Bình Trị Đông, Quận Bình Tân	107667203.0	1066133357.0
+1707	Phố thông Phố Lớn, Quận Hà Đông	20955835.0	1057563658.0
+1708	hẻm xe hơi thông đường Mã Lò, Phường Bình Trị Đông, Quận Bình Tân, TP. Hồ Chí Minh	107728591.0	1066018083.0
+1709	đường Hương Lộ 2, Phường Bình Trị Đông, Quận Bình Tân, Thành phố Hồ Chí Minh	107699131.0	1066119636.0
+1710	P. Quang Vinh, ngay ngã 3 Thành		
+1711	đường Hương Lộ 2, Phường Bình Trị Đông, Quận Bình Tân, Thành phố Hồ Chí Minh	107699131.0	1066119636.0
+1712	Đường Số 22, Phường Linh Đông, Quận Thủ Đức, TP HCM	108494678.0	1067435583.0
+1713	đường 188 Lê Đình Cẩn, Phường Linh Trung, Quận Bình Tân	107595835.0	1065982538.0
+1714	Thành phố Hồ Chí Minh	108230989.0	1066296638.0
+1715	Nguyễn Văn Cừ, Long Biên	210464835.0	1058773208.0
+1716	Hoàng Văn Thụ, Phường 8, Quận Phú Nhuận	107996351.0	1066737125.0
+1717	duit number 2, Thao Dien, Quan 2	108019001.0	1067383426.0
+1718	NguyễnDu, Phường 7, Quận Gò Vấp	108271084.0	1066861979.0
+1719	phố Chính Kinh, phường Nhân Chính, Quận Thanh Xuân	209995544.0	1058113326.0
+1720	Tăng Nhơn Phú	108409534.0	10679719.0
+1721	Đình Phong Phú, Tăng Nhơn Phú B, Q.9	108369642.0	1067814925.0
+1722	đường số, KDC Lê Thành, Quận 8, TP. Hồ Chí Minh	107197683.0	1066183223.0
+1723	Đường Kênh Tân Hóa, Quận 6	107588676.0	1066343553.0
+1724	Huỳnh Tấn Phát, Hoà Cường Nam, Hải Châu, Đà Nẵng.	160353664.0	1082143291.0
+1725	Phường Tân Tạo A, Quận Bình Tân, TP. HCM	107360575.0	1065906249.0
+1726	Thành phố Hồ Chí Minh	108230989.0	1066296638.0
+1727	Cổ Linh	225512095.0	1056200598.0
+1728	Tân Triều, Thanh Trì, Hà Nội	209712048.0	1058010533.0
+1729	Hoàng Bật Đạt Tỷ Phường 15 Quận Tân Bình	108244441.0	1066351758.0
+1730	Nguyễn Đình Chiểu		
+1731	Lê Văn Sỹ P4 Q3	107927597.0	1066703291.0
+1732	Thành phố Hồ Chí Minh	108230989.0	1066296638.0
+1733	ðường Điện Biên Phủ, Phường 15, Quận Bình Thạnh	107978161.0	1067049832.0
+1734	Bùi Quang Là, Phường P14, Quận Gò Vấp	108351606.0	1066394244.0
+1735	Thành phố Hồ Chí Minh	108230989.0	1066296638.0
+1736	Đường Hóa Sơn 10.	160334433.0	1082302763.0
+1737	Lê Văn Lương, Phường Tân Phong, Quận 7	107300587.0	1067003372.0
+1738	Thành phố Hồ Chí Minh	108230989.0	1066296638.0
+1739	Hà Đông, Phan Đình Giót	209686922.0	1057611004.0
+1740	Thị Xã Sapa	223363608.0	1038437852.0
+1741	Cách Mạng tháng 8, Phường 15, Quận 10	107851151.0	1066679902.0
+1742	Cách Mạng tháng 8, Phường 15, Quận 10	107851151.0	1066679902.0
+1743	Lê Văn Sỹ, P11, Phú Nhuận	107914703.0	1066720667.0
+1744	khu Vip Lê Văn Sỹ, Phường 11, Quận Phú Nhuận	107914703.0	1066720667.0
+1745	ngõ 76/32, An Dương	210509388.0	1058428491.0
+1746	KQH Lam Sơn, Phường 6, Đà Lạt	119526576.0	1084297988.0
+1747	Phan Chu Trinh, Phường Vĩnh	186746546.0	1056696523.0
+1748	 Ngõ 2, Kiệt 44, Lê Ngô Cát, Thanh Hải	140502185.0	1091701666.0
+1749	Long Biên	210186765.0	105884813.0
+1750	số 33, Hoàng Quốc Việt, Cầu Giấy	21047406.0	105797904.0
+1751	Lê Đình-CN, Bình Tân	107652581.0	1066038535.0
+1752	Giáp Quận 6, Bình Tân	107652581.0	1066038535.0
+1753	Cái Nai, Hưng Thạnh, Cái Răng, TPCT	99999013.0	1057657824.0
+1754	ngocj thuyj long biên	210588582.0	1058583873.0
+1755	Ngọc Thụy, Long Biên	210588582.0	1058583873.0
+1756	lê trọng tấn		
+1757	lê trọng tấn		
+1758	Thành phố Hồ Chí Minh	108230989.0	1066296638.0
+1759	Thị Nghè, Phường 17, Quận Bình Thạnh	107927036.0	1067087064.0
+1760	Phường Bửu Long	109586438.0	1068053993.0
+1761	Bùi Văn Hoà, Phường Long Bình	109195379.0	1068831366.0
+1762	đường ĐT743, Phường Bình Chuẩn, thành phố Thuận An	109839171.0	1067226453.0
+1763	đường Nguyễn Viết Xuân, phường Không, quận Lê Trọng Tấn	210378383.0	1057439194.0
+1764	Đường Hoàng Diệu, p10, Phú Nhuận	107959019.0	106671056.0
+1765	Nguyễn Trãi, Vũ Trọng Phụng, phường Thanh Xuân Trung, Quận Thanh Xuân, Hà Nội	209965819.0	1058103547.0
+1766	Xô Viết Nghệ Tỉnh	192342489.0	1049200365.0
+1767	ngõ thông sang chùa Láng	210235819.0	1058051698.0
+1768	đường Nguyễn Văn Trỗi, Phường 11, Quận Phú Nhuận	107955541.0	1066755032.0
+1769	Bùi Quang Là, Gò Vấp	108351606.0	1066394244.0
+1770	Bùi Quang Là, Gò Vấp	108351606.0	1066394244.0
+1771	Khu đô thị Vsip Từ Sơn, Bắc Ninh	210785932.0	1059684556.0
+1772	Nguyễn Đức Cảnh, Lê Chân, Hải Phòng	208503454.0	1066659534.0
+1773	Kha Vạn Cân		
+1774	đường số 36 hiệp bình chánh thủ đức	108414688.0	106733139.0
+1775	đường số 11 phường trường thọ thủ đức	108404825.0	1067538624.0
+1776	Hà Nội	210277644.0	1058341598.0
+1777	Hà Nội	210277644.0	1058341598.0
+1778	Hà Nội	210277644.0	1058341598.0
+1779	Lê Quang Định		
+1780	Phố hái, Sapa	223363608.0	1038437852.0
+1781	Đường Tân Hòa Đông, Quận 6	10759585.0	1066284508.0
+1782	Thành phố Hồ Chí Minh	108230989.0	1066296638.0
+1783	Long Biên	210186765.0	105884813.0
+1784	An Dương Vương , phường 2, Đà Lạt	119526152.0	1084356695.0
+1785	Đường 475 Phước Long B Quận 9 Cũ,	108189144.0	1067753194.0
+1786	Thành phố Hồ Chí Minh	108230989.0	1066296638.0
+1787	Đường Đặng Văn Bi, Phường Bình Thọ, Quận Thủ Đức, TP HCM	108439717.0	106762358.0
+1788	Đường Phan Tứ, Mỹ An, Ngũ Hành Sơn, Đà Nẵng	160460486.0	1082444253.0
+1789	Phùng Tá Chu, Quận 6	107480929.0	1066352362.0
+1790	Phố Quan Nhân	210034012.0	1058110263.0
+1791	Võ Văn Kiệt, Aeon Bình Tân	107427497.0	1066119309.0
+1792	Thành phố Hồ Chí Minh	108230989.0	1066296638.0
+1793	Thành phố Hồ Chí Minh	108230989.0	1066296638.0
+1794	Chùa Láng, Đống Đa	210235928.0	1058053684.0
+1795	Vườn Lài, Quận Tân Bình	108014659.0	1066525974.0
+1796	Nguyễn Văn Cừ, Long Biên	210464835.0	1058773208.0
+1797	Đường DA2 ,Tổ 12 ,Khu Phố 4 ,Phường Thới Hòa ,Bến Cát ,Bình Dương	111324711.0	1066087061.0
+1798	Hồng Tiến-Bồ Đề	21039005.0	1058756334.0
+1799	Thành phố Hồ Chí Minh	108230989.0	1066296638.0
+1800	Thành phố Hồ Chí Minh	108230989.0	1066296638.0
+1801	 Ngay Bv ÂU CƠ, Phường Tân Biên	109627796.0	1068871951.0
+1802	Lê Văn Sỹ, Phường Phú Nhuận	107299898.0	1067426687.0
+1803	Phường8, Nguyễn Thị Huỳnh	107962247.0	1066753725.0
+1804	nguyên sinh cung, Lầm Hoằng	164790393.0	1075958265.0
+1805	Lê Ngô Cát, đường Thanh Hải	16436309.0	1075724058.0
+1806	nguyễn Cửu Vân, Phường 17, Quận Bình Thạnh	107958474.0	1067068493.0
+1807	kiệt Nguyễn Sinh Cung, Lầm Hoằng	164790393.0	1075958265.0
+1808	Phố, Quận Hai Bà Trưng	210090571.0	1058607507.0
+1809	Phố kinh doanh, trung tâm Hai Bà Trưng		
+1810	Trang Quan, An Đồng, An Dương, Hải Phòng	208508856.0	1066540156.0
+1811	đường Nguyễn Văn Cừ	107593479.0	1066840928.0
+1812	quận 10	107745965.0	1066679542.0
+1813	Hẻm Quang Trung, Phường 14, Quận Gò Vấp	108421654.0	1066433752.0
+1814	Nguyễn Thái Sơn, Lê Quang Định, Phường 4, Quận Gò Vấp	108179224.0	1066892094.0
+1815	Hai Bà Trưng		
+1816	Đường 339 Phước Long B Quận 9	10823796.0	1067753041.0
+1817	Thành phố Hồ Chí Minh	108230989.0	1066296638.0
+1818	Huỳnh Tấn Phát		
+1819	Hồ Đền Lừ, Hoàng Văn Thụ	209849274.0	1058550843.0
+1820	Lý Thánh Tông, Phường Tân Thới Hoà, Quận Tân Phú	107668763.0	1066274134.0
+1821	Thành phố Hồ Chí Minh	108230989.0	1066296638.0
+1822	Phố Nguyễn Ngọc Vũ, Quận Cầu Giấy	210115524.0	1058087333.0
+1823	Đỗ Xuân Hợp, Phước Long B, Tp. Thủ Đức , HCM	108150123.0	1067748598.0
+1824	Tư Đình, Long Biên, Hà Nội	210265735.0	1058855471.0
+1825	Nguyễn Văn Cừ		
+1826	Lê Duy Nhuận, phường 12, quận Tân Bình	107971716.0	1066483109.0
+1827	Lương Thế Vinh		
+1828	Nguyễn Tư Giản Phường 12 Gò Vấp	108326748.0	1066385553.0
+1829	đường Bạch Đằng, Phường 15, Quận Bình Thạnh	108032549.0	1067047781.0
+1830	Trường Chinh, P.14, Tân Bình	107992523.0	1066414665.0
+1831	Hạ Đình, Thanh Xuân	209866719.0	1058099499.0
+1832	La Thành		
+1833	Nguyễn Tư Giản, phường 12, quận Gò Vấp, Tp HCM	108326748.0	1066385553.0
+1834	đường Phan Đăng Lưu, Phường 1, Quận Phú Nhuận	108002045.0	1066813247.0
+1835	an hòa, biên hòa	108831245.0	1068709404.0
+1836	đường Tô Vĩnh Diện, Quận Thanh Xuân	209996942.0	1058209239.0
+1837	Đường số 9 linh tây thủ đức	108602356.0	1067568433.0
+1838	Hoàng Quốc Việt		
+1839	Yết Kiêu Hà Đông	2097458.0	1057769317.0
+1840	Hương Lộ 3, Bình Hưng Hòa, Bình Tân	107987166.0	1066125495.0
+1841	Hùng Vương, Hồng Bàng, Hải Phòng	208758973.0	1066379724.0
+1842	Hùng Vương, Hồng Bàng, Hải Phòng	208758973.0	1066379724.0
+1843	đường Số 8 Lê Văn Quới, Phường Bình Trị Đông, Quận Bình Tân, TP. Hồ Chí Minh	107755629.0	1066152904.0
+1844	Đường Số 18, Phường Linh Trung, Quận Thủ Đức, TP HCM	108637527.0	1067911698.0
+1845	Thành phố Hồ Chí Minh	108230989.0	1066296638.0
+1846	đường Số 18B, Phường Bình Trị Đông, Quận Bình Tân, TP. Hồ Chí Minh	10779801.0	1065981604.0
+1847	Nguyễn Văn Nghi, Phường 7, Quận Gò Vấp	108255432.0	1066844184.0
+1848	ô tô, ngõ 651 Minh Khai, gần Times City	210035002.0	1058695619.0
+1849	ngõ 651 Minh Khai, Quận Hai Bà Trưng	210034347.0	1058683143.0
+1850	Đại Mỗ- Nam Từ Liêm- Hà Nội	209898009.0	1057615252.0
+1851	Thành phố Hồ Chí Minh	108230989.0	1066296638.0
+1852			
+1853	Đường Số 17, Phường Linh Chiểu, Quận Thủ Đức, TP HCM	108557715.0	106761472.0
+1854	P.Trung Dũng, gần đường 30/4	109502343.0	1068214646.0
+1855	Thành phố Hồ Chí Minh	108230989.0	1066296638.0
+1856	Hẻm Xe Hơi Tránh Trung Tâm Quận 11	107629739.0	106650084.0
+1857	Phạm Văn Hai, Quận 10, Tân Bình	107945549.0	1066632715.0
+1858	Bình Thới, giao với Minh Phụng	107657523.0	1066471433.0
+1859	Đường Kha Vạn Cân, Phường Linh Chiểu, Quận Thủ Đức, TP HCM	108579948.0	1067581667.0
+1860	ĐÀO TẤN		
+1861	Đường Chình Hữu, Sơn Trà, Đà Nẵng	160728583.0	1082398334.0
+1862	Quận Hà Đông, Hà Nội	20955835.0	1057563658.0
+1863	Đường Văn Phú, Phường Phú La, Quận Hà Đông, Hà Nội	209619409.0	1057685991.0
+1864	ĐƯỜNG SỐ 19 (QUANG TRUNG), P.8, GÒ VẤP	10837434.0	1066543415.0
+1865	ĐƯỜNG SỐ 19 (QUANG TRUNG), P.8, GÒ VẤP	10837434.0	1066543415.0
+1866	Đường Diệp Minh Châu, Quận Tân Phú	107958672.0	1066327377.0
+1867	Thị Trấn Văn Điển, Huyện Thanh Trì	209493584.0	1058444419.0
+1868	đường Phạm Văn Đồng, Phường 11, Quận Bình Thạnh	108204226.0	1066942397.0
+1869	bửu long	109586438.0	1068053993.0
+1870	ngõ Hoà Bình, Khâm Thiên, Quận Đống Đa	21019532.0	1058354023.0
+1871	Tân Sơn Nhì, Tân Phú	107997882.0	106630604.0
+1872	Nguyễn Tất Tố, Lê Chân, Hải Phòng	208319364.0	1066890772.0
+1873	Tân Sơn Nhì, Tân Phú	107997882.0	106630604.0
+1874	Yên Phúc Hà Đông	209703841.0	1057868365.0
+1875	Tứ Hiệp, Thanh Trì	209461418.0	1058554513.0
+1876	Tân Sơn Nhì, Quận Tân Phú	107997882.0	106630604.0
+1877	Thành phố Hồ Chí Minh	108230989.0	1066296638.0
+1878	đường số 49A, Tân Tạo	107533195.0	1066036714.0
+1879	đường số 49A, Tân Tạo	107533195.0	1066036714.0
+1880	đường Dương Quảng Hàm, Phường 5, Quận Gò Vấp	108283702.0	1066897365.0
+1881	False		
+1882	đường Hoàng Hoa Thám, Phường 5, Quận Bình Thạnh	108089584.0	1066861357.0
+1883	Hẻm Phan Đăng Lưu, Lê Trực, Vạn Kiếp, Phường 5, Quận Bình Thạnh	108033131.0	106690891.0
+1884	Phước Bình , Tp. Thủ Đức	108139196.0	1067691712.0
+1885	Thành phố Hồ Chí Minh	108230989.0	1066296638.0
+1886	Phố Cửu Việt, Trâu Quỳ, Gia Lâm, Hà Nội	210134482.0	1059393488.0
+1887	Nguyễn Công Hoan		
+1888	đường Lý Văn Sâm, P Tam Hiệp	109454645.0	1068583373.0
+1889	Thành phố Hồ Chí Minh	108230989.0	1066296638.0
+1890	Quang Trung		
+1891	đường Hoàng Hoa Thám	210419911.0	1058205621.0
+1892	Hoàng Hoa Thám, Ba Đình, Hà Nội	210419911.0	1058205621.0
+1893	Bến Đồn, Hòa Lợi, Bến Cát	111155904.0	1066643155.0
+1894	Bến Đồn, Hòa Lợi, Bến Cát	111155904.0	1066643155.0
+1895	Đỗ Xuân Hợp , Phước Long B, Tp. Thủ Đức	108150123.0	1067748598.0
+1896	Quận Hà Đông, Hà Nội	20955835.0	1057563658.0
+1897	Tân Bình	108014659.0	1066525974.0
+1898	Nguyễn Tuyển , Bình Trưng Tây , TP. Thủ Đức	107856941.0	1067647187.0
+1899	Đức Trọng, Lâm Đồng, Đà Lạt	119404192.0	1084583132.0
+1900	Đức Trọng, Lâm Đồng, Đà Lạt	119404192.0	1084583132.0
+1901	Quận Hà Đông, Hà Nội	20955835.0	1057563658.0
+1902	đường Trần VănƠn, Quận Tân Phú	108000759.0	1066302092.0
+1903	Phạm Văn Đồng, Phường 11, Quận Bình Thạnh	108204226.0	1066942397.0
+1904	BỬU LONG	109586438.0	1068053993.0
+1905	Quận 2, Hồ Chí Minh	107935216.0	1067308195.0
+1906	đường số 48, Bình Tân	107521739.0	106598328.0
+1907	Ngay ngã tư Võ Văn Kiệt, Phường 15, Quận 11, Thành phố Hồ Chí Minh	107530981.0	1066560593.0
+1908	Kế TTTM Gigamall Phạm Văn Đồng, phường Hiệp Bình Chánh, Tp.Thủ Đức	108287025.0	1067225721.0
+1909	Quận Hoàng Mai, Hà Nội	209836984.0	1058636257.0
+1910	Đống Đa, Hà Nội	210180725.0	1058299495.0
+1911	Thanh xuân, Hà Nội	209959819.0	1058097244.0
+1912	đường số 6, khu Thăng Long Tên Lửa		
+1913	Trần Văn Ốn, Phường xxx, Quận Tân Phú	108000759.0	1066302092.0
+1914	Thạch Sơn, TT Sapa	223363421.0	1038468584.0
+1915	Thạch Sơn, TT Sapa	223363421.0	1038468584.0
+1916	Ốc 13, Phường Tam Hiệp, Quận Biên Hòa, Đồng Nai	10953764.0	1068571626.0
+1917	44M-7,5M, Than Xuân	209959819.0	1058097244.0
+1918	Thành phố Hồ Chí Minh	108230989.0	1066296638.0
+1919	Thành phố Hồ Chí Minh	108230989.0	1066296638.0
+1920	Long Biên	210186765.0	105884813.0
+1921	tô ngọc vân		
+1922	Chợ Khâm Thiên, Đống Đa	210159144.0	1058378302.0
+1923	Hà Nội	210277644.0	1058341598.0
+1924	Nguyễn Công Hoan		
+1925	Hà Nội	210277644.0	1058341598.0
+1926	Hà Nội	210277644.0	1058341598.0
+1927	Lê Văn Việt , Tăng Nhơn Phú A	108458281.0	1067959985.0
+1928	ĐÀO TẤN		
+1929	Đường Số 10, Phường Hiệp Bình Chánh, Quận Thủ Đức, TP HCM	108405308.0	1067248418.0
+1930	Cách Mạng Tháng 8, Tân BÌnh, tp HCM, - Dự án -	107858803.0	1066664895.0
+1931	False		
+1932	Tăng Nhơn Phú , P. Tăng Nhơn Phú B, Tp. Thủ Đức	108317581.0	106776557.0
+1933	Hẻm 26 Trần Quý Cáp Phường 11 Quận Bình Thạnh TP.HCM	10817109.0	1066968074.0
+1934	Hẻm 26 Trần Quý Cáp Phường 11 Quận Bình Thạnh TP.HCM	10817109.0	1066968074.0
+1935	Đường Phan Văn Trị, Phường 05, Quận Gò Vấp, TP HCM	108288265.0	1066836026.0
+1936	Long Biên	210186765.0	105884813.0
+1937	Thành phố Hồ Chí Minh	108230989.0	1066296638.0
+1938	Đường số 4, Trường Thọ, Thủ Đức	10838198.0	1067611803.0
+1939	Trước 12, Quận Bình Thạnh	108105831.0	1067091422.0
+1940	Chợ Khâm Thiên, Quận .	210159144.0	1058378302.0
+1941	đường Văn Hương	20605431.0	1058719772.0
+1942	đường Đội Cấn, phường Ngọc Hà, quận Ba Đình, Hà Nội	210350944.0	1058233423.0
+1943	đường 14 F.5, Quận Gò Vấp	108416801.0	1066474927.0
+1944	đường 14 F.5, Phường Gò Vấp	108230218.0	1066847675.0
+1945	hồ học lãm		
+1946	MT đường gần chợ Hiệp Bình, Giga Mall	108276003.0	1067212132.0
+1947	Nguyễn Khánh Toàn, Cầu Giấy	210377412.0	1058008204.0
+1948	bà triệu hà đông	20969386.0	1057809778.0
+1949	ngọc tụy long biên	210588582.0	1058583873.0
+1950	ngọc thụy long biên	210588582.0	1058583873.0
+1951	Thành phố Hồ Chí Minh	108230989.0	1066296638.0
+1952	Ngân - thổ cư Đống Đa hà nội	210180725.0	1058299495.0
+1953	Long Biên	210186765.0	105884813.0
+1954	Long Biên	210186765.0	105884813.0
+1955	Kỳ Đồng - F9 - Quận 3	107824188.0	1066820667.0
+1956	Tựu Liệt, Thanh Trì, Hà Nội	209551938.0	1058363687.0
+1957	Vũ Tùng		
+1958	Nguyễn Hữu Cảnh, Phường 22, Quận Bình Thạnh	107933763.0	1067182627.0
+1959	HSX Tây Hòa		
+1960	Nơ Trang Long	108146132.0	1066978649.0
+1961	Nguyễn Bình	226230856.0	10592299.0
+1962	huy	505187076.0	5239582899999990.0
+1963	Nguyễn Khánh Toàn, Cầu	210377412.0	1058008204.0
+1964	Đường hồ bá phấn phường phước long A thủ đức	10822335.0	1067611367.0
+1965	Hồ Học Lãm, An Lạc, Bình Tân	107226725.0	1066107174.0
+1966	Đường Trần Cao Vân	107840511.0	1066972895.0
+1967	Đông Trạch, Ngũ Hiệp, Thanh Trì	20923209.0	1058678117.0
+1968	Số 41 , ngách 378/39 Thuỵ Khuê	210499296.0	1058098208.0
+1969	Nguyễn Văn Cừ		
+1970	Long Biên	210186765.0	105884813.0
+1971	Hồng Lạc, Quận Tân Bình	107874728.0	1066470841.0
+1972	Khương Trung Thanh Xuân	209971504.0	1058216911.0
+1973	Võ Thị Sáu, Hai Bà Trưng	210058026.0	1058549049.0
+1974	Số 18 thái hà	210110867.0	1058226199.0
+1975	Phường Tân Tạo A, Quận Bình Tân, TP. HCM	107360575.0	1065906249.0
+1976	Phường Tân Tạo A, Quận Bình Tân, TP. HCM	107360575.0	1065906249.0
+1977	KDC Nam Hùng Vương, An Lạc	107256238.0	106611054.0
+1978	Mã Lò, Bình Trị Đông A, Bình Tân	107683072.0	1066031065.0
+1979	Mặt ngõ Đội Cấn	210353698.0	1058192143.0
+1980	Văn Hội, Quận Từ Liêm		
+1981	Nguyễn Đình Hoàn, Cầu Giấy	2104307.0	1058053139.0
+1982	Nguyễn Đình Hoàn, Cầu Giấy	2104307.0	1058053139.0
+1983	Trường Chinh, P.14, Tân Bình	107992523.0	1066414665.0
+1984	Trung tâm Phường 5, Phú Nhuận	108114783.0	1066868635.0
+1985	Đường số 11 linh xuân thủ đức	108863757.0	1067681962.0
+1986	Hồàng Quốc Việt		
+1987	Đường số 8 linh xuân thủ đức	108788084.0	1067750404.0
+1988	Thanh Xuân		
+1989	Thanh Xuân		
+1990	Thanh Xuân		
+1991	110/15/2A Đường LÒ LU. Phường . Trường Thạnh. TP thủ đức . Hồ chí minh. việt nam	10824996.0	1068190065.0
+1992	Đỗ Xuân Hợp, Phước Long B, Tp. Thủ Đức , HCM	108150123.0	1067748598.0
+1993	Kim Giang, Thanh Tri	209828413.0	1058121513.0
+1994	Đường Đặng Văn Bi, Phường Trường Thọ, Quận Thủ Đức, TP HCM	108439717.0	106762358.0
+1995	Đường Đặng Văn Bi, Phường Trường Thọ, Quận Thủ Đức, TP HCM	108439717.0	106762358.0
+1996	Đường số 11 bình thọ thủ đức	108496434.0	1067629528.0
+1997	Nguyễn Trãi -Thanh Xuân -Hà Nội	209935474.0	1058062968.0
+1998	Huỳnh Văn Nghệ, P.15, Tân Bình	108300782.0	1066379526.0
+1999	Ỷ LA		
+2000	Cư Xá Phú Lâm B, Quận 6	107528168.0	1066289434.0
+2001	Hương Lộ 2, Bình Tân	107670756	1066075906.0
+2002	12 Trần Quốc Toản	107893622	106689155.0
+2003	Đường số 8 linh xuân thủ đức,	108788084	1067750404.0
+2004	Định Công Thượng	209826822	1058209967.0
+2005	Thành phố Hồ Chí Minh	108230989	1066296638.0
+2006	Thành phố Hồ Chí Minh	108230989	1066296638.0
+2007	Thành phố Hồ Chí Minh	108230989	1066296638.0
+2008	đường Phạm Văn Chiêu, Gò Vấp	108514505	1066561018.0
+2009	Tân Mai, Quận Hoàng Mai	20983687	105848156.0
+2010	Giáp Nhất, Thanh Xuân, Hà Nội	21005389	1058162083.0
+2011	K1 Quang Dũng, - Dự án -		
+2012	Đường Đỗ Xuân Hợp, Phường 9, Quận	108141275	1067751935.0
+2013	Hà Huy Tập . Gia Lâm	210858175	1059177869.0
+2014	Hà Huy Tâp Gia Lâm	210858175	1059177869.0
+2015	Tân Hương, Tân Phú	107900436	1066222343.0
+2016	Hàng xóm KĐT Tây Nam Linh Đàm, Gần chợ Bằng Liệt, Hồ Linh Đàm	209646	1058203123.0
+2017	Tân Sơn Nhì Tân Phú, Chọn dự án	107997882	106630604.0
+2018	Đường Số 51	10845846	106643129.0
+2019	Trung tâm Phường 3, Quận Bình Thạnh	107990535	1066953093.0
+2020	Phố Hoàng Mai, gần hồ Đền Lừ	209882599	1058563602.0
+2021	Phạm Huy Thông	21028376	1058107239.0
+2022	phố Quan Nhân, phường Nhân Chính, Quận Thanh Xuân, Hà Nội	210034012	1058110263.0
+2023	Mã Lò, Bình Hưng Hòa A, Bình Tân	107810987	1065995847.0
+2024	quận Thanh Xuân	209959819	1058097244.0
+2025	Xuân La	210596756	1058040796.0
+2026	Nguyễn bặc phường 3 quận Tân Bình	107944664	106662427.0
+2027	Nguyễn Tử Nha Phường 12 Tân Bình, - Dự án -	107938948	106649589.0
+2028	Quang Trung		
+2029	Nguyễn Sơn, Nguyễn Văn Cừ	210415675	1058695733.0
+2030	phố Xã Đàn, Đống Đa	210129017	1058355017.0
+2031	tân phước khánh 32	110028099	1067385562.0
+2032	581 đường Nguyễn Duy Trinh p Bình Trưng Đông Quận 2 Tp Thủ Đức	107884045	1067730614.0
+2033	Lê Hồng Phong phường 2 quận 10	107624084	1066763705.0
+2034	Bạch Đằng, Phường 15, Quận Bình Thạnh	108032549	1067047781.0
+2035	Đường Mai Hắc Đế, An Hải Tây, Sơn Trà, Đà Nẵng	160649429	1082314038.0
+2036	Chu Văn An, Phường 12, Quận Bình Thạnh	108109464	1067019597.0
+2037	Nguyễn Văn Nghi, Phường 7, Quận Gò Vấp	108255432	1066844184.0
+2038	đường Phan Văn Trị, Phường 11, Quận Bình Thạnh	108159197	1066952001.0
+2039	22.1B ấp Bắc Lân	108478623	1065976979.0
+2040	Đường 19/5, Phường Văn Quán, Quận Hà Đông, Hà Nội	209757396	10578937.0
+2041	Đình Phong Phú , Tăng Nhơn Phú B, Tp. Thủ Đức	108369642	1067814925.0
+2042	Thành phố Hồ Chí Minh	108230989	1066296638.0
+2043	Phước Bình , Tp. Thủ Đức	108139196	1067691712.0
+2044	Phước Bình , Tp. Thủ Đức	108139196	1067691712.0
+2045	P.15, Quận 4	107540075	1067079845.0
+2046	Nguyễn Văn Quy, Quận 7	107404473	1067362074.0
+2047	đường Tôn Đản, Phường 15, Quận 4	107559775	1067059985.0
+2048	Phường Văn Quán, Quận Hà Đông, Hà Nội	209796446	1057923394.0
+2049	Nguyễn Trái, Hà Động	209699557	1057798664.0
+2050	Thế Lữ, Hạ Lý, Hồng Bàng, Hải Phòng	208581226	1066745848.0
+2051	Phạm Văn Đồng, Phường 11, Quận Bình Thạnh	108204226	1066942397.0
+2052	Thành phố Hồ Chí Minh	108230989	1066296638.0
+2053	Đường Lê Đình Dương, Hải Châu, Đà Nẵng	160615001	108220034.0
+2054	Lã Xuân Oai , Tăng Nhơn Phú A, Tp. Thủ Đức	108398715	1067953202.0
+2055	Lạc Long, Quận Tân Bình	107794947	1066498878.0
+2056	Lạc Long, Quận Tân Bình	107794947	1066498878.0
+2057	ĐƯỜNG SỐ 9 (LÊ VĂN THỌ), P.9, GÒ VẤP	108443429	1066571048.0
+2058	Vườn Lài Phú Thọ Hòa Tân Phú	107881361	1066291308.0
+2059	Lạc Long, Quận Tân Bình	107794947	1066498878.0
+2060	Hoàng Văn Thụ, Phường 8, Quận Phú Nhuận	107996351	1066737125.0
+2061	đường Trường Chinh, Phường Đống Đa	213063049	1056031342.0
+2062	Lạc Long Quân P11 Tân Bình	107868375	1066500622.0
+2063	Lạc Long Quân P11 Tân Bình	107868375	1066500622.0
+2064	Thanh Bình Hà Đông	209807436	1057788182.0
+2065	Phố Quan Nhân, phường Nhân Chính, quận Thanh Xuân, Hà Nội	210034012	1058110263.0
+2066	Phạm Văn Hai, Bình Chánh	108148999	106528946.0
+2067	Đường Số 19, Phường Linh Chiểu, Quận Thủ Đức, TP HCM	108533245	1067637377.0
+2068	Thanh Xuân		
+2069	Thanh Xuân		
+2070	Trường Chinh, Đống Đa	210002252	1058309453.0
+2071	Trường Chinh, Đống Đa	210002252	1058309453.0
+2072	bửu long	109586438	1068053993.0
+2073	La Thành		
+2074	Thành phố Hồ Chí Minh	108230989	1066296638.0
+2075	Hẻm Lạc Long Quân, Quận 11	107697718	1066445408.0
+2076	đường Phạm Văn Đồng, Phường Hiệp Bình Chánh, Thành phố Thủ Đức	108308291	1067242088.0
+2077	Nguyễn Súy, Tân Quý, Tân Phú	107922004	1066224456.0
+2078	Thành phố Hồ Chí Minh	108230989	1066296638.0
+2079	Q12		
+2080	đường Điện Biên Phủ, phưởng Phan Si Păng, thị xã Sa Pa	222497168	1039608091.0
+2081	Quang Trung		
+2082	Điện Biên Phủ	214063898	1030321549.0
+2083	Đường Kha Vạn Cân, Phường Linh Đông, Quận Thủ Đức, TP HCM	108435344	1067483602.0
+2084	Đặng Văn Bi, Trường Thọ, Thủ Đức	108439717	106762358.0
+2085	Minh Khai, Hồng Bàng, Hải Phòng	208636233	106681451.0
+2086	Tam Bạc, Hồng Bàng, Hải Phòng	20857431	1066750682.0
+2087	Đường Liên Hoa, Xã Vĩnh Ngọc, Tp Nha Trang.	12270752	1091594323.0
+2088	Nguyễn Lâm, Phường 7, Phú Nhuận	108003172	1066924832.0
+2089	Nguyễn Duy Trinh, Phú Hữu, Quận 9, Hồ Chí Minh,	107969462	106807901.0
+2090	Đường 442 , Tăng Nhơn phú A, Tp. Thủ Đức	108419899	1067927709.0
+2091	ĐƯỜNG CẦU DỨA PHÚ NÔNG, NHA TRANG	122606069	1091638219.0
+2092	Vạn Phúc City, Thủ Đức	108403244	1067160982.0
+2093	ĐƯỜNG LƯƠNG ĐỊNH CỦA, VĨNH NGỌC, NHA TRANG	122670513	1091613647.0
+2094	Trâu Quỳ	210078386	1059376756.0
+2095	Thành phố Hồ Chí Minh	108230989	1066296638.0
+2096	Quang Trung		
+2097	Lạc Long Quân, Tân Bình	107794947	1066498878.0
+2098	Gia Lâm	210105208	105952941.0
+2099	số 123,...		
+2100	Đặng Văn Bi, Trường Thọ, Thủ Đức	108439717	106762358.0
+2101	Đặng Văn Bi, Trường Thọ, Thủ Đức	108439717	106762358.0
+2102	8/1b		
+2103	bửu long	109586438	1068053993.0
+2104	Trường Chinh P14 Quận Tân Bình	107997157	1066407484.0
+2105	Trường Chinh P13 Quận Tân Bình	107997157	1066407484.0
+2106	na		
+2107	Đường số 31 Phường Linh Đông TP.Thủ Đức	108569431	1067469033.0
+2108	Trường Chinh, Quận Tân Bình	108076158	1066348442.0
+2109	đường Bùi Xương Trạch, phường Thanh Xuân	108834303	1066703963.0
+2110	đường Bùi Xương Trạch, Phường Thanh Xuân	108834303	1066703963.0
+2111	phố Tô Hiến Thành	210133684	1058491251.0
+2112	Cầu Giấy - Hà Nội	210362368	1057905825.0
+2113	Trung Liệt - Trung Liệt- Đống Đa - Hà Nội	210108448	105822425.0
+2114	Lạc Long Quân, Quận Tân Bình	107794947	1066498878.0
+2115	Thành phố Hồ Chí Minh	108230989	1066296638.0
+2116	Thành phố Hồ Chí Minh	108230989	1066296638.0
+2117	Ni Sư Huỳnh Liên, P.10, Tân Bình	107836014	1066474124.0
+2118	Đường Tân Lập 1, Phường Hiệp Phú, Quận 9, TP HCM	108484219	1067769278.0
+2119	Đường Tân Lập 1, Phường Hiệp Phú, Quận 9, TP HCM	108484219	1067769278.0
+2120	Dương Đình Hội, Phước Long B, Tp. Thủ Đức , HCM	108228086	1067802545.0
+2121	Bến Đồn, Hòa Lợi, Bến Cát	111155904	1066643155.0
+2122	Lò Đúc, Lò Đúc	210135602	1058577001.0
+2123	Dương Đình Hội , Phước Long B	108228086	1067802545.0
+2124	Dương Đình Hội	108228086	1067802545.0
+2125	Dương Đình Hội	108228086	1067802545.0
+2126	Đường Phú Nông, Nha Trang, Khánh Hòa.	122644824	1091657439.0
+2127	ĐƯỜNG XUÂN LẠC. NHA TRANG	122750016	1091603543.0
+2128	22.1 ấp Bắc Lân	108478623	1065976979.0
+2129	Ðường NAQ, Phường Tân Phong, Thị xã Biên Hòa, Đồng Nai	109571103	1068294884.0
+2130	đường NAQ, Phường Tân Phong, Biên Hòa, Đồng Nai	109571103	1068294884.0
+2131	Biên Hòa	109574128	1068426871.0
+2132	Đường 19/5 Văn Quán Hà Đông	209757396	10578937.0
+2133	Thanh Bình, Mỗ Lao, Hà Đông, Hà Nội	209823818	1057780339.0
+2134	Nhà Chính chủ hẻm 3m Mễ Cốc, P15, Q8.	10723016	106630768.0
+2135	Ngõ 139		
+2136	Đường 19/5, Phường Văn Quán, Quận Hà Đông, Hà Nội	209757396	10578937.0
+2137	Hoàng Quốc Việt, Quận Cầu Giấy, Hà Nội	210460525	105793266.0
+2138	Hoàng Quốc Việt, Trung Tâm Quận Cầu Giấy, Hà Nội	210460525	105793266.0
+2139	Gò Dầu, Tân Sơn Nhì, Tân Phú	107958295	1066269265.0
+2140	Hồng Tiến, Long Biên	210391667	1058754569.0
+2141	đường Bạch Vân, Phường 5, Quận 5	107516265	1066753015.0
+2142	đường Âu Dương Lân, Phường 3, Quận 8	107441825	1066839545.0
+2143	Đường số 26 phường Linh Đông TP.Thủ Đức	108485229	1067453072.0
+2144	Đường số 26 phường Linh Đông TP.Thủ Đức	108485229	1067453072.0
+2145	85 Vũ Trọng Phụng	210023393	105805871.0
+2146	Lạc Long Quân, Phường Tân Bình	115190638	1068856933.0
+2147	Thành phố Hồ Chí Minh	108230989	1066296638.0
+2148	Yên Thường, Gia Lâm, Hà Nội	210976543	1059317349.0
+2149	Thành phố Hồ Chí Minh	108230989	1066296638.0
+2150	Quang Trung		
+2151	Thành phố Hồ Chí Minh	108230989	1066296638.0
+2152	Hà Nội	210277644	1058341598.0
+2153	Nguyễn Cư Đàm, Quận Tân Phú	107900517	1066281901.0
+2154	Thành phố Hồ Chí Minh	108230989	1066296638.0
+2155	Nguyễn Thị Đinh, Thạnh Mỹ Lợi	1077034	1067743527.0
+2156	Quán Nam, Lê Chân, Hải Phòng	208335988	106692461.0
+2157	Khu đô thị Vsip Từ Sơn, Bắc Ninh	210785932	1059684556.0
+2158	Thành phố Đà Nẵng	160544068	1082021667.0
+2159	Thành phố Đà Nẵng	160544068	1082021667.0
+2160	Đường Nguyễn Đình Khơi, phường 4, Tân Bình	107949195	1066573677.0
+2161	Nguyễn Thị Định, Thạnh Mỹ Lợi	1077034	1067743527.0
+2162	Thành phố Đà Nẵng	160544068	1082021667.0
+2163	Thành phố Đà Nẵng	160544068	1082021667.0
+2164	Thành phố Đà Nẵng	160544068	1082021667.0
+2165	Quang Trung		
+2166	Đê La Thành, Đồng Đa	210237416	1058174236.0
+2167	Long Biên	210186765	105884813.0
+2168	đường Trương Công Định, Phường Trường Chinh, Quận Tân Bình	107959565	1066409346.0
+2169	Dân Lập, Lê Chân, Hải Phòng	208345046	1066831336.0
+2170	Phan Đăng Lưu, Phường 3, Phú Nhuận	108017818	1066830914.0
+2171	Đồng Đen		
+2172	phố Phương Mai, phường Đống Đa	210086605	1058383535.0
+2173	Tân Sơn Nhì, Tân Phú	107997882	106630604.0
+2174	Trường Chinh, Tân Bình	108076158	1066348442.0
+2175	Kiệt Oto Trường Chinh, An Đông, Huế	164600347	107604772.0
+2176	Xuân Phương- Nam Từ Liêm- Hà Nội	210378383	1057439194.0
+2177	False		
+2178	Đường Dương Khuê, Phường Hiệp Tân, Quận Tân Phú, TP. HCM	107754075	1066309446.0
+2179	đường Tên Lửa, P. Bình Trị Đông B, Q. Bình Tân	107478829	1066118492.0
+2180	Thành phố Hồ Chí Minh	108230989	1066296638.0
+2181	Lê Ngô Cát, Thủy Xuân, Huế	16436309	1075724058.0
+2182	Thành phố Hồ Chí Minh	108230989	1066296638.0
+2183	Đường số 4 phường linh tây tp thủ đức	108544252	1067526928.0
+2184	Đường Quốc Lộ 13, Phường Hiệp Bình Phước, Quận Thủ Đức, TP HCM	108505432	1067193752.0
+2185	đường Lê Duẩn, Phường Đống Đa	210187993	1058413845.0
+2186	Thành phố Hồ Chí Minh	108230989	1066296638.0
+2187	Võ Văn Kiệt, Quận 5	107504031	1066695963.0
+2188	Lê Văn Sỹ, P.13, Q. Phú Nhuận	107915132	106672.0
+2189	hẻm 1/ đường Phạm Thế Hiển, Quận 8	107430184	1066708357.0
+2190	đường Mỹ Phước Tân Vạn, Mỹ Phước 3, Bình Dương	111192477	1066414958.0
+2191	Trần Phú Hà Đông	209799246	1057873752.0
+2192	Thành phố Hồ Chí Minh	108230989	1066296638.0
+2193	Long Biên	210186765	105884813.0
+2194	Xô Viết Nghệ Tĩnh, Ung Văn Khiêm, QL13	108099089	1067126015.0
+2195	Thành phố Hồ Chí Minh	108230989	1066296638.0
+2196	Nguyễn Thị Định, Thạnh Mỹ Lợi , Tp. Thủ Đức	1077034	1067743527.0
+2197	đường ô tô, Phường Bửu Long	109586438	1068053993.0
+2198	đường X, Phường Thạnh Phú	160629875	1081892877.0
+2199	Hoàng Hoa Thám, P.5, Q. Phú Nhuận	108083335	1066880874.0
+2200	Thích Quảng Đức, Phường 4, Quận Phú Nhuận	108060643	1066813234.0
+2201	Nguyễn Sơn, Phú Thạnh, Tân Phú	107828917	1066263278.0
+2202	đường MPTV, Mỹ Phước 3, Bình Dương	111192477	1066414958.0
+2203	Đường 132 Phường Phước Long A, Q9	108224164	106763273.0
+2204	Văn Điển, Thanh Trì,	209493584	1058444419.0
+2205	Long Thành, Đồng Nai	107782801	1069447146.0
+2206	hoàng diệu 2 linh trung thủ đức	108564547	1067660949.0
+2207	Bình Thạnh, Hồ Chí Minh	108105831	1067091422.0
+2208	Tân Sơn Nhì, Quận Tân Phú	107997882	106630604.0
+2209	Phố Vọng, Hai Bà Trưng	210090571	1058607507.0
+2210	Đường số 4 Khu phố 6 Phường Bình Chiểu TP.Thủ Đức	10876436	1067470776.0
+2211	bửu long	109586438	1068053993.0
+2212	Đường Số 14		
+2213	Đường La Dương, Phường Dương Nội, Quận Hà Đông, Hà Nội	209902451	1057384138.0
+2214	Đường số 4, Thảo Điền, Quận 2	107935216	1067308195.0
+2215	Hùng Duệ Vương, Thượng Lý, Hồng Bàng, Hải Phòng	208591906	106666791.0
+2216	Trương Định		
+2217	phố Giáp Bát, Quận Hoàng Mai	20983614	1058433353.0
+2218	Tân Mai, Hoàng Mai	20983687	105848156.0
+2219	Phan Văn Trị		
+2220	Lê Văn Việt, Tăng Nhơn Phú	108458281	1067959985.0
+2221	Quận Gò Vấp HCM	108386779	1066652904.0
+2222	131 Trần Phú	209838174	105793463.0
+2223	đường Trần Văn Giàu	107679688	1065569746.0
+2224	Hồng Tiến, Bồ Đề, Lâm Du, Long Biên	210365843	1058783278.0
+2225	Biên Hòa	109574128	1068426871.0
+2226	Nguyễn Xí, Phường 13, Quận Bình Thạnh	108200411	1067039308.0
+2227	phố Trần Duy Hưng, phường Trung Hòa, quận Cầu Giấy, Hà Nội	210106758	1057995616.0
+2228	Ngô Gia Tự-Đặng Vũ Hỷ, khu đô thị Việt Hưng, Long Biên	210697172	1059021437.0
+2229	Đường 22, Phường Phước Long B, Q9	108283282	1067774739.0
+2230	Quan Thổ 1, Đống Đa	210234106	1058291801.0
+2231	np.NAN		
+2232	Phạm Văn Đồng, Quận Gò Vấp	108193004	1066901891.0
+2233	đường Hoàng Hoa Thám, Phường 7, Quận Bình Thạnh	108063178	1066903039.0
+2234	Khu vực Quảng Khánh- Từ Hoa-Yên Hoa, Mặt phố Tây Hồ	210530282	1058365792.0
+2235	đường Hoàng Văn Thụ, Phường 4, Quận Tân Bình	108002686	1066668678.0
+2236	Hẻm xe hơi, đường Miếu Gò Xoài, Phường Bình Trị Đông, Quận Bình Tân, Thành phố Hồ Chí Minh	10779745	1066073872.0
+2237	bửu long	109586438	1068053993.0
+2238	đường Âu Cơ, Phường 9, Quận Tân Bình	107725992	1066494858.0
+2239	Đường Số 21	108410084	1066507007.0
+2240	False		
+2241	Đường số 6 phường linh đông tp thủ đức	108578791	106746207.0
+2242	Phường Dương Nội, Quận Hà Đông, Hà Nội	20979868	1057439194.0
+2243	Phường Dương Nội, Quận Hà Đông, Hà Nội	20979868	1057439194.0
+2244	Phường Dương Nội, Quận Hà Đông, Hà Nội	20979868	1057439194.0
+2245	Thành phố Đà Nẵng	160544068	1082021667.0
+2246	Lê Văn Quới, Bình Hưng Hòa A, Bình Tân	107762062	1066108004.0
+2247	quận 7	107340344	1067215787.0
+2248	Thống Nhất	10994359	1071547158.0
+2249	Trung Văn Nam Từ Liêm Hà Nội	20989171	1057835348.0
+2250	Thành phố Đà Nẵng	160544068	1082021667.0
+2251	Tư Đình, Long Biên	210265735	1058855471.0
+2252	Nguyễn Văn Đậu,phường 11, quận Bình Thạnh	108118426	1066922921.0
+2253	Hòa Bình, Yên Nghĩa, Hà Đông, Hà Nội	209457076	1057219145.0
+2254	đường Trường Chinh, Phường 14, Quận Tân Bình	107997157	1066407484.0
+2255	Hồng Lạc P11 Tân Bình	107872931	1066473387.0
+2256	Láng Hạ, Ba Đình	210153717	1058128851.0
+2257	Trường Chinh		
+2258	Quận 2, Hồ Chí Minh	107935216	1067308195.0
+2259	Âu Cơ P10 Tân Bình	10780409	1066440124.0
+2260	Tây Sơn, Đống Đa	210082189	1058237382.0
+2261	Quận Hoàng Mai, Hà Nội	209836984	1058636257.0
+2262	Vũ Tông Phan, Khương Trung, Thanh Xuân	209956053	1058154502.0
+2263	Thành phố Hồ Chí Minh	108230989	1066296638.0
+2264	37/24 Nguyễn Ngọc Lộc - Phường 14 - Quận 10 - TP. Hồ Chí Minh	107682047	1066627176.0
+2265	đường Xô Viết Nghệ Tĩnh, Ung Văn Khiêm, Phường 25, Quận Bình Thạnh	108099089	1067126015.0
+2266	Sát phố Thanh Bình	209809371	1057786235.0
+2267	Thành phố Đà Nẵng	160544068	1082021667.0
+2268	Bình Trị Đông, Bình Trị Đông A, Bình Tân, Hồ Chí Minh, -Dự án-	107639086	1066143944.0
+2269	Bình Trị Đông, Bình Trị Đông A, Bình Tân, Hồ Chí Minh, -Dự án-	107639086	1066143944.0
+2270	Hoàng Mai	209836984	1058636257.0
+2271	Hà Nội	210277644	1058341598.0
+2272	Bùi Đình Tuy, Phường 12, Quận Bình Thạnh	108077661	1067028933.0
+2273	Phạm Hữu Lầu, Phường Phú Mỹ, Quận 7	10704812	1067345591.0
+2274	đường Lê Lợi, Phường 4, Quận Gò Vấp	108195857	1066858909.0
+2275	Đặng Vũ Hỷ, Thượng Thanh, Long Biên, Hà Nội	210734674	1058979169.0
+2276	MT Hoàng Hoa Thám, Phường 6, Quận Bình Thạnh	10807912	1066888124.0
+2277	Hẻm Dương Quảng Hàm, Phường 5, Quận Gò Vấp	108236032	1066957585.0
+2278	hẻm 3m Lê Văn Lương, Phường Tân Hưng, Quận 7	107427716	1067028168.0
+2279	đường Điện Biên Phủ, phưởng Phan Si Păng, thị xã Sa Pa	222497168	1039608091.0
+2280	271\42\ Đường Lê Văn Lương, Phường Tân Quy, Quận 7, TP HCM	107438651	1067043106.0
+2281	Thành phố Hồ Chí Minh	108230989	1066296638.0
+2282	Thành phố Hồ Chí Minh	108230989	1066296638.0
+2283	Thới An - Quận 12	108760697	1066556575.0
+2284	phố Trịnh Công Sơn, Tây Hồ	210775967	1058174665.0
+2285	Dương Đình Hội , Phước Long B	108228086	1067802545.0
+2286	Nguyễn Văn Khối	108429616	1066529357.0
+2287	Nguyễn Văn Khối	108429616	1066529357.0
+2288	108 Nguyễn Trãi, phường Phước Tân, thành phố Nha Trang	122435651	1091866227.0
+2289	Quận Gò Vấp HCM	108386779	1066652904.0
+2290	đường Hùng Vương, Ngự Bình, TP. Huế	164532819	107600689.0
+2291	Chiến Thắng Văn Quán Hà Đông	209791537	1057962032.0
+2292	Cô Giang, P.2, Q. Phú Nhuận	107962504	1066835447.0
+2293	Lạc Long Quân, Quận 11, Quận 10, ngã tư Lạc Long Quân - Âu Cơ	107740578	1066474783.0
+2294	Thanh Bình, Mỗ Lao, Hà Đông, Hà Nội,	209823818	1057780339.0
+2295	Đường Số 6, Phường Hiệp Bình Chánh, Quận Thủ Đức, TP HCM	10831018	1067284253.0
+2296	Điện Biên Phủ, Nguyễn Gia Trí, Phường 25, Quận Bình Thạnh	108009658	1067151325.0
+2297	Thành phố Hồ Chí Minh	108230989	1066296638.0
+2298	Thành phố Hồ Chí Minh	108230989	1066296638.0
+2299	đường số 10, Phường Bình An, Quận 2	107838285	1067369583.0
+2300	Long biên	210186765	105884813.0
+2301	Q12		
+2302	Nguyễn Thái Sơn, Phường 4, Quận Gò Vấp	108215252	1066844207.0
+2303	Đống Đa	210180725	1058299495.0
+2304	Nguyễn Hữu Cảnh, Phường 22, Quận Bình Thạnh	107933763	1067182627.0
+2305	Đội Cấn, Liễu Giai,Ba Đình	210361206	1058168371.0
+2306	124 Lý Thường Kiệt, Phường Tân Lợi, Thành Phố Buôn Ma Thuột, Đak Lak	126839162	1080436201.0
+2307	False		
+2308	thạnh phú	99481665	10650538.0
+2309	Nguyễn Thượng Hiền, phường 6, quận Bình Thạnh	108083167	1066841841.0
+2310	Thành phố Hồ Chí Minh	108230989	1066296638.0
+2311	Đường Số 17, Phường Linh Chiểu, Quận Thủ Đức, TP HCM	108557715	106761472.0
+2312	Bùi Thị Xuân P3 Quận Tân Bình	107958791	1066638652.0
+2313	Bùi Thị Xuân P3 Quận Tân Bình	107958791	1066638652.0
+2314	Thành phố Hồ Chí Minh	108230989	1066296638.0
+2315	Xô Viết Nghệ Tĩnh, phường 25, Quận Bình Thạnh	108053797	1067115089.0
+2316	ngõ 144 Quan Nhân, gần Hồ, Quận Thanh Xuân, Hà Nội	210039605	1058094414.0
+2317	Bến Đồn, Hòa Lợi, Bến Cát	111155904	1066643155.0
+2318	Tam Bạc, Hồng Bàng, Hải Phòng	20857431	1066750682.0
+2319	phố Hoá An, Quận ...	109359157	1068038873.0
+2320	Đường Số 14		
+2321	Đỗ Xuân Hợp, Phước Long B, Tp. Thủ Đức , HCM	108150123	1067748598.0
+2322	Long Biên	210186765	105884813.0
+2323	Thành phố Hồ Chí Minh	108230989	1066296638.0
+2324	Thành phố Hồ Chí Minh	108230989	1066296638.0
+2325	Tô Hiệu Hà Đông	209675124	1057784606.0
+2326	Nguyễn Hữu Tiến, Tây Thạnh, Tân Phú	108100714	1066256809.0
+2327	khu tái định cư Ngọc Thuỵ, cạnh Khai Sơn City, trường Việt Pháp, gần đường Hồng Tiến	210612183	1058797598.0
+2328	Kinh doanh nhỏ, gần trường Đại Học Thăng Long	209758759	1058155935.0
+2329	03 Phạm Ngũ Lão	107707921	1066989581.0
+2330	Cầu Giấy	210362368	1057905825.0
+2331	Đường Phạm Văn Đồng, Phường Linh Đông, Quận Thủ Đức, TP HCM	108480244	1067482326.0
+2332	Xô Viết Nghệ Tĩnh, Nguyễn Cửu Vân, Phường 17, Quận Bình Thạnh	107947939	1067092738.0
+2333	Dự án Thanh Long Bay, Đường 719B, Xã Tân Thành, Hàm Thuận Nam, Bình Thuận	107146167	1079567084.0
+2334	hẻm 115 Phạm Hữu Lầu, Phường Phú Mỹ, Quận 7	107035851	106734025.0
+2335	Sư Vạn Hạnh, P12, Quận 10	107727605	1066691153.0
+2336	12 Phùng Khoang, Phường Trung Văn, Quận Nam Từ Liêm, Hà Nội	209888463	1057908493.0
+2337	Long Biên	210186765	105884813.0
+2338	Long Biên	210186765	105884813.0
+2339	Ngô Chí Quốc		
+2340	602 Kinh Dương Vương, Phường An Lạc A, Quận Bình Tân, TPHCM	107462719	1066248304.0
+2341	Thành phố Hồ Chí Minh	108230989	1066296638.0
+2342	Lâm Văn Bền	107451624	1067158611.0
+2343	Thành phố Hồ Chí Minh	108230989	1066296638.0
+2344	Đường Số 21	108410084	1066507007.0
+2345	Quận Gò Vấp HCM	108386779	1066652904.0
+2346	Phùng Khoang Nam Từ Liêm Hà Nội	20988178	1057931515.0
+2347	Hoàng Công Bằng		
+2348	Ngõ 10/45		
+2349	Võ Thị Nhờ, Phường Tân Thuận Đông, Quận 7	107450259	1067309836.0
+2350	Vũ Tùng, Phường 2,quận Bình Thạnh	108013938	1066999764.0
+2351	Vũ Tùng, Phường 2,quận Bình Thạnh	108013938	1066999764.0
+2352	Thành Phố Hồ Chí Minh	108230989	1066296638.0
+2353	Nguyễn Trãi, Thanh Xuân, Hà Nội	209935474	1058062968.0
+2354	Đỗ Xuân Hơp, Phước Long B , Tp. Thủ Đức	108150123	1067748598.0
+2355	Sài Đồng, Long Biên	210348453	1059127108.0
+2356	Cầu Giấy	210362368	1057905825.0
+2357	Tân Hiệp - Hóc Môn	109084099	1065912473.0
+2358	Tân Chánh Hiệp - Quận 12 - Tp Hồ Chí Minh	10866797	1066261831.0
+2359	Đỗ Xuân Hơp, Phước Long B , Tp. Thủ Đức	108150123	1067748598.0
+2360	Bát Tràng, Gia lâm, Hà Nội	209811155	1059141793.0
+2361	Nguyễn Chính	209808104	10584778.0
+2362	Mỗ Lao Hà Đông	209833749	1057835348.0
+2363	đường Bạch Đằng, Lê Quang Định, Phường 24, Quận Bình Thạnh	108026896	1066985516.0
+2364	Thiên Lôi, Vĩnh Niệm, Lê Chân, Hải Phòng	208297633	1066791092.0
+2365	đường Mỹ Phước Tân Vạn, Mỹ Phước 3, Bình Dương	111192477	1066414958.0
+2366	đường số 1, khu Tên Lửa	107478829	1066118492.0
+2367	hẻm 1, đường Tên Lửa	107478829	1066118492.0
+2368	đường số 1A, gần vành đai trong	10748468	1066152509.0
+2369	Ngọc Khánh, Ba Đình	210301393	1058099499.0
+2370	3a tân tiên		
+2371	Tân Quý, Tân Phú	10794826	1066217623.0
+2372	Đường Phúc Lợi, Phường Phúc Lợi, Quận Long Biên, Hà Nội	210454619	1059241883.0
+2373	ngõ Chiến Thắng, Khâm Thiên	210190445	1058310736.0
+2374	Đỗ Xuân Hơp		
+2375	99 Vũ Tùng	10802425	106701654.0
+2376	Từ Liêm	210034608	1057703287.0
+2377	Đỗ Xuân Hơp, Phước Long B	108150123	1067748598.0
+2378	Đường Số, Phường Tân Quy, Quận 7	107415526	1067038493.0
+2379	Thành phố Hồ Chí Minh	108230989	1066296638.0
+2380	Đường Phan Đăng Lưu, Phường 7, Quận Phú Nhuận	108035449	106688791.0
+2381	Phan Xích Long, Phường 3, Quận Phú Nhuận	108008693	1066838752.0
+2382	Phan Xích Long, Phường 3, Quận Phú Nhuận	108008693	1066838752.0
+2383	Lạc Long Quân, Tây Hồ	210641803	105809786.0
+2384	Lê Văn Thọ	108455819	1066570168.0
+2385	Quận Gò Vấp HCM	108386779	1066652904.0
+2386	HIỆP THÀNH - q12	108825023	1066379724.0
+2387	đường Phạm Văn Đồng, Phường ...	108350664	1067294299.0
+2388	BÀ ĐIỂM HOCMON	108411638	1065967126.0
+2389	BÀ ĐIỂM HOCMON TP. HCM	108411638	1065967126.0
+2390	Tân Mai, phường Tân Mai, quận Hoàng Mai	20981997	1058498515.0
+2391	Nguyễn Sơn, Phú Thọ Hòa, Tân Phú	107828917	1066263278.0
+2392	Nguyễn Sơn, Phú Thọ Hòa, Tân Phú	107828917	1066263278.0
+2393	Đường số 6, Dãy E, An Cửu City	164568324	1076108801.0
+2394	Biên Hòa	109574128	1068426871.0
+2395	Trạm, Long Biên, Long Biên, Hà Nội, -Dự án-	210548635	1058884966.0
+2396	Đặng Văn Bi, Trường Thọ, Thủ Đức	108439717	106762358.0
+2397	Hàng Kênh, Lê Chân, Hải Phòng	20847298	106685873.0
+2398	Tân Trang, Tân Bình	107788241	1066546126.0
+2399	Long Biên, Hà Nội	210186765	105884813.0
+2400	thanh phú	99481665	10650538.0
+2401	Xô Viết Nghệ Tĩnh, Vòng xòy Hàng Xanh, Phường 21, Quận Bình Thạnh	108009239	1067099166.0
+2402	Ôn725, Quận 3 và Quận 10	107843695	1066844089.0
+2403	Hẻm...		
+2404	chợ An Nhơn, Phan Văn Trị, Lê Đức Thọ, Nguyễn Oanh, Gò Vấp	108413645	1066773133.0
+2405	phường An Nhơn, Quận Gò Vấp	108366212	1066784076.0
+2406	Vị trí Lotte Mart, Phan Văn Trị, Thống Nhất, Quang Trung	108382646	1066717627.0
+2407	Quận 2, Hồ Chí Minh	107935216	1067308195.0
+2408	đường Đất Mới, Phường Bình Trị Đông, Quận Bình Tân	107668701	1066096908.0
+2409	Huỳnh Văn Bánh, P.12, Q. Phú Nhuận	107917429	1066748587.0
+2410	HOCMON	108863934	1065922924.0
+2411	Nguyễn Trãi, Hà Đông, HN	209699557	1057798664.0
+2412	Q12		
+2413	Đường Số 30, Phường Linh Đông, Quận Thủ Đức, TP HCM	10843193	106742101.0
+2414	đường Mã Lò, Phường Bình Trị Đông, Quận Bình Tân	107728591	1066018083.0
+2415	Đường 32	109539524	1065073036.0
+2416	Đường Số 23, Phường Hiệp Bình Chánh, Quận Thủ Đức, TP HCM	108282919	106726749.0
+2417	đường Bạch Đằng, Phường 2, Quận Tân Bình	10814472	1066711705.0
+2418	Nguyễn Đình Chiểu, Phường Đa Kao, Quận 1	107873633	1066984882.0
+2419	người Trãi, Phường Bến Thành, Quận 1	107735994	1066944173.0
+2420	đường Nguyễn Cửu Phú, Phú Tân	107266371	106581338.0
+2421	Ngã Sáu Phù Đổng, mặt tiền Nguyễn Trãi, Phường Bến Thành, Quận 1	107715159	1066933142.0
+2422	Bình Thạnh, Hồ Chí Minh	108105831	1067091422.0
+2423	Hàm Nghi, Phường Bến Nghé, Quận 1	107708619	1067021687.0
+2424	Cao Thắng, Phường 2, Quận 3	107692168	1066830474.0
+2425	mặt tiền Cao Thắng, Phường 3, Quận 3	107712908	1066806802.0
+2426	Thành phố Hồ Chí Minh	108230989	1066296638.0
+2427	Đường Lê Hồng Phong phường 2 quận 10	107624084	1066763705.0
+2428	Lê Văn Duyệt phường 3 quận Bình Thạnh	107985239	1066952555.0
+2429	Bùi Quang Là	108351606	1066394244.0
+2430	Hương lộ 2, Bình Trị Đông A, Bình Tân	107664092	1066003259.0
+2431	Bà Triệu, Siêu Thị Go	210172845	1058492584.0
+2432	Lê Trọng Tấn, Thanh Xuân	20993927	1058314531.0
+2433	Thanh Xuân		
+2434	Lê Văn Duyệt phường 3 Bình Thạnh	107985239	1066952555.0
+2435	Biên Hòa	109574128	1068426871.0
+2436	đường Hương Lộ 2, Quận Bình Tân	107670756	1066075906.0
+2437	Hẻm xe hơi thông đường Lê Đình Cẩn, Quận Bình Tân	107595799	1065990101.0
+2438	Hẻm xe hơi thông đường Miếu Gò Xoài, P. Bình Trị Đông, Q. Bình Tân, TP. Hồ Chí Minh	10779745	1066073872.0
+2439	 Âu Dương Lân, Phường 3, Quận 8	107441825	1066839545.0
+2440	đường Mã Lò, Phường Bình Trị Đông, Quận Bình Tân, Thành phố Hồ Chí Minh	107728591	1066018083.0
+2441	Hà Nội	210277644	1058341598.0
+2442	Hẻm xe hơi, đường Hương Lộ 2, Phường Bình Trị Đông, Quận Bình Tân, TP. HCM	107699131	1066119636.0
+2443	Sở Dầu, Hồng Bàng, Hải Phòng	208683599	1066556575.0
+2444	Tôn Thất Tùng, Khương Thượng, Đống Đa, Hà Nội, -Dự án-	210023752	1058297135.0
+2445	tân phước khánh 32	110028099	1067385562.0
+2446	Hoàng Hoa Thám, P.13, Tân Bình	108027732	1066475377.0
+2447	Mễ Trì, Mễ Trì, Nam Từ Liêm, Hà Nội, -Dự án-	210116194	1057766156.0
+2448	Dương Đình Nghệ, P Yên Hòa, Q Cầu Giấy	210215526	1057878867.0
+2449	Thành phố Hồ Chí Minh	108230989	1066296638.0
+2450	Hà Nội	210277644	1058341598.0
+2451	Đường Số 21, Phường Hiệp Bình Phước, Quận Thủ Đức, TP HCM	108651528	1067201638.0
+2452	Ngân - thổ cư Đống Đa hà nội	210180725	1058299495.0
+2453	Thượng Lý, Hồng Bàng, Hải Phòng	20865888	1066659746.0
+2454	Thượng Lý, Hồng Bàng, Hải Phòng	20865888	1066659746.0
+2455	đường Hương Lộ 2, Phường Bình Trị Đông, Quận Bình Tân, Thành phố Hồ Chí Minh	107699131	1066119636.0
+2456	đường Phan Anh, Phường Bình Trị Đông, Quận Bình Tân	107673378	1066230141.0
+2457	Nguyễn Huy Lượng F.14 Bình Thạnh	108056291	1066963039.0
+2458	Lò Sũ, Lý Thái Tổ, Quận Hoàn Kiếm	210314061	105855028.0
+2459	hẻm xe hơi đường Gò Xoài, Phường Bình Trị Đông, Quận Bình Tân, TP. Hồ Chí Minh	10783504	1066036111.0
+2460	Nơ Trang Long, Phường 12, Quận Bình Thạnh	108127085	10669659.0
+2461	Thành phố Hồ Chí Minh	108230989	1066296638.0
+2462	Lê Đức Thọ, Phường 16, Quận Gò Vấp	108489499	1066663471.0
+2463	Nguyễn Thượng Hiền, Phường 5, Quận Bình Thạnh	108122833	1066852567.0
+2464	phường Xuân Phú, Tp.Huế	164676168	1076057621.0
+2465	Đường Bà Lài, Quận 6	107397659	1066353702.0
+2466	Đại học		
+2467	Lữ Gia, Phường 9, Đà Lạt	119533112	108460313.0
+2468	Nam Hồ, Phường 11, Đà Lạt	119486877	1084789512.0
+2469	Trần Cao Vân, Phường 11, Quận Phú Nhuận	107926802	1066769156.0
+2470	Nơ Trang Long	108146132	1066978649.0
+2471	PHƯỜNG THANH SƠN , KHU K1- TP PHAN RANG THÁP CHÀM NINH THUẬN	115700289	1089953553.0
+2472	Cách Mạng Tháng 8, Quận 3	107794704	106678543.0
+2473	Đường số 34, Phường Bình Trưng Tây, Quận 2	107860477	106757996.0
+2474	đường Nơ Trang Long, Phường 11, Quận Bình Thạnh	108136383	1066973519.0
+2475	Khuyến Lương, Trần Phú, Hoàng Mai, Hà Nội	209722357	1058845411.0
+2476	Nguyễn Tư Giản, Phường 12, Quận Gò Vấp	108326748	1066385553.0
+2477	Quang Trung		
+2478	Hồ Học Lãm Bình Tân	107226725	1066107174.0
+2479	Quang Trung		
+2480	Quận Hà Đông, Hà Nội	20955835	1057563658.0
+2481	Nguyễn Kiệm, phường 3, Gò Gấp	108182176	1066787562.0
+2482	Phùng Hưng, Phúc La, Hà Đông	209684049	105786636.0
+2483	Đường Lương Thế Vinh, An Hải Đông, Sơn Trà, Đà Nẵng	160634013	1082362876.0
+2484	long biên	210186765	105884813.0
+2485	đường Phạm Văn Chiêu, Gò Vấp	108514505	1066561018.0
+2486	Thành phố Hồ Chí Minh	108230989	1066296638.0
+2487	Ngân - thổ cư Đống Đa hà nội	210180725	1058299495.0
+2488	123		
+2489	đường Mã Lò, Phường Bình Trị Đông A, Quận Bình Tân	107683072	1066031065.0
+2490	đường Lạc Long Quân, Âu Cơ, Ni Sư Huỳnh Liên, Phường 10, Quận Tân Bình	107836014	1066474124.0
+2491	Chu Văn An		
+2492	Lê Văn Sỹ	107927597	1066703291.0
+2493	đường 12 , Phước Bình , TP. Thủ Đức	10812176	106771967.0
+2494	Lệ Mật Long Biên	210533486	1059009639.0
+2495	Ngân - thổ cư Đống Đa hà nội	210180725	1058299495.0
+2496	Ngay Lê Trọng Tấn, Nguyễn Thị Tú	108162176	106600942.0
+2497	Tam Khương, Quận Đống Đa	210044389	1058279488.0
+2498	Lê Văn Duyệt, Phan Đăng Lưu, Bạch Đằng, Vũ Tùng, Bùi Hữu Nghĩa, Phường 1, Quận Bình Thạnh	108009771	1066991996.0
+2499	Thành phố Hồ Chí Minh	108230989	1066296638.0
+2500	Trường Chinh, P.14, Tân Bình	107992523	1066414665.0
+2501	tân phước khánh 32	110028099	1067385562.0
+2502	Lê Hoàn, Phường Hoà Phú, Thủ Dầu Một, Bình Dương	110777671	1066839398.0
+2503	Sở Dầu, Hồng Bàng, Hải Phòng	208683599	1066556575.0
+2504	Tân Chánh Hiệp, Quận 12	10866797	1066261831.0
+2505	Lương Khánh Thiện, Ngô Quyền, Hải Phòng	208572591	106687347.0
+2506	Ngõ Tân Triều		
+2507	Đường Điện Biên Phủ, Thị trấn Sapa	223407143	1038407273.0
+2508	Thành phố Hồ Chí Minh	108230989	1066296638.0
+2509	Thành phố Hồ Chí Minh	108230989	1066296638.0
+2510	đường Đống Đa	160779964	1082168608.0
+2511	Đường số 11 bình thọ thủ đức	108496434	1067629528.0
+2512	Lê Văn Quới, Bình Trị Đông, Bình Tân	107754751	1066150563.0
+2513	Phố Duy Tân, Phường Dịch Vọng, Quận Cầu Giấy, TP HÀ Nội	210309047	1057839531.0
+2514	Lê Đại Hành, Phường 3, Đà Lạt	119381877	1084377426.0
+2515	Đường Lê Hữu Trác, An Hải Đông, Sơn Trà, Đà Nẵng	160583916	1082401598.0
+2516	Lê Quang Định, Phường 5, Quận Bình Thạnh	108134766	1066898328.0
+2517	Đinh Tiên Hoàng, Phường 1, Quận Bình Thạnh	107947047	1066960934.0
+2518	Đinh Tiên hoàng, Phường 1, Quận Bình Thạnh	107947047	1066960934.0
+2519	Bùi Thị Xuân phường Tân Bình dĩ an Bình Dương	109389715	106767191.0
+2520	Kiệt Trần Thanh Mại, Phường An Đông	164519393	1076078386.0
+2521	đường Bùi Hữu Nghĩa, Phường Hóa An	109428557	1068019348.0
+2522	đường Bùi Hữu Nghĩa, Phường Hóa An	109428557	1068019348.0
+2523	Trương Định, Phường 6, Quận 3	107774029	1066901145.0
+2524	Bửu Hòa	10926897	1068160971.0
+2525	đường Lê Trọng Tấn, Quận Thanh Xuân	20993927	1058314531.0
+2526	Đường Phan Văn Trị, Phường 14, Quận Bình Thạnh, TP HCM	10809109	1066965536.0
+2527	Long Biên	210186765	105884813.0
+2528	đường Xuân Thủy, ngõ 85	21036503	1057854012.0
+2529	đường Cầu Giấy, Quận Cầu Giấy	210334093	1057977605.0
+2530	đường Cầu Giấy, Quận Cầu Giấy	210334093	1057977605.0
+2531	ngõ 42, đường Yên Hòa, phố Cầu Giấy, Quận Thủ Đức	210218044	105790872.0
+2532	ngõ 230 đường Định Công Thượng quận Hoàng Mai Hà Nội	209836913	1058218269.0
+2533	ngõ 146 đường Hoàng Mai quận Hoàng Mai Hà Nội	2099227	1058526119.0
+2534	Phạm Văn Đồng, Phường 11, Quận Bình Thạnh	108204226	1066942397.0
+2535	Thảo Điền, Quận 2	107935216	1067308195.0
+2536	Trương Công Định Hà Đông	209738946	1057764971.0
+2537	Lạc Long Quân, Tây Hồ	210641803	105809786.0
+2538	đường ô tô, Phường Hoá An	160482589	1081754804.0
+2539	Ngõ 211		
+2540	đường ô tô, Phường Hoá An	160482589	1081754804.0
+2541	đường Đào Tấn, Quận Ba Đình	210320524	1058107846.0
+2542	đường Đỗ Xuân Hợp, HXH, Phường ...	108141275	1067751935.0
+2543	Thành phố Hồ Chí Minh	108230989	1066296638.0
+2544	Long Biên	210186765	105884813.0
+2545	5/122/27 Nơ Trang Long phường 7 quận Bình Thạnh	108076745	1066937356.0
+2546	Số 6 đường số 4 phường bình thọ tp thủ đức	10846791	106764878.0
+2547	đường Trung Liệt, Đống Đa, Hà Nội	210116971	1058208098.0
+2548	 Quốc Lộ 13, Hiệp Bình Chánh, Thủ Đức	108400858	1067162539.0
+2549	Đinh Tiên Hoàng, Phường 3, Quận Bình Thạnh	107947047	1066960934.0
+2550	Đinh Tiên Hoàng, Phường 3, Quận Bình Thạnh	107947047	1066960934.0
+2551	Kinh Dương Vương, Phường 12, Quận 6	107497134	106628909.0
+2552	Hương Lộ 2, Bình Tân, TP.HCM	107670756	1066075906.0
+2553	Khu B, Phú Mỹ Thượng		
+2554	THẠNH PHÚ	99481665	10650538.0
+2555	Phường Tân Tạo A, Quận Bình Tân, TP. HCM	107360575	1065906249.0
+2556	phố Vũ Tông Phan, quận Thanh Xuân	209913544	1058139121.0
+2557	bửu hòa	10926897	1068160971.0
+2558	Hà Nội	210277644	1058341598.0
+2559	Thành phố Hồ Chí Minh	108230989	1066296638.0
+2560	Thành phố Hồ Chí Minh	108230989	1066296638.0
+2561	tân phước khánh 32	110028099	1067385562.0
+2562	Trung tâm Hậu Giang, Quận 6	107483849	1066365682.0
+2563	đường Vọng, phố Trường Chinh, phường Giải Phóng	209984136	1058422612.0
+2564	Nguyễn Hữu Cảnh, Phường 22, Quận Bình Thạnh	107933763	1067182627.0
+2565	Tân Kỳ Tân Quý, Bình Hưng Hòa A, Bình Tân	107916685	1066052572.0
+2566	Ngọc Lâm	210448412	1058686635.0
+2567	274 Nguyen Tri Phuong, P 7, TP My Tho	10363928	106366282.0
+2568	Mỹ Đình, Nam Từ Liêm	210256221	1057677817.0
+2569	Ngân - thổ cư Đống Đa hà nội	210180725	1058299495.0
+2570	Thường Thanh, Long Biên	210655013	1058883137.0
+2571	Ngõ trước nhà rộng 3m, gần Ngã Tư Sở, Quận Đống Đa, Hà Nội	21014938	1058154333.0
+2572	Chùa Bộc, Quận Đống Đa	210078608	1058276966.0
+2573	đường Phạm Văn Đồng, Phường 11, Quận Bình Thạnh	108204226	1066942397.0
+2574	Đặng Vũ Hỷ, Long Biên	210728223	1058986692.0
+2575	Số 24A Lê Văn Quới, Phường Bình Trị Đông, Quận Bình Tân, Thành phố Hồ Chí Minh	107740738	1066203041.0
+2576	hẻm xe hơi thông đường Liên Khu 8-9, Phường Bình Trị Đông, Quận Bình Tân, TP. Hồ Chí Minh	107835323	1066069047.0
+2577	 Lê cơ, Quận Bình Tân	107271648	106612763.0
+2578	Hẻm xe hơi, đường Gò Xoài, Phường Bình Trị Đông, Quận Bình Tân, TP. HCM	10783504	1066036111.0
+2579	Hẻm xe hơi, đường Lô Tư, Phường Bình Trị Đông, Quận Bình Tân	107872299	1066013292.0
+2580	đường Đất Mới, Phường Bình Trị Đông, Quận Bình Tân, TP. HCM	107668701	1066096908.0
+2581	Thành phố Hồ Chí Minh	108230989	1066296638.0
+2582	Hẻm xe hơi thông đường Đất Mới, Quận Bình Tân	107668701	1066096908.0
+2583	Ngân - thổ cư Đống Đa hà nội	210180725	1058299495.0
+2584	Ngân - thổ cư Đống Đa hà nội	210180725	1058299495.0
+2585	Thành phố Hồ Chí Minh	108230989	1066296638.0
+2586	Thích Quảng Đức, phường 5, Phú Nhuận	108084767	1066815915.0
+2587	Phạm Văn Chiêu , Phường 14, Gò Vấp	108484293	106648556.0
+2588	Ðường số 9, Bình Chiểu, Thủ Đức	10875531	106743485.0
+2589	Xô Viết Nghệ Tĩnh, P. 26, Q. Bình Thạnh	108110484	1067137928.0
+2590	Phường 11, Quận Bình Thạnh	108180045	1066954544.0
+2591	Hương Lộ 2, Phường Bình Tân	107670756	1066075906.0
+2592	Hẻm nhựa 8m, đường Hương Lộ 2, Phường Bình Tân	107677156	1065945826.0
+2593	Thành phố Hồ Chí Minh	108230989	1066296638.0
+2594	Quận Thanh Xuân, hồ Hạ Đình	209882844	1058099918.0
+2595	Thành phố Hồ Chí Minh	108230989	1066296638.0
+2596	Bình Quới	108231803	1067316483.0
+2597	đường số 5	108062708	1066034346.0
+2598	Quang Trung		
+2599	Lê Tấn Bê	107190774	106605581.0
+2600	Thành phố Hồ Chí Minh	108230989	1066296638.0
+2601	Ngân - thổ cư Đống Đa hà nội	210180725	1058299495.0
+2602	Tài Lộc, An Ninh, Tân Phú	124238748	1090096562.0
+2603	Thành phố Hồ Chí Minh	108230989	1066296638.0
+2604	thống nhất	10994359	1071547158.0
+2605	Long biên	210186765	105884813.0
+2606	Đường 17m khu tái định cư 7.2ha Trâu Quỳ - Gia Lâm – Hà Nội.	210078386	1059376756.0
+2607	Quận Hà Đông, Hà Nội	20955835	1057563658.0
+2608	Lê Đình Cẩn, Tân Tạo, Bình Tân	107595829	106599273.0
+2609	đường Nhựa, Hiệp Tân, Quận Tân Phú	107693168	1066225272.0
+2610	Nguyễn Văn Đậu	108102194	1066898971.0
+2611	Thành phố Hồ Chí Minh	108230989	1066296638.0
+2612	Kiệt Lịch Đợi, Phường Đúc, Huế	164548263	1075778847.0
+2613	Dương Quảng Hàm, Phường 5, Quận Gò Vấp	108236032	1066957585.0
+2614	ôtô 6m, Trung Tâm Phường 3, Quận Bình Thạnh	107990535	1066953093.0
+2615	đường Đỗ Xuân Hợp, Dương Đình Hội, Quận 9	108167155	1067742519.0
+2616	Thành phố Hồ Chí Minh	108230989	1066296638.0
+2617	Lê Quang Định, Bình Thạnh	108107331	1066921173.0
+2618	Lý Thường Kiệt Hà Đông	2096532	1057695044.0
+2619	Thành phố Hồ Chí Minh	108230989	1066296638.0
+2620	Thế Lữ, Hạ Lý, Hồng Bàng, Hải Phòng	208581226	1066745848.0
+2621	Huỳnh Thiện Lộc	107798702	1066380439.0
+2622	Dầu Lửa, Sở Dầu, Hồng Bàng, Hải Phòng	208713079	1066475059.0
+2623	Dầu Lửa, Sở Dầu, Hồng Bàng, Hải Phòng	208713079	1066475059.0
+2624	Bùi Đình Tuý, Bình Thạnh	108078203	1067034476.0
+2625	hẻm 4m Nguyễn Thanh Tuyền, Phường 2, Quận Tân Bình	7985-10-01 00:00:00	1066612549.0
+2626	An Dương Vương, phường Đông Ngạc, quận Bắc Từ Liêm, Hà Nội	21090308	1057910665.0
+2627	đường Xuân Đỉnh, Quận	112044197	1073585676.0
+2628	Tên Lửa		
+2629	đường Nguyễn Văn Trỗi, Phường 10, Quận Phú Nhuận	107978689	1066715693.0
+2630	Hà Nội	210277644	1058341598.0
+2631	24 Lương Văn Can	210333336	105850325.0
+2632	Đường Huỳnh Thúc Kháng, Hải Châu, Đà Nẵng	160592317	1082181951.0
+2633	Thống Nhất, Phường 11, Quận Gò Vấp	108394408	1066653068.0
+2634	Lại Thế Kiệt, Phạm Văn Đồng	210626498	105784193.0
+2635	Ni Sư Huỳnh Liên, P.10, Tân Bình	107836014	1066474124.0
+2636	đường Lê Văn Quới, Phường Bình Trị Đông, Quận Bình Tân, Thành phố Hồ Chí Minh	107759904	1066134613.0
+2637	Nguyễn văn thương		
+2638	tân phong	107318388	106702825.0
+2639	thị trấn củ chi, củ chi	10972192	1064965434.0
+2640	Phường1, Phan Đình Phùng	107952796	1066826062.0
+2641	đường Mai Văn Ngọc, Phường 10, Quận Phú Nhuận	107936418	1066730858.0
+2642	Đường Số 38, Phường Hiệp Bình Chánh, Quận Thủ Đức, TP HCM	108424872	1067344933.0
+2643	Đường Số 11	108448962	1066784184.0
+2644	Lâm Văn Bền, Quận 7	107451624	1067158611.0
+2645	Tiền Giang, Quận Tân Bình	108082688	1066655128.0
+2646	Tỉnh Lộ 10	107787764	1065356713.0
+2647	Thành phố Hồ Chí Minh	108230989	1066296638.0
+2648	ngô gia Tự	127993205	108449826.0
+2649	Lê Văn Chí	108586267	106777617.0
+2650	KQH Ngô Quyền, phường 6, Đà Lạt	11954887	1084291013.0
+2651	Thượng Phúc, Thanh Trì, Hà Nội	209278611	1057960081.0
+2652	Võ Duy Ninh, Phường 22, Quận Bình Thạnh, Tphcm	107919111	1067159243.0
+2653	Đường KDC Nam Long, An Lac, Quận Bình Tân	107220243	1066085354.0
+2654	Lê Đình Cẩn, Tân Tạo, Bình Tân	107595829	106599273.0
+2655	Thành phố Hồ Chí Minh	108230989	1066296638.0
+2656	đường Trần Phú, khu chia lô danh cho cán bộ giảng viên trường Đại học Kiến trúc Hà Nội	209799246	1057873752.0
+2657	đường Cách Mạng Tháng 8, Phường Hòa Bình, Thành phố Biên Hòa	109504535	1068123769.0
+2658	Cầu Giấy, Trần Quốc Hoàn, Quận	210416528	1057859318.0
+2659	đường DT 768, Xã Thạnh Phú	110100055	1068304565.0
+2660	Lê Đình Cẩn, Tân Tạo, Bình Tân	107595829	106599273.0
+2661	Trung Tâm Phường 17, Phú Nhuận	107935032	106682925.0
+2662	Nguyễn Thái Sơn, Phường 5, Quận Gò Vấp	108256696	106688613.0
+2663	Nô Trang Long, Phường 13, Quận Bình Thạnh	108195166	1067026565.0
+2664	Hẻm xe Tải, Tân Hương, Quận Tân Phú	107900436	1066222343.0
+2665	LÊ ĐÌNH CẨN	107595799	1065990101.0
+2666	Mặt tiền đường, Quận 6	107480929	1066352362.0
+2667	Hồng Tiến, Long Biên	210391667	1058754569.0
+2668	DƯƠNG NỘI	20979868	1057439194.0
+2669	Phan Xích Long, Phường 7, Quận Phú Nhuận	107983097	1066884708.0
+2670	Thảo Điền, Quận 2	107935216	1067308195.0
+2671	Hẻm Xe Tải, Tân Hương, Quận Tân Phú	107900436	1066222343.0
+2672	Bán nhà đẹp Hoàng Quốc Việt, ngõ ô tô đỗ cửa, gần phố 0569766799	210460525	105793266.0
+2673	Khu Nam Hùng Vương, An Lạc	107260997	1066127505.0
+2674	Hẻm 10m, An Dương Vương, An Lạc	107354123	1066214139.0
+2675	Khu phố Kim Giang, Hoàng Mai, Hà Nội	209830784	1058123511.0
+2676	Đình Thôn Mỹ Đình	210209503	1057769317.0
+2677	Khu vực Hoàng Mai	209836984	1058636257.0
+2678	ĐƯỜNG PHÚ THUẬN	107333937	1067434307.0
+2679	Hà Đông	20955835	1057563658.0
+2680	đường Lê Hồng Phong, Hà Đông	209672177	1057758553.0
+2681	12		
+2682	Thạnh Mỹ Lợi	107583621	1067647475.0
+2683	Luỹ Bán Bích	107769934	1066343345.0
+2684	Luỹ Bán Bích	107769934	1066343345.0
+2685	Đường tự do, Quang trung		
+2686	Quang Trung Hà Đông	209652675	1057681278.0
+2687	Miếu Bình Đông, Bình Hưng Hòa A,, Bình Tân	107797977	1066174302.0
+2688	đường Lê Đức Thọ, Phường F6, Quận Gò Vấp	10848289	1066675573.0
+2689	Nguyễn Xí F13, Phường Bình Thạnh, Quận Bình Thạnh	108171055	1067060228.0
+2690	Từ Liêm	210034608	1057703287.0
+2691	Số 1 đường số 1 bình thọ thủ đức	108470999	1067640832.0
+2692	Số 1 đường số 1 bình thọ thủ đức	108470999	1067640832.0
+2693	Lê Văn Quới, Bình Trị Đông, Bình Tân	107754751	1066150563.0
+2694	Huỳnh Khương An, Phường 5, Gò Vấp	108234812	1066890354.0
+2695	Hẻm xe hơi thông đường Mã Lò, Bình Trị Đông, Bình Tân, TP. HCM	107728591	1066018083.0
+2696	Ngân - thổ cư Đống Đa hà nội	210180725	1058299495.0
+2697	hẻm xe hơi thông đường Mã Lò, Phường Bình Trị Đông, Quận Bình Tân, TP. Thành phố Hồ Chí Minh	107728591	1066018083.0
+2698	Phạm Văn Đồng, phường 13, Quận Bình Thạnh	108233486	1067042745.0
+2699	phương 13, Quận Bình Thạnh	108256869	1067042991.0
+2700	hẻm xe hơi, đường Hương Lộ 2, Phường Bình Trị Đông, Quận Bình Tân, TP. Hồ Chí Minh	107699131	1066119636.0
+2701	 đường số, An Lạc, Bình Tân	107320791	1066158462.0
+2702	ngô gia tự Long Biên	210656791	1058980147.0
+2703	số 1, đường ..., Phường ..., Quận Phú Nhuận	107991944	1066802639.0
+2704	Đường Linh Trung, Phường Linh Trung, Quận Thủ Đức, TP HCM	108606664	1067726779.0
+2705	Đường Linh Trung, Phường Linh Trung, Quận Thủ Đức, TP HCM	108606664	1067726779.0
+2706	tan chánh hiệp	10866797	1066261831.0
+2707	Số 18 ngách 3/29 Cù Chính Lan, Khương Mai, Thanh Xuân	210003337	1058238124.0
+2708	tan thới hiệp	108603672	1066438673.0
+2709	Hẻm Thạch Lam, Quận Tân Phú	107780407	1066274906.0
+2710	Thành phố Hồ Chí Minh	108230989	1066296638.0
+2711	Ðặng Huy Trứ, Phường Trường An, Thành phố Huế	164459782	1075862735.0
+2712	đường Phạm Văn Chiêu, Phường 14, Quận Gò Vấp	108484293	106648556.0
+2713	Văn Quán, Hà Đông	209796446	1057923394.0
+2714	Chung tân văn quán, gần mầm non hoa xen, cấp 1 Nguyễn Du, cấp 2 Văn Quán	209768291	1057865452.0
+2715	Thành phố Hồ Chí Minh	108230989	1066296638.0
+2716	Trần Đăng Ninh Hà Đông	209651059	10576968.0
+2717	Tô Hiếu, Quận Tân Phú	107691501	1066269722.0
+2718	Chế Lan Viên phường Tây Thạnh quận Tân Phú	108121189	106629257.0
+2719	Thành phố Hồ Chí Minh	108230989	1066296638.0
+2720	đường Võ Thành Trang	10791622	1066508096.0
+2721	Lê Văn Duyệt, Phường 1, Quận Bình Thạnh	107977614	1066961977.0
+2722	Đường Võ Văn Ngân, Phường Bình Thọ, Quận Thủ Đức, TP HCM	108505248	1067661253.0
+2723	Khu Địa Cầu Nam Hùng Vương, gần trường Tiểu Học An Lạc 1	107231349	1066111242.0
+2724	đường Lê Tấn Bê, An Lạc, Quận Bình Tân	107190774	106605581.0
+2725	đường Lê Tấn Bê, phường An Lạc	107190774	106605581.0
+2726	Lê Văn Thọ	108455819	1066570168.0
+2727	Đường Số 8	10855732	1067718319.0
+2728	Lê Trọng Tấn, Tây Thạnh, Tân Phú	108079431	1066201184.0
+2729	Lê Trọng Tấn, Tây Thạnh, Tân Phú	108079431	1066201184.0
+2730	Dương Văn An, Nguyễn Tuân, Phường Xuân Phú	164677717	1076039091.0
+2731	P7, Cầm Bá Thước	108027356	1066857185.0
+2732	Hà Nội	210277644	1058341598.0
+2733	Đường Liên Phường, Phường Phú Hữu, Q9	108048107	106792446.0
+2734	Đường Liên Phường, Phường Phú Hữu, Q9	108048107	106792446.0
+2735	Hà Nội	210277644	1058341598.0
+2736	Kinh Dương Vương, An Lạc, Bình Tân	10735655	1066134272.0
+2737	Đường 22, Phường Phước Long B, Q9	108283282	1067774739.0
+2738	đường Tân Phước Khánh 32	110028099	1067385562.0
+2739	đường Tân Phước Khánh 32	110028099	1067385562.0
+2740	Quận Gò Vấp HCM	108386779	1066652904.0
+2741	Thành phố Hồ Chí Minh	108230989	1066296638.0
+2742	Phan Bội Châu, TP. Huế	164495687	1075828658.0
+2743	Kiết 86, Lê Ngô Cát	16437125	1075692291.0
+2744	CN1, P. Sơn Kỳ, Tân Phú	108082909	1066073927.0
+2745	Lê Văn Quới, Bình Hưng Hòa A, Bình Tân	107762062	1066108004.0
+2746	đường Dương Quảng Hàm, Phường 6, Quận Gò Vấp	108275817	1066905729.0
+2747	Phan Văn Trị, Phường 11, Quận Bình Thạnh	108159197	1066952001.0
+2748	Đường số 1 bình thọ thủ đức	108470999	1067640832.0
+2749	Đường Tô Vĩnh Diện, Lộ Ô Tô	209995241	1058207911.0
+2750	Tô Vĩnh Diện,peesigned		
+2751	Trần Văn Giàu		
+2752	Thành phố Hồ Chí Minh	108230989	1066296638.0
+2753	Phố Hàng Bún, Quận Hoàn Kiếm	21027964	1058510132.0
+2754	Phan Anh, Bình Trị Đông, Bình Tân	107673378	1066230141.0
+2755	Hồ Chí Minh		
+2756	đường kinh Dương Vương, Nhà Gần Bến Xe Miền Tây	107410591	1066189535.0
+2757	đô thị xa la, Hà Đông	209619014	1057920253.0
+2758	tan chánh hiệp	10866797	1066261831.0
+2759	Ô Chợ Dừa, ĐỐng Đa	210200535	1058246266.0
+2760	ô Chợ Dừa, Đồng Đa	210200535	1058246266.0
+2761	Bán nhà phố Cầu Giấy mặt ngõ rộng gần phố, gần công viên 0569766799	210329533	1057982426.0
+2762	s Ecc Huỳnh Thị Hai, Phường Tân Chánh Hiệp	108674107	1066276534.0
+2763	Quận Đống Đa Hà Nội	210180725	1058299495.0
+2764	Biên Hòa	109574128	1068426871.0
+2765	Thành phố Hồ Chí Minh	108230989	1066296638.0
+2766	Ni Sư Huỳnh Liên Phường 10 Tân Bình	107836014	1066474124.0
+2767	mặt tiền Mai Văn Vĩnh, Phường Tân Quy, Quận 7	107415597	106713699.0
+2768	đường Yersin, Phường Phạm Ngũ Lão, Quận 1	10767113	1066974019.0
+2769	đường Trần Thanh Mại, Tân Tạo A	107530693	1065884674.0
+2770	đường Điện Biên Phủ, Phường 10, Quận 10	107693149	1066755535.0
+2771	đường Võ Văn Tần, Phường 5, Quận 3	107723829	1066864595.0
+2772	Biên Hòa	109574128	1068426871.0
+2773	đường Tỉnh Lộ 10	107787764	1065356713.0
+2774	Bình Thạnh, Hồ Chí Minh	108105831	1067091422.0
+2775	hẻm Trần Trọng Cung, Phường Tân Thuận Đông, Quận 7	107435706	106733001.0
+2776	Lê Quang Định, P.11, Q. Bình Thạnh	108107331	1066921173.0
+2777	Bình Thạnh, HCM	108105831	1067091422.0
+2778	Chợ Khâm Thiên, Đống Đa	210159144	1058378302.0
+2779	Nhà Chính chủ hẻm 3m Phú Định, P16, Q8.	107190044	1066272283.0
+2780	Phan Văn Trị - Gò Vấp	108288265	1066836026.0
+2781	Phan Văn Trị		
+2782	Đỗ Xuân Hợp, Phước Long B, Tp. Thủ Đức , HCM	108150123	1067748598.0
+2783	Ao Sen Hà Đông	209824402	1057879358.0
+2784	địa chỉ Ao Sen, khu vực kinh doanh buôn bán sầm uất, vài bước ra phố Trần Phú, thông sang Làng Việt Kiều Châu u.	209820951	1057895069.0
+2785	Nguyễn Thị Minh Khai, Phường 2, Quận 3	107673057	1066834211.0
+2786	Đường Văn Phú, Phường Phú La, Quận Hà Đông, Hà Nội	209619409	1057685991.0
+2787	Khu Đô Thị Văn Phú, Hà Đông	209586775	1057688614.0
+2788	đường Lê Văn Sỹ, Phường 13, Quận Phú Nhuận	107908574	1066728765.0
+2789	Tây Ninh	113351554	1061098854.0
+2790	Bạch Đằng, Phường 15, Quận Bình Thạnh	108032549	1067047781.0
+2791	Duy Tân, P.15, Q. Phú Nhuận	107950652	106679608.0
+2792	đường Nguyễn Văn Trỗi	107958681	1066750014.0
+2793	Việt Hưng, Việt Hưng, Long Biên, Hà Nội, -Dự án-	210526345	1058996408.0
+2794	phố Việt Hưng	210526345	1058996408.0
+2795	Ngõ 2, Âu Cơ, Quảng An, Tây Hồ, Hà Nội	210602638	1058338689.0
+2796	Vĩnh Viễn	96729408	1054152898.0
+2797	Vĩnh Viễn	96729408	1054152898.0
+2798	đường Đông Du, Phường Bến Nghé, Quận 1	107765436	1067050533.0
+2799	Lê Thánh Tôn, Phường Bến Thành, Quận 1	107734082	1066981201.0
+2800	đường Nguyễn Trãi, Quận 5	107545982	1066695314.0
+2801	Nguyễn Gia Trí, Quận Bình Thạnh	108062921	1067160645.0
+2802	đường Hoàng Văn Thụ, Quận Tân Bình	107963691	106657787.0
+2803	đường Kha Vạn Cân, Quận Thủ Đức	108394902	1067377281.0
+2804	Ung Văn Khiêm, Phường 25, Quận Bình Thạnh	108067689	1067193518.0
+2805	Nguyễn Thị Minh Khai, Quận 3	10774763	1066905054.0
+2806	Mặt tiền Yersin, Phường Cầu Ông Lãnh, Quận 1	10767113	1066974019.0
+2807	Phổ Quang, Quận Tân Bình	108059195	1066682118.0
+2808	đường 3/2, Quận 10	107687587	1066689151.0
+2809	Minh Khai	209959104	1058576533.0
+2810	Nguyễn Đình Chiểu, Quận 3	107774048	106689091.0
+2811	Trần Quang Khải, Quận 1	107919087	1066914821.0
+2812	Trần Hưng Đạo, Quận 5	107529065	1066710573.0
+2813	đường 2 chiều, Ngô Thời Nhiệm, Bà Huyện Thanh Quan, Quận 3	107778822	1066872279.0
+2814	phố Cát Linh, Phường Cát Linh, Quận Đống Đa, Thành phố Hà Nội	210288708	1058308938.0
+2815	Thịnh Liệt Hoàng Mai	209751142	1058554513.0
+2816	Trần Bình Trọng, Phường 2, Quận 5	107565785	1066810572.0
+2817	Huơng Lộ 2, Bình Trị Đông A, Bình Tân	107664092	1066003259.0
+2818	Ngõ Ô Tô Tải, Long Biên	210186765	105884813.0
+2819	Thành phố Hồ Chí Minh	108230989	1066296638.0
+2820	đường Nguyễn Văn Cừ, Phường Cầu Kho, Quận 1	107556587	1066857053.0
+2821	đường Nguyễn Lâm, Phường 7, Quận Bình Thạnh	108004819	1066924614.0
+2822	đường Đặng Văn Ngữ, phường 10, quận Phú Nhuận	107941151	1066692559.0
+2823	hẻm Lê Quang Định, Phường 7, Quận Bình Thạnh	10809232	1066928609.0
+2824	hẻm Lê Quang Định, Phường 7, Quận Bình Thạnh	10809232	1066928609.0
+2825	đường Phạm Ngũ lão, Quận 1	107688718	1066937594.0
+2826	đường Hoàng Sa, Phường Tân Định	107953364	1066900013.0
+2827	KDC Him Lam, Quận 7	107409665	1066976655.0
+2828	đường Phạm Văn Đồng	108350664	1067294299.0
+2829	đường Hoàng Hoa Thám, Phường 7, Quận Bình Thạnh	108063178	1066903039.0
+2830	602 Kinh Dương Vương, Phường An Lạc A, Quận Bình Tân, TPHCM	107462719	1066248304.0
+2831	Quận Gò Vấp HCM	108386779	1066652904.0
+2832	đường Trần Kế Xương, Phường 3, Quận Bình Thạnh	108022952	1066917901.0
+2833	Cư Xá Nguyễn Đình Chiểu, Phường 4, Quận Phú Nhuận	108059406	1066802819.0
+2834	đường Thi Sách, Phường Bến Nghé, Quận 1	107781229	1067048329.0
+2835	đường Phan Đăng Lưu, ngã tư Phú Nhuận, Quận Phú Nhuận	10799713	106680138.0
+2836	đường Huỳnh Văn Bánh, Phường 14, Quận Phú Nhuận	107916291	106669605.0
+2837	đường Lê Văn Sỹ, Phường 12, Quận 3	10789607	1066747189.0
+2838	đường Hoa Cúc, Phường 7, Quận Phú Nhuận	107986191	106688851.0
+2839	đường Trường Sa, Phường 2, Quận Phú Nhuận	107951443	1066875265.0
+2840	đường Cù Lao, phường 2, quận Phú Nhuận	107966502	1066879563.0
+2841	đường Cù Lao, Phường 2, Quận Phú Nhuận	107966502	1066879563.0
+2842	CMT8, Tân Bình	107858803	1066664895.0
+2843	phan chu trinh		
+2844	Đường Tô Hiến Thành, Phường 13, Quận 10	107798693	1066680731.0
+2845	Đường Đỗ Xuân Hợp, Phường Phước Long A, Q9	108284269	1067686433.0
+2846	Nguyễn Trãi, Phường 3, Quận 5	107570056	1066776971.0
+2847	Trần Phú Hà Đông	209799246	1057873752.0
+2848	KĐT Việt Hưng	210627864	1059083056.0
+2849	 Đợng Hòa Hưng, Quận 10	107789834	1066738954.0
+2850	Bùi Đình Túy, phường 12, quận Bình Thạnh	108077661	1067028933.0
+2851	đường ô tô, Quận Đống Đa	210100908	1058264782.0
+2852	Ngay chợ tân biên, biên hòa, đồng nai	109675318	1068889578.0
+2853	MT QL1A, gần ngã ba Trị An	163939865	1075711291.0
+2854	đường Yết Kiêu, Long Bình, Biên Hòa	109529632	1068752919.0
+2855	Tây Hồ	210811211	1058180306.0
+2856	Khu Tên Lửa		
+2857	đường 29 khu Tên Lửa	107557614	1066126331.0
+2858	đường 29, khu Tên Lửa	107557614	1066126331.0
+2859	Vĩnh Lộc B, Bình Chánh	107911649	1065642998.0
+2860	đường Phạm Văn Đồng	108350664	1067294299.0
+2861	Bùi Thị Xuân, Quận Tây Ninh	113351554	1061098854.0
+2862	Đường Số 10, Phường Hiệp Bình Chánh, Quận Thủ Đức, TP HCM	108405308	1067248418.0
+2863	CMT8, Phường ?, Quận Tân Bình	107858803	1066664895.0
+2864	TÂN PHONG	107318388	106702825.0
+2865	Quận 2, Hồ Chí Minh	107935216	1067308195.0
+2866	Biên Hòa	109574128	1068426871.0
+2867	đường Hoa Hồng, Quận Phú Nhuận	107965234	1066907674.0
+2868	Ðồng Khởi		
+2869	Lý Thường Kiệt		
+2870	Huơng Lộ 2, Bình Trị Đông, Bình Tân	107695049	10661276.0
+2871	đường Lê Văn Sỹ, Phường 14, Quận 3	107884861	1066767003.0
+2872	Nguyễn Văn Khối	108429616	1066529357.0
+2873	Thành phố Hồ Chí Minh	108230989	1066296638.0
+2874	Yên Phúc Phúc La Hà Đông	209703278	1057880693.0
+2875	Phố Mây, Phường Phan Si Păng, Thị xã Sa Pa, Tỉnh Lào Cai	223310468	1038342383.0
+2876	Bùi Thị Xuân P3 Quận Tân Bình	107958791	1066638652.0
+2877	so 324 An Dương Vương, Phường An Lạc, Quận Bình Tân	107372989	1066220046.0
+2878	Góc 2 mặt tiền đường lớn An Dương Vương và Đường số 1, Phường An Lạc, Quận Bình Tân.	107251764	1066131707.0
+2879	đường Đinh Tiên Hoàng, giáp Quận 1	107884855	1066995645.0
+2880	Trường Chinh, P. Tân Bình	108076158	1066348442.0
+2881	đường 1A	125354113	1091929724.0
+2882	Trường Chinh, Phường Tân Bình	115181382	1068874119.0
+2883	Văn Quán, Hà Đông	209796446	1057923394.0
+2884	đường Tên Lửa	107382359	1066152822.0
+2885	đường Tên lửa	107382359	1066152822.0
+2886	Lê Văn Quới, Bình Hưng Hòa A, Bình Tân	107762062	1066108004.0
+2887	Hà Đông Hà Nội	20955835	1057563658.0
+2888	Tân Kỳ Tân Quý, Sơn Kỳ, Tân Phú	108004911	1066220246.0
+2889	Phố Hồng Hà, Ngõ Nông	210364721	1058541925.0
+2890	đường số 3	108095396	1066039432.0
+2891	đường số 3, đối diện trường học		
+2892	Căn góc 2 mặt tiền số 12 Đường số 1 và Đường số 2, Phường An Lạc, Quận Bình Tân.	107244871	1066106415.0
+2893	đường Tên Lửa, sát đường tỉnh lộ 10	107478829	1066118492.0
+2894	na		
+2895	hẻm xe hơi, Phường 2, Quận 8	107457311	1066879557.0
+2896	154 đường Âu Dương Lân, Phường 3, Quận 8	107456162	1066830843.0
+2897	Đường số 6. Phường Linh Đông. TP.Thủ Đức	108578791	106746207.0
+2898	Hai Bà Trưng, Lê Chân, Hải Phòng	208526987	1066779598.0
+2899	Hai Bà Trưng, Lê Chân, Hải Phòng	208526987	1066779598.0
+2900	Quang Trung		
+2901	Đặng Thai Mai, Quảng An, Tây Hồ, Hà Nội	210611812	1058239311.0
+2902	đường Hoa Đào, Phường 2, Quận Phú Nhuận	107982517	1066861648.0
+2903	đường Nguyễn Văn Cừ, Phường Cầu Kho, Quận 1	107556587	1066857053.0
+2904	Đỗ Xuân Hợp, Phước Long B, Tp. Thủ Đức , HCM	108150123	1067748598.0
+2905	Trung tâm Cầu Giấy	210362368	1057905825.0
+2906	Mặt Tiền – An Sinh	209386407	1068473377.0
+2907	Siêu Khan Hiếm, Quận 7	107340344	1067215787.0
+2908	Trường Sa, Phường 13, Quận Phú Nhuận	107882542	1066704676.0
+2909	hoàng hữu nam , long thạnh mỹ , tp. Thủ Đức	108625375	1068134707.0
+2910	Quận Gò Vấp HCM	108386779	1066652904.0
+2911	Quận Gò Vấp HCM	108386779	1066652904.0
+2912	nguyễn văn cừ Long Biên	210464835	1058773208.0
+2913	nguyễn văn cừ Long Biên	210464835	1058773208.0
+2914	VẠN PHÚC		
+2915	Gò Dầu, Tân Sơn Nhì, Tân Phú	107958295	1066269265.0
+2916	Phố Vip Tây Hồ	210811211	1058180306.0
+2917	Lạc Long Quân - Xuân La - Tây Hồ - Hà Nội	210603981	1058090381.0
+2918	Biên Hòa	109574128	1068426871.0
+2919	Hồng Tiến, Bồ Đề, Long Biên	21039005	1058756334.0
+2920	Long Biên	210186765	105884813.0
+2921	tân phong	107318388	106702825.0
+2922	Hà Nội	210277644	1058341598.0
+2923	ngõ Thông Phong, Tôn Đức Thắng	21026233	1058335492.0
+2924	Phùng Khoang Nam Từ Liêm Hà Nội	20988178	1057931515.0
+2925	Hoàng Quốc Việt		
+2926	Văn Quán Hà Đông	209796446	1057923394.0
+2927	False		
+2928	đường Phan Xích Long, Phường 7, Quận Phú Nhuận	108017818	1066830914.0
+2929	Đường Số 38, Phường Hiệp Bình Chánh, Quận Thủ Đức, TP HCM	108424872	1067344933.0
+2930	hẻm nội bộ đường Phan Đăng Lưu, ngay ngã tư Phú Nhuận, kế bên Phan Xích Long	10799713	106680138.0
+2931	Lý Tự Trọng, Hồng Bàng, Hải Phòng	208629685	1066864053.0
+2932	đường Trường Sơn, Phường 15, Quận 10	107822481	1066645265.0
+2933	Trường Sa, Phường 13, Quận Phú Nhuận	107882542	1066704676.0
+2934	Minh Khai, Hồng Bàng, Hải Phòng	208636233	106681451.0
+2935	hẻm Lê Quang Định, Phường 1, Gò Vấp	10809232	1066928609.0
+2936	Lê Quang Định, Phường 1, Gò Vấp	10814795	1066895497.0
+2937	 số 7, Nguyễn Văn Cừ-Ngọc Lâm	210400966	1058661846.0
+2938	đường Nguyễn Xí, phường 26, quận Bình Thạnh	10815315	106707746.0
+2939	đường Phan Đăng Lưu, gần ngã tư Phú Nhuận, Quận Phú Nhuận	108034532	1066896934.0
+2940	đường Trần Kế Xương, phường 7, Quận Phú Nhuận	108023412	1066903706.0
+2941	đường Hồ Văn Huê, Phường 9, Quận Phú Nhuận	108030496	1066767948.0
+2942	1162/5 Trường Sa, Phường 13, Quận Phú Nhuận	107894659	1066697597.0
+2943	đường Trường Sa, Phường 14, Quận Phú Nhuận	107890806	106668137.0
+2944	đường Thi Sách, Phường Bến Nghé, Quận 1	107781229	1067048329.0
+2945	đường Trần Kế Xương, Phường 3, Quận Bình Thạnh	108022952	1066917901.0
+2946	đường Phan Văn Trị, Phường 5, Quận Gò Vấp	108256696	1066900101.0
+2947	Đường Cự Lộc	210012554	1058137407.0
+2948	ngõ Khâm Thiên, Xã Đàn, quận Đống Đa	210159567	1058378952.0
+2949	HXH Lê Văn Quới, Bình Tân	10776189	1066113201.0
+2950	Vcn Phước Long 1, Nha Trang, Khánh Hoà	122245464	1091828169.0
+2951	Mỹ Gia 8, Vĩnh Thái, Nha Trang, Khánh Hoà	122353019	1091693187.0
+2952	Phúc Lợi, Long Biên	210437208	1059259271.0
+2953	Phúc Lợi, Long Biên	210437208	1059259271.0
+2954	Đường Số 2	10809573	1067340794.0
+2955	Phú Nhuận, HCM	107991944	1066802639.0
+2956	Quận Long Biên, Hà Nội	210548635	1058884966.0
+2957	Thành phố Hồ Chí Minh	108230989	1066296638.0
+2958	đường Nguyễn Duy Dương, Phường 3, Quận 10	107571365	1066717634.0
+2959	Nguyễn Khuyến, Khu đô thị Văn Quán, Hà Đông, Hà Nội, Việt Nam	20974526	1057896436.0
+2960	Quận Long Biên, Hà Nội	210548635	1058884966.0
+2961	Đường Số 23, Phường Hiệp Bình Chánh, Quận Thủ Đức, TP HCM	108282919	106726749.0
+2962	Thành phố Hồ Chí Minh	108230989	1066296638.0
+2963	Lạc Long Quân, P.8, Tân Bình	107843279	1066509334.0
+2964	Lê Đình Cẩn, Tân Tạo, Bình Tân	107595829	106599273.0
+2965	Lê Văn Quới, Bình Hưng Hòa A, Bình Tân	107762062	1066108004.0
+2966	Lê Văn Quới, Bình Hưng Hòa A, Bình Tân	107762062	1066108004.0
+2967	Thành phố Hồ Chí Minh	108230989	1066296638.0
+2968	Khu đô thị Tây Hồ Tây, Cao Giầy	210560248	1057967419.0
+2969	Kinh Dương Vương, An Lạc, Bình Tân	10735655	1066134272.0
+2970	Thành phố Hồ Chí Minh	108230989	1066296638.0
+2971	Thái Hà, Đống Đa, Hà Nội	210129882	105820014.0
+2972	Lê Trọng Tấn, Khương Mai, Thanh Xuân, Hà Nội	20993927	1058314531.0
+2973	Thành phố Hồ Chí Minh	108230989	1066296638.0
+2974	Hẻm Xe Tải, Gò Dầu, Quận Tân Phú	107958184	1066220132.0
+2975	đường Tên Lửa	107382359	1066152822.0
+2976	đường số 18, khu Tên Lửa, Trung tâm Bình Trị Đông B, khu Tên Lửa Aeonmall Bình Tân, ngay giao lộ Đường số 1 và đường Vành Đai	107557614	1066126331.0
+2977	đường số 18, khu Tên Lửa	107478829	1066118492.0
+2978	đường Phạm Ngũ Lão, Quận 1	107688718	1066937594.0
+2979	thạnh phú	99481665	10650538.0
+2980	đường Nguyễn Lâm, Phường 7, Quận Bình Thạnh	108004819	1066924614.0
+2981	đường Đặng Văn Ngữ, Phường 10, Quận Phú Nhuận	107941151	1066692559.0
+2982	đường Hoàng Sa, Phường Tân Định, Quận 1	107953364	1066900013.0
+2983	Đường tỉnh lộ 43. Phường Bình Chiểu. TP - Thủ Đức	108667917	1067339255.0
+2984	Đường tỉnh lộ 43. Phường Bình Chiểu. TP - Thủ Đức	108667917	1067339255.0
+2985	Hẻm Lê Quang Định, Phường 7, Quận Bình Thạnh	10809232	1066928609.0
+2986	Đỗ Xuân Hợp, Phước Long B, Tp. Thủ Đức , HCM	108150123	1067748598.0
+2987	Xã Vân Nội, Huyện Đông Anh, Hà Nội	211470888	1058143528.0
+2988	đường Trường Chinh, Phường Đống Đa 	213063049	1056031342.0
+2989	đường Trường Sa, Phường 2, Quận Phú Nhuận	107951443	1066875265.0
+2990	đường Hoa Cúc, Phường 7, Quận Phú Nhuận	107986191	106688851.0
+2991	Trường Sa, Phường 13, Quận Phú Nhuận	107882542	1066704676.0
+2992	phố Mai Dich	21042561	105775175.0
+2993	Long Biên, Hà Nội, -Dự án-	210186765	105884813.0
+2994	Quận Gò Vấp HCM	108386779	1066652904.0
+2995	Hóc Môn	108839675	1065870611.0
+2996	Dương Đình Hội , Phước Long B	108228086.0	1067802545.0
+2997	Bùi Xương Trạch, Thanh Xuân, Hà Nội	209878704.0	1058183772.0
+2998	Khương Trung, Thanh Xuân, Hà Nội	209971504.0	1058216911.0
+2999	Định công thượng, thanh xuân, hà nội	209784143.0	1058282959.0
+3000	Thành phố Hồ Chí Minh	108230989.0	1066296638.0
+3001	Ngõ Chợ Khâm Thiên, Đống Đa	210159144.0	1058378302.0
+3002	Ðường Số Chợ Tân Mỹ, Quận 7	107364544.0	1067186909.0
+3003	t		
+3004	311 an dương vương phường an lạc quận bình tân	107358352.0	1066213274.0
+3005	đường Huỳnh Văn Bánh, Phường 14, Quận Phú Nhuận	107916291.0	106669605.0
+3006	Nguyễn Văn Đậu, Phường 11, Quận Bình Thạnh	108118426.0	1066922921.0
+3007	Tôn Đức Thắng, Lê Chân, Hải Phòng	208480689.0	1066645888.0
+3008	Siêu Khan Hiểm, KDC Him Lam, Quận 7	107409665.0	1066976655.0
+3009	Đường số 35. Phường Linh Đông. TP Thủ Đức	108572071.0	1067478331.0
+3010	Đường số 35. Phường Linh Đông. TP Thủ Đức	108572071.0	1067478331.0
+3011	đường Nguyễn Văn Cừ, Phường Cầu Kho, Quận 1	107556587.0	1066857053.0
+3012	Phan Đăng Lưu, Phường 3, Quận Bình Thạnh	108030442.0	1066935914.0
+3013	Lê Hồng Phong, Ngô Quyền, Hải Phòng	208440295.0	106709682.0
+3014	Lê Văn Quới, Bình Hưng Hòa A, Bình Tân	107762062.0	1066108004.0
+3015	Huỳnh Tấn Phát, Quận 7	10727545.0	106733066.0
+3016	Đỗ Xuân Hơp		
+3017	KĐT Đặng Xá - Cổ Bi- Gia Lâm – Hà Nội.	210189833.0	1059481833.0
+3018	Lã Xuân Oai, Tăng Nhơn Phú A, Tp. Thủ Đức	108398715.0	1067953202.0
+3019	Tứ Liên, Tứ Liên, Tây Hồ, Hà Nội	210642931.0	1058340365.0
+3020	Sài Đồng, Long Biên, Hà Nội	210348453.0	1059127108.0
+3021	Thái Hà, Đống Đa, Hà Nội	210129882.0	105820014.0
+3022	Nguyễn Văn Tuyết, Thanh Xuân	210095298.0	1058201699.0
+3023	Trực Cát, Lê Chân, Hải Phòng	208222755.0	1066837549.0
+3024	Trực Cát, Lê Chân, Hải Phòng	208222755.0	1066837549.0
+3025	Đường Số 9	167880854.0	1071253986.0
+3026	Đường Số 1	107396529.0	1066054579.0
+3027	Trần Văn Quang, P.10, Tân Bình	10779581.0	1066471074.0
+3028	Nguyễn Đình Chiểu, Phường 4, Quận Phú Nhuận	108038786.0	1066811704.0
+3029	đường Hồ Văn Huê, Phường 9, Quận Phú Nhuận	108030496.0	1066767948.0
+3030	đường Hồ Văn Huê, Phường 9, Quận Phú Nhuận	108030496.0	1066767948.0
+3031	đường Trần Kế Xương, Phường 7, Quận Phú Nhuận	108023412.0	1066903706.0
+3032	đường Hoa Đào, Phường 2, Quận Phú Nhuận	107982517.0	1066861648.0
+3033	Biên Hòa	109574128.0	1068426871.0
+3034	Nguyễn Đình Chiểu, -- Dự án --		
+3035	Nguyễn Đình Chiểu, -- Dự án --		
+3036	False		
+3037	đường Nguyễn Cư Trinh, Phường Nguyễn Cư Trinh, Quận 1	107635976.0	1066895263.0
+3038	Nguyễn Chí Thanh, Phường 9, Quận 5	107600634.0	106669755.0
+3039	đường Trần Hữu Trang, Phường 10, Quận Phú Nhuận	10793676.0	1066725583.0
+3040	đường Nguyễn Thị Minh Khai, Phường 5, Quận 3	107708401.0	1066867468.0
+3041	Mặt tiền Thành Thái, Phường 12, Quận 10	107724852.0	1066651205.0
+3042	Cách Mạng Tháng 8, Quận 10	107823007.0	1066732448.0
+3043	Nguyễn Thái Bình, Phường Nguyễn Thái Bình, Quận 1	10768817.0	1066992275.0
+3044	Hai Bà Trưng, chợ Tân Định	107896951.0	1066898337.0
+3045	đường Nguyễn Văn Đậu, Quận Bình Thạnh	108104676.0	1066900723.0
+3046	đường Phan Văn Trị, Quận Bình Thạnh	1081931.0	1066945295.0
+3047	Lý Thường Kiệt, Tân Bình	10781332.0	1066551313.0
+3048	đường Thi Sách, Phường Bến Nghé, Quận 1	107781229.0	1067048329.0
+3049	391 Huỳnh Tấn Phát, Phường Tân Thuận Đông, Quận 7	107483252.0	1067288718.0
+3050	đường Trường Sa, Phường 14, Quận Phú Nhuận	107890806.0	106668137.0
+3051	160 Nguyễn Văn Quỳ, Phường Phú Thuận, Quận 7	107399929.0	1067353738.0
+3052	đường Nguyễn Xí, Phường 26, Quận Bình Thạnh	10815315.0	106707746.0
+3053	đường số Hoàng Quốc Việt, Phường Phú Mỹ, Quận 7	107142129.0	1067376942.0
+3054	Trường Sa, Phường 13, Quận Phú Nhuận	107882542.0	1066704676.0
+3055	ô tô, Phường Hố Nai	109738414.0	1068799658.0
+3056	KDC Kiều Đàm, Phường Tân Hưng, Quận 7	107470903.0	106699514.0
+3057	Phạm Văn Đồng, Phường 11, Quận Bình Thạnh	108204226.0	1066942397.0
+3058	phố Tân Vạn		
+3059	Phường Ngọc Lâm, Quận Long Biên, Hà Nội	210448412.0	1058686635.0
+3060	Đường số 49. Phường Hiệp Bình Chánh. TP Thủ Đức	108395323.0	1067294635.0
+3061	Lâm Văn Bền, Phường Tân Kiểng, Quận 7	107478573.0	1067158641.0
+3062	Huỳnh Tấn Phát, Phường Phú Thuận, Quận 7	107269665.0	1067334285.0
+3063	thạnh phú	99481665.0	10650538.0
+3064	Phường Giang Biên, Quận Long Biên, Hà Nội	210674567.0	1059200531.0
+3065	đường số 34, phường Bình Trưng Tây, Quận 2, TP Thủ Đức	107860477.0	106757996.0
+3066	Lạc Long Quân, Phường 10, Quận Tân Bình	107808805.0	1066500274.0
+3067	Thành phố Hồ Chí Minh	108230989.0	1066296638.0
+3068	Thành phố Hồ Chí Minh	108230989.0	1066296638.0
+3069	Thành phố Hồ Chí Minh	108230989.0	1066296638.0
+3070	Dân Lập, Lê Chân, Hải Phòng	208345046.0	1066831336.0
+3071	Thành phố Hồ Chí Minh	108230989.0	1066296638.0
+3072	bửu long	109586438.0	1068053993.0
+3073	Đường Số 10		
+3074	Hoàng Văn Thụ, Quang Trung, Hồng Bàng, Hải Phòng	208583999.0	10668142.0
+3075	Tân Hòa Đông, Bình Trị Đông, Bình Tân	10764592.0	1066189401.0
+3076	Tân Hòa Đông, Bình Trị Đông, Bình Tân	10764592.0	1066189401.0
+3077	Thành phố Hồ Chí Minh	108230989.0	1066296638.0
+3078	Hoàng Lộc, Phú Chánh, Bình Dương	110676627.0	1066939803.0
+3079	HXT, Mã Lò, Bình Tân	107728591.0	1066018083.0
+3080	Nguyễn Xí, Phạm Văn Đồng	108230993.0	1067033438.0
+3081	Trần Phú Hà Đông	209799246.0	1057873752.0
+3082	Trần Phú Hà Đông	209799246.0	1057873752.0
+3083	Ngọc Thụy, Long Biên	210588582.0	1058583873.0
+3084	Lê Duẩn, Phường ước tính	210187993.0	1058413845.0
+3085	Tân Sơn Nhì, P. Tân Sơn Nhì, Tân Phú	107986223.0	1066317749.0
+3086	Nguyễn Lượng Bằng		
+3087	đường số 18 Tên Lửa, Phường/quận ???	209819702.0	1056830456.0
+3088	đường số 7, khu Tên Lửa	107557614.0	1066126331.0
+3089	đường Mã Lò, Phường Bình Trị Đông, Quận Bình Tân	107728591.0	1066018083.0
+3090	Đường Số 27, Phường Hiệp Bình Chánh, Quận Thủ Đức, TP HCM	108332403.0	1067318574.0
+3091	Xô Viết Nghệ Tĩnh, Nguyễn Xí, Quận Bình Thạnh	108099089.0	1067126015.0
+3092	Điện Dương-Điện Bàn-Quảng Nam	159269849.0	1083030015.0
+3093	27 phố Đại Cồ Việt, Quận Hai Bà Trưng	2100715.0	1058447328.0
+3094	Hồng Lạc P11 Tân Bình	107872931.0	1066473387.0
+3095	Lạc Long Quân P10 Quận Tân Bình	107808805.0	1066500274.0
+3096	Unknown		
+3097	Đường Phạm Văn Đồng, Lê Quang Định, Phường 5, Quận Bình Thạnh	108192333.0	1066899106.0
+3098	đường Phạm Văn Đồng, Lê Quang Định, Phường 5, Quận Bình Thạnh	108192333.0	1066899106.0
+3099	đường Nguyễn Lâm, Phường 13, Quận Bình Thạnh	108003172.0	1066924832.0
+3100	đường Nguyễn Lâm, Phường 13, Quận Bình Thạnh	108003172.0	1066924832.0
+3101	đường Nguyễn Lâm, Phường 13, Quận Bình Thạnh	108003172.0	1066924832.0
+3102	đường Phan Văn Trị, Phường 5, Quận Gò Vấp	108256696.0	1066900101.0
+3103	đường Phan Văn Trị, Phường 5, Quận Gò Vấp	108256696.0	1066900101.0
+3104	Hẻm 8m, Nguyễn Cửu Vân, Quận 1	107660509.0	1066907166.0
+3105	phố Lê Trọng Tấn, Phường Thanh Xuân	20993927.0	1058314531.0
+3106	đường Phạm Văn Chiêu, Phường 14, Quận Gò Vấp	108484293.0	106648556.0
+3107	đường Phạm Văn Chiêu, Phường 14, Quận Gò Vấp	108484293.0	106648556.0
+3108	đường Cù Lao, phường 2, quận Phú Nhuận	107966502.0	1066879563.0
+3109	đường Trần Kế Xương, Phường 7, Quận Phú Nhuận	108023412.0	1066903706.0
+3110	đường Trần Kế Xương, Phường 7, Quận Phú Nhuận	108023412.0	1066903706.0
+3111	False		
+3112	Thành phố Hồ Chí Minh	108230989.0	1066296638.0
+3113	đường Trần Kế Xương, Phường 3, Quận Bình Thạnh	108022952.0	1066917901.0
+3114	đường Trần Kế Xương, Phường 3, Quận Bình Thạnh	108022952.0	1066917901.0
+3115	Thành phố Hồ Chí Minh	108230989.0	1066296638.0
+3116	Thụy Khuê	210434142.0	1058211387.0
+3117	334 Lê Quang Định, P. 11, Q. Bình Thạnh, TP. HCM	108099496.0	1066932795.0
+3118	Bình Trị Đông, Bình Trị Đông A, Bình Tân	107639086.0	1066143944.0
+3119	đường số 4, An Phú, Quận 2	108019128.0	1067647475.0
+3120	Nguyễn Thiện Thuật, Quận 3	107684649.0	1066793079.0
+3121	Biên Hòa	109574128.0	1068426871.0
+3122	chùa Liên Phái, Bạch Mai, Quận Hai Bà Trương	210049822.0	105850152.0
+3123	đường Lê Văn Sỹ, Phường 11, quận Bình thạnh	107927597.0	1066703291.0
+3124	đường Hoàng Quốc Việt	210460525.0	105793266.0
+3125	hẻm xe tải, gần chợ Bà Chiểu, quận Bình Thạnh	108016047.0	1066988172.0
+3126	Ngọc Thuỵ	210588582.0	1058583873.0
+3127	Huyện 1283 Huỳnh Tấn Phát, Phường Phú Thuận, Quận 7	107190052.0	1067373663.0
+3128	mặt phố Ba Đình, quận Ba Đình, giáp Hoàn Kiếm, gần bốt Hàng Đậu	21027964.0	1058510132.0
+3129	phố Ba Đình, Quận Ba Đình	210337815.0	1058140539.0
+3130	Huỳnh Tấn Phát, Phường Phú Thuận, Quận 7	107269665.0	1067334285.0
+3131	Đường Phan Văn Trị, Phường 14, Quận Bình Thạnh, TP HCM	10809109.0	1066965536.0
+3132	TRần Thị Điệu , Phước Long B, Tp. Thủ Đức	108314724.0	1067703105.0
+3133	Đại Linh, Nam Từ Liêm, Hà Nội, -Dự án-	209963555.0	1057710809.0
+3134	Thành phố Hồ Chí Minh	108230989.0	1066296638.0
+3135	602 Kinh Dương Vương, Phường An Lạc A, Quận Bình Tân, TPHCM	107462719.0	1066248304.0
+3136	Nguyễn Văn Cừ, Long Biên	210464835.0	1058773208.0
+3137	Trần Phú Hà Đông	209799246.0	1057873752.0
+3138	Nơ Trang Long, phường 7, Quận Bình Thạnh	108074298.0	1066950557.0
+3139	311 An Dương Vương phường An Lạc quận Bình Tân	107358352.0	1066213274.0
+3140	Đường 904, Phường Hiệp Phú, Quận 9, TP HCM	108527983.0	1067824568.0
+3141	Nguyễn Xí, Phạm Văn Đồng	108230993.0	1067033438.0
+3142	đường Rạch Bùng Binh, Quận 3	107840665.0	1066803436.0
+3143	Thành phố Hồ Chí Minh	108230989.0	1066296638.0
+3144	ngõ Thổ Quan, phường Thổ Quan, quận Đống Đa, Hà Nội	210169657.0	1058336779.0
+3145	Lý Thường Kiệt, Hồng Bàng, Hải Phòng	208573026.0	1066763301.0
+3146	Lý Thường Kiệt, Hồng Bàng, Hải Phòng	208573026.0	1066763301.0
+3147	Quận 1	107756587.0	1067004238.0
+3148	Thôn Cấm Sơn, Xã Diên Thọ, Huyện Diên Khánh	122663401.0	1089918254.0
+3149	văn quán	218628802.0	1065377839.0
+3150	Đường Liên Phường, Phường Phú Hữu, Q9	108048107.0	106792446.0
+3151	Trần Văn Quang, Tân Bình, - Dự án -	10779581.0	1066471074.0
+3152	Trần Văn Quang, Tân Bình, - Dự án -	10779581.0	1066471074.0
+3153	hẻm xe hơi Bùi Văn Ba, Quận 7	107505288.0	1067361953.0
+3154	hẻm xe hơi Bùi Văn Ba, Quận 7	107505288.0	1067361953.0
+3155	Thành phố Hồ Chí Minh	108230989.0	1066296638.0
+3156	đường An Dương Vương, Phường An Lạc, Quận Bình Tân, Thành phố Hồ Chí Minh	107278848.0	1066203589.0
+3157	đường ô tô, Phường Tân Vạn	109117711.0	1068272458.0
+3158	đường DT87A, khu đô thị HUD Sơn Tây	21109556.0	1054544486.0
+3159	đường Huỳnh Tấn Phát, Phường Phú Mỹ, Quận 7	107119927.0	106737071.0
+3160	Hẻm Xe Hơi Tân Thuận Tây, Quận 7	107511954.0	1067219896.0
+3161	đường X, Phường Thạnh Phú	160629875.0	1081892877.0
+3162	Nguyễn Tất Tố, Kênh Dương, Lê Chân, Hải Phòng	208319364.0	1066890772.0
+3163	Dân Lập, Lê Chân, Hải Phòng	208345046.0	1066831336.0
+3164	đường DE1, Mỹ Phước 3, Bình Dương	111192402.0	1066417219.0
+3165	Quan1, TPHCM	107756587.0	1067004238.0
+3166	TÂN PHONG	107318388.0	106702825.0
+3167	TÂN PHONG	107318388.0	106702825.0
+3168	Long Biên	210186765.0	105884813.0
+3169	Đường số 4, Quận 2		
+3170	Nhà Chính chủ hẻm 3m Lưu Hữu Phươc, P15, Q8.	107270253.0	1066352487.0
+3171	Thành phố Hồ Chí Minh	108230989.0	1066296638.0
+3172	Hẻm Kinh Dương Vương, Phường An Lạc, Bình Tân, HCM	107320917.0	1066207377.0
+3173	đường Trần Hữu Trang	107938976.0	1066742036.0
+3174	Đường Nơ Trang Long, P. 13, Q. Bình Thạnh, TP. HCM	108146132.0	1066978649.0
+3175	xã Đức Hoà Thượng, Đức Hoà Long An	108630384.0	1064464766.0
+3176	311 An Dương Vương	10759543.0	1066796302.0
+3177	TÂN CHÁNH HIỆP - q12	10866797.0	1066261831.0
+3178	ĐÔNG HƯNG THUẬN - q12	108433839.0	106630604.0
+3179	Ngõ 29, Khương Hạ	209907124.0	1058156605.0
+3180	Nguyễn Chí Thanh		
+3181	Ngõ 30 Đường Ngọc Thụy, Phường Ngọc Thụy, quận Long Biên, Hà Nội	210502836.0	1058668352.0
+3182	Nguyễn Quý Đức, Thanh Xuân Bắc, Thanh Xuân, Hà Nội, -Dự án-	20992259.0	1057993315.0
+3183	TÂN THỚI HIỆP - q12	108603672.0	1066438673.0
+3184	Phan Văn Trị, Phường 11, Quận Bình Thạnh	108159197.0	1066952001.0
+3185	Thành phố Hồ Chí Minh	108230989.0	1066296638.0
+3186	Thành phố Hồ Chí Minh	108230989.0	1066296638.0
+3187	Ngõ Thịnh Hào 1	210238231.0	1058312086.0
+3188	Nguyễn Khuyến, Khu đô thị Văn Quán, Hà Đông, Hà Nội, Việt Nam	20974526.0	1057896436.0
+3189	Xô Viết Nghệ Tĩnh	192342489.0	1049200365.0
+3190	Xuân La, Tây Hồ	210596756.0	1058040796.0
+3191	ngọc Lâm	210448412.0	1058686635.0
+3192	đường số 29, khu Tên Lửa, Quận ?	107557614.0	1066126331.0
+3193	đường Tên Lửa	107382359.0	1066152822.0
+3194	Hoàng Hoa Thám, Bình Thạnh, Tp Hồ Chí Minh	10807912.0	1066888124.0
+3195	Lê Đức Thọ, Nam Từ Liêm	210294113.0	1057687535.0
+3196	Đường Hải Phòng, Tân Chính, Thanh Khê, Đà Nẵng	160709424.0	108209436.0
+3197	Hoàng Hoa Thám, Bình Thạnh, Tp Hồ Chí Minh	10807912.0	1066888124.0
+3198	Long Biên	210186765.0	105884813.0
+3199	Đường 10	107945459.0	1068132427.0
+3200	Gò Xoài, Bình Hưng Hòa A, Bình Tân, Hồ Chí Minh, -Dự án-	10783504.0	1066036111.0
+3201	Gò Xoài, Bình Hưng Hòa A, Bình Tân, Hồ Chí Minh, -Dự án-	10783504.0	1066036111.0
+3202	Pháo Đài Láng	210195075.0	1058057691.0
+3203	ngọc thụy Long Biên	210588582.0	1058583873.0
+3204	đường Lý Sơn, Long Biên	210618841.0	1058824634.0
+3205	phố Trung Kính	210168067.0	1057940437.0
+3206	Đội Cấn		
+3207	Tên Lửa,_quận Hai Thành		
+3208	tân phong	107318388.0	106702825.0
+3209	Đường Xe Tải, Phường 24, Quận Bình Thanh	107883896.0	1066955781.0
+3210	Nguyễn Sỹ Sách, P.15, Tân Bình	108194362.0	1066347737.0
+3211	Thành phố Hồ Chí Minh	108230989.0	1066296638.0
+3212	Dương Quảng Hàm, Phường 5, Quận Gò Vấp	108236032.0	1066957585.0
+3213	Xuân La - Tây Hồ - Hà Nội	210596756.0	1058040796.0
+3214	Đường Nguyễn Trãi, Phường Hiệp Phú, Quận 9, TP HCM	108445159.0	1067747823.0
+3215	đường số 38, Tân Tạo, khu Tên lửa	107539604.0	1066053128.0
+3216	19/5 Văn Quán Hà Đông	20955835.0	1057563658.0
+3217	Đấu Trường Chinh, Phường Phương Liệt, Quận Thanh Xuân	209984932.0	1058377112.0
+3218	đường Trường Chinh, Phường Phương Liệt, Quận Thanh Xuân	209984932.0	1058377112.0
+3219	Lạc Long Quân, Tân Bình,	107794947.0	1066498878.0
+3220	Lạc Long Quân, Tân Bình,	107794947.0	1066498878.0
+3221	Phường Tân Chánh Hiệp, Quận 12, TP. HCM	10866797.0	1066261831.0
+3222	Phường Linh Đông, Tp Thủ Đức, TP. HCM	10843909.0	1067441048.0
+3223	Trần Phú Mỗ Lao Hà Đông	209804342.0	1057880155.0
+3224	đường Lê Văn Sỹ, phường......	107927597.0	1066703291.0
+3225	Ðường Thống Nhất	10843074.0	1066646448.0
+3226	Hồ tùng mậu-nam từ liêm - Hà Nội	21038275.0	1057715517.0
+3227	Hồ Tùng Mậu - Nam từ liêm - Hà Nôi	21038275.0	1057715517.0
+3228	Võng Thị, Hồ Tây	210516835.0	1058112908.0
+3229	Thành phố Hồ Chí Minh	108230989.0	1066296638.0
+3230	Thành phố Hồ Chí Minh	108230989.0	1066296638.0
+3231	311		
+3232	Đình Phong Phú, Tăng Nhơn Phú B, Tp. Thủ Đức	108369642.0	1067814925.0
+3233	Vũ Đức Thận, Nguyễn Lam, Long Biên	210472893.0	1058971974.0
+3234	Vũ Đức Thận, Nguyễn Lam, Long Biên	210472893.0	1058971974.0
+3235	đường Gò Xoài, Phường Bình Trị Đông, Quận Bình Tân, Thành phố Hồ Chí Minh	10783504.0	1066036111.0
+3236	Trần Bình Trọng, Bình Thạnh, Tp Hồ Chí Minh	108131643.0	1066875503.0
+3237	927 tỉnh lộ 43.phường bình chiểu tp.thủ đức	108779522.0	1067314363.0
+3238	đường Nguyễn Cửu Vân, Phường 17, Quận Bình Thạnh	107958474.0	1067068493.0
+3239	đường Số 24 Lê Văn Quới, Phường Bình Trị Đông, Quận Bình Tân, TP. Hồ Chí Minh	107764006.0	1066038225.0
+3240	Tam Bạc, Sở Dầu, Hải Phòng	20857431.0	1066750682.0
+3241	đường Chiến Lược, Phường Bình Trị Đông, Quận Bình Tân, Thành phố Hồ Chí Minh	107628484.0	1066178313.0
+3242	Quận 9, TP.HCM	108230989.0	1066296638.0
+3243	An		
+3244	Nguyễn Văn Quá, Quận 12	108421284.0	1066306439.0
+3245	Đường Thanh Am, Phường Đức Giang, Quận Long Biên, Hà Nội, -Dự án-	210717701.0	1059003542.0
+3246	Lê Quang Định, Bình Thạnh, Tp Hồ Chí Minh	108107331.0	1066921173.0
+3247	Thành phố Hồ Chí Minh	108230989.0	1066296638.0
+3248	Phú Nhuận, Phường 2	107973443.0	106687347.0
+3249	đường Cộng Hòa, Phường 13, Quận Tân Bình	108023555.0	1066414577.0
+3250	đường Số 27, Lê Đức Thọ, Quận Gò Vấp	108412368.0	1066777962.0
+3251	265 Nơ Trang Long, P. 11, Q. Bình Thạnh	108179455.0	1066981067.0
+3252	265 Nơ Trang Long, P. 11, Q. Bình Thạnh	108179455.0	1066981067.0
+3253	đường Lý Tự Trọng, Phường Bến Thành, Quận 1	107744663.0	106697789.0
+3254	đường Phan Văn Trị, Phường 5, Quận Gò Vấp	108256696.0	1066900101.0
+3255	đường Nguyễn Lâm, Phường 3, Quận Bình Thạnh	108003172.0	1066924832.0
+3256	đường Bùi Văn Thêm, Phường 9, Quận Phú Nhuận	108089312.0	1066768713.0
+3257	Phố Hoàng Mai	209836984.0	1058636257.0
+3258	Ngõ 299 Hoàng Mai	209875439.0	1058615457.0
+3259	đường Dương Văn Bé, Quận Hai Bà Trưng	209965754.0	1058739138.0
+3260	Bình Thọ, Tp. Thủ Đức	108467644.0	1067662221.0
+3261	Bình Thọ, Tp. Thủ Đức	108467644.0	1067662221.0
+3262	Bùi Xương Trạch, Phường Thanh Xuân	209878704.0	1058183772.0
+3263	Quan Nhân, Nhân Chính, Thanh Xuân, Hà Nội	210034012.0	1058110263.0
+3264	Huỳnh Tấn Phát, Phường Tân Thuận Tây, Quận 7	107504969.0	1067286176.0
+3265	Phan Kế Bính, Quận Ba Đình	210348708.0	1058103439.0
+3266	Nằm tiếp giáp khu công nghiệp Vsip 2, nằm ngay giữa KCN Mỹ Phước 3, VSIP 2 và VSIP 2 mở rộng, cách TP Mới Bình Dương chỉ 7Km.	110739129.0	1066842102.0
+3267	Đường Đặng Văn Bi, Phường Trường Thọ, Quận Thủ Đức, TP HCM	108439717.0	106762358.0
+3268	Bình Hòa	109058317.0	1067306375.0
+3269	Tân Sơn Nhì, Tân Phú	107997882.0	106630604.0
+3270	đường Tạ Quang Bửu, Phường 5, Quận 8	10735927.0	1066686724.0
+3271	đường Châu Thị Hóa, Phường 4, Quận 8	107376439.0	1066761849.0
+3272	đường Hoàng Quốc Việt	210460525.0	105793266.0
+3273	Thành phố Hồ Chí Minh	108230989.0	1066296638.0
+3274	Dốc Tam Đa, Thụy Khuê	210431968.0	1058186409.0
+3275	Bạch Đằng, Điện Biên Phủ, Lê Văn Duyệt	205339229.0	1050674317.0
+3276	Long An	105607168.0	1066497623.0
+3277	Tây Sơn, Đống Đa, Hà Nội	210082189.0	1058237382.0
+3278	Phương Liệt, THanh Xuân, Hà Nội	209925823.0	1058393044.0
+3279	Quốc lộ 13 phường hiệp bình phước tp thủ đức	108505432.0	1067193752.0
+3280	Ngõ 236 Khương Đình, Hạ Đình, Thanh Xuân	209924842.0	1058126376.0
+3281	Đường Số 8	10855732.0	1067718319.0
+3282	Đường Số 8	10855732.0	1067718319.0
+3283	Nguyễn Văn Khối	108429616.0	1066529357.0
+3284	Đường bình chiểu.Phường Bình Chiểu.TP.Thủ Đức	108745911.0	1067340561.0
+3285	Đường Hoàng Hoa Thám, Phường Bưởi, Quận Tây Hồ, Hà Nội	21046292.0	1058106769.0
+3286	Hẻm đường Bình Chiểu Phường Bình Chiểu TP.Thủ Đức	108745911.0	1067340561.0
+3287	Đường Số 59	108536297.0	1066515948.0
+3288	Đường Số 59	108536297.0	1066515948.0
+3289	Lê Trọng Tấn Hà Đông	20977862.0	1057465724.0
+3290	Thanh Xuân		
+3291	Lương Đình Của, Phạm Ngọc Thạch, Kim Liên, Đống Đa	21008245.0	1058337777.0
+3292	Hẻm đường Bình Chiểu.Phường Bình Chiểu.TP-Thủ Đức	108745911.0	1067340561.0
+3293	Nguyễn Khuyến Hà Đông	20974526.0	1057896436.0
+3294	Hẻm đường bình chiểu phường bình chiểu.thủ đức.hcm	108745911.0	1067340561.0
+3295	Xa La Hà Đông	209619014.0	1057920253.0
+3296	ngã 3 Truông Tre, Dĩ An	10885533.0	10676864.0
+3297	đỗi Cấn, phố Hoàng Hoa Thám, Quận Ba Đình	210419911.0	1058205621.0
+3298	số 46/1, tổ 1 hương lộ 45 thôn Trung	122694095.0	1091361171.0
+3299	ngõ Hoàng Quốc Việt, phố Nguyễn Đình Hoàn	212123139.0	1058748359.0
+3300	Ngân - thổ cư Đống Đa hà nội	210180725.0	1058299495.0
+3301	đường D2, Phường 25, Quận Bình Thạnh	108039865.0	1067150593.0
+3302	Ngõ 195 Vũ Xuân Thiều, Sài Đồng, Long Biên, Hà Nội	210336328.0	1059176096.0
+3303	hoàng quốc việt		
+3304	Đường Kha Vạn Cân, Phường Linh Tây, Quận Thủ Đức, TP HCM	108540862.0	1067549139.0
+3305	Quận Hà Đông, Hà Nội	20955835.0	1057563658.0
+3306	đường Phạm Văn Đồng	108350664.0	1067294299.0
+3307	Quận 2	107935216.0	1067308195.0
+3308	Quang Trung		
+3309	Ái Mộ, Bồ Đề, Long Biên	210404889.0	1058735636.0
+3310	q12		
+3311	TÂN CHÁNH HIỆP - q12	10866797.0	1066261831.0
+3312	ô tô Lê Văn Lương, khu đô thị Trung Hòa – Nhân Chính	210054208.0	1058046484.0
+3313	Đường số 17 Phường Bình Chiểu.TP Thủ Đức	108776912.0	1067446617.0
+3314	Văn Điển, Thanh Trì,	209493584.0	1058444419.0
+3315	đường Nguyễn Lâm, Phường 3, Quận Bình Thạnh	108003172.0	1066924832.0
+3316	Cư Xá Nguyễn Đình Chiểu, Phường 4, Quận Phú Nhuận	108059406.0	1066802819.0
+3317	đường Lê Văn Sỹ, Phường 13, Quận Phú Nhuận	107908574.0	1066728765.0
+3318	Thích Quảng Đức, Phường 4, Quận Phú Nhuận	108060643.0	1066813234.0
+3319	Sở Dầu, Hồng Bàng, Hải Phòng	208683599.0	1066556575.0
+3320	Trần Kế Xương, Phường 7, Quận Phú Nhuận	108023412.0	1066903706.0
+3321	Đường số 23 phường bình chiểu tp thủ đức	108797739.0	1067318063.0
+3322	khu Bàu Cát, Phường 12, Quận Tân Bình	107910616.0	1066454997.0
+3323	đường Bùi Văn Thêm, Phường 9, Quận Phú Nhuận	108089312.0	1066768713.0
+3324	Lê Đình Thám, Tân Quý, Tân Phú	107971196.0	1066230961.0
+3325	Nguyễn Đình Chiểu, Phường 4, Quận Phú Nhuận	108038786.0	1066811704.0
+3326	khu Cư Xá Nguyễn Đình Chiểu, Phường 4, Quận Phú Nhuận	108059406.0	1066802819.0
+3327	đường Cao Lỗ, Phường 4, Quận 8	107397268.0	1066781846.0
+3328	Thích Quảng Đức, Phường 4, Quận Phú Nhuận	108060643.0	1066813234.0
+3329	đường Lê Văn Sỹ, Phường 13, Quận Phú Nhuận	107908574.0	1066728765.0
+3330	đường Trần Kế Xương, Phường 7, Quận Phú Nhuận	108023412.0	1066903706.0
+3331	đường phố ẩm thực, Phường 2, Quận Phú Nhuận	107973896.0	1066905294.0
+3332	Quận Hà Đông, Hà Nội	20955835.0	1057563658.0
+3333	ngõ xe ba gác, phố Trần Cung	21053682.0	1057878577.0
+3334	P.26, Quận Bình Thạnh	108131851.0	1067087216.0
+3335	Nơ Trang Long, Phường 12, Quận Bình Thạnh	108127085.0	10669659.0
+3336	Phan Văn Trị, Phường 5, Quận Gò Vấp	108256696.0	1066900101.0
+3337	đường Lê Văn Sỹ, Phường 12, Quận 3	10789607.0	1066747189.0
+3338	đường số Lã Xuân Oai, Tăng Nhơn Phú A, Quận 9	108398715.0	1067953202.0
+3339	mặt phố Kim Hoa, quận Đống Đa	210096503.0	1058391273.0
+3340	đường Dương Quảng Hàm, Phường 6, Quận Gò Vấp	108275817.0	1066905729.0
+3341	Xô Viết Nghệ Tĩnh	192342489.0	1049200365.0
+3342	Phường 13, quận Gò Vấp, tp hcm	108551871.0	1066584938.0
+3343	đường Phạm Văn Đồng, Nơ Trang Long, Phường 13, Quận Bình Thạnh	108242823.0	1067069256.0
+3344	Kiệt Pasteur, Hải Châu 1, TP Đà Nẵng	160699716.0	1082188783.0
+3345	Phường 13, Lê Đức Thọ, Gò Vấp, Tp hcm	108554446.0	1066555147.0
+3346	Đình Phong Phú, Tăng Nhơn Phú B, TP. Thủ Đức	108369642.0	1067814925.0
+3347	Lã Xuân Oai, Tăng Nhơn Phú A, tp. Thủ Đức	108398715.0	1067953202.0
+3348	Đường PHẠM NGỌC THẠCH, PLEIKU, GIA LAI	140132792.0	1079917682.0
+3349	khu Long Biên	210548635.0	1058884966.0
+3350	Khu đô thị Vinhomes, gần Aeon Long Biên, BigC Long Biên, Sân bay, Sân golf	210186765.0	105884813.0
+3351	đường Nguyễn Văn Cừ	107593479.0	1066840928.0
+3352	Phan Văn Trị, Nơ Trang Long, Chu Văn An	108111789.0	1066954879.0
+3353	Đường 18 phường bình chiểu tp thủ đức	108748694.0	1067340729.0
+3354	Đặng Văn Bi, Thủ Đức	108439717.0	106762358.0
+3355	Ngọc Lâm, cà Chương Dương, phố Nguyễn Văn Cừ	210464835.0	1058773208.0
+3356	Hẻm 808 quốc lộ 13.phường hiệp bình phước tp thủ đưc	108626092.0	1067249628.0
+3357	Hẻm 808 quốc lộ 13 phường hiệp bình phước thủ đức	108626092.0	1067249628.0
