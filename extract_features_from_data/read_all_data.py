@@ -33,7 +33,7 @@ def read_full_data():
     print(final.columns)
     
 
-    # df.to_csv("extract_features_from_data\\final_extracted_data.csv", index = False, sep = "\t")
+    df.to_csv("extract_features_from_data\\final_extracted_data.csv", index = False, sep = "\t")
 
 if __name__ == "__main__":
     read_full_data()
