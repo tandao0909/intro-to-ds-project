@@ -2,18 +2,14 @@ import os
 import re
 import numpy as np
 from selenium import webdriver
-from selenium.webdriver.common.by import By
 import pandas as pd
 import numpy as np
 import time
 from selenium.webdriver.remote.webdriver import WebDriver
 
 
-os.environ['PATH'] += r"/usr/local/bin/"
-driver = webdriver.Firefox()
-driver.maximize_window()
-
-class Crawler:
+class Crawler: 
+    
     def __init__(self,driver:WebDriver,url,n_page : int):
         self.driver = driver
         self.url = url
@@ -83,9 +79,12 @@ class Crawler:
             self.report.set_index(np.arange(len(self.report)),inplace=True)
             self.report.to_csv('next_turn.csv',sep="\t",index=False)
             
-            
-crawler = Crawler(driver=driver,url='https://batdongsan.vn/ban-nha/',n_page=1)
-crawler.crawl()
-crawler.report
+if __name__ == '__main__':
+    os.environ['PATH'] += r"/usr/local/bin/" # Path to driver
+    driver = webdriver.Firefox() 
+    driver.maximize_window()
+    crawler = Crawler(driver=driver,url='https://batdongsan.vn/ban-nha/',n_page=1) #It's demo, so I just crawl 1 page
+    crawler.crawl()
+    (crawler.report).to_csv('crawl-data-and-get-coordinates/output.csv',sep='\t',index=False)
 
     
