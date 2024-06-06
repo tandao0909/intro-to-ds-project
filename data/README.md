@@ -1,6 +1,6 @@
 # About this data
 ## 1. Features
-Data mà nhóm thu thập được bao gồm có 18 feautres, bao gồm:
+Data mà nhóm thu thập được bao gồm có 18 features, bao gồm:
 - **Title** : tiêu đề của bài đăng bán nhà
 - **Price** : giá bán của căn nhà - đơn vị **tỷ đồng**
 - **Diện tích (m2)**
