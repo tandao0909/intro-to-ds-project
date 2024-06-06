@@ -20,17 +20,6 @@ def read_full_data():
 
     df = df[~df['Description'].str.contains(ad_pattern,case=False,regex=True)]
     df = df[~df['Title'].str.contains(ad_pattern,case=False,regex=True)]
-
-    lon_lat1 = pd.read_csv("extract_features_from_data\\address1_lat_lon.csv", sep = "\t")
-    lon_lat1 = lon_lat1.drop(["Unnamed: 0", "Address1"], axis = 1)
-
-    final = pd.concat([df, lon_lat1], axis = 1)
-
-    final["index"] = np.arange(0, len(df))
-    final = final.drop_duplicates()
-    final = final.set_index("index")
-    print("Số dòng: " + str(len(final)))
-    print(final.columns)
     
 
     df.to_csv("extract_features_from_data\\final_extracted_data.csv", index = False, sep = "\t")
