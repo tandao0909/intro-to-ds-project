@@ -6,7 +6,8 @@ import numpy as np
 import datetime
 import re
 from features_prompt import extract_features # import file bắt đầu sử dụng LLM APi
-from read_all_data import read_full_data # import file đọc dữ liệu
+import threading
+import os
 
 pd.options.mode.copy_on_write = True
 
@@ -16,14 +17,14 @@ pd.options.mode.copy_on_write = True
 
 def extract_data_from_df(df): # hàm trích xuất thông tin từ dataframe
     # tạo dataframe mới để lưu trữ thông tin trích xuất
-    extend_frame = pd.DataFrame(columns=["Chỗ để xe hơi", "Đang cho thuê", "CSVC xung quanh", "Vấn đề pháp lý, sổ đỏ", "Số PN", "Số WC", "ExtractedTitle"])
+    extend_frame = pd.DataFrame(columns=["Chỗ để xe hơi", "Đang cho thuê", "CSVC xung quanh", "Số PN", "Số WC", "ExtractedTitle"])
     limit = 9 # giới hạn số lần thử trích xuất
     # Với mỗi dòng trong df lấy ra Title và Description để trích xuất thông tin
     for i in range(len(df)):
         for j in range(limit + 1): # sau 10 lần thử thì thoát khỏi vòng lặp
             if j == limit:
                 print("Failed to extract")
-                extend_frame.loc[i] = [False, False, False, False, False, False, False]
+                extend_frame.loc[i] = [False, False, False, False, False, False]
                 break
             print(i, end = "\t")
             features = extract_features(df["Description"][i], title = df["Title"][i]) # trích xuất thông tin trả về list
@@ -48,6 +49,11 @@ def concat_dataframe(df, extend_frame):
     df["Số phòng ngủ"] = df["Số phòng ngủ"].astype(float)
     df["Số phòng WC"] = df["Số phòng WC"].astype(float)
 
+    df["Số PN"] = df["Số PN"].apply(lambda x: 0 if x == np.NAN else x) # với giá trị là nan thay bằng 0 de so sanh
+    df["Số WC"] = df["Số WC"].apply(lambda x: 0 if x == np.NAN else x)
+    df["Số PN"] = df["Số PN"].astype(float)
+    df["Số WC"] = df["Số WC"].astype(float)
+
     def max_two_columns_PN(row): # sẽ lấy max giữa 2 cột "Số phòng ngủ" và "Số PN"
         return max(row['Số phòng ngủ'], row['Số PN'])
     def max_two_columns_WC(row):
@@ -71,15 +77,50 @@ def concat_dataframe(df, extend_frame):
     # Lưu lại dataframe sau khi xử lý
     stamp = str(datetime.datetime.now())[:19].replace(":", "-").replace(" ", "_") # tạo ra một thời gian để lưu file
     print("Đã lưu vào lúc: " + stamp) # in ra thời gian để lưu file
-    df.to_csv(f"extract_features_from_data\\all_csv_file\\{stamp}.csv", sep="\t", index=False) # lưu lại file csv sau khi xử lý xong
+    df.to_csv(f"extract_features_from_data\\data_2\\{stamp}.csv", sep="\t", index=False) # lưu lại file csv sau khi xử lý xong
     return df
 
+# Trích xuất thông tin từ dataframe
+def process(df, start, end):
+    # Chia nhỏ data thành các mini-batch với size = 100
+    end = min(end, len(df))
+    mini_batch = df[start: end]
+    mini_batch["index"] = np.arange(0, len(mini_batch))
+    mini_batch = mini_batch.set_index("index")
+    extend_frame = extract_data_from_df(mini_batch)
+    mini_batch = concat_dataframe(mini_batch, extend_frame)
+    print(f"Complete {start} to {end}")
+# Nối tất cả các data đã được xử lý thành 1 dataframe
+def read_full_data(path):
+    current_directory = f"extract_features_from_data\\data_2"
+    # nối đường dẫn với tên file
+    files = os.listdir(current_directory)
+    # join directory with file name
+    files = [f"{current_directory}\\{file}" for file in files]
+
+    # nối tất cả data trong folder vào 1 dataframe
+    df = pd.concat([pd.read_csv(file, sep = "\t") for file in files])
+
+    df.to_csv(path, index = False, sep = "\t")
+    print(df)
+# Nối các cột lon, lat vào dataframe
+def concat_lon_lat(address1_path, address2_path, path_to_save, push_to_database = False):
+    data = pd.read_csv("final_extracted_data.csv", sep = "\t")
+    lon_lat1 = pd.read_csv(address1_path, sep = "\t")
+    lon_lat1.rename(columns = {"Latitude":"lat1", "Longitude":"lon1"}, inplace = True)
+    lon_lat1 = lon_lat1.drop(["Unnamed: 0", "Address1"], axis = 1)
+
+    lon_lat2 = pd.read_csv(address2_path, sep = "\t")
+    lon_lat2.rename(columns = {"Latitude":"lat2", "Longitude":"lon2"}, inplace = True)
+    lon_lat2 = lon_lat2.drop(["Unnamed: 0", "Address2"], axis = 1)
+    data = pd.concat([data, lon_lat1, lon_lat2], axis = 1)
+    data.to_csv("final_extracted_data_has_lon_lat.csv", sep = "\t", index = False)
+    if push_to_database:
+        data.to_csv(os.path.join(os.path.abspath(os.path.join(os.getcwd(), os.pardir)), "data\\housing.csv"), sep = "\t", index = False)
 
 if __name__ == "__main__":
-
     # ------------------------------------------------ Xử lý dữ liệu --------------------------------------------------
-
-    df = pd.read_csv("extract_features_from_data\\final_data_crawl.csv", sep="\t")
+    df = pd.read_csv("crawl-data-and-get-coordinates\\next_1000(1).csv", sep="\t")
     origin = df # giữ lại bản gốc của data
     # Bỏ đi các cột bị thừa
     df = df.drop(['Links', 'Unnamed: 0'], axis=1)
@@ -95,14 +136,11 @@ if __name__ == "__main__":
         df[column] = df[column].apply(replace_na_with_NaN)
 
     ad_pattern = r"Google|Facebook|Cửa\wgỗ|Cửa\wnhựa|Cửa\wsắt|Ad|Max|Marketing|Email|SMS" # tìm các từ khóa để lọc ra tin quảng cáo, rác
-
-
-    hold_index = [710, 2093, 2480, 2587] # các dòng cần giữ lại do lọc nhầm
-    hold = pd.DataFrame(columns=df.columns, data = [df.loc[i] for i in hold_index]) # tạo thành 1 dataframe mới để sau đó nối vào df
-
+    df["Title"] = df["Title"].apply(lambda x : str(x))
     df = df[~df['Title'].str.contains(ad_pattern,case=False,regex=True)] # xóa đi các dòng chứa từ khóa quảng cáo
-    df = pd.concat([df, hold], axis = 0) # nối lại các dòng cần giữ lại vào df
-
+    df["Description"] = df["Description"].apply(lambda x : str(x)) # chuyển tất cả các giá trị trong cột Description thành string
+    df = df[~df['Description'].str.contains(ad_pattern,case=False,regex=True)] # xóa đi các dòng chứa từ khóa quảng cáo
+    df["Price"] = df["Price"].apply(lambda x : str(x))
     price_pattern = r"tỷ" # lọc ra các dòng chứa giá bán hợp lệ: "tỷ"
     enter_pattern = r"\n" # giá bán không thể chứa ký tự xuống dòng nên lọc bỏ đi
 
@@ -110,22 +148,23 @@ if __name__ == "__main__":
     df = df[~df["Price"].str.contains(enter_pattern,case=False,regex=True)] # xóa đi giá có ký tự xuống dòng
     df["Price"] = df["Price"].apply(lambda x : x[:-3]) # bỏ đi chữ "tỷ"
 
-
     df["index"] = np.arange(0, len(df)) # set lại index mới cho dataframe 
     df = df.set_index("index")
 
-    # Chia nhỏ data thành các mini-batch với size = 100
-    size = 100 # kích thước của mỗi mini_batch
-    range_ = np.arange(0, len(df), size)
+    print(len(df))
+    # ------------------------------------------------ Trích xuất dữ liệu --------------------------------------------------
+    threads = []
 
-    for idx in range_:
-        mini_batch = df[idx: idx + size]
-        mini_batch["index"] = np.arange(0, len(mini_batch))
-        mini_batch = mini_batch.set_index("index")
-        extend_frame = extract_data_from_df(mini_batch)
-        mini_batch = concat_dataframe(mini_batch, extend_frame)
-        print(f"Complete {idx} to {idx + size}")
+    for i in range(0, len(df), 100):
+        threads.append(threading.Thread(target=process, args=(df,i, i + 100)))
 
-    read_full_data()
+    for thread in threads:
+        thread.start()
 
+    # after all threads are done print "Done"
+    for thread in threads:
+        thread.join()
     
+    path = "extract_features_from_data\\final_extracted_data.csv"
+    read_full_data(path)
+    print("Done")
