@@ -1,6 +1,6 @@
 ## 1. Task:
 
-Trích xuất dữ liệu phi cấu trúc từ cột "Description" thành dữ liệu có cấu trúc. Ví dụ:
+Trích xuất dữ liệu phi cấu trúc từ cột "Description" và cột "Title" thành dữ liệu có cấu trúc. Ví dụ:
 
 ```
 + Thông số cực đẹp 5 x 30m (150m2)
@@ -11,11 +11,12 @@ Trích xuất dữ liệu phi cấu trúc từ cột "Description" thành dữ l
 + Sổ đang vay bank 2.2 tỷ, pháp lý chuẩn, chủ cần bán gấp.
 ☎️ Thiện chí alo em Hiền gặp chính chủ thương lượng, miễn trung gian."
 
+Tiêu đề: Bạch Đằng, Quận 1
 ```
 
-Thành các tính năng như sau: "Chỗ để ô tô", "Đang cho thuê", "CSVC xung quanh", "Vấn đề pháp lý, sổ đỏ", "Số PN", "Số WC".
+Thành các tính năng như sau: "Chỗ để ô tô", "Đang cho thuê", "CSVC xung quanh", "Số PN", "Số WC", "ExtractedTitle"
 ```
-Kết quả trả về sẽ là một Python list như: [True, False, True, False, 2, 1]
+Kết quả trả về sẽ là một Python list như: [True, False, True, 2, 1, "Bạch Đằng, Quận 1"]
 
 Giải thích: 
 
@@ -24,6 +25,7 @@ Giải thích:
 - Do là khu vực tập trung nhiều dân cư, dự án nên tiện ích xung quanh sẽ là có.
 - Sổ đang vay bank nên vấn đề pháp lý, sổ đỏ là có.
 - Đề cập "2PN" nên số phòng ngủ là 2 và 1 từ toilet nên số phòng ngủ là 1.
+- Tiêu đề thể hiện địa chỉ
 ```
 
 - 5-6-2024: Thêm tính năng tìm địa chỉ trong cột "Title".
@@ -33,6 +35,8 @@ Giải thích:
 ### 2.1. extract_data.py
 
 Tập tin chính để chạy extract data. Trả về data với nhiều features hơn.
+
+Chỉ cần sử dụng file này. Cung cấp đường dẫn đến dữ liệu cào được từ web, nó tự động hoàn toàn và trả về file `final_extracted_data`.
 
 ### 2.2. features_prompt.py
 
