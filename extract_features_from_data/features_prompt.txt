@@ -3,17 +3,16 @@ Tôi sẽ cung cấp cho bạn một đoạn mô tả về căn nhà được b�
 1. Chỗ để ô tô (True/False): Nghĩa là nhà có chỗ để ô tô hay không. Mô tả phải đề cập các từ khóa: "Hầm xe", "nơi để xe hơi", "nhà xe", "ô tô tránh", "gara", "sân đậu xe hơi", "xe hơi ngủ trong nhà" ... Nếu không kết luận False.
 2. Cho thuê (True/False): Nghĩa là nhà có đang cho thuê hay không. Mô tả phải đề cập các từ khóa: "Đang cho thuê", "Dòng tiền", "Hợp đồng thuê",... Tránh nhầm lẫn với từ khóa như "vay", "ngân hàng", ...
 3. Cơ sở vật chất xung quanh (Gần bệnh viện, trường học, chợ, trung tâm thương mại) (True/False): Nghĩa là nhà có gần bệnh viện, trường học, chợ, trung tâm thương mại hay không. Mô tả phải đề cập các từ khóa: "bệnh viện", "trường học", "trung tâm thương mại", "chợ", "TT" ... Nếu không kết luận False.
-4. Vấn đề pháp lý, sổ đỏ (True/ False): Căn nhà có đầy đủ giấy tờ pháp lý, không tranh chấp không. Nếu mô tả đề cập: "sổ đỏ chính chủ", "hoàn công đầy đủ", ... nghĩa là nhà không gặp vấn đề pháp lý Trả về False. Nếu mô tả đề cập "vay ngân hàng", "sổ đỏ nợ" trả về True;
-5. Số phòng ngủ (int): Trả về số phòng ngủ của căn nhà. Mô tả có thể viết tắt như "PN", không đề cập trả về 0.
-6. Số WC (int): Trả về số phòng wc của căn nhà. Mô tả có thể đề cập "toilet", "nhà vệ sinh", "nhà tắm", ... Nếu không đề cập trả về False;
-7. Địa chỉ của căn nhà (string): Trả về địa chỉ của căn nhà. Bạn cần phân tích và trích xuất thông tin địa chỉ cụ thể của căn nhà đó. Thông tin địa chỉ bao gồm tên đường, tên ngõ, tên phố, tên phường, quận và thành phố (nếu có). Bạn cần áp dụng kiến thức về địa lý hành chính của Việt Nam để đảm bảo kết quả được chính xác nhất. Nếu thông tin không đầy đủ hoặc không chính xác, vui lòng trả về np.NAN. Đối với mỗi tiêu đề, bạn chỉ cần trả về địa chỉ mà không cần bất kỳ ký tự ngoặc kép hay thông tin thêm nào khác. Ví dụ:
+4. Số phòng ngủ (int): Trả về số phòng ngủ của căn nhà. Mô tả có thể viết tắt như "PN", không đề cập trả về 0.
+5. Số WC (int): Trả về số phòng wc của căn nhà. Mô tả có thể đề cập "toilet", "nhà vệ sinh", "nhà tắm", ... Nếu không đề cập trả về False;
+6. Địa chỉ của căn nhà (string): Trả về địa chỉ của căn nhà. Bạn cần phân tích và trích xuất thông tin địa chỉ cụ thể của căn nhà đó. Thông tin địa chỉ bao gồm tên đường, tên ngõ, tên phố, tên phường, quận và thành phố (nếu có). Bạn cần áp dụng kiến thức về địa lý hành chính của Việt Nam để đảm bảo kết quả được chính xác nhất. Nếu thông tin không đầy đủ hoặc không chính xác, vui lòng trả về np.NAN. Đối với mỗi tiêu đề, bạn chỉ cần trả về địa chỉ mà không cần bất kỳ ký tự ngoặc kép hay thông tin thêm nào khác. Ví dụ:
 Chỉ cung cấp địa chỉ hoặc na, không hỏi và không được nói gì thêm với người dùng. Nếu tiêu đề tôi cung cấp không liên quan đến bất động sản, bạn có thể trả về na ngay lập tức ví dụ "Tài khoản Scan Facebook là gì?" mà không hỏi hay cung cấp bất cứ thông tin gì thêm.
 Lưu ý một số từ khóa "hẻm xe hơi","phân lô","30m","ô tô","xe hơi" không phải là thông tin địa chỉ, và không được tồn tại trong câu trả lời.
 "KĐT" là khu đô thị. Thường nằm sau từ "Tiêu đề:"
 
 
 Lưu ý:
-- Nếu không có bất kỳ thông tin nào Trả về [False, False, False, False, 0, 0, False, np.NAN]
+- Nếu không có bất kỳ thông tin nào Trả về [False, False, False, 0, 0, False, np.NAN]
 - Bạn không cần giải thích bất cứ điều gì chỉ cần trả về Python list
 
 Ví dụ 1:
@@ -26,7 +25,7 @@ Lh: 0898992121 TRANG để xem nhà trực tiếp"
 Tiêu đề: "Bán Nhà Mặt tiền đường Kha Vạn Cân, P. Linh Đông, dt 180m2 giá 19 tỷ TL"
 
 
-Kết quả mong muốn: [False, True, False, False, 0, 0, "đường Kha Vạn Cân, Phường Linh Đông"]
+Kết quả mong muốn: [False, True, True, 0, 0, "đường Kha Vạn Cân, Phường Linh Đông"]
 
 
 Ví dụ 2:
@@ -40,7 +39,7 @@ Mô tả căn nhà: "Bán Nhà Mặt tiền đường Kha Vạn Cân, P. Linh Đ
 Liên Hệ Em Long 0898 408 677 để được xem và mua nhanh nhất!! Mong tiếp khách thiện chí"
 Tiêu đề: "Bán nhà HXH Âu Cơ Phường 9 Tân Bình, 51m2 3 Tầng, giá 5 tỷ nhỉnh"
 
-Kết quả mong muốn: [False, True, True, False, 4, 0, "đường Âu Cơ, Phường 9, Quận Tân Bình"]
+Kết quả mong muốn: [False, True, True, 4, 0, "đường Âu Cơ, Phường 9, Quận Tân Bình"]
 
 
 Ví dụ 3:
@@ -53,7 +52,7 @@ Mô tả căn nhà: "- Hiện có dòng tiền 15 triệu/tháng
 Tiêu đề: "Bán nhà gấp"
 
 
-Kết quả mong muốn: [True, False, True, False, 3, 3, "Bạch Đằng, Lê Quang Định"]
+Kết quả mong muốn: [False, True, True, 3, 3, "Bạch Đằng, Lê Quang Định"]
 
 
 Ví dụ 4:
@@ -67,7 +66,7 @@ Mô tả căn nhà: "- Diện tích 96m2 ngang 4.3m dài 22.5m .
 
 Tiêu đề: "LŨY BÁN BÍCH,TÂN PHÚ-DIỆN TÍCH KHỦNG 96M2 ( 4.3*22.5M)???? CHỈ 5TỶX"
 
-Kết quả mong muốn: [False, False, True, False, 0, 0, "Lũy Bán Bích, Quận Tân Phú"]
+Kết quả mong muốn: [False, False, True, 0, 0, "Lũy Bán Bích, Quận Tân Phú"]
 
 
 

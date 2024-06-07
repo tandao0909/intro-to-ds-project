@@ -17,14 +17,14 @@ pd.options.mode.copy_on_write = True
 
 def extract_data_from_df(df): # hàm trích xuất thông tin từ dataframe
     # tạo dataframe mới để lưu trữ thông tin trích xuất
-    extend_frame = pd.DataFrame(columns=["Chỗ để xe hơi", "Đang cho thuê", "CSVC xung quanh", "Vấn đề pháp lý, sổ đỏ", "Số PN", "Số WC", "ExtractedTitle"])
+    extend_frame = pd.DataFrame(columns=["Chỗ để xe hơi", "Đang cho thuê", "CSVC xung quanh", "Số PN", "Số WC", "ExtractedTitle"])
     limit = 9 # giới hạn số lần thử trích xuất
     # Với mỗi dòng trong df lấy ra Title và Description để trích xuất thông tin
     for i in range(len(df)):
         for j in range(limit + 1): # sau 10 lần thử thì thoát khỏi vòng lặp
             if j == limit:
                 print("Failed to extract")
-                extend_frame.loc[i] = [False, False, False, False, False, False, False]
+                extend_frame.loc[i] = [False, False, False, False, False, False]
                 break
             print(i, end = "\t")
             features = extract_features(df["Description"][i], title = df["Title"][i]) # trích xuất thông tin trả về list
@@ -102,7 +102,7 @@ def read_full_data(path):
 if __name__ == "__main__":
     # ------------------------------------------------ Xử lý dữ liệu --------------------------------------------------
 
-    df = pd.read_csv("extract_features_from_data\\next_1000(1).csv", sep="\t")
+    df = pd.read_csv("extract_features_from_data\\next_1000.csv", sep="\t")
     origin = df # giữ lại bản gốc của data
     # Bỏ đi các cột bị thừa
     df = df.drop(['Links', 'Unnamed: 0'], axis=1)
