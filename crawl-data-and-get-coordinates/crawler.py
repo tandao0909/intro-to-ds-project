@@ -34,7 +34,7 @@ class Crawler:
     
     def crawl(self):
         page = self.n_page
-        for i in range(page):
+        for i in range(205,page):
             url = self.url + "p{}".format(i+1)
             self.driver.get(url)
             self.driver.implicitly_wait(1)
@@ -83,7 +83,7 @@ if __name__ == '__main__':
     os.environ['PATH'] += r"/usr/local/bin/" # Path to driver
     driver = webdriver.Firefox() 
     driver.maximize_window()
-    crawler = Crawler(driver=driver,url='https://batdongsan.vn/ban-nha/',n_page=1) #It's demo, so I just crawl 1 page
+    crawler = Crawler(driver=driver,url='https://batdongsan.vn/ban-nha/',n_page=235) #It's demo, so I just crawl 1 page
     crawler.crawl()
     (crawler.report).to_csv('crawl-data-and-get-coordinates/output.csv',sep='\t',index=False)
 
