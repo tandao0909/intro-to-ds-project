@@ -49,6 +49,11 @@ def concat_dataframe(df, extend_frame):
     df["Số phòng ngủ"] = df["Số phòng ngủ"].astype(float)
     df["Số phòng WC"] = df["Số phòng WC"].astype(float)
 
+    df["Số PN"] = df["Số PN"].apply(lambda x: 0 if x == np.NAN else x) # với giá trị là nan thay bằng 0 de so sanh
+    df["Số WC"] = df["Số WC"].apply(lambda x: 0 if x == np.NAN else x)
+    df["Số PN"] = df["Số PN"].astype(float)
+    df["Số WC"] = df["Số WC"].astype(float)
+
     def max_two_columns_PN(row): # sẽ lấy max giữa 2 cột "Số phòng ngủ" và "Số PN"
         return max(row['Số phòng ngủ'], row['Số PN'])
     def max_two_columns_WC(row):
@@ -101,8 +106,7 @@ def read_full_data(path):
 
 if __name__ == "__main__":
     # ------------------------------------------------ Xử lý dữ liệu --------------------------------------------------
-
-    df = pd.read_csv("extract_features_from_data\\next_1000.csv", sep="\t")
+    df = pd.read_csv("crawl-data-and-get-coordinates\\next_1000(1).csv", sep="\t")
     origin = df # giữ lại bản gốc của data
     # Bỏ đi các cột bị thừa
     df = df.drop(['Links', 'Unnamed: 0'], axis=1)
