@@ -6,8 +6,8 @@ import numpy as np
 import datetime
 import re
 from features_prompt import extract_features # import file bắt đầu sử dụng LLM APi
-from read_all_data import read_full_data # import file đọc dữ liệu
 import threading
+import os
 
 pd.options.mode.copy_on_write = True
 
@@ -86,7 +86,18 @@ def process(df, start, end):
     mini_batch = concat_dataframe(mini_batch, extend_frame)
     print(f"Complete {start} to {end}")
 
+def read_full_data(path):
+    current_directory = f"extract_features_from_data\\data_2"
+    # nối đường dẫn với tên file
+    files = os.listdir(current_directory)
+    # join directory with file name
+    files = [f"{current_directory}\\{file}" for file in files]
 
+    # nối tất cả data trong folder vào 1 dataframe
+    df = pd.concat([pd.read_csv(file, sep = "\t") for file in files])
+
+    df.to_csv(path, index = False, sep = "\t")
+    print(df)
 
 if __name__ == "__main__":
     # ------------------------------------------------ Xử lý dữ liệu --------------------------------------------------
@@ -131,3 +142,11 @@ if __name__ == "__main__":
 
     for thread in threads:
         thread.start()
+
+    # after all threads are done print "Done"
+    for thread in threads:
+        thread.join()
+    
+    path = "extract_features_from_data\\final_extracted_data.csv"
+    read_full_data(path)
+    print("Done")
