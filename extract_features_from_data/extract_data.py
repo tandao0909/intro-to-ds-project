@@ -80,7 +80,7 @@ def concat_dataframe(df, extend_frame):
     df.to_csv(f"extract_features_from_data\\data_2\\{stamp}.csv", sep="\t", index=False) # lưu lại file csv sau khi xử lý xong
     return df
 
-
+# Trích xuất thông tin từ dataframe
 def process(df, start, end):
     # Chia nhỏ data thành các mini-batch với size = 100
     end = min(end, len(df))
@@ -90,7 +90,7 @@ def process(df, start, end):
     extend_frame = extract_data_from_df(mini_batch)
     mini_batch = concat_dataframe(mini_batch, extend_frame)
     print(f"Complete {start} to {end}")
-
+# Nối tất cả các data đã được xử lý thành 1 dataframe
 def read_full_data(path):
     current_directory = f"extract_features_from_data\\data_2"
     # nối đường dẫn với tên file
@@ -103,6 +103,20 @@ def read_full_data(path):
 
     df.to_csv(path, index = False, sep = "\t")
     print(df)
+# Nối các cột lon, lat vào dataframe
+def concat_lon_lat(address1_path, address2_path, path_to_save, push_to_database = False):
+    data = pd.read_csv("final_extracted_data.csv", sep = "\t")
+    lon_lat1 = pd.read_csv(address1_path, sep = "\t")
+    lon_lat1.rename(columns = {"Latitude":"lat1", "Longitude":"lon1"}, inplace = True)
+    lon_lat1 = lon_lat1.drop(["Unnamed: 0", "Address1"], axis = 1)
+
+    lon_lat2 = pd.read_csv(address2_path, sep = "\t")
+    lon_lat2.rename(columns = {"Latitude":"lat2", "Longitude":"lon2"}, inplace = True)
+    lon_lat2 = lon_lat2.drop(["Unnamed: 0", "Address2"], axis = 1)
+    data = pd.concat([data, lon_lat1, lon_lat2], axis = 1)
+    data.to_csv("final_extracted_data_has_lon_lat.csv", sep = "\t", index = False)
+    if push_to_database:
+        data.to_csv(os.path.join(os.path.abspath(os.path.join(os.getcwd(), os.pardir)), "data\\housing.csv"), sep = "\t", index = False)
 
 if __name__ == "__main__":
     # ------------------------------------------------ Xử lý dữ liệu --------------------------------------------------
