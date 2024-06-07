@@ -20,7 +20,7 @@ def read_full_data():
 
     df = df[~df['Description'].str.contains(ad_pattern,case=False,regex=True)]
     df = df[~df['Title'].str.contains(ad_pattern,case=False,regex=True)]
-    
+    df = df.drop(["Vấn đề pháp lý, sổ đỏ"], axis = 1)
 
     df.to_csv("extract_features_from_data\\final_extracted_data.csv", index = False, sep = "\t")
 

@@ -11,7 +11,6 @@ Data mà nhóm thu thập được bao gồm có 18 features, bao gồm:
 - **Chỗ để xe hơi**
 - **Đang cho thuê** : cho biết căn nhà đó có đang được sử dụng để cho thuê hay không
 - **CSVC xung quanh** : các tiện ích như trường học, bệnh viện, trung tâm thương mại...etc
-- **Vấn đề pháp lý, sổ đỏ** : cho biết căn nhà có minh bạch về mặt pháp lý hay không
 - **ExtractedTitle** : địa chỉ được trích xuất từ tiêu đề của bài đăng
 - **Address1** : địa chỉ được crawl từ mục thông số trong bài đăng bán nhà
 - **Address2** : địa chỉ được trích xuất từ tiêu đề của bài đăng
