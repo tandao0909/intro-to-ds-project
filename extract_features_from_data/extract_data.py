@@ -24,7 +24,7 @@ def extract_data_from_df(df): # hàm trích xuất thông tin từ dataframe
         for j in range(limit + 1): # sau 10 lần thử thì thoát khỏi vòng lặp
             if j == limit:
                 print("Failed to extract")
-                extend_frame.loc[i] = [False, False, False, False, False, False]
+                extend_frame.loc[i] = [False, False, False, np.NAN, np.NAN, ""]
                 break
             print(i, end = "\t")
             features = extract_features(df["Description"][i], title = df["Title"][i]) # trích xuất thông tin trả về list
@@ -61,7 +61,6 @@ def concat_dataframe(df, extend_frame):
 
     df['Số phòng ngủ'] = df.apply(max_two_columns_PN, axis=1)
     df['Số phòng WC'] = df.apply(max_two_columns_WC, axis=1)
-
     df = df.drop(["Số PN", "Số WC"], axis = 1) # bỏ đi 1 cột sau khi đã lấy max
 
     # nếu giá trị là 0 thì thay bằng nan
@@ -120,7 +119,7 @@ def concat_lon_lat(address1_path, address2_path, path_to_save, push_to_database 
 
 if __name__ == "__main__":
     # ------------------------------------------------ Xử lý dữ liệu --------------------------------------------------
-    df = pd.read_csv("crawl-data-and-get-coordinates\\next_1000(1).csv", sep="\t")
+    df = pd.read_csv("crawl-data-and-get-coordinates\\next_1000(2).csv", sep="\t")
     origin = df # giữ lại bản gốc của data
     # Bỏ đi các cột bị thừa
     df = df.drop(['Links', 'Unnamed: 0'], axis=1)

@@ -12,7 +12,7 @@ Lưu ý một số từ khóa "hẻm xe hơi","phân lô","30m","ô tô","xe hơ
 
 
 Lưu ý:
-- Nếu không có bất kỳ thông tin nào Trả về [False, False, False, 0, 0, False, np.NAN]
+- Nếu không có bất kỳ thông tin nào Trả về [False, False, False, 0, 0, np.NAN]
 - Bạn không cần giải thích bất cứ điều gì chỉ cần trả về Python list
 
 Ví dụ 1:
