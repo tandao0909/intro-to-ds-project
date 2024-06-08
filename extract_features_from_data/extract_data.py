@@ -120,7 +120,7 @@ def concat_lon_lat(address1_path, address2_path, path_to_save, push_to_database 
 
 if __name__ == "__main__":
     # ------------------------------------------------ Xử lý dữ liệu --------------------------------------------------
-    df = pd.read_csv("crawl-data-and-get-coordinates\\next_1000(2).csv", sep="\t")
+    df = pd.read_csv("crawl-data-and-get-coordinates\\next_1000(3).csv", sep="\t")
     origin = df # giữ lại bản gốc của data
     # Bỏ đi các cột bị thừa
     df = df.drop(['Links', 'Unnamed: 0'], axis=1)
