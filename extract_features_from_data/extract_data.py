@@ -8,6 +8,7 @@ import re
 from features_prompt import extract_features # import file bắt đầu sử dụng LLM APi
 import threading
 import os
+import time
 
 pd.options.mode.copy_on_write = True
 
@@ -101,7 +102,7 @@ def read_full_data(path):
     df = pd.concat([pd.read_csv(file, sep = "\t") for file in files])
 
     df.to_csv(path, index = False, sep = "\t")
-    print(df)
+    # print(df)
 # Nối các cột lon, lat vào dataframe
 def concat_lon_lat(address1_path, address2_path, path_to_save, push_to_database = False):
     data = pd.read_csv("final_extracted_data.csv", sep = "\t")
@@ -152,6 +153,7 @@ if __name__ == "__main__":
 
     print(len(df))
     # ------------------------------------------------ Trích xuất dữ liệu --------------------------------------------------
+    start_time = time.time()
     threads = []
 
     for i in range(0, len(df), 100):
@@ -166,4 +168,5 @@ if __name__ == "__main__":
     
     path = "extract_features_from_data\\final_extracted_data.csv"
     read_full_data(path)
+    print("Time: ", time.time() - start_time)
     print("Done")
