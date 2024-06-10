@@ -18,14 +18,14 @@ pd.options.mode.copy_on_write = True
 
 def extract_data_from_df(df): # hàm trích xuất thông tin từ dataframe
     # tạo dataframe mới để lưu trữ thông tin trích xuất
-    extend_frame = pd.DataFrame(columns=["Chỗ để xe hơi", "Đang cho thuê", "CSVC xung quanh", "Số PN", "Số WC", "ExtractedTitle"])
+    extend_frame = pd.DataFrame(columns=["Số PN", "Số WC", "ExtractedTitle"])
     limit = 9 # giới hạn số lần thử trích xuất
     # Với mỗi dòng trong df lấy ra Title và Description để trích xuất thông tin
     for i in range(len(df)):
         for j in range(limit + 1): # sau 10 lần thử thì thoát khỏi vòng lặp
             if j == limit:
                 print("Failed to extract")
-                extend_frame.loc[i] = [False, False, False, np.NAN, np.NAN, ""]
+                extend_frame.loc[i] = [np.NAN, np.NAN, ""]
                 break
             print(i, end = "\t")
             features = extract_features(df["Description"][i], title = df["Title"][i]) # trích xuất thông tin trả về list
@@ -135,7 +135,9 @@ if __name__ == "__main__":
     for column in columns:
         df[column] = df[column].apply(replace_na_with_NaN)
 
-    ad_pattern = r"Google|Facebook|Cửa\wgỗ|Cửa\wnhựa|Cửa\wsắt|Ad|Max|Marketing|Email|SMS" # tìm các từ khóa để lọc ra tin quảng cáo, rác
+    df["Description"] = df["Description"].apply(lambda x : str(x).lower()) # chuyển tất cả các giá trị trong cột Description thành string và chuyển về chữ thường
+
+    ad_pattern = r"google|facebook|cửa\wgỗ|cửa\wnhựa|cửa\wsắt|ad|max|marketing|email|sms" # tìm các từ khóa để lọc ra tin quảng cáo, rác
     df["Title"] = df["Title"].apply(lambda x : str(x))
     df = df[~df['Title'].str.contains(ad_pattern,case=False,regex=True)] # xóa đi các dòng chứa từ khóa quảng cáo
     df["Description"] = df["Description"].apply(lambda x : str(x)) # chuyển tất cả các giá trị trong cột Description thành string
@@ -150,6 +152,26 @@ if __name__ == "__main__":
 
     df["index"] = np.arange(0, len(df)) # set lại index mới cho dataframe 
     df = df.set_index("index")
+
+
+    # ------------------------------------------------ Tạo các features mới --------------------------------------------------
+    gara_pattern = r"\bgara\b|\bđỗ ô tô\b|\bxe hơi\b|\bô tô tránh\b|\bhầm xe\b|\bhầm\b|\bnhà xe\b|\bđỗ\b|\bô tô\b|\bôtô\b|\bsân đỗ\b"
+    df["Chỗ để xe hơi"] = df["Description"].str.contains(gara_pattern,case=False,regex=True)
+
+
+    in_lease_pattern = r"\btriệu/tháng\b|\btr/tháng\b|\bdòng tiền\b|\bđang cho thuê\b|\bdoanh thu\b"
+    df["Đang cho thuê"] = df["Description"].str.contains(in_lease_pattern,case=False,regex=True)
+
+
+    extension_pattern=r"trường\shọc|bệnh\sviện|bv|trung\stâm\sthương\smại|mall|aeon|siêu\sthị|đh|đại\shọc|học\sviện|tiện\sích|chợ|thpt|thcs|sầm\suất|vị\strí\sđắc\sđịa|trường|mart|bigc|y tế"
+    df["CSVC xung quanh"]=df["Description"].str.contains(extension_pattern,case=False,regex=True)
+
+    money_face_pattern = r"mặt tiền|mặt phố|mặt đường"
+    except_pattern = r"cách mặt tiền|cách mặt phố|sát mặt tiền" # loại bỏ các từ khóa không phải mặt tiền
+    tmp = df["Description"].str.contains(money_face_pattern,case=False,regex=True)
+    tmp2 = ~df["Description"].str.contains(except_pattern,case=False,regex=True)
+
+    df["Mặt tiền"] = tmp & tmp2 # lọc ra các dòng chứa từ khóa "mặt tiền" và không chứa từ khóa except_pattern
 
     print(len(df))
     # ------------------------------------------------ Trích xuất dữ liệu --------------------------------------------------
@@ -170,3 +192,5 @@ if __name__ == "__main__":
     read_full_data(path)
     print("Time: ", time.time() - start_time)
     print("Done")
+
+    
