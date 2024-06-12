@@ -164,7 +164,7 @@ def solve_only_soTang(df, start, end):
 if __name__ == "__main__":
     # ------------------------------------------------ Xử lý dữ liệu --------------------------------------------------
     df = pd.read_csv("crawl-data-and-get-coordinates\\dataset\\trantroi.csv", sep="\t")
-    df = df[1550:2050]
+    df = df[2050:]
     origin = df # giữ lại bản gốc của data
     # Bỏ đi các cột bị thừa
     df = df.drop(['Unnamed: 0'], axis=1)
