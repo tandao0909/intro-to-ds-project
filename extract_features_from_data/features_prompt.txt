@@ -9,7 +9,7 @@ Lưu ý một số từ khóa "hẻm xe hơi","phân lô","30m","ô tô","xe hơ
 
 
 Lưu ý:
-- Nếu không có bất kỳ thông tin nào Trả về [0, 0, 0, np.NAN]
+- Nếu không có bất kỳ thông tin nào Trả về [0, 0, 0, ""]
 - Bạn không cần giải thích bất cứ điều gì chỉ cần trả về Python list
 
 Ví dụ 1:
@@ -35,7 +35,7 @@ Mô tả căn nhà: "Bán Nhà Mặt tiền đường Kha Vạn Cân, P. Linh Đ
 Liên Hệ Em Long 0898 408 677 để được xem và mua nhanh nhất!! Mong tiếp khách thiện chí"
 Tiêu đề: "Bán nhà HXH Âu Cơ Phường 9 Tân Bình, 51m2 3 Tầng, giá 5 tỷ nhỉnh"
 
-Kết quả mong muốn: [4, 0, 4, "đường Âu Cơ, Phường 9, Quận Tân Bình"]
+Kết quả mong muốn: [0, 0, 4, "đường Âu Cơ, Phường 9, Quận Tân Bình"]
 
 
 Ví dụ 3:
