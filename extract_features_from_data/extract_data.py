@@ -16,10 +16,20 @@ pd.options.mode.copy_on_write = True
 
 # ------------------------------------------------ Các hàm hỗ trợ trích xuất --------------------------------------------------
 def get_max_string(strings):
+    """Return a string which has the maximum length in a list of strings
+    Parameters:
+    - strings: a list of strings
+    """
     return max(strings, key = lambda x : len(x))
 
 
 def extract_data_from_df(df): # hàm trích xuất thông tin từ dataframe
+    """
+    Main function to extract features from a dataframe. This function will extract features from Title and Description of each row in the dataframe.
+    Each row will be extracted 5 times to get more accurate results.
+    Parameters:
+    - df: a dataframe which contains Title and Description columns
+    """
     # tạo dataframe mới để lưu trữ thông tin trích xuất
     extend_frame = pd.DataFrame(columns=["Số PN", "Số WC", "Số tầng", "ExtractedTitle"])
     limit = 5 # giới hạn số lần thử trích xuất
@@ -60,6 +70,12 @@ def extract_data_from_df(df): # hàm trích xuất thông tin từ dataframe
 
 # nối dataframe ban đầu với các features mới và tinh chỉnh thêm các features
 def concat_dataframe(df, extend_frame):
+    """
+    Concatenate the original dataframe with the extracted features dataframe and do some additional processing.
+    Parameters:
+    - df: the original dataframe
+    - extend_frame: the extracted features dataframe
+    """
     df = pd.concat([df, extend_frame], axis=1) 
 
     convert0_to_NAN = lambda x : np.nan if x == 0 else x
@@ -103,6 +119,13 @@ def concat_dataframe(df, extend_frame):
 
 # Trích xuất thông tin từ dataframe
 def process(df, start, end):
+    """
+    Extract features from a dataframe. This function take a part of the dataframe and extract features from it. It is good for multi-threading.
+    Parameters:
+    - df: the dataframe
+    - start: the start index
+    - end: the end index
+    """
     # Chia nhỏ data thành các mini-batch với size = 100
     end = min(end, len(df))
     mini_batch = df[start: end]
@@ -113,8 +136,14 @@ def process(df, start, end):
     print(f"Complete {start} to {end}")
 # Nối tất cả các data đã được xử lý thành 1 dataframe
 
-def read_full_data(path):
-    current_directory = f"extract_features_from_data\\data_3"
+def read_full_data(path_in, path_out):
+    """
+    Read all data in a folder and concatenate them into a single dataframe.
+    Parameters:
+    - path_in: the folder path which contains all data files
+    - path_out: the path to save the final dataframe
+    """
+    current_directory = path_in
     # nối đường dẫn với tên file
     files = os.listdir(current_directory)
     # join directory with file name
@@ -128,7 +157,12 @@ def read_full_data(path):
     # print(df)
 
 def data_cleaning(df):
-
+    """
+    Clean the data before extracting features. This function will remove unnecessary columns, remove duplicates, and filter out ads.
+    Then it will create new features for the dataframe: "Chỗ để xe hơi", "Đang cho thuê", "CSVC xung quanh", "Mặt tiền".
+    Parameters:
+    - df: the dataframe
+    """
     df = df.drop(['Unnamed: 0'], axis=1) # Bỏ đi cột thừa
     df = df.drop_duplicates() # xóa đi các trùng lặp
 
@@ -208,7 +242,8 @@ if __name__ == "__main__":
     for thread in threads:
         thread.join()
     
-    path = "extract_features_from_data\\final_extracted_data.csv" # path để gộp tất cả các file đã xử lý thành 1 file
+    path_in = "extract_features_from_data\\data_3"
+    path_out = "extract_features_from_data\\final_extracted_data.csv" # path để gộp tất cả các file đã xử lý thành 1 file
     read_full_data(path) # gộp tất cả các file đã xử lý thành 1 file
     print("Time: ", time.time() - start_time)
     print("Done")
