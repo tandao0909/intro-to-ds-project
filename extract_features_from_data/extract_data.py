@@ -122,7 +122,8 @@ def read_full_data(path):
 
     # nối tất cả data trong folder vào 1 dataframe
     df = pd.concat([pd.read_csv(file, sep = "\t") for file in files])
-
+    df = df.drop_duplicates(subset = ["Description"], keep = "first") # xóa đi các dòng trùng lặp
+    df.drop(["index"], axis = 1, inplace=True) # bỏ đi cột index
     df.to_csv(path, index = False, sep = "\t")
     # print(df)
 
