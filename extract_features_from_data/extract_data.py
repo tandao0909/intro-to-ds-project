@@ -95,6 +95,7 @@ def concat_dataframe(df, extend_frame):
     # Lưu lại dataframe sau khi xử lý
     stamp = str(datetime.datetime.now()).replace(":", "-").replace(" ", "_") # tạo ra một thời gian để lưu file
     print("Đã lưu vào lúc: " + stamp) # in ra thời gian để lưu file
+    stamp += str(np.random.randint(0, 1000)) # thêm một số ngẫu nhiên vào tên file
     df.to_csv(f"extract_features_from_data\\data_3\\{stamp}.csv", sep="\t", index=False) # lưu lại file csv sau khi xử lý xong
     return df
 
@@ -162,8 +163,8 @@ def solve_only_soTang(df, start, end):
     
 if __name__ == "__main__":
     # ------------------------------------------------ Xử lý dữ liệu --------------------------------------------------
-    df = pd.read_csv("crawl-data-and-get-coordinates\\next_1000(3).csv", sep="\t")
-    df = df[200:300]
+    df = pd.read_csv("crawl-data-and-get-coordinates\\dataset\\trantroi.csv", sep="\t")
+    df = df[1550:2050]
     origin = df # giữ lại bản gốc của data
     # Bỏ đi các cột bị thừa
     df = df.drop(['Unnamed: 0'], axis=1)
@@ -192,6 +193,8 @@ if __name__ == "__main__":
     df = df[df["Price"].str.contains(price_pattern,case=False,regex=True)] # giữ lại giá có "tỷ"
     df = df[~df["Price"].str.contains(enter_pattern,case=False,regex=True)] # xóa đi giá có ký tự xuống dòng
     df["Price"] = df["Price"].apply(lambda x : x[:-3]) # bỏ đi chữ "tỷ"
+    df["Price"] = df["Price"].astype(float) # chuyển về kiểu float
+    df = df[df["Price"] < 100]
 
     df["index"] = np.arange(0, len(df)) # set lại index mới cho dataframe 
     df = df.set_index("index")
@@ -218,23 +221,24 @@ if __name__ == "__main__":
 
     print(len(df))
     # ------------------------------------------------ Trích xuất dữ liệu --------------------------------------------------
-    # start_time = time.time()
-    # threads = []
+    start_time = time.time()
+    threads = []
 
-    # step = 10
-    # for i in range(0, len(df), step):
-    #     threads.append(threading.Thread(target=process, args=(df,i, i + step)))
+    step = int(len(df) / 10) + 1
+    print(step)
+    for i in range(0, len(df), step):
+        threads.append(threading.Thread(target=process, args=(df,i, i + step)))
 
-    # for thread in threads:
-    #     thread.start()
+    for thread in threads:
+        thread.start()
 
-    # # after all threads are done print "Done"
-    # for thread in threads:
-    #     thread.join()
+    # after all threads are done print "Done"
+    for thread in threads:
+        thread.join()
     
-    # path = "extract_features_from_data\\final_extracted_data.csv"
-    # read_full_data(path)
-    # print("Time: ", time.time() - start_time)
-    # print("Done")
+    path = "extract_features_from_data\\final_extracted_data.csv"
+    read_full_data(path)
+    print("Time: ", time.time() - start_time)
+    print("Done")
 
-    
+    # da xong 750 data dau tien

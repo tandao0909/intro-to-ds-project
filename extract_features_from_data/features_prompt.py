@@ -44,7 +44,11 @@ def extract_features(description, title, token = token):
     }
 
     with s.post(url, headers={"Authorization": f"Bearer {token}"}, json=body) as resp:
-        all_content = resp.json()["choices"][0]["message"]["content"] # đây là câu trả lời chính
+        try:
+            all_content = resp.json()["choices"][0]["message"]["content"] # đây là câu trả lời chính
+        except Exception as e:
+            print(e)
+            return [0, 0, 0, ""]
         # tìm Python list trong câu trả lời
         open_key = all_content.find("[") 
         end_key = all_content.find("]")
@@ -52,5 +56,5 @@ def extract_features(description, title, token = token):
             ans = eval(all_content[open_key:end_key+1])
             # đây là đoạn bị lỗi, tự động trả về mảng rỗng để bên phía extract_data.py xử lý đưa vào index error
         except:
-            ans = []
+            ans = [0, 0, 0, ""]
         return ans
