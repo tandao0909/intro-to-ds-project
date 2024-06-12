@@ -219,13 +219,13 @@ if __name__ == "__main__":
 
     df["Mặt tiền"] = tmp & tmp2 # lọc ra các dòng chứa từ khóa "mặt tiền" và không chứa từ khóa except_pattern
 
-    print(len(df))
+    print(f"Len(df) = {len(df)}")
     # ------------------------------------------------ Trích xuất dữ liệu --------------------------------------------------
     start_time = time.time()
     threads = []
 
     step = int(len(df) / 10) + 1
-    print(step)
+    print(f"Step: {step}")
     for i in range(0, len(df), step):
         threads.append(threading.Thread(target=process, args=(df,i, i + step)))
 
