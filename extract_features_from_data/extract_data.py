@@ -62,14 +62,16 @@ def extract_data_from_df(df): # hàm trích xuất thông tin từ dataframe
 def concat_dataframe(df, extend_frame):
     df = pd.concat([df, extend_frame], axis=1) 
 
+    convert0_to_NAN = lambda x : np.nan if x == 0 else x
+    convertNAN_to_0 = lambda x : 0 if x == np.nan else x
     # combine các cột "Số phòng ngủ" và "Số phòng WC" với nhau
-    df["Số phòng ngủ"] = df["Số phòng ngủ"].apply(lambda x: 0 if x == np.NAN else x) # với giá trị là nan thay bằng 0 de so sanh
-    df["Số phòng WC"] = df["Số phòng WC"].apply(lambda x: 0 if x == np.NAN else x)
+    df["Số phòng ngủ"] = df["Số phòng ngủ"].apply(convertNAN_to_0) # với giá trị là nan thay bằng 0 de so sanh
+    df["Số phòng WC"] = df["Số phòng WC"].apply(convertNAN_to_0)
     df["Số phòng ngủ"] = df["Số phòng ngủ"].astype(float)
     df["Số phòng WC"] = df["Số phòng WC"].astype(float)
 
-    df["Số PN"] = df["Số PN"].apply(lambda x: 0 if x == np.NAN else x) # với giá trị là nan thay bằng 0 de so sanh
-    df["Số WC"] = df["Số WC"].apply(lambda x: 0 if x == np.NAN else x)
+    df["Số PN"] = df["Số PN"].apply(convertNAN_to_0) # với giá trị là nan thay bằng 0 de so sanh
+    df["Số WC"] = df["Số WC"].apply(convertNAN_to_0)
     df["Số PN"] = df["Số PN"].astype(float)
     df["Số WC"] = df["Số WC"].astype(float)
 
@@ -83,8 +85,8 @@ def concat_dataframe(df, extend_frame):
     df = df.drop(["Số PN", "Số WC"], axis = 1) # bỏ đi 1 cột sau khi đã lấy max
 
     # nếu giá trị là 0 thì thay bằng nan
-    df["Số phòng WC"] = df["Số phòng WC"].apply(lambda x : np.nan if x == 0 else x) 
-    df["Số phòng ngủ"] = df["Số phòng ngủ"].apply(lambda x : np.nan if x == 0 else x)
+    df["Số phòng WC"] = df["Số phòng WC"].apply(convert0_to_NAN) 
+    df["Số phòng ngủ"] = df["Số phòng ngủ"].apply(convert0_to_NAN)
 
     # Combine cột Địa chỉ va ExtractedTitle
         # ưu tiên Địa chỉ hơn
@@ -110,6 +112,7 @@ def process(df, start, end):
     mini_batch = concat_dataframe(mini_batch, extend_frame)
     print(f"Complete {start} to {end}")
 # Nối tất cả các data đã được xử lý thành 1 dataframe
+
 def read_full_data(path):
     current_directory = f"extract_features_from_data\\data_3"
     # nối đường dẫn với tên file
@@ -122,52 +125,10 @@ def read_full_data(path):
 
     df.to_csv(path, index = False, sep = "\t")
     # print(df)
-# Nối các cột lon, lat vào dataframe
-def concat_lon_lat(address1_path, address2_path, path_to_save, push_to_database = False):
-    data = pd.read_csv("final_extracted_data.csv", sep = "\t")
-    lon_lat1 = pd.read_csv(address1_path, sep = "\t")
-    lon_lat1.rename(columns = {"Latitude":"lat1", "Longitude":"lon1"}, inplace = True)
-    lon_lat1 = lon_lat1.drop(["Unnamed: 0", "Address1"], axis = 1)
 
-    lon_lat2 = pd.read_csv(address2_path, sep = "\t")
-    lon_lat2.rename(columns = {"Latitude":"lat2", "Longitude":"lon2"}, inplace = True)
-    lon_lat2 = lon_lat2.drop(["Unnamed: 0", "Address2"], axis = 1)
-    data = pd.concat([data, lon_lat1, lon_lat2], axis = 1)
-    data.to_csv("final_extracted_data_has_lon_lat.csv", sep = "\t", index = False)
-    if push_to_database:
-        data.to_csv(os.path.join(os.path.abspath(os.path.join(os.getcwd(), os.pardir)), "data\\housing.csv"), sep = "\t", index = False)
+def data_cleaning(df):
 
-def concat_dataframe_2(df, extend_frame):
-    # take only column "Số tầng" of extend_frame
-    extend_frame = extend_frame[["Số tầng"]]
-    df = pd.concat([df, extend_frame], axis=1)
-    df = df.drop(["index"], axis = 1)
-    # Lưu lại dataframe sau khi xử lý
-    stamp = str(datetime.datetime.now()).replace(":", "-").replace(" ", "_") # tạo ra một thời gian để lưu file
-    print("Đã lưu vào lúc: " + stamp) # in ra thời gian để lưu file
-    df.to_csv(f"extract_features_from_data\\data_3\\{stamp}.csv", sep="\t", index=False) # lưu lại file csv sau khi xử lý xong
-    return df
-
-def solve_only_soTang(df, start, end):
-    end = min(end, len(df))
-    mini_batch = df[start: end]
-    mini_batch["index"] = np.arange(0, len(mini_batch))
-    mini_batch = mini_batch.set_index("index")
-    extend_frame = extract_data_from_df(mini_batch)
-    mini_batch = concat_dataframe_2(mini_batch, extend_frame)
-    print(f"Complete {start} to {end}")
-    
-
-
-
-    
-if __name__ == "__main__":
-    # ------------------------------------------------ Xử lý dữ liệu --------------------------------------------------
-    df = pd.read_csv("crawl-data-and-get-coordinates\\dataset\\trantroi.csv", sep="\t")
-    df = df[1550:2050]
-    origin = df # giữ lại bản gốc của data
-    # Bỏ đi các cột bị thừa
-    df = df.drop(['Unnamed: 0'], axis=1)
+    df = df.drop(['Unnamed: 0'], axis=1) # Bỏ đi cột thừa
     df = df.drop_duplicates() # xóa đi các trùng lặp
 
     # data ban đầu những giá trị không phải số được điền là "na" -> thay bằng np.NAN
@@ -201,44 +162,52 @@ if __name__ == "__main__":
 
 
     # ------------------------------------------------ Tạo các features mới --------------------------------------------------
+    # Chỗ để xe hơi
     gara_pattern = r"\bgara\b|\bđỗ ô tô\b|\bxe hơi\b|\bô tô tránh\b|\bhầm xe\b|\bhầm\b|\bnhà xe\b|\bđỗ\b|\bô tô\b|\bôtô\b|\bsân đỗ\b"
     df["Chỗ để xe hơi"] = df["Description"].str.contains(gara_pattern,case=False,regex=True)
 
-
+    # Đang cho thuê
     in_lease_pattern = r"\btriệu/tháng\b|\btr/tháng\b|\bdòng tiền\b|\bđang cho thuê\b|\bdoanh thu\b"
     df["Đang cho thuê"] = df["Description"].str.contains(in_lease_pattern,case=False,regex=True)
 
-
+    # Tiện ích xung quanh
     extension_pattern=r"trường\shọc|bệnh\sviện|bv|trung\stâm\sthương\smại|mall|aeon|siêu\sthị|đh|đại\shọc|học\sviện|tiện\sích|chợ|thpt|thcs|sầm\suất|vị\strí\sđắc\sđịa|trường|mart|bigc|y tế"
     df["CSVC xung quanh"]=df["Description"].str.contains(extension_pattern,case=False,regex=True)
 
+    # Mặt tiền
     money_face_pattern = r"mặt tiền|mặt phố|mặt đường"
     except_pattern = r"cách mặt tiền|cách mặt phố|sát mặt tiền" # loại bỏ các từ khóa không phải mặt tiền
     tmp = df["Description"].str.contains(money_face_pattern,case=False,regex=True)
     tmp2 = ~df["Description"].str.contains(except_pattern,case=False,regex=True)
 
     df["Mặt tiền"] = tmp & tmp2 # lọc ra các dòng chứa từ khóa "mặt tiền" và không chứa từ khóa except_pattern
+    return df
 
+
+    
+if __name__ == "__main__":
+    # ------------------------------------------------ Xử lý dữ liệu --------------------------------------------------
+    df = pd.read_csv("crawl-data-and-get-coordinates\\dataset\\trantroi.csv", sep="\t")
+    df = data_cleaning(df)  
     print(f"Len(df) = {len(df)}")
     # ------------------------------------------------ Trích xuất dữ liệu --------------------------------------------------
     start_time = time.time()
     threads = []
 
-    step = int(len(df) / 10) + 1
+    step = int(len(df) / 10) + 1 # chia nhỏ data thành 10 phần dành cho 10 thread
     print(f"Step: {step}")
+
     for i in range(0, len(df), step):
         threads.append(threading.Thread(target=process, args=(df,i, i + step)))
 
     for thread in threads:
         thread.start()
 
-    # after all threads are done print "Done"
+    # sau khi tất cả các thread đã hoàn thành thì join lại
     for thread in threads:
         thread.join()
     
-    path = "extract_features_from_data\\final_extracted_data.csv"
-    read_full_data(path)
+    path = "extract_features_from_data\\final_extracted_data.csv" # path để gộp tất cả các file đã xử lý thành 1 file
+    read_full_data(path) # gộp tất cả các file đã xử lý thành 1 file
     print("Time: ", time.time() - start_time)
     print("Done")
-
-    # da xong 750 data dau tien
