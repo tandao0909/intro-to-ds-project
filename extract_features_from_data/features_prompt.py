@@ -6,7 +6,8 @@ s = requests.Session()
 current_file_path = os.path.abspath(__file__)
 
 # Sử dụng model
-feature_model = "meta-llama/Meta-Llama-3-8B-Instruct"
+feature_model = "meta-llama/Meta-Llama-3-70B-Instruct"
+# feature_model = "mistralai/Mixtral-8x22B-Instruct-v0.1"
 api_base = "https://api.endpoints.anyscale.com/v1"
 url = f"{api_base}/chat/completions"
 

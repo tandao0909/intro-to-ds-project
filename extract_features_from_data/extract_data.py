@@ -15,27 +15,45 @@ pd.options.mode.copy_on_write = True
 
 
 # ------------------------------------------------ Các hàm hỗ trợ trích xuất --------------------------------------------------
+def get_max_string(strings):
+    return max(strings, key = lambda x : len(x))
+
 
 def extract_data_from_df(df): # hàm trích xuất thông tin từ dataframe
     # tạo dataframe mới để lưu trữ thông tin trích xuất
-    extend_frame = pd.DataFrame(columns=["Số PN", "Số WC", "ExtractedTitle"])
-    limit = 9 # giới hạn số lần thử trích xuất
+    extend_frame = pd.DataFrame(columns=["Số PN", "Số WC", "Số tầng", "ExtractedTitle"])
+    limit = 5 # giới hạn số lần thử trích xuất
     # Với mỗi dòng trong df lấy ra Title và Description để trích xuất thông tin
+    # gán lại index
+    df["index"] = np.arange(0, len(df))
+    df = df.set_index("index")
     for i in range(len(df)):
-        for j in range(limit + 1): # sau 10 lần thử thì thoát khỏi vòng lặp
-            if j == limit:
-                print("Failed to extract")
-                extend_frame.loc[i] = [np.NAN, np.NAN, ""]
-                break
-            print(i, end = "\t")
-            features = extract_features(df["Description"][i], title = df["Title"][i]) # trích xuất thông tin trả về list
-            try:
-                extend_frame.loc[i] = features # gán list vào dataframe mới
-                print("Complete") # nếu thành công in ra "Complete"
-                break # thoát khỏi vòng lặp sớm
-            except Exception as e:
-                print(e)
+        # lấy ra title và description từ dataframe
+        title = df["Title"][i]
+        description = df["Description"][i]
 
+        # trích xuất thông tin từ title và description
+        features = [extract_features(description, title) for _ in range(limit)]
+        # lấy ra các giá trị không rỗng
+        features = [feature for feature in features if feature != []]
+        # nếu không có giá trị nào thì thêm vào dataframe một dòng toàn giá trị nan (thay = 0 cho đỡ báo lỗi)
+        if len(features) == 0:
+            extend_frame.loc[i] = [0, 0, 0, ""]
+            print("No features extracted")
+        else:
+            # cột address là cột cuối cùng trong features tôi cần lấy ra chuỗi dài nhất
+            try:
+                address = get_max_string([feature[3] for feature in features])
+            except:
+                address = ""
+            # tôi cần lấy ra 3 cột của features
+            num_val = [feature[:3] for feature in features]
+            # lấy mean của các cột
+            num_val = np.mean(num_val, axis = 0)
+            # nối num_val và address thành một dòng mới
+            print([num_val[0], num_val[1], num_val[2], address])
+            # nối vào extend_frame
+            extend_frame.loc[i] = [num_val[0], num_val[1], num_val[2], address]
     print("Extract complete")
     return extend_frame
 
@@ -75,9 +93,9 @@ def concat_dataframe(df, extend_frame):
     df["Address2"] = np.where(df["ExtractedTitle"].notna(), df["ExtractedTitle"], np.where(df["Địa chỉ"].notna(), df["Địa chỉ"], np.NAN))
 
     # Lưu lại dataframe sau khi xử lý
-    stamp = str(datetime.datetime.now())[:19].replace(":", "-").replace(" ", "_") # tạo ra một thời gian để lưu file
+    stamp = str(datetime.datetime.now()).replace(":", "-").replace(" ", "_") # tạo ra một thời gian để lưu file
     print("Đã lưu vào lúc: " + stamp) # in ra thời gian để lưu file
-    df.to_csv(f"extract_features_from_data\\data_2\\{stamp}.csv", sep="\t", index=False) # lưu lại file csv sau khi xử lý xong
+    df.to_csv(f"extract_features_from_data\\data_3\\{stamp}.csv", sep="\t", index=False) # lưu lại file csv sau khi xử lý xong
     return df
 
 # Trích xuất thông tin từ dataframe
@@ -92,7 +110,7 @@ def process(df, start, end):
     print(f"Complete {start} to {end}")
 # Nối tất cả các data đã được xử lý thành 1 dataframe
 def read_full_data(path):
-    current_directory = f"extract_features_from_data\\data_2"
+    current_directory = f"extract_features_from_data\\data_3"
     # nối đường dẫn với tên file
     files = os.listdir(current_directory)
     # join directory with file name
@@ -118,12 +136,37 @@ def concat_lon_lat(address1_path, address2_path, path_to_save, push_to_database 
     if push_to_database:
         data.to_csv(os.path.join(os.path.abspath(os.path.join(os.getcwd(), os.pardir)), "data\\housing.csv"), sep = "\t", index = False)
 
+def concat_dataframe_2(df, extend_frame):
+    # take only column "Số tầng" of extend_frame
+    extend_frame = extend_frame[["Số tầng"]]
+    df = pd.concat([df, extend_frame], axis=1)
+    df = df.drop(["index"], axis = 1)
+    # Lưu lại dataframe sau khi xử lý
+    stamp = str(datetime.datetime.now()).replace(":", "-").replace(" ", "_") # tạo ra một thời gian để lưu file
+    print("Đã lưu vào lúc: " + stamp) # in ra thời gian để lưu file
+    df.to_csv(f"extract_features_from_data\\data_3\\{stamp}.csv", sep="\t", index=False) # lưu lại file csv sau khi xử lý xong
+    return df
+
+def solve_only_soTang(df, start, end):
+    end = min(end, len(df))
+    mini_batch = df[start: end]
+    mini_batch["index"] = np.arange(0, len(mini_batch))
+    mini_batch = mini_batch.set_index("index")
+    extend_frame = extract_data_from_df(mini_batch)
+    mini_batch = concat_dataframe_2(mini_batch, extend_frame)
+    print(f"Complete {start} to {end}")
+    
+
+
+
+    
 if __name__ == "__main__":
     # ------------------------------------------------ Xử lý dữ liệu --------------------------------------------------
     df = pd.read_csv("crawl-data-and-get-coordinates\\next_1000(3).csv", sep="\t")
+    df = df[200:300]
     origin = df # giữ lại bản gốc của data
     # Bỏ đi các cột bị thừa
-    df = df.drop(['Links', 'Unnamed: 0'], axis=1)
+    df = df.drop(['Unnamed: 0'], axis=1)
     df = df.drop_duplicates() # xóa đi các trùng lặp
 
     # data ban đầu những giá trị không phải số được điền là "na" -> thay bằng np.NAN
@@ -178,8 +221,9 @@ if __name__ == "__main__":
     start_time = time.time()
     threads = []
 
-    for i in range(0, len(df), 100):
-        threads.append(threading.Thread(target=process, args=(df,i, i + 100)))
+    step = 10
+    for i in range(0, len(df), step):
+        threads.append(threading.Thread(target=process, args=(df,i, i + step)))
 
     for thread in threads:
         thread.start()
