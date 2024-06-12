@@ -218,23 +218,23 @@ if __name__ == "__main__":
 
     print(len(df))
     # ------------------------------------------------ Trích xuất dữ liệu --------------------------------------------------
-    start_time = time.time()
-    threads = []
+    # start_time = time.time()
+    # threads = []
 
-    step = 10
-    for i in range(0, len(df), step):
-        threads.append(threading.Thread(target=process, args=(df,i, i + step)))
+    # step = 10
+    # for i in range(0, len(df), step):
+    #     threads.append(threading.Thread(target=process, args=(df,i, i + step)))
 
-    for thread in threads:
-        thread.start()
+    # for thread in threads:
+    #     thread.start()
 
-    # after all threads are done print "Done"
-    for thread in threads:
-        thread.join()
+    # # after all threads are done print "Done"
+    # for thread in threads:
+    #     thread.join()
     
-    path = "extract_features_from_data\\final_extracted_data.csv"
-    read_full_data(path)
-    print("Time: ", time.time() - start_time)
-    print("Done")
+    # path = "extract_features_from_data\\final_extracted_data.csv"
+    # read_full_data(path)
+    # print("Time: ", time.time() - start_time)
+    # print("Done")
 
     
