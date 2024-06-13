@@ -19,9 +19,9 @@ path = "/home/tiamo/Documents/code/Intro to DS 2024/Project1/intro-to-ds-project
 base_url = "https://batdongsan.vn/ban-nha/"
 
 #Số trang bắt đầu cào dữ liệu trong từng luồng
-num_pages = [1,5,10,15,20]
+num_pages = [500,510,520,530,540]
 # Số trang cần phải cào trong từng lường (step của numpages ở trên)
-n_iter = 5
+n_iter = 10
 
 def openMultiBrowser(n):
     '''
@@ -148,7 +148,7 @@ def get_data(driver,start_page):
                 tmp_list = tmp_list + params_
                 data.append(tmp_list)
             except:
-                print("Vai l")
+                print("Error!")
                 pass
         
         # Xếp chồng các phần tử trong list data trước đó để tạo thành ma trận với mỗi hàng là một mẫu trong bộ dữ liệu
@@ -203,7 +203,7 @@ def runInParallel(func,drivers_rx):
 if __name__ == '__main__':
     driver_r5 = openMultiBrowser(5)
     loadMultiBrowsers(driver_r5)
-    sleep(3)
+    sleep(5)
     list_report = runInParallel(get_data,driver_r5)
     df = pd.concat([report for report in list_report],axis=0)
     df.to_csv('raw_data_update.csv',sep='\t')
