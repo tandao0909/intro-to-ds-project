@@ -153,6 +153,8 @@ def read_full_data(path_in, path_out):
     df = pd.concat([pd.read_csv(file, sep = "\t") for file in files])
     df = df.drop_duplicates(subset = ["Description"], keep = "first") # xóa đi các dòng trùng lặp
     df.drop(["index"], axis = 1, inplace=True) # bỏ đi cột index
+    df["Số tầng"] = df["Số tầng"].apply(lambda x : 1 if x < 1 else x) # nếu số tầng nhỏ hơn 1 thì gán bằng 1
+    df["Diện tích sử dụng"] = df["Diện tích (m2)"] * df["Số tầng"] # tính diện tích sử dụng
     df.to_csv(path, index = False, sep = "\t")
     # print(df)
 
