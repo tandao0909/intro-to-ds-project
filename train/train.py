@@ -3,10 +3,11 @@ linear regression, Ridge regression, Lasso regression, decision tree, random for
 
 from pathlib import Path
 
-from sklearn.base import BaseEstimator
+from sklearn.base import BaseEstimator, TransformerMixin
 from sklearn.linear_model import LinearRegression, Lasso, Ridge
 from sklearn.model_selection import train_test_split, GridSearchCV
 from sklearn.preprocessing import StandardScaler
+
 import pandas as pd
 import numpy as np
 
@@ -16,6 +17,30 @@ from statsmodels.stats.outliers_influence import variance_inflation_factor
 FilePath = Path() / "../data/housing.csv"
 
 # TODO: Add train decision tree and random forest functions
+    
+class LogTransformer(BaseEstimator, TransformerMixin):
+    def __init__(self):
+        pass
+
+    def fit(self, X, y=None):
+        return self
+    
+    def transform(self, X:pd.DataFrame) -> pd.DataFrame:
+        X["Log Bedrooms"] = np.log(X["Bedrooms"])
+        X["Log WC"] = np.log(X["WC"])
+        X["Log Floors"] = np.log(X["Number of floors"])
+        X = X.drop(columns=["Bedrooms", "WC", "Number of floors", "Latitude", "Longitude", 'Log usable area (square meters)'])
+        return X
+
+class ColumnDropper(BaseEstimator, TransformerMixin):
+    def __init__(self, columns_to_drop) -> None:
+        self.columns_to_drop = columns_to_drop
+
+    def fit(self, X, y=None):
+        return self
+    
+    def transform(self, X:pd.DataFrame) -> pd.DataFrame:
+        return X.drop(columns=self.columns_to_drop)
 
 def grid_search_cv(model:BaseEstimator, 
                    X:pd.DataFrame, 
