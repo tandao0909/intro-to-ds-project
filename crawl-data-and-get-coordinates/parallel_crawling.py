@@ -19,9 +19,9 @@ path = "/home/tiamo/Documents/code/Intro to DS 2024/Project1/intro-to-ds-project
 base_url = "https://batdongsan.vn/ban-nha/"
 
 #Số trang bắt đầu cào dữ liệu trong từng luồng
-num_pages = [500,510,520,530,540]
+num_pages = [550,570,590,610,630]
 # Số trang cần phải cào trong từng lường (step của numpages ở trên)
-n_iter = 10
+n_iter = 20
 
 def openMultiBrowser(n):
     '''
@@ -134,7 +134,7 @@ def get_data(driver,start_page):
                 # Cho page 1s để load những element cần thiết - tránh trường hợp tìm không ra
                 sleep(3)
                 # Tìm các element chứa những thông tin cần thiết
-                title_ele = driver.find_element('css selector','.uk-panel-title')
+                title_ele = driver.find_element('css selector','h1.uk-panel-title')
                 price_ele = driver.find_element('css selector','.meta .price')
                 params_ele = driver.find_element('css selector',".param")
                 content_ele = driver.find_element('css selector','.item .body .content')
