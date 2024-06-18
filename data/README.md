@@ -28,3 +28,13 @@ Bộ dataset bao gồm **3358** instances - đã lọc ra những mẫu bị tr�
 3. LLMs produced by [AnyScale](https://www.anyscale.com/)
 4. Google Maps API produced by [Google Cloud Platform](https://cloud.google.com/?_gl=1*r24ouv*_up*MQ..&gclid=667652e9cf68194ded6b3488bfd2ad4c&gclsrc=3p.ds)
 
+# About data used for complex models (can be found in [train_complex](../train_complex/) directory)
+## Features
+- **Log price**: The logarithm of price (which is previously measured in billion VND)
+- **Log area (square meters)**: The logarithm of area (measured in squared meters)
+- **Distance to center 2**: The distance to the centroid of the second cluster
+- **Distance to center 4**: The distance to the centroid of the fourth cluster
+- **Log WC**: The logarithm of the number of WC
+- **Log Floors**: The logarithm of the number of floors
+## Instances
+Contains 1548 instances, derives from the [train_set.csv](./train_set.csv) file.

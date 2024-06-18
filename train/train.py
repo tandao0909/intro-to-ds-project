@@ -86,6 +86,39 @@ def scale_data(df:pd.DataFrame) -> pd.DataFrame:
     values = std_scaler.fit_transform(df.values)
     return pd.DataFrame(values, columns=df.columns)
 
+def process_data_using_vif(df: pd.DataFrame, strict:bool=True) -> pd.DataFrame:
+    """
+    Returns data processed using VIF. 
+
+    Parameters
+    ----------
+    df: pandas.DataFrame 
+    The data needed to be preprocessed.
+
+    strict: bool, default=True
+    The argument used to control whether we use the strict threshold (10) or loose threshold (5).
+
+    Notes
+    -----
+    According to the "rule of thumb", if VIF is larger than 5, you should drop it, if VIF is larger than 10, then you really need to drop it.
+    """
+    threshold = 10
+    if strict:
+        threshold = 5
+    while True:
+        vif = return_vif(df)
+        max_vif = max(vif["VIF"])
+        if  max_vif < threshold:
+            break
+        column_to_drop = vif[vif["VIF"] == max_vif]["Features"]
+        df = df.drop(columns=column_to_drop)
+    return df
+
+def print_ols_summary(X, y):
+    X_train = sm.add_constant(X)
+    ols = sm.OLS(y, X_train).fit()
+    print(ols.summary())
+
 if __name__ == "__main__":
     data = pd.read_csv(FilePath)
     # I want to set aside 500 instances for validation
