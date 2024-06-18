@@ -69,12 +69,13 @@ def extract_data_from_df(df): # hàm trích xuất thông tin từ dataframe
 
 
 # nối dataframe ban đầu với các features mới và tinh chỉnh thêm các features
-def concat_dataframe(df, extend_frame):
+def concat_dataframe(df, extend_frame, path):
     """
     Concatenate the original dataframe with the extracted features dataframe and do some additional processing.
     Parameters:
     - df: the original dataframe
     - extend_frame: the extracted features dataframe
+    - path: the path to save the final dataframe
     """
     df = pd.concat([df, extend_frame], axis=1) 
 
@@ -114,17 +115,19 @@ def concat_dataframe(df, extend_frame):
     stamp = str(datetime.datetime.now()).replace(":", "-").replace(" ", "_") # tạo ra một thời gian để lưu file
     print("Đã lưu vào lúc: " + stamp) # in ra thời gian để lưu file
     stamp += str(np.random.randint(0, 1000)) # thêm một số ngẫu nhiên vào tên file
-    df.to_csv(f"extract_features_from_data\\data_3\\{stamp}.csv", sep="\t", index=False) # lưu lại file csv sau khi xử lý xong
+    path = os.path.join(path, f"{stamp}.csv")
+    df.to_csv(path, sep="\t", index=False) # lưu lại file csv sau khi xử lý xong
     return df
 
 # Trích xuất thông tin từ dataframe
-def process(df, start, end):
+def process(df, start, end, path):
     """
     Extract features from a dataframe. This function take a part of the dataframe and extract features from it. It is good for multi-threading.
     Parameters:
     - df: the dataframe
     - start: the start index
     - end: the end index
+    - path: the path to save the final dataframe
     """
     # Chia nhỏ data thành các mini-batch với size = 100
     end = min(end, len(df))
@@ -132,7 +135,7 @@ def process(df, start, end):
     mini_batch["index"] = np.arange(0, len(mini_batch))
     mini_batch = mini_batch.set_index("index")
     extend_frame = extract_data_from_df(mini_batch)
-    mini_batch = concat_dataframe(mini_batch, extend_frame)
+    mini_batch = concat_dataframe(mini_batch, extend_frame, path)
     print(f"Complete {start} to {end}")
 # Nối tất cả các data đã được xử lý thành 1 dataframe
 
@@ -155,7 +158,7 @@ def read_full_data(path_in, path_out):
     df.drop(["index"], axis = 1, inplace=True) # bỏ đi cột index
     df["Số tầng"] = df["Số tầng"].apply(lambda x : 1 if x < 1 else x) # nếu số tầng nhỏ hơn 1 thì gán bằng 1
     df["Diện tích sử dụng"] = df["Diện tích (m2)"] * df["Số tầng"] # tính diện tích sử dụng
-    df.to_csv(path, index = False, sep = "\t")
+    df.to_csv(path_out, index = False, sep = "\t")
     # print(df)
 
 def data_cleaning(df):
@@ -165,19 +168,13 @@ def data_cleaning(df):
     Parameters:
     - df: the dataframe
     """
-    df = df.drop(['Unnamed: 0'], axis=1) # Bỏ đi cột thừa
     df = df.drop_duplicates() # xóa đi các trùng lặp
 
     # data ban đầu những giá trị không phải số được điền là "na" -> thay bằng np.NAN
-    replace_na_with_NaN = lambda x : np.NAN if (x == "na" or x == 0) else x
 
-    columns = list(df.columns) # Không chuyển Decription vì nó sẽ được xử lý riêng
-    columns.remove("Description")
-
-    for column in columns:
-        df[column] = df[column].apply(replace_na_with_NaN)
 
     df["Description"] = df["Description"].apply(lambda x : str(x).lower()) # chuyển tất cả các giá trị trong cột Description thành string và chuyển về chữ thường
+    df["Title"] = df["Title"].apply(lambda x : str(x).lower()) # chuyển tất cả các giá trị trong cột Title thành string và chuyển về chữ thường
 
     ad_pattern = r"google|facebook|cửa\wgỗ|cửa\wnhựa|cửa\wsắt|ad|max|marketing|email|sms" # tìm các từ khóa để lọc ra tin quảng cáo, rác
     df["Title"] = df["Title"].apply(lambda x : str(x))
@@ -196,7 +193,7 @@ def data_cleaning(df):
 
     df["index"] = np.arange(0, len(df)) # set lại index mới cho dataframe 
     df = df.set_index("index")
-
+ 
 
     # ------------------------------------------------ Tạo các features mới --------------------------------------------------
     # Chỗ để xe hơi
@@ -224,7 +221,10 @@ def data_cleaning(df):
     
 if __name__ == "__main__":
     # ------------------------------------------------ Xử lý dữ liệu --------------------------------------------------
-    df = pd.read_csv("crawl-data-and-get-coordinates\\dataset\\trantroi.csv", sep="\t")
+    # read all csv file and concat them to 1 dataframe in keHoachB folder
+    path = os.path.join("extract_features_from_data", "keHoachB")
+    # df = pd.concat([pd.read_csv(os.path.join(path, file), sep = '\t') for file in os.listdir(path)])
+    df = pd.read_csv(os.path.join(path, "page500.csv"), sep = '\t')
     df = data_cleaning(df)  
     print(f"Len(df) = {len(df)}")
     # ------------------------------------------------ Trích xuất dữ liệu --------------------------------------------------
@@ -232,10 +232,11 @@ if __name__ == "__main__":
     threads = []
 
     step = int(len(df) / 10) + 1 # chia nhỏ data thành 10 phần dành cho 10 thread
-    print(f"Step: {step}")
+    print(f"Step: {step}") 
 
+    save_path = os.path.join("extract_features_from_data", "data_4")
     for i in range(0, len(df), step):
-        threads.append(threading.Thread(target=process, args=(df,i, i + step)))
+        threads.append(threading.Thread(target=process, args=(df,i, i + step, save_path)))
 
     for thread in threads:
         thread.start()
@@ -244,8 +245,8 @@ if __name__ == "__main__":
     for thread in threads:
         thread.join()
     
-    path_in = "extract_features_from_data\\data_3"
-    path_out = "extract_features_from_data\\final_extracted_data.csv" # path để gộp tất cả các file đã xử lý thành 1 file
-    read_full_data(path) # gộp tất cả các file đã xử lý thành 1 file
+    path_in = os.path.join("extract_features_from_data", "data_4") # path chứa tất cả các file đã xử lý
+    path_out = os.path.join("extract_features_from_data", "final_extracted_data.csv") # path để gộp tất cả các file đã xử lý thành 1 file
+    read_full_data(path_in, path_out) # gộp tất cả các file đã xử lý thành 1 file
     print("Time: ", time.time() - start_time)
     print("Done")
