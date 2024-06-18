@@ -1,7 +1,7 @@
 Dự án là dự án của nhóm làm về bài tập lớn môn Nhập môn Khoa học dữ liệu. Nội dung dự án là cào dữ liệu từ trang https://batdongsan.vn/ban-nha/, sau đó thực hiện phân tích và đánh giá giá nhà sử dụng các mô hình cơ bản.
 
 # Introduce to Data Science - Project 1
-## 1. Timeline
+## Timeline
 
 | Tuần/Ngày     | Công Việc                        | Người Thực Hiện    | Ghi Chú                            |
 | ------------- | -------------------------------- | ------------------ | --------------------------------- |
