@@ -224,7 +224,7 @@ if __name__ == "__main__":
     # read all csv file and concat them to 1 dataframe in keHoachB folder
     read_path = os.path.join("crawl-data-and-get-coordinates", "dataset")
     # df = pd.concat([pd.read_csv(os.path.join(read_path, file), sep = '\t') for file in os.listdir(read_path)])
-    df = pd.read_csv(os.path.join(read_path, "next_2000.csv"), sep = '\t')
+    df = pd.read_csv(os.path.join(read_path, "next_2000(1).csv"), sep = '\t')
     df = data_cleaning(df)  
     print(f"Len(df) = {len(df)}")
     # ------------------------------------------------ Trích xuất dữ liệu --------------------------------------------------
@@ -234,7 +234,7 @@ if __name__ == "__main__":
     step = int(len(df) / 10) + 1 # chia nhỏ data thành 10 phần dành cho 10 thread
     print(f"Step: {step}") 
 
-    save_path = os.path.join("extract_features_from_data", "data_4")
+    save_path = os.path.join("extract_features_from_data", "data_5")
     for i in range(0, len(df), step):
         threads.append(threading.Thread(target=process, args=(df,i, i + step, save_path)))
 
@@ -245,7 +245,7 @@ if __name__ == "__main__":
     for thread in threads:
         thread.join()
     
-    path_in = os.path.join("extract_features_from_data", "data_4") # path chứa tất cả các file đã xử lý
+    path_in = os.path.join("extract_features_from_data", "data_5") # path chứa tất cả các file đã xử lý
     path_out = os.path.join("extract_features_from_data", "final_extracted_data.csv") # path để gộp tất cả các file đã xử lý thành 1 file
     read_full_data(path_in, path_out) # gộp tất cả các file đã xử lý thành 1 file
     print("Time: ", time.time() - start_time)
