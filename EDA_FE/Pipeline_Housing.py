@@ -1,15 +1,11 @@
 import numpy as np
-import pandas as pd
 from sklearn.preprocessing import StandardScaler
-from CleanProcess import handle_lat_long, drop_columns
-from VisualizeLog import check_coordinates_in_vietnam, RealEstateVisualizer, visualize_clusters # for visualizing the data
-from OutliersScale import drop_outliers, apply_log_transformation, convert_boolean_to_numeric, apply_floor_and_compute_rooms, compute_features, transform_housing_data, scale_data
+from CleanProcess import handle_lat_long
+from VisualizeLog import check_coordinates_in_vietnam, visualize_clusters # for visualizing the data
+from OutliersScale import drop_outliers, transform_housing_data
 from sklearn.pipeline import Pipeline
-from sklearn.compose import ColumnTransformer
-from sklearn.impute import SimpleImputer
-from sklearn.preprocessing import StandardScaler, OneHotEncoder
+from sklearn.preprocessing import StandardScaler
 from sklearn.base import BaseEstimator, TransformerMixin
-from sklearn.preprocessing import FunctionTransformer
 
 # Handle latitude and longitude
 class HandleLatLong(BaseEstimator, TransformerMixin):
