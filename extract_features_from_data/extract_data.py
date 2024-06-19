@@ -222,9 +222,9 @@ def data_cleaning(df):
 if __name__ == "__main__":
     # ------------------------------------------------ Xử lý dữ liệu --------------------------------------------------
     # read all csv file and concat them to 1 dataframe in keHoachB folder
-    path = os.path.join("extract_features_from_data", "keHoachB")
-    # df = pd.concat([pd.read_csv(os.path.join(path, file), sep = '\t') for file in os.listdir(path)])
-    df = pd.read_csv(os.path.join(path, "page500.csv"), sep = '\t')
+    read_path = os.path.join("crawl-data-and-get-coordinates", "dataset")
+    # df = pd.concat([pd.read_csv(os.path.join(read_path, file), sep = '\t') for file in os.listdir(read_path)])
+    df = pd.read_csv(os.path.join(read_path, "next_2000.csv"), sep = '\t')
     df = data_cleaning(df)  
     print(f"Len(df) = {len(df)}")
     # ------------------------------------------------ Trích xuất dữ liệu --------------------------------------------------
