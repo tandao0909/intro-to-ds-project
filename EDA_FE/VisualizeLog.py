@@ -8,7 +8,7 @@ import folium
 import fiona
 
 from haversine import haversine
-from sklearn.cluster import K_Means
+from sklearn.cluster import KMeans
 
 # for creating a color map
 from branca.colormap import LinearColormap 
@@ -60,13 +60,13 @@ class RealEstateVisualizer:
 
     Attributes:
         housing (pd.DataFrame): The DataFrame containing the real estate data.
-        num_clusters (int): The number of clusters for K_Means clustering.
+        num_clusters (int): The number of clusters for KMeans clustering.
         colormap (LinearColormap): The color map for the real estate prices.
         cluster_centers (np.ndarray): The coordinates of the cluster centers.
         cluster_radius (List[float]): The radius of the clusters.
 
     Methods:
-        fit_k_means: Fit a K_Means model to the real estate data and add cluster labels to the DataFrame.
+        fit_kmeans: Fit a KMeans model to the real estate data and add cluster labels to the DataFrame.
         calculate_cluster_radius: Calculate the radius of the clusters.
         add_cluster_visualization: Add cluster visualization to the map.
         add_markers: Add markers for each real estate with color based on price.
@@ -78,7 +78,7 @@ class RealEstateVisualizer:
 
         Parameters:
             housing_df (pd.DataFrame): The DataFrame containing the real estate data.
-            num_clusters (int): The number of clusters for K_Means clustering, default is 5.
+            num_clusters (int): The number of clusters for KMeans clustering, default is 5.
 
         Returns:
             RealEstateVisualizer: The RealEstateVisualizer object.
@@ -93,14 +93,14 @@ class RealEstateVisualizer:
         self.cluster_centers = None
         self.cluster_radius = None
 
-    def fit_k_means(self) -> None:
+    def fit_kmeans(self) -> None:
         """
-        Fit a K_Means model to the real estate data and add cluster labels to the DataFrame.
+        Fit a KMeans model to the real estate data and add cluster labels to the DataFrame.
         """
         clustering_features = self.housing[['Latitude', 'Longitude']] # Choose the clustering features
-        k_means = K_Means(n_clusters=self.num_clusters, random_state=0).fit(clustering_features)
-        self.cluster_centers = k_means.cluster_centers_
-        self.housing['Cluster'] = k_means.labels_ # Add the cluster labels to the housing DataFrame
+        kmeans = KMeans(n_clusters=self.num_clusters, random_state=0).fit(clustering_features)
+        self.cluster_centers = kmeans.cluster_centers_
+        self.housing['Cluster'] = kmeans.labels_ # Add the cluster labels to the housing DataFrame
         self.housing['Distance to center'] = self.housing.apply(
             lambda row: haversine(
                 (row['Latitude'], row['Longitude']),
@@ -175,5 +175,5 @@ class RealEstateVisualizer:
 
 def visualize_clusters(housing_df:pd.DataFrame, num_clusters:int=5) -> folium.Map:
     visualizer = RealEstateVisualizer(housing_df, num_clusters) 
-    visualizer.fit_k_means() # Fit K_Means model and add cluster labels to the dataframe
+    visualizer.fit_kmeans() # Fit KMeans model and add cluster labels to the dataframe
     return visualizer.create_map() # Create a folium map
