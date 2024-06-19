@@ -19,9 +19,9 @@ path = "/home/tiamo/Documents/code/Intro to DS 2024/Project1/intro-to-ds-project
 base_url = "https://batdongsan.vn/ban-nha/"
 
 #Số trang bắt đầu cào dữ liệu trong từng luồng
-num_pages = [550,570,590,610,630]
+num_pages = [650,660,670,680,690]
 # Số trang cần phải cào trong từng lường (step của numpages ở trên)
-n_iter = 20
+n_iter = 10
 
 def openMultiBrowser(n):
     '''
