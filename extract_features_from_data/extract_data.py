@@ -66,8 +66,8 @@ def extract_data_from_df(df): # hàm trích xuất thông tin từ dataframe
             except:
                 address = ""
             num_val = [feature[:3] for feature in features] # lấy ra 3 giá trị đầu tiên
-            num_val = [[to_float(val) for val in num] for num in num_val]
-            # lấy mean của các cột
+            num_val = [[to_float(val) for val in num] for num in num_val] # đảm bảo các giá trị là số
+            # lấy mean theo từng cột
             num_val = np.mean(num_val, axis = 0)
             # nối num_val và address thành một dòng mới
             print([num_val[0], num_val[1], num_val[2], address])
@@ -159,7 +159,7 @@ def read_full_data(path_in, path_out):
     # nối đường dẫn với tên file
     files = os.listdir(current_directory)
     # join directory with file name
-    files = [f"{current_directory}\\{file}" for file in files]
+    files = [os.path.join(current_directory, file) for file in files]
 
     # nối tất cả data trong folder vào 1 dataframe
     df = pd.concat([pd.read_csv(file, sep = "\t") for file in files])
@@ -233,7 +233,7 @@ if __name__ == "__main__":
     # read all csv file and concat them to 1 dataframe in keHoachB folder
     read_path = os.path.join("crawl-data-and-get-coordinates", "dataset")
     # df = pd.concat([pd.read_csv(os.path.join(read_path, file), sep = '\t') for file in os.listdir(read_path)])
-    df = pd.read_csv(os.path.join(read_path, "next_2000(1).csv"), sep = '\t')
+    df = pd.read_csv(os.path.join(read_path, "next_1000_19062024.csv"), sep = '\t')
     df = data_cleaning(df)  
     print(f"Len(df) = {len(df)}")
     # ------------------------------------------------ Trích xuất dữ liệu --------------------------------------------------
