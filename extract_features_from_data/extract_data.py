@@ -22,6 +22,15 @@ def get_max_string(strings):
     """
     return max(strings, key = lambda x : len(x))
 
+def to_float(val):
+    """Convert a string to float. If the string is not a number, return np.nan
+    Parameters:
+    - val: a string
+    """
+    try:
+        return float(val)
+    except:
+        return np.nan
 
 def extract_data_from_df(df): # hàm trích xuất thông tin từ dataframe
     """
@@ -56,8 +65,8 @@ def extract_data_from_df(df): # hàm trích xuất thông tin từ dataframe
                 address = get_max_string([feature[3] for feature in features])
             except:
                 address = ""
-            # tôi cần lấy ra 3 cột của features
-            num_val = [feature[:3] for feature in features]
+            num_val = [feature[:3] for feature in features] # lấy ra 3 giá trị đầu tiên
+            num_val = [[to_float(val) for val in num] for num in num_val]
             # lấy mean của các cột
             num_val = np.mean(num_val, axis = 0)
             # nối num_val và address thành một dòng mới
@@ -231,11 +240,12 @@ if __name__ == "__main__":
     start_time = time.time()
     threads = []
 
-    step = int(len(df) / 10) + 1 # chia nhỏ data thành 10 phần dành cho 10 thread
+    step = int(len(df) / 10) + 10 # chia nhỏ data thành 10 phần dành cho 10 thread
     print(f"Step: {step}") 
 
     save_path = os.path.join("extract_features_from_data", "data_4")
     for i in range(0, len(df), step):
+        print(i)
         threads.append(threading.Thread(target=process, args=(df,i, i + step, save_path)))
 
     for thread in threads:
