@@ -1,15 +1,9 @@
 import pandas as pd
 
-def handle_lat_long(df: pd.DataFrame) -> pd.DataFrame:
-    """
-    Drop duplicates and NaN values from the 'Latitude' and 'Longitude' columns from the passed DataFrame.
-
-    Parameters:
-        df (pandas.DataFrame): The input DataFrame
-
-    Returns:
-        pandas.DataFrame: The DataFrame with duplicates and NaN values removed from the 'Latitude' and 'Longitude' columns
-    """
+def handle_lat_long(df):
     df.drop_duplicates(subset=['Latitude', 'Longitude'],inplace = True)  
     df.dropna(subset=['Latitude', 'Longitude'], inplace = True)
     return df
+
+def drop_columns(df, columns_to_drop):
+    return df.drop(columns=columns_to_drop, axis = 1, inplace = True)

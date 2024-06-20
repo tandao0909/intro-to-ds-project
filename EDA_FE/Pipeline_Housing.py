@@ -7,6 +7,7 @@ import pandas as pd
 from folium import Map
 
 from sklearn.preprocessing import StandardScaler
+from sklearn.model_selection import train_test_split
 from sklearn.pipeline import Pipeline
 from sklearn.base import BaseEstimator, TransformerMixin
 
@@ -98,7 +99,7 @@ class VisualizeData(BaseEstimator, TransformerMixin):
 
     def fit(self, X, y=None):
         return self
-    def transform(self, X:pd.DataFrame) -> pd.DataFrame:
+    def transform(self, X:pd.DataFrame) -> Map:
         """
         Visualize the data
 
@@ -108,7 +109,6 @@ class VisualizeData(BaseEstimator, TransformerMixin):
         Returns:
             folium.Map: The map with the data visualized
         """
-        # We don't need to return the map, just visualize it
         visualize_clusters(X)
         return X
     
@@ -250,18 +250,60 @@ class StandardizeData(BaseEstimator, TransformerMixin):
         """
         scaler = StandardScaler()
         values = scaler.fit_transform(X)
-        X = pd.DataFrame(values, columns=X.columns, index=X.index)
+        # X = pd.DataFrame(values, columns=X.columns, index=X.index)
         return X
+    
+class SplitData(BaseEstimator, TransformerMixin):
+    """
+    Split the data into training and test sets
+
+    Parameters:
+        target_column (str): The target column to split the data
+
+    Returns:
+        pandas.DataFrame: The training and test sets
+    """
+    def __init__(self, target_column:str):
+        self.target_column = target_column
+
+    def fit(self, X, y=None):
+        return self
+    
+    def transform(self, X:pd.DataFrame) -> tuple[pd.DataFrame, pd.DataFrame]:
+        """
+        Split the data into training and test sets
+
+        Parameters:
+            X (pandas.DataFrame): The input DataFrame
+
+        Returns:
+            tuple[pandas.DataFrame, pandas.DataFrame]: The training and test sets
+        """
+
+        corr = X.corr()
+        target_corr = corr[self.target_column].sort_values(ascending=False)
+        highest_corr_column = target_corr.index[1]
+
+        X['{highest_corr_column} Category'] = pd.qcut(X[highest_corr_column], q=5, labels=False, duplicates='drop')
+        # qcut: Quantile-based discretization function. Discretize variable into equal-sized buckets based on rank or based on sample quantiles.
+        X_train, X_test = train_test_split(X, test_size=0.2, stratify=X['{highest_corr_column} Category'], random_state=42)
+
+        for set in (X_train, X_test):
+            set.drop(['{highest_corr_column} Category'], axis=1, inplace=True)
+
+        X.drop(['{highest_corr_column} Category'], axis=1, inplace=True)
+        return X, X_train, X_test
     
 # Pipeline for numerical attributes
 num_pipeline = Pipeline([
     ('handle_lat_long', HandleLatLong()),
-    ('drop_columns', DropColumns(['Title', 'Links', 'Địa chỉ', 'Description', 'ExtractedTitle', 'Address.1'])),
-    ('check_coordinates_in_vietnam', CheckCoordinatesInVietnam(shapefile_path='/home/letruongzzio/Documents/Data Science/EDA_FE/vietnam_Vietnam_Country_Boundary/extracted_files/vietnam_Vietnam_Country_Boundary.shp')),
+    ('drop_columns', DropColumns(['Title', 'Links', 'Địa chỉ', 'Description', 'ExtractedTitle', 'Address.1', 'Diện tích sử dụng'])),
+    ('check_coordinates_in_vietnam', CheckCoordinatesInVietnam(shapefile_path='vietnam_Vietnam_Country_Boundary.shp')),
     ('visualize_data', VisualizeData()),
-    ('log_transformation', ApplyLogTransformation(['Price', 'Diện tích (m2)', 'Diện tích sử dụng'])),
+    ('log_transformation', ApplyLogTransformation(['Price', 'Diện tích (m2)', 'Số phòng ngủ', 'Số phòng WC', 'Số tầng'])),
     ('drop_outliers', DropOutliers('Price')),
     ('convert_boolean_to_numeric', ConvertBooleanToNumeric(['Chỗ để xe hơi', 'Đang cho thuê', 'CSVC xung quanh', 'Mặt tiền'])),
     ('transform_housing_data', TransformHousingData()),
-    ('standardize_data', StandardizeData())
+    ('standardize_data', StandardizeData()),
+    ('split_data', SplitData(target_column='Log price (1 billion VND)'))
 ])

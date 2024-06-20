@@ -1,5 +1,6 @@
 import pandas as pd
 import numpy as np
+import matplotlib.pyplot as plt
 
 # for creating a map
 import folium 
@@ -98,17 +99,51 @@ class RealEstateVisualizer:
         Fit a KMeans model to the real estate data and add cluster labels to the DataFrame.
         """
         clustering_features = self.housing[['Latitude', 'Longitude']] # Choose the clustering features
+        self.num_clusters = self.elbow_method(clustering_features)
         kmeans = KMeans(n_clusters=self.num_clusters, random_state=0).fit(clustering_features)
-        self.cluster_centers = kmeans.cluster_centers_
+        self.cluster_centers = kmeans.cluster_centers_ # Get the cluster centers
         self.housing['Cluster'] = kmeans.labels_ # Add the cluster labels to the housing DataFrame
-        self.housing['Distance to center'] = self.housing.apply(
-            lambda row: haversine(
-                (row['Latitude'], row['Longitude']),
-                self.cluster_centers[row['Cluster']]
-            ),
-            axis=1
-        )
+        self.distance_to_center(self.housing)
         self.calculate_cluster_radius()
+
+    def elbow_method(self, clustering_features:pd.DataFrame) -> np.ndarray:
+        """
+        Find the optimal number of clusters using the elbow method.
+
+        Parameters:
+            clustering_features (pd.DataFrame): The features used for clustering.
+
+        Returns:
+            np.ndarray: The coordinates of the cluster centers.
+        """
+        distortions = []
+        K = range(1, 11)
+        for k in K:
+            kmeans = KMeans(n_clusters=k, random_state=0).fit(clustering_features)
+            distortions.append(kmeans.inertia_)
+            
+        # plt.figure(figsize=(16,8))
+        plt.plot(K, distortions, 'bx-')
+        plt.xlabel('k')
+        plt.ylabel('Distortion')
+        plt.title('The Elbow Method showing the optimal k')
+        plt.show()
+
+        diff = np.diff(distortions)
+        return abs(diff).argmax() + 2
+    
+    def distance_to_center(self, housing:pd.DataFrame) -> None:
+        """
+        Calculate the distance of each real estate to the cluster center.
+
+        Parameters:
+            housing (pd.DataFrame): The DataFrame containing the real estate data.
+        """
+        for idx, center in enumerate(self.cluster_centers):
+            housing[f'Distance to center {idx}'] = housing.apply(
+                lambda row: haversine(center, (row['Latitude'], row['Longitude'])),
+                axis=1
+            )
 
     def calculate_cluster_radius(self) -> None:
         """
@@ -117,7 +152,7 @@ class RealEstateVisualizer:
         self.cluster_radius = [
             max(
                 haversine(center, (point.Latitude, point.Longitude))
-                for point in self.housing[self.housing['Cluster'] == idx].itertuples()
+                for point in self.housing[self.housing['Cluster'] == idx].itertuples() # `itertuples` is a function to iterate through the DataFrame as tuples
             )
             for idx, center in enumerate(self.cluster_centers)
         ]
