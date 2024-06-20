@@ -23,7 +23,7 @@ Data mà nhóm thu thập được bao gồm có 17 features, bao gồm:
 Bộ dataset bao gồm **3358** instances - đã lọc ra những mẫu bị trùng lặp và mẫu không hợp lệ (bài đăng quảng cáo, bán cửa..etc)
 
 ## 3. Processed data
-Dataset đã qua xử lý có tên là [housing_sample](https://github.com/tandao0909/intro-to-ds-project/blob/main/data/housing_sample.csv). Việc xử lý `housing_sample` tôi đã trình bày kĩ trong notebook [EDA-and-Feature-engineering](https://github.com/tandao0909/intro-to-ds-project/blob/main/EDA_FE/EDA-and-Feature-engineering.ipynb), vậy nên tôi sẽ khái quát lại những cột được xử lý như sau:
+Dataset đã qua xử lý có tên là [`housing_sample.csv`](https://github.com/tandao0909/intro-to-ds-project/blob/main/data/housing_sample.csv). Việc xử lý `housing_sample` tôi đã trình bày kĩ trong notebook [EDA-and-Feature-engineering](https://github.com/tandao0909/intro-to-ds-project/blob/main/EDA_FE/EDA-and-Feature-engineering.ipynb), vậy nên tôi sẽ khái quát lại những cột được xử lý như sau:
 + `Log price (1 billion VND)`: giá nhà đã được chuyển sang đơn vị tỷ đồng và lấy logarit.
 + `Log area (square meters)`: diện tích nhà đã được lấy logarit.
 + `(Log) Bedrooms`: số phòng ngủ đã được lấy logarit.
@@ -35,7 +35,7 @@ Dataset đã qua xử lý có tên là [housing_sample](https://github.com/tanda
 + `Distance to center 0`: khoảng cách từ nhà đến trung tâm của cluster 1.
 + `Distance to center 1`: khoảng cách từ nhà đến trung tâm của cluster 2.
 
-Ngoài ra, tôi đã chuẩn bị sẵn `housing_prepared.csv` là dữ liệu đã thực hiện scaling cùng với `train_set_scale.csv` và `test_set_scale.csv` cho việc huấn luyện và kiểm thử mô hình với cách chia tỉ lệ 80-20. 
+Ngoài ra, tôi đã chuẩn bị sẵn [`housing_prepared.csv`](https://github.com/tandao0909/intro-to-ds-project/blob/main/data/housing_prepared.csv) là dữ liệu đã thực hiện scaling cùng với [`train_set_scale.csv`](https://github.com/tandao0909/intro-to-ds-project/blob/main/data/train_set_scaled.csv) và [`test_set_scale.csv`](https://github.com/tandao0909/intro-to-ds-project/blob/main/data/test_set_scaled.csv) cho việc huấn luyện và kiểm thử mô hình với cách chia tỉ lệ 80-20. 
 
 ## 4. Toolkits
 1. Python (pandas,regex...etc)
