@@ -1,88 +1,31 @@
 import pandas as pd
 import numpy as np
-
-# for creating a map
-import folium 
-
- # for reading shapefiles
-import fiona
-
-from haversine import haversine
+import folium # for creating a map
+import fiona # for reading shapefiles
+from haversine import haversine # for calculating distance between two points
 from sklearn.cluster import KMeans
-
-# for creating a color map
-from branca.colormap import LinearColormap 
-
+from branca.colormap import LinearColormap # for creating a color map
+from shapely.geometry import Point, shape 
 # for checking if a point is within a polygon, `Point` is a class to represent a point, `shape` is a function to create a polygon from a GeoJSON object
-from shapely.geometry import Point, shape
 
 
-def check_coordinates_in_vietnam(shapefile_path:str, housing_df:pd.DataFrame) -> pd.DataFrame:
-    """
-    Check if the coordinates in the housing DataFrame are within Vietnam's territory.
-
-    Parameters:
-        shapefile_path (str): The path to the shapefile containing the territory of Vietnam.
-        housing_df (pd.DataFrame): The DataFrame containing the housing data.
-
-    Returns:
-        pd.DataFrame: The DataFrame containing the housing data with coordinates within Vietnam's territory.
-    """
+def check_coordinates_in_vietnam(shapefile_path, housing_df):
     # List of coordinates to check
-    coordinates_list = [
-        (longitude, latitude)
-        for longitude, latitude
-        in zip(housing_df['Longitude'], housing_df['Latitude'])
-    ]
+    coordinates_list = [(lon, lat) for lon, lat in zip(housing_df['Longitude'], housing_df['Latitude'])]
 
     # Open the shapefile and get the polygon representing Vietnam's territory
     with fiona.open(shapefile_path) as shp:
         geometries = [shape(feature['geometry']) for feature in shp]
-
-        # Vietnam shape is the first feature in the shapefile
-        vietnam_shape = geometries[0]  
+        vietnam_shape = geometries[0]  # Vietnam is the first feature in the shapefile
 
     # Filter out coordinates within Vietnam's territory
-    coordinates_in_vietnam = [coordinate
-                               for coordinate
-                               in coordinates_list
-                               if Point(coordinate).within(vietnam_shape)]
+    coordinates_in_vietnam = [coord for coord in coordinates_list if Point(coord).within(vietnam_shape)]
 
-    # Indices of coordinates within Vietnam's territory
-    indices_in_vietnam = housing_df[['Longitude', 'Latitude']].apply(tuple, axis=1).isin(coordinates_in_vietnam)
-
-    # Return the housing data with coordinates within Vietnam's territory
-    return housing_df[indices_in_vietnam]
+    # Save to Latitude and Longitude columns of housing
+    return housing_df[housing_df[['Longitude', 'Latitude']].apply(tuple, axis=1).isin(coordinates_in_vietnam)]
 
 class RealEstateVisualizer:
-    """
-    A class to visualize real estate data on a map.
-
-    Attributes:
-        housing (pd.DataFrame): The DataFrame containing the real estate data.
-        num_clusters (int): The number of clusters for KMeans clustering.
-        colormap (LinearColormap): The color map for the real estate prices.
-        cluster_centers (np.ndarray): The coordinates of the cluster centers.
-        cluster_radius (List[float]): The radius of the clusters.
-
-    Methods:
-        fit_kmeans: Fit a KMeans model to the real estate data and add cluster labels to the DataFrame.
-        calculate_cluster_radius: Calculate the radius of the clusters.
-        add_cluster_visualization: Add cluster visualization to the map.
-        add_markers: Add markers for each real estate with color based on price.
-        create_map: Create a folium map with real estate data and cluster visualization.
-    """
-    def __init__(self, housing_df:pd.DataFrame, num_clusters:int=5) -> None:
-        """
-        Initialize the RealEstateVisualizer object.
-
-        Parameters:
-            housing_df (pd.DataFrame): The DataFrame containing the real estate data.
-            num_clusters (int): The number of clusters for KMeans clustering, default is 5.
-
-        Returns:
-            RealEstateVisualizer: The RealEstateVisualizer object.
-        """
+    def __init__(self, housing_df, num_clusters=5):
         self.housing = housing_df
         self.num_clusters = num_clusters
         self.colormap = LinearColormap(
@@ -91,12 +34,9 @@ class RealEstateVisualizer:
             vmax=self.housing['Price'].max()
         )
         self.cluster_centers = None
-        self.cluster_radius = None
+        self.cluster_radii = None
 
-    def fit_kmeans(self) -> None:
-        """
-        Fit a KMeans model to the real estate data and add cluster labels to the DataFrame.
-        """
+    def fit_kmeans(self):
         clustering_features = self.housing[['Latitude', 'Longitude']] # Choose the clustering features
         kmeans = KMeans(n_clusters=self.num_clusters, random_state=0).fit(clustering_features)
         self.cluster_centers = kmeans.cluster_centers_
@@ -106,31 +46,23 @@ class RealEstateVisualizer:
                 (row['Latitude'], row['Longitude']),
                 self.cluster_centers[row['Cluster']]
             ),
-            axis=1
+            axis=1 # Apply the function to each row
         )
-        self.calculate_cluster_radius()
+        self.calculate_cluster_radii()
 
-    def calculate_cluster_radius(self) -> None:
-        """
-        Calculate the radius of the clusters, which is the distance from the cluster center to the farthest point in the cluster.
-        """
-        self.cluster_radius = [
+    # Calculate cluster center and radius, `cluster_radii` is the distance from the center to the farthest point in the cluster
+    def calculate_cluster_radii(self):
+        self.cluster_radii = [
             max(
                 haversine(center, (point.Latitude, point.Longitude))
-                for point in self.housing[self.housing['Cluster'] == idx].itertuples()
+                for point in self.housing[self.housing['Cluster'] == idx].itertuples() # `itertuples` is a function to iterate through the DataFrame as tuples
             )
             for idx, center in enumerate(self.cluster_centers)
         ]
 
     # Draw x at the cluster center and a circle around the points in the cluster
-    def add_cluster_visualization(self, gmap: folium.Map) -> None:
-        """
-        Add cluster visualization to the map.
-
-        Parameters:
-            gmap (folium.Map): The folium map object.
-        """
-        for _, (center, radius) in enumerate(zip(self.cluster_centers, self.cluster_radius)):
+    def add_cluster_visualization(self, gmap):
+        for idx, (center, radius) in enumerate(zip(self.cluster_centers, self.cluster_radii)):
             # Draw a circle around the cluster
             folium.Circle(
                 location=center,
@@ -142,18 +74,12 @@ class RealEstateVisualizer:
             # Draw a large X at the cluster center
             folium.Marker(
                 location=center,
-                # `DivIcon` is a class to create a custom icon with HTML content
-                icon=folium.DivIcon(html=f'<div style="font-size: 24pt; color: black;">x</div>') 
+                icon=folium.DivIcon(html=f'<div style="font-size: 24pt; color: black;">x</div>') # `DivIcon` is a class to create a custom icon with HTML content
             ).add_to(gmap)
     
-    def add_markers(self, gmap: folium.Map) -> None:
-        """
-        Add markers for each real estate with color based on price.
-
-        Parameters:
-            gmap (folium.Map): The folium map object.
-        """
-        for _, row in self.housing.iterrows():
+    # Draw markers for each real estate with color based on price
+    def add_markers(self, gmap):
+        for i, row in self.housing.iterrows():
             marker_color = self.colormap(row['Price'])
             popup_content = f"Diện tích: {row['Diện tích (m2)']} - Giá: {row['Price']}"
             folium.CircleMarker(
@@ -161,19 +87,18 @@ class RealEstateVisualizer:
                 radius=5,
                 color=marker_color,
                 fill=False,
-                fill_color=marker_color,
-                # `popup` is the text that appears when you click on the marker
-                popup=popup_content 
+                fill_color=marker_color, 
+                popup=popup_content # `popup` is the text that appears when you click on the marker
             ).add_to(gmap)
 
-    def create_map(self) -> folium.Map:
+    def create_map(self):
         gmap = folium.Map(location=[21.028511, 105.804817], zoom_start=6)
         self.colormap.add_to(gmap)
         self.add_markers(gmap)
         self.add_cluster_visualization(gmap)
         return gmap
 
-def visualize_clusters(housing_df:pd.DataFrame, num_clusters:int=5) -> folium.Map:
-    visualizer = RealEstateVisualizer(housing_df, num_clusters) 
+def visualize_clusters(housing_df, num_clusters=5):
+    visualizer = RealEstateVisualizer(housing_df, num_clusters) # Create a RealEstateVisualizer object
     visualizer.fit_kmeans() # Fit KMeans model and add cluster labels to the dataframe
     return visualizer.create_map() # Create a folium map
