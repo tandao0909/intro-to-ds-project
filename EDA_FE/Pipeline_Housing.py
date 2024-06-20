@@ -249,8 +249,7 @@ class StandardizeData(BaseEstimator, TransformerMixin):
             pandas.DataFrame: The DataFrame with the data standardized
         """
         scaler = StandardScaler()
-        values = scaler.fit_transform(X)
-        X = pd.DataFrame(values, columns=X.columns)
+        X = pd.DataFrame(scaler.fit_transform(X), columns=X.columns, index=X.index)
         return X
     
 class SplitData(BaseEstimator, TransformerMixin):

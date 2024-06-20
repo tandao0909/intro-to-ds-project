@@ -1,7 +1,7 @@
 import pandas as pd
 
 def handle_lat_long(df):
-    df.drop_duplicates(subset=['Latitude', 'Longitude'],inplace = True)  
+    # df.drop_duplicates(subset=['Latitude', 'Longitude'],inplace = True)  
     df.dropna(subset=['Latitude', 'Longitude'], inplace = True)
     return df
 
