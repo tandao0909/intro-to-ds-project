@@ -35,7 +35,7 @@ Dataset đã qua xử lý có tên là [housing_sample](https://github.com/tanda
 + `Distance to center 0`: khoảng cách từ nhà đến trung tâm của cluster 1.
 + `Distance to center 1`: khoảng cách từ nhà đến trung tâm của cluster 2.
 
-Ngoài ra, tôi đã chuẩn bị sẵn `train_set` và `test_set` cho việc huấn luyện và kiểm thử mô hình với cách chia tỉ lệ 80-20.
+Ngoài ra, tôi đã chuẩn bị sẵn `housing_prepared.csv` là dữ liệu đã thực hiện scaling cùng với `train_set_scale.csv` và `test_set_scale.csv` cho việc huấn luyện và kiểm thử mô hình với cách chia tỉ lệ 80-20. 
 
 ## 4. Toolkits
 1. Python (pandas,regex...etc)
