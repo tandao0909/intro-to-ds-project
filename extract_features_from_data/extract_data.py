@@ -227,36 +227,61 @@ def data_cleaning(df):
     return df
 
 
-    
-if __name__ == "__main__":
-    # ------------------------------------------------ Xử lý dữ liệu --------------------------------------------------
-    # read all csv file and concat them to 1 dataframe in keHoachB folder
-    read_path = os.path.join("crawl-data-and-get-coordinates", "dataset")
-    # df = pd.concat([pd.read_csv(os.path.join(read_path, file), sep = '\t') for file in os.listdir(read_path)])
-    df = pd.read_csv(os.path.join(read_path, "next_1000_19062024.csv"), sep = '\t')
-    df = data_cleaning(df)  
+def solve(read_path, path_in, path_out, save_path, folder = False):
+    """
+    Main function to extract features from a dataframe. This function will extract features from a dataframe and save the final dataframe.
+    Parameters:
+    - read_path: the path to the data file
+    - path_in: the folder path which contains all data files
+    - path_out: the path to save the final dataframe
+    - save_path: the path to save the extracted data
+    - folder: if True, read all files in the folder. If False, read only one file
+    """
+    if folder:
+        # concat all csv file in folder path
+        files = os.listdir(read_path)
+        files = [os.path.join(read_path, file) for file in files]
+        df = pd.concat([pd.read_csv(file, sep = "\t") for file in files])
+        print("Folder = True")
+    else:
+        df = pd.read_csv(read_path, sep = '\t')
+
+    df = data_cleaning(df)
     print(f"Len(df) = {len(df)}")
-    # ------------------------------------------------ Trích xuất dữ liệu --------------------------------------------------
     start_time = time.time()
     threads = []
 
     step = int(len(df) / 10) + 10 # chia nhỏ data thành 10 phần dành cho 10 thread
-    print(f"Step: {step}") 
+    print(f"Step for each thread: {step}")
 
-    save_path = os.path.join("extract_features_from_data", "data_5")
     for i in range(0, len(df), step):
-        print(i)
         threads.append(threading.Thread(target=process, args=(df,i, i + step, save_path)))
 
     for thread in threads:
-        thread.start()
+        try:
+            thread.start()
+        except Exception as e:
+            print(e)
 
     # sau khi tất cả các thread đã hoàn thành thì join lại
     for thread in threads:
         thread.join()
-    
-    path_in = os.path.join("extract_features_from_data", "data_5") # path chứa tất cả các file đã xử lý
-    path_out = os.path.join("extract_features_from_data", "final_extracted_data.csv") # path để gộp tất cả các file đã xử lý thành 1 file
-    read_full_data(path_in, path_out) # gộp tất cả các file đã xử lý thành 1 file
+
+    read_full_data(path_in, path_out)
     print("Time: ", time.time() - start_time)
     print("Done")
+
+
+if __name__ == "__main__":
+    # folder chứa data cần xử lý
+    read_path = os.path.join("extract_features_from_data", "data_to_solve")
+    # trong quá trình xử lý do tách nhỏ ra thành 10 phần nên cần lưu vào 1 thư mục
+    save_path = os.path.join("extract_features_from_data", "solved_data")
+    # path_in: path chứa tất cả các file đã xử lý
+    path_in = os.path.join("extract_features_from_data", "solved_data")
+    # path_out: path để lưu file cuối cùng sau khi xử lý
+    path_out = os.path.join("extract_features_from_data", "final_extracted_data.csv")
+
+    # gọi hàm xử lý
+    solve(read_path, path_in, path_out, save_path, folder = True)
+
