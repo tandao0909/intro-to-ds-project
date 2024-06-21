@@ -179,9 +179,6 @@ def data_cleaning(df):
     """
     df = df.drop_duplicates() # xóa đi các trùng lặp
 
-    # data ban đầu những giá trị không phải số được điền là "na" -> thay bằng np.NAN
-
-
     df["Description"] = df["Description"].apply(lambda x : str(x).lower()) # chuyển tất cả các giá trị trong cột Description thành string và chuyển về chữ thường
     df["Title"] = df["Title"].apply(lambda x : str(x).lower()) # chuyển tất cả các giá trị trong cột Title thành string và chuyển về chữ thường
 
