@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-esecret_tjdzd3p1a8wr34vnsamng777qn
-=======
-esecret_qinit27ui43cyk8fvq722eyziw
->>>>>>> 230308bbbb85a8442b43f6192ce96190a4af2b01
+your_API
