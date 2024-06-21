@@ -28,7 +28,7 @@ Giải thích:
 - Tiêu đề thể hiện địa chỉ
 ```
 
-
+Với mỗi một hàng dữ liệu, ta trích xuất 5 lần vì LLM model chưa xử lý tốt được thông tin. Sau đó 3 cột đầu là số phòng ngủ, wc và số tầng sẽ được lấy trung bình. Cột cuối cùng là địa chỉ sẽ được chọn bởi địa chỉ dài nhất trong 5 lần trích xuất.
 
 ## 2. Các tập tin chính
 
@@ -38,7 +38,28 @@ Tập tin chính để chạy extract data. Trả về data với nhiều featur
 
 Chỉ cần sử dụng file này. Cung cấp đường dẫn đến dữ liệu cào được từ web, nó tự động hoàn toàn và trả về file `final_extracted_data`.
 
-Trong file hãy cung cấp đường dẫn đến file dữ liệu thô và bấm chạy.
+Trong file hãy cung cấp đường dẫn đến file dữ liệu thô, đường dẫn lưu, đường dẫn xuất là chạy được.
+
+Cụ thể trong hàm main:
+
+```
+
+if __name__ == "__main__":
+    # folder chứa data cần xử lý
+    read_path = os.path.join("extract_features_from_data", "data_to_solve")
+    # trong quá trình xử lý do tách nhỏ ra thành 10 phần nên cần lưu vào 1 thư mục
+    save_path = os.path.join("extract_features_from_data", "solved_data")
+    # path_in: path chứa tất cả các file đã xử lý
+    path_in = os.path.join("extract_features_from_data", "solved_data")
+    # path_out: path để lưu file cuối cùng sau khi xử lý
+    path_out = os.path.join("extract_features_from_data", "final_extracted_data.csv")
+
+    # gọi hàm xử lý
+    solve(read_path, path_in, path_out, save_path, folder = True)
+
+```
+
+Lưu ý: Nếu chỉ cần xử lý 1 file đơn lẻ thì `read_path` là đường dẫn đến file và hàm solve hãy truyền tham số `folder` = False hoặc không truyền, mặc định đã là False. Còn cần xử lý nhiều file trong một thư mục hãy để `read_path` là đường dẫn đến thư mục như code block trên và đặt tham số `folder=True` trong hàm solve.
 
 ### 2.2. features_prompt.py
 
@@ -48,7 +69,7 @@ Về vấn đề lỗi khi trả về không đúng format khi được dạy l�
 
 ### 2.3 features_prompt.txt
 
-Là tập tim prompt huấn luyện mô hình LLM để trả về các đặc trưng cần thiết.
+Là tập tin prompt huấn luyện mô hình LLM để trả về các đặc trưng cần thiết.
 
 ### 2.4 private_docu.txt
 
